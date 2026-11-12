@@ -37,7 +37,9 @@ def main():
     artists = db["artists"]
     known, ids = set(), {a["id"] for a in artists}
     for a in artists:
-        known |= variants(a["n"]) | variants(a.get("ar", ""))
+        for key in variants(a["n"]) | variants(a.get("ar", "")):
+            known.add(key)
+            known.add(key.replace(" ", ""))  # "In-Team" vs "Inteam"
 
     added, skipped, rejected = [], [], []
     for r in incoming:
@@ -59,6 +61,7 @@ def main():
             continue
 
         keys = variants(r["n"]) | variants(r.get("ar", ""))
+        keys |= {k.replace(" ", "") for k in keys}
         if keys & known:
             skipped.append(r["n"])
             continue

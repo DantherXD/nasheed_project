@@ -6,11 +6,11 @@
   "built": "2026-11-11",
   "note": "Metadata and links only. No audio is hosted. Confidence values mark how well each record was verified.",
   "counts": {
-   "artists": 355,
+   "artists": 370,
    "labels": 61,
    "sources": 21,
-   "countries": 77,
-   "vocalOnly": 94
+   "countries": 78,
+   "vocalOnly": 98
   }
  },
  "taxonomy": {
@@ -10528,6 +10528,433 @@
    "vocalLabel": "Mixed / varies",
    "refs": [],
    "u": "https://music.apple.com/us/artist/%D8%A3%D9%8A%D9%85%D9%86-%D8%B1%D9%85%D8%B6%D8%A7%D9%86/1054906952"
+  },
+  {
+   "n": "Ammar Sarsar",
+   "ar": "عمار صرصر",
+   "c": "Syria",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2013–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "w": "Tasma'ni Rabbah (2013); Sawa Allah (2019); Lah Hilal (with Baraa Masoud); Ya Katib al-Tarikh (2024)",
+   "cf": "high",
+   "nt": "Al Jazeera describes him as the Syrian munshid; records with Studiona, whose base is Istanbul",
+   "links": [
+    {
+     "t": "youtube",
+     "u": "https://www.youtube.com/@ammarsarsar"
+    },
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/in/artist/ammar-sarsar-%D8%B9%D9%85%D8%A7%D8%B1-%D8%B5%D8%B1%D8%B5%D8%B1/1678159071"
+    },
+    {
+     "t": "catalogue",
+     "u": "https://play.samaanetwork.net/1222/"
+    }
+   ],
+   "id": "ammar-sarsar",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "refs": [],
+   "u": "https://www.youtube.com/@ammarsarsar"
+  },
+  {
+   "n": "Hamid Althufiri",
+   "ar": "حامد الظفيري",
+   "c": "Kuwait",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2016–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "acap",
+   "w": "Tal al-Masir; Al-Nur Yas'al (2022); Baqaya al-Sinin (2023); Fajr al-Zaman (2024)",
+   "cf": "high",
+   "nt": "His YouTube channel and SoundCloud profile both list Kuwait; he records a-cappella-only nasheeds",
+   "links": [
+    {
+     "t": "youtube",
+     "u": "https://www.youtube.com/@hamid_althufiri"
+    },
+    {
+     "t": "catalogue",
+     "u": "https://play.samaanetwork.net/29908/"
+    }
+   ],
+   "id": "hamid-althufiri",
+   "catLabel": "Nasheed",
+   "vocalLabel": "A cappella",
+   "refs": [],
+   "u": "https://www.youtube.com/@hamid_althufiri"
+  },
+  {
+   "n": "Ebrahim Alnaqib",
+   "ar": "إبراهيم النقيب",
+   "c": "Saudi Arabia",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2016–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "acap",
+   "w": "Wa-tadhakkart (2016); Madarat al-Kamal; Ilahi; Hanin al-Qalb",
+   "cf": "med",
+   "nt": "Munshid and TV presenter working from Jeddah per his own profile; nasheeds released music-free and recorded at Studio al-Raka'iz",
+   "links": [
+    {
+     "t": "catalogue",
+     "u": "https://play.samaanetwork.net/8345/"
+    }
+   ],
+   "id": "ebrahim-alnaqib",
+   "catLabel": "Nasheed",
+   "vocalLabel": "A cappella",
+   "refs": [],
+   "u": "https://play.samaanetwork.net/8345/"
+  },
+  {
+   "n": "Marwan Sabbah",
+   "ar": "مروان صباح",
+   "c": "Iraq",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2010s–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "w": "Kifaya (album); Qad Sirtu Khalfak; Jaddhabat al-Ruh; Ibn al-Aqsa",
+   "cf": "med",
+   "nt": "Arabic Wikipedia's entry on arranger Yazan Nusaibah groups him with the Iraqi artists he arranged for; Samaa files some of his tracks under Iraqi heritage",
+   "links": [
+    {
+     "t": "catalogue",
+     "u": "https://play.samaanetwork.net/3371/"
+    }
+   ],
+   "id": "marwan-sabbah",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "refs": [],
+   "u": "https://play.samaanetwork.net/3371/"
+  },
+  {
+   "n": "Ayman Alhallaq",
+   "ar": "أيمن الحلاق",
+   "c": "Jordan",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2010s–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "w": "Wa-Kulluha lillah (album); Ya Ummi; Mahma Qalu; Safqat al-Qarn (2020)",
+   "cf": "med",
+   "nt": "Amman-born singer, voice-over artist and sound engineer (b. 1972) who writes and composes his own nasheeds, per his own professional profile",
+   "links": [
+    {
+     "t": "catalogue",
+     "u": "https://play.samaanetwork.net/9575/"
+    }
+   ],
+   "id": "ayman-alhallaq",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "refs": [],
+   "u": "https://play.samaanetwork.net/9575/"
+  },
+  {
+   "n": "Muad",
+   "ar": "معاذ",
+   "c": "United Kingdom",
+   "r": "Europe",
+   "l": "English; Arabic",
+   "e": "2020–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "acap",
+   "w": "Jannah (2020, with Zain Bhikha); Kun Fayakun (2023); Prophet Yusuf (2024)",
+   "cf": "high",
+   "nt": "British-Yemeni, UK-based singer whose debut Home (2020) produced Jannah; his catalogue is largely issued vocals-only",
+   "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/ae/artist/muad/1343028662"
+    },
+    {
+     "t": "spotify",
+     "u": "https://open.spotify.com/artist/3W5ovpHxp6fqKVVQMeF1qO"
+    },
+    {
+     "t": "catalogue",
+     "u": "https://play.samaanetwork.net/19028/"
+    }
+   ],
+   "id": "muad",
+   "catLabel": "Nasheed",
+   "vocalLabel": "A cappella",
+   "refs": [],
+   "u": "https://music.apple.com/ae/artist/muad/1343028662"
+  },
+  {
+   "n": "Mohamed Kendo",
+   "ar": "محمد كندو",
+   "c": "Syria",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2016–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "w": "Sirr al-Sa'ada (2025); Zad al-Atqa (2023); Azhari (2024)",
+   "cf": "med",
+   "nt": "Syrian munshid born 1994; records both instrumental and vocals-only versions and has released through Apple Music since 2020",
+   "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/eg/artist/mohamed-kendo/1598428375"
+    },
+    {
+     "t": "catalogue",
+     "u": "https://play.samaanetwork.net/16112/"
+    }
+   ],
+   "id": "mohamed-kendo",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "refs": [],
+   "u": "https://music.apple.com/eg/artist/mohamed-kendo/1598428375"
+  },
+  {
+   "n": "Inteam",
+   "ar": "إنتيم",
+   "c": "Malaysia",
+   "r": "Southeast Asia",
+   "l": "Malay; English; Arabic",
+   "e": "1998–present",
+   "t": "Group",
+   "k": "nasyid",
+   "v": "mixed",
+   "w": "Kasih Kekasih (2000); Allahu Rabbi (2009); Nur Muhammad (2010); Zikir Hati (2017)",
+   "cf": "high",
+   "nt": "Malaysian nasyid group formed in January 1998 at IIUM and signed to Hijjaz Records in 2000; sings in Malay, English and Arabic",
+   "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/my/artist/in-team/158168038"
+    },
+    {
+     "t": "catalogue",
+     "u": "https://play.samaanetwork.net/11054/"
+    }
+   ],
+   "id": "inteam",
+   "catLabel": "Nasyid (SE Asia / Malay)",
+   "vocalLabel": "Mixed / varies",
+   "refs": [],
+   "u": "https://music.apple.com/my/artist/in-team/158168038"
+  },
+  {
+   "n": "Abdul Majeed Al-Fawzan",
+   "ar": "عبدالمجيد الفوزان",
+   "c": "Saudi Arabia",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2008–present",
+   "t": "Solo",
+   "k": "inshad",
+   "v": "mixed",
+   "w": "Al-Salam Salam (2016); Da'wat Salam; Al-Bisht; Nur Darbi",
+   "cf": "high",
+   "nt": "Saudi munshid, actor and presenter born in Riyadh in 1990; his 2016 album Al-Salam Salam appears on Samaa",
+   "links": [
+    {
+     "t": "youtube",
+     "u": "https://www.youtube.com/channel/UClNxIgXqPxicPg4a6ZeJZzQ"
+    },
+    {
+     "t": "catalogue",
+     "u": "https://play.samaanetwork.net/13283/"
+    }
+   ],
+   "id": "abdul-majeed-al-fawzan",
+   "catLabel": "Inshād / ibtihāl",
+   "vocalLabel": "Mixed / varies",
+   "refs": [],
+   "u": "https://www.youtube.com/channel/UClNxIgXqPxicPg4a6ZeJZzQ"
+  },
+  {
+   "n": "Khalid Al-Dhubaibi",
+   "ar": "خالد الضبيبي",
+   "c": "Yemen",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2010s–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "acap",
+   "w": "Unadik (2016); Aghib; Dhunubuk ya Maghrur; Limadha la Tusalli",
+   "cf": "high",
+   "nt": "Described as 'the Yemeni munshid' in his own releases; his videos credit Khalid Foundation for Art Production and Distribution, Yemen",
+   "links": [
+    {
+     "t": "spotify",
+     "u": "https://open.spotify.com/artist/1HNgMZVxPZ1d1wrCBaUFqa"
+    },
+    {
+     "t": "catalogue",
+     "u": "https://play.samaanetwork.net/13221/"
+    }
+   ],
+   "id": "khalid-al-dhubaibi",
+   "catLabel": "Nasheed",
+   "vocalLabel": "A cappella",
+   "refs": [],
+   "u": "https://open.spotify.com/artist/1HNgMZVxPZ1d1wrCBaUFqa"
+  },
+  {
+   "n": "Othman Alibrahim",
+   "ar": "عثمان الإبراهيم",
+   "c": "Kuwait",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2011–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "w": "Wa'dan (2024); Aja'ib 10 (2025); Jamma'na al-Id (2024); Jil Salih",
+   "cf": "high",
+   "nt": "Kuwait-based munshid, composer and producer; his catalogue includes releases for Kuwait's Ministry of Awqaf and Kuwaiti charities",
+   "links": [
+    {
+     "t": "official",
+     "u": "https://othmanalibrahim.com/"
+    },
+    {
+     "t": "youtube",
+     "u": "https://www.youtube.com/othmanalibrahim"
+    },
+    {
+     "t": "catalogue",
+     "u": "https://play.samaanetwork.net/1103/"
+    }
+   ],
+   "id": "othman-alibrahim",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "refs": [],
+   "u": "https://othmanalibrahim.com/"
+  },
+  {
+   "n": "Naif Al-Sharhan",
+   "ar": "نايف الشرهان",
+   "c": "Kuwait",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2010s–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "w": "Adat Dimashq (2025); Ma Wahanna (2023); Salu al-Tarikh; La Taghib",
+   "cf": "high",
+   "nt": "Kuwaiti munshid and preacher, described as such by Al Jazeera Arabic; his Syrian-revolution anthems do not reflect Syrian origin",
+   "links": [
+    {
+     "t": "youtube",
+     "u": "https://www.youtube.com/@naifalshrhan"
+    },
+    {
+     "t": "catalogue",
+     "u": "https://play.samaanetwork.net/9950/"
+    }
+   ],
+   "id": "naif-al-sharhan",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "refs": [],
+   "u": "https://www.youtube.com/@naifalshrhan"
+  },
+  {
+   "n": "Ahmed Al-Nufais",
+   "ar": "أحمد النفيس",
+   "c": "Kuwait",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2010s–present",
+   "t": "Solo",
+   "k": "reciter",
+   "v": "mixed",
+   "w": "Naj Allah (2026); Safir Bina ya Nur (2024); Ilayk (2024); Al-Rajul al-A'zam (2020)",
+   "cf": "high",
+   "nt": "Qur'an reciter born in Kuwait in 1991 who also releases anasheed; his channel bio gives Kuwait as his birthplace",
+   "links": [
+    {
+     "t": "youtube",
+     "u": "https://www.youtube.com/@Ahmad_Alnufais"
+    },
+    {
+     "t": "catalogue",
+     "u": "https://play.samaanetwork.net/19101/"
+    }
+   ],
+   "id": "ahmed-al-nufais",
+   "catLabel": "Qāri' who also records nasheed",
+   "vocalLabel": "Mixed / varies",
+   "refs": [],
+   "u": "https://www.youtube.com/@Ahmad_Alnufais"
+  },
+  {
+   "n": "Mahmoud Al-Shaibani",
+   "ar": "محمود الشيباني",
+   "c": "Bahrain",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2000s–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "w": "Munajat (Amwaj 2007); At'ab (Tafa'al); Ma fi al-Maqam; La Takhda'ann",
+   "cf": "med",
+   "nt": "Sings on Amwaj al-Bahrain's albums and recorded a 2016 duet with Waleed Al Hammadi at Studio al-Layali in Bahrain",
+   "links": [
+    {
+     "t": "catalogue",
+     "u": "https://play.samaanetwork.net/20338/"
+    }
+   ],
+   "id": "mahmoud-al-shaibani",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "refs": [],
+   "u": "https://play.samaanetwork.net/20338/"
+  },
+  {
+   "n": "Amwaj Al Bahrain",
+   "ar": "فرقة أمواج البحرين",
+   "c": "Bahrain",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2000s–2010s",
+   "t": "Group",
+   "k": "nasheed",
+   "v": "mixed",
+   "w": "Amwaj al-Bahrain 2007 (2007); Tafa'al (c. 2014); Al-Anbiya; Da'wat Ibrahim",
+   "cf": "med",
+   "nt": "Bahraini group whose albums are performed by Bahrain-based munshids and issued in no-music, percussion and music versions; latest confirmed material is mid-2010s",
+   "links": [
+    {
+     "t": "catalogue",
+     "u": "https://play.samaanetwork.net/11669/"
+    }
+   ],
+   "id": "amwaj-al-bahrain",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "refs": [],
+   "u": "https://play.samaanetwork.net/11669/"
   }
  ],
  "organizations": [

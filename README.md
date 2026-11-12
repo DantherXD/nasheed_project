@@ -10,14 +10,14 @@ Built to be the broadest single-file reference available, with the a cappella an
 |---|---|
 | `site/` | The website — a static wiki shell with sidebar navigation, search, filters and dense link lists. Published to GitHub Pages by `.github/workflows/pages.yml`. |
 | `nasheed-library.html` | The original single-file app. Open it in any browser — search, filter, sort, export. Fully self-contained, works offline. |
-| `nasheed-db.json` | The whole database: 355 artists, 61 labels/platforms, 21 aggregation sources, plus taxonomy. |
+| `nasheed-db.json` | The whole database: 370 artists, 61 labels/platforms, 21 aggregation sources, plus taxonomy. |
 | `nasheed_artists.csv` | Flat artist table, Excel-ready (UTF-8 BOM). |
 | `nasheed_labels_and_platforms.csv` | Labels, broadcasters, festivals, awards, distributors. |
 | `nasheed_aggregation_sources.csv` | Each data source with access method, example query and licence limits. |
 
-**Counts:** 355 artists and groups · 77 countries · 71 languages · 94 vocal-only or duff-only · 47 strictly a cappella · 61 labels and platforms · 21 aggregation sources.
+**Counts:** 370 artists and groups · 78 countries · 71 languages · 98 vocal-only or duff-only · 51 strictly a cappella · 61 labels and platforms · 21 aggregation sources.
 
-By region: Arab World 131 · Southeast Asia 46 · Europe 43 · South Asia 42 · Turkey & Iran 28 · Africa 24 · Caucasus & Central Asia 13 · North America 12 · East Asia 7 · Latin America 7 · Asia-Pacific 2.
+By region: Arab World 144 · Southeast Asia 47 · Europe 44 · South Asia 42 · Turkey & Iran 28 · Africa 24 · Caucasus & Central Asia 13 · North America 12 · East Asia 7 · Latin America 7 · Asia-Pacific 2.
 
 ## The website
 
@@ -94,8 +94,8 @@ Records were compiled from label and institutional pages, Wikipedia and Wikidata
 
 Every record carries a confidence value:
 
-- **high (160)** — artist and at least some works confirmed against a label, institutional or reliable reference.
-- **medium (141)** — artist confirmed, discography or dates partial.
+- **high (169)** — artist and at least some works confirmed against a label, institutional or reliable reference.
+- **medium (147)** — artist confirmed, discography or dates partial.
 - **low (54)** — name attested but details unverified. Research leads, not facts.
 
 No album title, date or label was invented to fill a cell. Where a field could not be verified it says so or is left blank. 21 records have no confirmed work titles and 6 have no link, deliberately.
