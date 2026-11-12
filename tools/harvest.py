@@ -6,6 +6,11 @@
     python3 tools/harvest.py --artist "Maher Zain"
     python3 tools/harvest.py --limit 50 --sleep-scale 1.5
     python3 tools/harvest.py --source Deezer,MusicBrainz --refresh
+    python3 tools/harvest.py --workers 1        # one source at a time, for a slow link
+
+Each source runs in its own thread and keeps its own rate limit, so the slowest
+source — Discogs at 25 requests a minute — sets the floor, not the sum of all
+of them.
 
 Sources are matched by the names in nasheed-db.json, so nothing can quietly drop
 out of the list: every source is either queried, or printed with the reason it
@@ -29,12 +34,12 @@ keeping metadata past 30 days. harvest.json is therefore a local worksheet and
 is git-ignored — read it, act on it, do not publish it or commit it.
 """
 import argparse
-import hashlib
 import json
 import os
-import re
 import sys
+import threading
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -328,6 +333,8 @@ def main():
     p.add_argument("--check", action="store_true", help="test every ready source once")
     p.add_argument("--list", action="store_true", help="show every source and its status")
     p.add_argument("--sleep-scale", type=float, default=1.0, help="multiply all intervals")
+    p.add_argument("--workers", type=int, default=0,
+                   help="how many sources to poll at once (default: one thread per source)")
     args = p.parse_args()
 
     db = load_db()
@@ -396,29 +403,37 @@ def main():
         except Exception as e:  # noqa: BLE001
             print(f"  {source} failed: {e}")
 
-    stats = {n: {"hits": 0, "empty": 0, "error": 0, "cached": 0, "why": ""} for n in wanted}
-    rate_limited = set()
-    for i, artist in enumerate(artists, 1):
-        entry = results.setdefault(artist["id"], {"name": artist["n"], "ar": artist.get("ar", "")})
-        for source in wanted:
-            if source in rate_limited:
-                entry[source] = {"error": "rate limited earlier in this run"}
-                continue
-            got = cached(source, artist["id"], args.refresh)
-            if got is None:
+    workers = args.workers or len(wanted)
+    workers = max(1, min(workers, len(wanted)))
+    print(f"{len(wanted)} sources in {workers} thread(s), {len(artists)} artists each")
+
+    stats = {n: {"hits": 0, "empty": 0, "error": 0, "cached": 0, "done": 0, "why": ""} for n in wanted}
+    tables = {}
+    print_lock = threading.Lock()
+
+    def harvest_source(source):
+        """One thread per source: its own pacing, its own table, no shared writes."""
+        fn = RULES[source]["fn"]
+        table, stalled = {}, False
+        st = stats[source]
+        for artist in artists:
+            got = None if stalled else cached(source, artist["id"], args.refresh)
+            if got is None and not stalled:
                 try:
-                    got = RULES[source]["fn"](artist["n"], artist)
+                    got = fn(artist["n"], artist)
                 except RateLimited as e:
-                    print(f"  {source} is throttling ({e}) — skipping it for the rest of this run")
-                    rate_limited.add(source)
-                    got = {"error": "rate limited"}
+                    stalled = True
+                    got = {"error": f"rate limited ({e})"}
                 except Exception as e:  # noqa: BLE001
                     got = {"error": f"{type(e).__name__}: {e}"}
                 store(source, artist["id"], got)
+            elif got is None:
+                got = {"error": "rate limited earlier in this run"}
             else:
-                stats[source]["cached"] += 1
-            entry[source] = got
-            st = stats[source]
+                st["cached"] += 1
+
+            table[artist["id"]] = got
+            st["done"] += 1
             if got.get("error"):
                 st["error"] += 1
                 st["why"] = st["why"] or str(got["error"])[:90]
@@ -426,9 +441,23 @@ def main():
                 st["hits"] += 1
             else:
                 st["empty"] += 1
-        print(f"[{i}/{len(artists)}] {artist['n']}")
-        if i % 10 == 0:
-            out_path.write_text(json.dumps(results, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+
+            if st["done"] % 25 == 0 or st["done"] == len(artists):
+                with print_lock:
+                    print(f"  {source:44} {st['done']:4}/{len(artists)}  "
+                          f"hits {st['hits']:4}  errors {st['error']}")
+        return source, table
+
+    with ThreadPoolExecutor(max_workers=workers) as pool:
+        futures = [pool.submit(harvest_source, s) for s in wanted]
+        for fut in as_completed(futures):
+            source, table = fut.result()
+            tables[source] = table
+
+    for artist in artists:
+        entry = results.setdefault(artist["id"], {"name": artist["n"], "ar": artist.get("ar", "")})
+        for source in wanted:
+            entry[source] = tables.get(source, {}).get(artist["id"], {"error": "not reached"})
 
     out_path.write_text(json.dumps(results, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     print(f"\nwritten {out_path} — {len(artists)} artists")
