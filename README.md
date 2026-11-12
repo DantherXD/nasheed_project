@@ -21,7 +21,7 @@ By region: Arab World 120 · South Asia 42 · Southeast Asia 39 · Turkey & Iran
 
 ## The website
 
-`site/` is a dependency-free static site: one HTML shell, one stylesheet, one script, and a `data.json` assembled from `nasheed-db.json` at deploy time so the two can never drift apart.
+`site/` is a dependency-free static site: one HTML shell, one stylesheet, one script, and a `data.json` that is copied from `nasheed-db.json` on every deploy, so the two can never drift apart.
 
 | Route | What it shows |
 |---|---|
@@ -36,7 +36,6 @@ Filters live in the URL hash (`#/artists?region=Egypt&vocalOnly=1`), so any view
 **Preview locally**
 
 ```bash
-cp nasheed-db.json site/data.json
 python3 -m http.server 3000 --directory site
 ```
 
