@@ -15,9 +15,9 @@ Built to be the broadest single-file reference available, with the a cappella an
 | `nasheed_labels_and_platforms.csv` | Labels, broadcasters, festivals, awards, distributors. |
 | `nasheed_aggregation_sources.csv` | Each data source with access method, example query and licence limits. |
 
-**Counts:** 294 artists and groups · 58 countries · 71 languages · 84 vocal-only or duff-only · 39 strictly a cappella · 61 labels and platforms · 20 aggregation sources.
+**Counts:** 343 artists and groups · 77 countries · 98 languages · 94 vocal-only or duff-only · 47 strictly a cappella · 61 labels and platforms · 20 aggregation sources.
 
-By region: Arab World 120 · South Asia 42 · Southeast Asia 39 · Turkey & Iran 28 · Africa 24 · Europe 23 · North America 12 · Caucasus & Central Asia 3 · Latin America 2 · East Asia 1.
+By region: Arab World 120 · South Asia 42 · Southeast Asia 46 · Turkey & Iran 28 · Africa 24 · Europe 42 · North America 12 · Caucasus & Central Asia 13 · Latin America 7 · East Asia 7 · Asia-Pacific 2.
 
 ## The website
 
@@ -83,11 +83,11 @@ Records were compiled from label and institutional pages, Wikipedia and Wikidata
 
 Every record carries a confidence value:
 
-- **high (127)** — artist and at least some works confirmed against a label, institutional or reliable reference.
-- **medium (112)** — artist confirmed, discography or dates partial.
-- **low (55)** — name attested but details unverified. Research leads, not facts.
+- **high (156)** — artist and at least some works confirmed against a label, institutional or reliable reference.
+- **medium (134)** — artist confirmed, discography or dates partial.
+- **low (53)** — name attested but details unverified. Research leads, not facts.
 
-No album title, date or label was invented to fill a cell. Where a field could not be verified it says so or is left blank. 17 records have no confirmed work titles and 7 have no link, deliberately.
+No album title, date or label was invented to fill a cell. Where a field could not be verified it says so or is left blank. 21 records have no confirmed work titles and 6 have no link, deliberately.
 
 ## Rules this library follows
 
@@ -98,7 +98,7 @@ No album title, date or label was invented to fill a cell. Where a field could n
 
 ## Known gaps
 
-Latin America and the Caribbean (Spanish-language nasheed exists but almost no named recording artists are catalogued); Central Asia (Uzbek, Kazakh, Kyrgyz, Tajik — lives on Telegram, not indexed catalogues); the Balkans (needs Bosnian, Albanian and Kosovar research); East Asia (Japan, Korea, Philippines, Thailand, Champa); Germany, Belgium, Spain, Italy beyond concert markets; Ireland; Brunei and Patani. These are documented absences in the field guide, not oversights.
+The first pass flagged Latin America, Central Asia, the Balkans, East Asia and continental Europe as gaps. A second research wave has filled them and all eleven regions now carry records, so what remains is narrower: Spanish- and Portuguese-language nasheed in Mexico, Brazil, Chile and the Andes (mosques and daʿwa are documented, named recording artists are not); Turkmenistan, Georgia and Armenia; Albania itself, plus Bulgaria's Pomak and Turkish scenes; Belgium, Sweden, Norway, Ireland and Austria, which return touring acts and anonymous streaming profiles with no stated country; and Brunei, Fiji and Papua New Guinea, where nasyid is described but never credited. These are documented absences in the field guide, not oversights.
 
 ## Extending it
 

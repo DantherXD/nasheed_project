@@ -187,6 +187,9 @@ function filteredArtists() {
   });
 }
 
+const RTL_SCRIPT = /[\u0590-\u05FF\u0600-\u06FF\u0700-\u074F]/;
+const native = s => `<span class="e-native"${RTL_SCRIPT.test(s) ? ' lang="ar" dir="rtl"' : ''}>${esc(s)}</span>`;
+
 function artistEntry(a) {
   const name = a.u
     ? `<a class="e-name" href="${esc(a.u)}" target="_blank" rel="noopener">${esc(a.n)}</a>`
@@ -200,7 +203,7 @@ function artistEntry(a) {
   return `<li class="entry v-${esc(a.v)}">
   <div class="e-head">
     ${name}
-    ${a.ar ? `<span class="e-native" lang="ar" dir="rtl">${esc(a.ar)}</span>` : ''}
+    ${a.ar ? native(a.ar) : ''}
     <span class="conf ${esc(a.cf)}" title="Confidence: ${esc(a.cf)}"></span>
   </div>
   ${desc}

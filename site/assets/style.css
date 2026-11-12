@@ -284,9 +284,10 @@ select:focus{border-color:var(--gold-dim)}
 .e-head{display:flex; align-items:baseline; gap:9px; flex-wrap:wrap}
 .e-name{font-weight:600; font-size:15px; line-height:1.35}
 .e-name:hover{color:var(--gold); text-decoration:underline; text-underline-offset:3px}
-.e-native{
+.e-native{font-size:14.5px; color:var(--muted); unicode-bidi:isolate}
+.e-native[dir="rtl"]{
   font-family:"Amiri","Traditional Arabic","Noto Naskh Arabic",var(--font-serif);
-  font-size:14.5px; color:var(--muted); direction:rtl; unicode-bidi:isolate
+  direction:rtl
 }
 .conf{
   width:7px; height:7px; border-radius:50%; flex:0 0 auto; margin-left:auto;
