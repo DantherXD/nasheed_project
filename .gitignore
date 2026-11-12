@@ -1,0 +1,11 @@
+# assembled at deploy time from nasheed-db.json
+site/data.json
+
+# build output
+_site/
+node_modules/
+
+# local screenshots
+artifacts/
+
+.DS_Store

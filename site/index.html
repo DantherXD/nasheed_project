@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Nasheed Library — a sourced database of nasheed, nasyid, na'at and ilahi</title>
+<meta name="description" content="An open, sourced database and aggregation map of Islamic vocal music: 294 artists and groups, the labels that release them, and the exact APIs you can extend it from.">
+<meta name="color-scheme" content="dark light">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><text y='25' x='4' font-size='24' fill='%23e2b866'>ن</text></svg>">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="topbar">
+  <button class="icon-btn menu-btn" id="menuBtn" aria-label="Open navigation" aria-expanded="false">☰</button>
+  <a class="brand" href="#/overview">
+    <span class="brand-mark" lang="ar" dir="rtl">نشيد</span>
+    <span class="brand-text">Nasheed Library</span>
+  </a>
+  <div class="search">
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.6-3.6"/></svg>
+    <input id="q" type="search" placeholder="Search artists, labels, sources, Arabic script…" autocomplete="off" spellcheck="false" aria-label="Search the library">
+    <kbd>/</kbd>
+  </div>
+  <div class="top-actions">
+    <button class="icon-btn" id="themeBtn" title="Switch theme" aria-label="Switch theme">◐</button>
+    <a class="icon-btn" href="https://github.com/DantherXD/nasheed_project" target="_blank" rel="noopener" title="Source on GitHub" aria-label="Source on GitHub"><svg width="15" height="15" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82a7.4 7.4 0 0 1 2-.27c.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8Z"/></svg></a>
+  </div>
+</header>
+
+<div class="shell">
+  <aside class="sidebar" id="sidebar">
+    <nav class="nav">
+      <div class="nav-group">
+        <div class="nav-title">Library</div>
+        <a href="#/overview" data-nav="overview"><span class="ico" aria-hidden="true">◇</span> Overview</a>
+        <a href="#/artists" data-nav="artists"><span class="ico" aria-hidden="true">🎙</span> Artists &amp; groups <span class="n" data-count="artists">·</span></a>
+        <a href="#/labels" data-nav="labels"><span class="ico" aria-hidden="true">🏷</span> Labels &amp; platforms <span class="n" data-count="labels">·</span></a>
+        <a href="#/sources" data-nav="sources"><span class="ico" aria-hidden="true">🔌</span> Aggregation sources <span class="n" data-count="sources">·</span></a>
+        <a href="#/guide" data-nav="guide"><span class="ico" aria-hidden="true">📖</span> Field guide</a>
+      </div>
+      <div class="nav-group">
+        <div class="nav-title">Browse by region</div>
+        <div class="nav-sub" id="regionNav"></div>
+      </div>
+      <div class="nav-group">
+        <div class="nav-title">Jump to</div>
+        <div class="nav-sub">
+          <a href="#/artists?vocalOnly=1">Vocal-only records</a>
+          <a href="#/artists?conf=low">Unverified leads</a>
+          <a href="#/artists?cat=madih">Madīḥ &amp; qaṣīda</a>
+        </div>
+      </div>
+    </nav>
+    <div class="side-note">
+      <b>Metadata only.</b> No audio is hosted here. Every record links out to the platform or reference that documents it.
+    </div>
+  </aside>
+
+  <main id="main">
+
+    <!-- ================================================== overview -->
+    <section class="page" id="page-overview">
+      <div class="hero">
+        <div class="eyebrow">
+          <span lang="ar" dir="rtl">نشيد</span><span class="sep">/</span><span lang="ar" dir="rtl">أناشيد</span><span class="sep">/</span><span lang="ar" dir="rtl">منشدون</span><span class="sep">·</span> nasyid · na'at · ilahi · inshād
+        </div>
+        <h1>The Nasheed Library</h1>
+        <p class="lede">A sourced database and aggregation map of Islamic vocal music — the munshideen who sing it, the labels that release it, and the exact APIs you can keep extending it from. The a cappella and percussion-only tradition comes first.</p>
+        <div class="cta">
+          <a class="btn primary" href="#/artists">Browse the artists →</a>
+          <a class="btn" href="#/artists?vocalOnly=1">Vocal-only first</a>
+          <a class="btn" href="#/sources">Aggregation sources</a>
+        </div>
+        <div class="stats" id="stats"></div>
+      </div>
+
+      <div class="hub">
+        <a class="hub-card" href="#/artists">
+          <h3><span aria-hidden="true">🎙</span> Artists &amp; groups</h3>
+          <p>Munshideen, ensembles, chanters and reciters — searchable in English or Arabic script, filterable by region, category, instrumentation and confidence.</p>
+          <span class="go" id="hubArtists">Open the roster →</span>
+        </a>
+        <a class="hub-card" href="#/labels">
+          <h3><span aria-hidden="true">🏷</span> Labels &amp; platforms</h3>
+          <p>Who releases and monetises nasheed, including four entities explicitly flagged as <em>not</em> nasheed bodies so they stop circulating in lists.</p>
+          <span class="go">Open the label index →</span>
+        </a>
+        <a class="hub-card" href="#/sources">
+          <h3><span aria-hidden="true">🔌</span> Aggregation sources</h3>
+          <p>Copy-ready query strings for MusicBrainz, Discogs, Last.fm, Deezer, Spotify, YouTube, archive.org, Wikidata and more — each with its licence constraint.</p>
+          <span class="go">Open the source map →</span>
+        </a>
+        <a class="hub-card" href="#/guide">
+          <h3><span aria-hidden="true">📖</span> Field guide</h3>
+          <p>Terminology, the four fiqh positions on instruments, regional traditions, five historical waves and the honest list of what this library does not cover.</p>
+          <span class="go">Read the guide →</span>
+        </a>
+      </div>
+
+      <div class="prose" style="max-width:74ch">
+        <h2 style="margin-top:0">How to read a record</h2>
+        <p>Every artist carries a <b>confidence dot</b>. <span class="conf high" style="display:inline-block"></span> <strong>high</strong> means the artist and at least some works were confirmed against a label, institutional or reliable reference. <span class="conf med" style="display:inline-block"></span> <strong>medium</strong> means the artist is confirmed but the discography or dates are partial. <span class="conf low" style="display:inline-block"></span> <strong>low</strong> means the name is attested but the details are unverified — treat those as research leads, not facts.</p>
+        <p>No album title, date or label was invented to fill a cell. Where a field could not be verified it says so or is left blank.</p>
+        <p class="callout">Instrumentation decides whether a record counts as nasheed for a given community, so it is a first-class field, not a footnote. <code>acap</code> is voice only, <code>duff</code> is voice plus frame drum, and the vocal-only toggle restricts the roster to exactly those two.</p>
+      </div>
+    </section>
+
+    <!-- ================================================== artists -->
+    <section class="page" id="page-artists">
+      <div class="page-head">
+        <div class="eyebrow">Roster</div>
+        <h1>Artists &amp; groups</h1>
+        <p class="lede">Munshideen, ensembles, chanters and reciters, grouped by region. Vocal-first ordering inside each group; the traffic-light dot is confidence, not endorsement.</p>
+      </div>
+
+      <div class="toolbar">
+        <button class="toggle" id="vocalToggle" aria-pressed="false" title="Only a cappella and voice-plus-percussion records">
+          <span class="led"></span> Vocal-only
+        </button>
+        <select id="fRegion" aria-label="Filter by region"></select>
+        <select id="fCat" aria-label="Filter by category"></select>
+        <select id="fVocal" aria-label="Filter by instrumentation"></select>
+        <select id="fType" aria-label="Filter by solo or group"></select>
+        <select id="fConf" aria-label="Filter by confidence"></select>
+        <select id="sort" aria-label="Sort within groups"></select>
+        <span class="tb-spacer"></span>
+        <button class="link-btn" id="clearAll" type="button">Clear filters</button>
+        <button class="btn" id="csv" type="button">Export CSV</button>
+      </div>
+
+      <p class="count" id="count"></p>
+      <div id="artistList"></div>
+    </section>
+
+    <!-- ================================================== labels -->
+    <section class="page" id="page-labels">
+      <div class="page-head">
+        <div class="eyebrow">Infrastructure</div>
+        <h1>Labels &amp; platforms</h1>
+        <p class="lede">Labels, distributors, broadcasters, festivals, awards and the portals that monetise nasheed — plus the entities that keep getting listed as nasheed labels and are not.</p>
+      </div>
+      <p class="count" id="orgCount"></p>
+      <div id="orgList"></div>
+    </section>
+
+    <!-- ================================================== sources -->
+    <section class="page" id="page-sources">
+      <div class="page-head">
+        <div class="eyebrow">Extension</div>
+        <h1>Aggregation sources</h1>
+        <p class="lede">Where the data can be rebuilt from, with the exact endpoint or query and the licence limit that governs each one. Copy a query and run it.</p>
+      </div>
+      <p class="count" id="srcCount"></p>
+      <div id="srcList"></div>
+    </section>
+
+    <!-- ================================================== guide -->
+    <section class="page" id="page-guide">
+      <div class="page-head">
+        <div class="eyebrow">Reference</div>
+        <h1>Field guide</h1>
+        <p class="lede">How the genres separate, what the instrumentation question actually is, how the scenes differ, and where this library is still thin.</p>
+      </div>
+
+      <div class="guide">
+        <div class="prose" id="guideProse">
+          <h2 id="g-what">What this library counts — and what it separates</h2>
+          <p>A nasheed (<span class="ar">نشيد</span>, plural <span class="ar">أناشيد</span> anāshīd) is Islamic devotional song. The word is modern, broad and media-friendly; practitioners and scholars usually use more precise terms. This database keeps them distinct so a search doesn't collapse a Sufi <em>ibtihāl</em> and a Malay <em>nasyid</em> group into one undifferentiated bucket.</p>
+          <table>
+            <tr><th>Term</th><th>Script</th><th>Where</th><th>What it actually is</th></tr>
+            <tr><td>nasheed / anāshīd</td><td class="ar">نشيد / أناشيد</td><td>pan-Islamic</td><td>Umbrella term for Islamic vocal song, a cappella or instrumented</td></tr>
+            <tr><td>munshid / munshidah</td><td class="ar">منشد / منشدة</td><td>Arabic</td><td>The performer. Plural munshidīn — the “munshideen”</td></tr>
+            <tr><td>inshād</td><td class="ar">إنشاد</td><td>Egypt, Levant</td><td>The art of chanting; the practitioner's term, broader than “nasheed”</td></tr>
+            <tr><td>ibtihāl</td><td class="ar">ابتهال</td><td>Egypt</td><td>Solo, unmeasured, melismatic supplication; the Ramadan radio sound</td></tr>
+            <tr><td>qaṣīda / madīḥ</td><td class="ar">قصيدة / مديح</td><td>Arab world</td><td>Classical ode; panegyric, especially madīḥ nabawī (praise of the Prophet)</td></tr>
+            <tr><td>na'at</td><td class="ar">نعت</td><td>South Asia</td><td>Urdu/Persian praise poetry; the singer is a na'at khawān</td></tr>
+            <tr><td>nasyid</td><td>—</td><td>Malaysia, Indonesia</td><td>Southeast Asian vocal-group genre, usually Malay-language</td></tr>
+            <tr><td>ilahi</td><td>—</td><td>Turkey</td><td>Turkish hymn, usually inside the classical makam tradition</td></tr>
+            <tr><td>maddāḥī</td><td class="ar">مداحی</td><td>Iran</td><td>Amplified panegyric and elegy with daf and drums</td></tr>
+            <tr><td>qawwālī</td><td class="ar">قوّالي</td><td>South Asia</td><td>Full Sufi music genre with harmonium and tabla — not nasheed</td></tr>
+          </table>
+          <p class="callout">The single most common error in English-language coverage is treating a Qur'an reciter (qāri') as a munshid. Many great munshideen were also reciters — al-Naqshabandi, al-Fashni, alafasy — but the two repertoires and their rules are different. Records here are tagged <em>reciter</em> when nasheed is the secondary output.</p>
+
+          <h2 id="g-vocal">Vocal-only vs instrumental</h2>
+          <p>The instrumentation field is the most consequential one in the database, because it decides whether an item counts as nasheed for a given community. Four positions are in play:</p>
+          <ul>
+            <li><strong>Voice only.</strong> The strictest position, associated with Salafi-leaning scholarship: no instruments, no imitated instruments, and no vocal rhythms made to sound like instruments.</li>
+            <li><strong>Voice + duff only.</strong> The frame drum is the classic exception across the schools; most scholars still exclude everything else, including the darbuka.</li>
+            <li><strong>Percussion ensemble.</strong> Wider drum sets, as in Malaysian nasyid and Persian maddāḥī.</li>
+            <li><strong>Instrumental or orchestral.</strong> The modern industry norm since Sami Yusuf's <em>Al-Mu'allim</em> (2003) and Maher Zain's <em>Thank You Allah</em> (2009). Many labels now ship a parallel “vocals only” version of the same album.</li>
+          </ul>
+          <p>The library defaults to vocal-first ordering and has a one-click filter for a cappella and duff-only records, since that is the tradition most people mean when they ask for nasheed “without music”.</p>
+
+          <h2 id="g-regions">Regional traditions worth knowing</h2>
+          <ul>
+            <li><strong>Egypt:</strong> the ibtihāl school — Ali Mahmoud → al-Fashni → al-Naqshabandi → Tobar — plus a living Sufi inshād scene around Yasin al-Tohamy and, since 2017, all-women ensembles.</li>
+            <li><strong>Aleppo and Damascus:</strong> family madīḥ ensembles, religious muwashshaḥ and daily dhikr; the Abu Sha'r brothers are the best-known export.</li>
+            <li><strong>Gulf:</strong> cassette-era “committed” nasheed, then the 2000s video-nasheed wave (Mishary al-Arada, Alafasy), then the pop crossover (Humood, Maher Zain).</li>
+            <li><strong>Sudan and Mauritania:</strong> madīḥ dynasties (Awlad Hajj al-Mahi, Awlad al-Bura'i) and the Hassaniya medh tradition — two tar drums, no melody instruments.</li>
+            <li><strong>Morocco:</strong> samā' and madīḥ inside the Andalusian nūba world, plus a commercial Darija nasheed market.</li>
+            <li><strong>South Asia:</strong> the na'at khawān tradition in Urdu, the enormous Malayalam Mappila industry, Bengali gojol and Tamil Islamic devotional songs.</li>
+            <li><strong>Southeast Asia:</strong> Nada Murni (1975) → Raihan (1996) → Rabbani, Hijjaz, In-Team, UNIC; in Indonesia, Snada made a cappella nasyid the default, then Haddad Alwi's <em>Cinta Rasul</em> sold it to the mainstream.</li>
+            <li><strong>Turkey and Iran:</strong> ilahi inside Ottoman classical music; maddāḥī as a mass devotional form — both largely instrumental, the opposite pole from Gulf a cappella.</li>
+            <li><strong>East Africa:</strong> Swahili qaswida with duff choirs in Zanzibar, Dar es Salaam, Mombasa and Lamu.</li>
+          </ul>
+
+          <h2 id="g-waves">Five historical waves</h2>
+          <ul>
+            <li><strong>Pre-1925:</strong> mawlid and qaṣīda in zawiyas and mosques; the munshid as a role inside an ensemble.</li>
+            <li><strong>1905–1950:</strong> the gramophone era — Salama Higazi cuts 50+ Odeon records; Cairo radio and the 1932 Congress institutionalise inshād.</li>
+            <li><strong>1970s–1990s:</strong> the cassette boom. Gulf and Levantine a cappella nasheed, Pakistani na'at on Heera and Oriental Star, Malaysian nasyid as pop.</li>
+            <li><strong>2003–2015:</strong> Awakening and the orchestral/English crossover; YouTube turns nasheed into a global video genre.</li>
+            <li><strong>2015–now:</strong> streaming-native munshideen, vocals-only channels and touring circuits, copyright-free nasheed libraries, and AI-assisted production.</li>
+          </ul>
+
+          <h2 id="g-confidence">How to read confidence</h2>
+          <p>Every record carries a dot. <strong>High</strong> means the artist and at least some works were confirmed against a label page, institutional page or reliable reference. <strong>Medium</strong> means the artist is confirmed but the discography or dates are partial. <strong>Low</strong> means the name is attested but the details are unverified — research leads, not facts. Roughly a fifth of this database is medium or low by design, because inventing a plausible album title is worse than admitting a gap.</p>
+
+          <h2 id="g-gaps">Known gaps</h2>
+          <ul>
+            <li><strong>Latin America and the Caribbean:</strong> Spanish-language nasheed demonstrably exists but almost no named recording artists are catalogued; Trinidad, Guyana and Suriname are served by touring UK acts.</li>
+            <li><strong>Central Asia:</strong> Uzbek, Kazakh, Kyrgyz and Tajik nasheed lives on Telegram and Instagram, not on indexed catalogues.</li>
+            <li><strong>Balkans:</strong> Bosnian, Albanian and Kosovar scenes need native-language research; Mesut Kurtis records in Bosnian but is based in London.</li>
+            <li><strong>East Asia:</strong> Japan, Korea, the Philippines, Thailand and Champa have devotional traditions but no verified named nasheed recording artists in English sources.</li>
+            <li><strong>Europe:</strong> Germany, Belgium, Spain and Italy appear mainly as concert markets; Ireland yielded nothing verifiable.</li>
+            <li><strong>Brunei and Patani:</strong> nasyid is documented as present, with no named artists verifiable.</li>
+          </ul>
+
+          <h2 id="g-rules">Rules this library follows</h2>
+          <ul>
+            <li><strong>Metadata and links only.</strong> No audio is hosted here. Spotify's developer terms forbid building a database from its content; YouTube forbids storing audiovisual data and caps metadata retention at 30 days; Deezer forbids audio storage. The compliant pattern is index → link out → embed with the platform's own player.</li>
+            <li><strong>A Creative Commons tag on a re-upload is not a licence.</strong> It must come from the rights holder. Only CC0, CC BY and CC BY-SA are safe for broad reuse; NC blocks ad-supported use and ND blocks syncing to video.</li>
+            <li><strong>Extremist content is excluded.</strong> A meaningful slice of what is tagged “nasheed” on open archives is ISIS or Taliban propaganda; hosting or surfacing it carries platform and legal exposure well beyond copyright, so it needs a denylist and a takedown process from day one.</li>
+            <li><strong>Political chant is flagged, not merged.</strong> Revolutionary and partisan chant (Syria 2011, Yemen, Iraq) is catalogued as <em>adjacent</em> where the source classifies the performer as a munshid.</li>
+          </ul>
+        </div>
+
+        <aside class="toc" id="toc">
+          <div class="nav-title">On this page</div>
+        </aside>
+      </div>
+    </section>
+
+  </main>
+</div>
+
+<footer>
+  <span id="footStats">The Nasheed Library</span>
+  <span>Metadata and links only — no audio is hosted. Confidence dots mark verification, not endorsement. <a href="https://github.com/DantherXD/nasheed_project" target="_blank" rel="noopener">Source on GitHub</a></span>
+</footer>
+
+<noscript><p style="padding:20px;color:#e0907f">This library needs JavaScript to render the database. The raw data is in <a href="data.json">data.json</a>.</p></noscript>
+<script src="assets/app.js"></script>
+</body>
+</html>

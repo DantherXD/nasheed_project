@@ -8,17 +8,41 @@ Built to be the broadest single-file reference available, with the a cappella an
 
 | File | What it is |
 |---|---|
-| `nasheed-library.html` | The app. Open it in any browser — search, filter, sort, export. Fully self-contained, works offline. |
+| `site/` | The website — a static wiki shell with sidebar navigation, search, filters and dense link lists. Published to GitHub Pages by `.github/workflows/pages.yml`. |
+| `nasheed-library.html` | The original single-file app. Open it in any browser — search, filter, sort, export. Fully self-contained, works offline. |
 | `nasheed-db.json` | The whole database: 301 artists, 61 labels/platforms, 20 aggregation sources, plus taxonomy. |
 | `nasheed_artists.csv` | Flat artist table, Excel-ready (UTF-8 BOM). |
 | `nasheed_labels_and_platforms.csv` | Labels, broadcasters, festivals, awards, distributors. |
 | `nasheed_aggregation_sources.csv` | Each data source with access method, example query and licence limits. |
 
-**Counts:** 301 artists and groups · 59 countries · 71 languages · 91 vocal-only or duff-only · 44 strictly a cappella · 61 labels and platforms · 20 aggregation sources.
+**Counts:** 294 artists and groups · 58 countries · 71 languages · 84 vocal-only or duff-only · 39 strictly a cappella · 61 labels and platforms · 20 aggregation sources.
 
-By region: Arab World 124 · South Asia 44 · Southeast Asia 39 · Turkey & Iran 28 · Africa 24 · Europe 23 · North America 12 · Caucasus & Central Asia 3 · Latin America 2 · East Asia 1 · Asia-Pacific 1.
+By region: Arab World 120 · South Asia 42 · Southeast Asia 39 · Turkey & Iran 28 · Africa 24 · Europe 23 · North America 12 · Caucasus & Central Asia 3 · Latin America 2 · East Asia 1.
 
-## How to use the app
+## The website
+
+`site/` is a dependency-free static site: one HTML shell, one stylesheet, one script, and a `data.json` assembled from `nasheed-db.json` at deploy time so the two can never drift apart.
+
+| Route | What it shows |
+|---|---|
+| `#/overview` | Counts, confidence legend, entry points |
+| `#/artists` | The roster, grouped by region, with every filter |
+| `#/labels` | Labels, distributors, broadcasters, festivals, awards |
+| `#/sources` | Aggregation sources with copy-ready queries |
+| `#/guide` | The field guide, with an on-this-page sidebar |
+
+Filters live in the URL hash (`#/artists?region=Egypt&vocalOnly=1`), so any view can be linked or bookmarked. `/` focuses search, `Esc` clears it, and the theme toggle persists.
+
+**Preview locally**
+
+```bash
+cp nasheed-db.json site/data.json
+python3 -m http.server 3000 --directory site
+```
+
+**Publish** — push to `main`. The workflow in `.github/workflows/pages.yml` assembles the site, enables Pages on first run and deploys. Live at <https://dantherxd.github.io/nasheed_project/>.
+
+## How to use the standalone app
 
 Open `nasheed-library.html`. Four tabs:
 
@@ -42,7 +66,7 @@ Artist record:
 
 Instrumentation codes: `acap` (a cappella), `duff` (voice + percussion only), `inst` (instrumental), `mixed`, `unk`.
 
-Category codes: `nasheed`, `naat`, `nasyid`, `ilahi`, `inshad`, `qasida`, `madih`, `maddahi`, `latmiyya`, `children`, `adjacent`, `reciter`.
+Category codes: `nasheed`, `naat`, `nasyid`, `ilahi`, `inshad`, `qasida`, `madih`, `maddahi`, `children`, `adjacent`, `reciter`.
 
 ## Rebuilding
 
@@ -60,8 +84,8 @@ Records were compiled from label and institutional pages, Wikipedia and Wikidata
 
 Every record carries a confidence value:
 
-- **high (131)** — artist and at least some works confirmed against a label, institutional or reliable reference.
-- **medium (115)** — artist confirmed, discography or dates partial.
+- **high (127)** — artist and at least some works confirmed against a label, institutional or reliable reference.
+- **medium (112)** — artist confirmed, discography or dates partial.
 - **low (55)** — name attested but details unverified. Research leads, not facts.
 
 No album title, date or label was invented to fill a cell. Where a field could not be verified it says so or is left blank. 17 records have no confirmed work titles and 7 have no link, deliberately.
@@ -71,7 +95,7 @@ No album title, date or label was invented to fill a cell. Where a field could n
 1. **Metadata and links only.** No audio is hosted. Spotify's terms forbid building a database from its content; YouTube forbids storing audiovisual data and caps metadata retention at 30 days; Deezer forbids audio storage. The compliant pattern is index → link out → embed with the platform's own player.
 2. **A Creative Commons tag on a re-upload is not a licence.** It must come from the rights holder. Only CC0, CC BY and CC BY-SA are safe for broad reuse; NC blocks ad-supported use and ND blocks syncing to video.
 3. **Extremist content is excluded.** A meaningful share of what is tagged "nasheed" on open archives is ISIS or Taliban propaganda. That needs a denylist and takedown process from day one.
-4. **Genres are not merged.** Shia latmiyya, qawwali, Sufi art song and political chant are tagged `latmiyya` or `adjacent` rather than folded into "nasheed".
+4. **Genres are not merged.** Qawwali, Sufi art song, children's song and political chant are tagged `adjacent` rather than folded into "nasheed".
 
 ## Known gaps
 
