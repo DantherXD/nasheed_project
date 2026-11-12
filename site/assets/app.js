@@ -22,14 +22,14 @@ const norm = v => String(v == null ? '' : v)
   .replace(/ة/g, 'ه')
   .replace(/[ʾʿ'’‘`]/g, '');
 
-const ROUTES = ['overview', 'artists', 'labels', 'sources', 'guide'];
+const ROUTES = ['overview', 'artists', 'labels', 'sources', 'references', 'guide', 'artist'];
 const VOCAL_ORDER = { acap: 0, duff: 1, mixed: 2, inst: 3, unk: 4 };
 const CONF_ORDER = { high: 0, med: 1, low: 2 };
 
 const state = {
   route: 'overview',
   q: '', region: '', cat: '', vocal: '', type: '', conf: '',
-  sort: 'vocal', vocalOnly: false
+  sort: 'vocal', vocalOnly: false, artistId: ''
 };
 
 let DATA = null;
@@ -49,8 +49,14 @@ let A = [], O = [], S = [];
 /* ---------------------------------------------------------- routing */
 function readHash() {
   const raw = (location.hash || '').replace(/^#\/?/, '');
-  const [path, qs] = raw.split('?');
+  const [rawPath, qs] = raw.split('?');
   const p = new URLSearchParams(qs || '');
+  let path = rawPath;
+  state.artistId = '';
+  if (rawPath.startsWith('artist/')) {
+    path = 'artist';
+    state.artistId = decodeURIComponent(rawPath.slice(7));
+  }
   state.route = ROUTES.includes(path) ? path : 'overview';
   state.q = p.get('q') || '';
   state.region = p.get('region') || '';
@@ -95,17 +101,22 @@ function showPage() {
     on ? a.setAttribute('aria-current', 'page') : a.removeAttribute('aria-current');
   });
   $$('.nav-sub a').forEach(a => a.removeAttribute('aria-current'));
-  document.title = state.route === 'overview'
-    ? 'The Nasheed Library'
-    : $('#page-' + state.route + ' h1').textContent + ' — The Nasheed Library';
+  if (state.route !== 'artist') {
+    const h1 = $('#page-' + state.route + ' h1');
+    document.title = state.route === 'overview'
+      ? 'The Nasheed Library'
+      : (h1 ? h1.textContent.trim() : 'The Nasheed Library') + ' — The Nasheed Library';
+  }
 }
 
 function render() {
-  showPage();
-  syncControls();
   if (state.route === 'artists') renderArtists();
   if (state.route === 'labels') renderOrgs();
   if (state.route === 'sources') renderSources();
+  if (state.route === 'references') renderReferences();
+  if (state.route === 'artist') renderArtistPage();
+  showPage();
+  syncControls();
 }
 
 function go(route) {
@@ -167,6 +178,7 @@ function renderStats() {
   ].map(([n, l]) => `<div class="stat"><b>${n}</b><span>${l}</span></div>`).join('');
 
   $$('[data-count]').forEach(el => { el.textContent = c[el.dataset.count]; });
+  $('#refCount').textContent = A.filter(a => (a.refs || []).length).length;
   $('#hubArtists').textContent = `${c.artists} records · ${c.countries} countries →`;
   $('#footStats').textContent =
     `${c.artists} artists · ${c.labels} labels · ${c.sources} sources · built ${DATA.meta.built}`;
@@ -191,9 +203,7 @@ const RTL_SCRIPT = /[\u0590-\u05FF\u0600-\u06FF\u0700-\u074F]/;
 const native = s => `<span class="e-native"${RTL_SCRIPT.test(s) ? ' lang="ar" dir="rtl"' : ''}>${esc(s)}</span>`;
 
 function artistEntry(a) {
-  const name = a.u
-    ? `<a class="e-name" href="${esc(a.u)}" target="_blank" rel="noopener">${esc(a.n)}</a>`
-    : `<span class="e-name">${esc(a.n)}</span>`;
+  const name = `<a class="e-name" href="#/artist/${encodeURIComponent(a.id)}">${esc(a.n)}</a>`;
   const desc = (a.w && a.w !== '—')
     ? `<p class="e-desc"><b>${esc(a.w)}</b>${a.nt ? ' — ' + esc(a.nt) : ''}</p>`
     : (a.nt ? `<p class="e-desc">${esc(a.nt)}</p>` : '');
@@ -212,7 +222,8 @@ function artistEntry(a) {
     ${vocalPill}
     ${catPill}
     <span class="e-dim">${esc(bits)}</span>
-    ${a.u ? `<a class="e-src" href="${esc(a.u)}" target="_blank" rel="noopener">source ↗</a>` : '<span class="e-src">no link</span>'}
+    <span class="e-links">${listenChips(a)}</span>
+    <a class="e-src" href="#/artist/${encodeURIComponent(a.id)}">all links →</a>
   </div>
 </li>`;
 }
@@ -316,6 +327,124 @@ function renderSources() {
   ${s.q ? `<pre class="q" id="q-${i}">${esc(s.q)}</pre><button class="copy" type="button" data-copy="q-${i}">Copy query</button>` : ''}
   ${s.nt ? `<p class="e-desc" style="margin-top:8px">${esc(s.nt)}</p>` : ''}
 </li>`).join('')}</ul>` : `<div class="empty">Nothing matches that search.</div>`;
+}
+
+/* ---------------------------------------------------------- links */
+const LINK_LABEL = {
+  apple: 'Apple Music', spotify: 'Spotify', deezer: 'Deezer', youtube: 'YouTube',
+  catalogue: 'Catalogue', official: 'Official site', linktree: 'All links',
+  wiki: 'Wikipedia', press: 'Press', paper: 'Study', archive: 'Archive'
+};
+const LISTEN_TYPES = ['apple', 'spotify', 'deezer', 'youtube'];
+
+const chips = (list, cls) => (list || []).map(l =>
+  `<a class="chip ${cls} ${esc(l.t)}" href="${esc(l.u)}" target="_blank" rel="noopener">${esc(LINK_LABEL[l.t] || l.t)} ↗</a>`
+).join('');
+
+function listenChips(a) {
+  const l = (a.links || []).filter(x => LISTEN_TYPES.includes(x.t));
+  return l.length ? chips(l, 'listen') : '<span class="chip muted">no listening link</span>';
+}
+
+/* not artist pages, so they are offered as searches and labelled as such */
+function searchChips(a) {
+  const q = encodeURIComponent(a.n);
+  const have = new Set((a.links || []).map(l => l.t));
+  return [
+    ['spotify', `https://open.spotify.com/search/${q}`],
+    ['apple', `https://music.apple.com/search?term=${q}`],
+    ['deezer', `https://www.deezer.com/search/${q}`],
+    ['youtube', `https://www.youtube.com/results?search_query=${q}`]
+  ].filter(([t]) => !have.has(t))
+   .map(([t, u]) => `<a class="chip alt ${t}" href="${esc(u)}" target="_blank" rel="noopener">${esc(LINK_LABEL[t])} search ↗</a>`)
+   .join('');
+}
+
+/* ---------------------------------------------------------- artist hub */
+function renderArtistPage() {
+  const a = A.find(x => x.id === state.artistId);
+  const el = $('#artistPage');
+  if (!a) {
+    el.innerHTML = `<div class="empty">No record with that id.<br><a class="btn" href="#/artists">Back to the roster</a></div>`;
+    return;
+  }
+  const links = a.links || [];
+  const listen = links.filter(x => LISTEN_TYPES.includes(x.t));
+  const other = links.filter(x => !LISTEN_TYPES.includes(x.t));
+  const refs = a.refs || [];
+  const dir = a.ar && RTL_SCRIPT.test(a.ar) ? ' lang="ar" dir="rtl"' : '';
+
+  el.innerHTML = `
+  <a class="crumb" href="#/artists">← Artists &amp; groups</a>
+  <div class="artist-head">
+    <div>
+      <h1>${esc(a.n)}</h1>
+      ${a.ar ? `<div class="artist-native"${dir}>${esc(a.ar)}</div>` : ''}
+    </div>
+    <span class="conf ${esc(a.cf)}" title="Confidence: ${esc(a.cf)}"></span>
+  </div>
+  <div class="e-meta artist-tags">
+    <span class="pill">${esc(a.c)}</span>
+    <span class="pill ${a.v === 'acap' ? 'acap' : a.v === 'duff' ? 'duff' : a.v === 'inst' ? 'inst' : ''}">${esc(a.vocalLabel)}</span>
+    <span class="pill ${a.k === 'reciter' ? 'reciter' : ''}">${esc(a.catLabel)}</span>
+    <span class="pill">${esc(a.t)}</span>
+    ${a.l ? `<span class="pill">${esc(a.l)}</span>` : ''}
+    ${a.e ? `<span class="pill">${esc(a.e)}</span>` : ''}
+  </div>
+
+  ${a.w ? `<h2 class="group">Key works</h2><p class="artist-works">${esc(a.w)}</p>` : ''}
+  ${a.nt ? `<p class="artist-note">${esc(a.nt)}</p>` : ''}
+
+  <h2 class="group">Listen<span class="n">${listen.length}</span></h2>
+  <div class="linkrow">${listen.length ? chips(listen, 'listen') : '<span class="chip muted">No verified listening page yet</span>'}</div>
+  <div class="linkrow">${searchChips(a)}</div>
+
+  ${other.length ? `<h2 class="group">Label, catalogue &amp; official</h2>
+  <div class="linkrow">${chips(other, 'other')}</div>` : ''}
+
+  ${refs.length ? `<h2 class="group">References<span class="n">${refs.length}</span></h2>
+  <p class="refnote">Documentation used to verify this record — a paper, a news piece or an encyclopaedia entry, not somewhere to hear the music.</p>
+  <div class="linkrow">${chips(refs, 'ref')}</div>` : ''}
+
+  <div class="artist-foot">
+    <button class="btn" id="copyPermalink" type="button">Copy link to this page</button>
+    <span class="e-dim">${esc(a.r)} · confidence ${esc(a.cf)}</span>
+  </div>`;
+
+  document.title = a.n + ' — The Nasheed Library';
+  $('#copyPermalink').addEventListener('click', e => {
+    const btn = e.currentTarget;
+    const done = () => { const t = btn.textContent; btn.textContent = 'Copied'; setTimeout(() => { btn.textContent = t; }, 1200); };
+    if (navigator.clipboard) navigator.clipboard.writeText(location.href).then(done, done); else done();
+  });
+}
+
+/* ---------------------------------------------------------- references */
+function renderReferences() {
+  const documented = A.filter(a => (a.refs || []).length);
+  const only = documented.filter(a => !(a.links || []).length);
+  const withLinks = documented.filter(a => (a.links || []).length);
+  $('#refPageCount').innerHTML =
+    `<b>${documented.length}</b> records cite outside documentation · <b>${only.length}</b> of them have no listening or catalogue link at all, and are listed first.`;
+
+  const row = a => `<li class="entry">
+  <div class="e-head">
+    <a class="e-name" href="#/artist/${encodeURIComponent(a.id)}">${esc(a.n)}</a>
+    ${(a.links || []).length ? '' : '<span class="pill warn">references only</span>'}
+    <span class="conf ${esc(a.cf)}"></span>
+  </div>
+  <div class="e-meta">
+    <span class="pill">${esc(a.c)}</span>
+    <span class="e-dim">${esc(a.catLabel)}${a.e ? ' · ' + esc(a.e) : ''}</span>
+  </div>
+  <div class="linkrow">${chips(a.refs, 'ref')}</div>
+</li>`;
+
+  $('#refList').innerHTML =
+    `<h2 class="group">References only<span class="n">${only.length}</span></h2>` +
+    `<ul class="entries">${only.map(row).join('')}</ul>` +
+    `<h2 class="group">Also documented, with links<span class="n">${withLinks.length}</span></h2>` +
+    `<ul class="entries">${withLinks.map(row).join('')}</ul>`;
 }
 
 /* ---------------------------------------------------------- toc */

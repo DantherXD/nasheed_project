@@ -27,6 +27,8 @@ By region: Arab World 125 · South Asia 42 · Southeast Asia 46 · Turkey & Iran
 |---|---|
 | `#/overview` | Counts, confidence legend, entry points |
 | `#/artists` | The roster, grouped by region, with every filter |
+| `#/artist/<id>` | One record: listen links, catalogue, and the references behind it |
+| `#/references` | The research trail — papers, press and encyclopaedia entries, separate from listening |
 | `#/labels` | Labels, distributors, broadcasters, festivals, awards |
 | `#/sources` | Aggregation sources with copy-ready queries |
 | `#/guide` | The field guide, with an on-this-page sidebar |
@@ -59,9 +61,13 @@ Artist record:
   "n": "name", "ar": "native script", "c": "country", "r": "region",
   "l": "language", "e": "era or active years", "t": "Solo | Group",
   "k": "category code", "v": "instrumentation code", "w": "key works",
-  "u": "link", "cf": "high | med | low", "nt": "note"
+  "u": "primary usable link", "cf": "high | med | low", "nt": "note",
+  "links": [{"t": "deezer", "u": "https://www.deezer.com/artist/711"}],
+  "refs":  [{"t": "paper",  "u": "https://escholarship.org/..."}]
 }
 ```
+
+Links are typed, so the database never confuses "where to hear this artist" with "where this artist was documented". `links` holds `apple`, `spotify`, `deezer`, `youtube`, `catalogue`, `official` and `linktree` entries, and `u` mirrors the best one. `refs` holds `wiki`, `press`, `paper` and `archive` entries — the evidence trail. Every artist also gets a page at `#/artist/<id>` that lists all of it in one place, which is the link to share.
 
 Instrumentation codes: `acap` (a cappella), `duff` (voice + percussion only), `inst` (instrumental), `mixed`, `unk`.
 
