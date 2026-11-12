@@ -41,3 +41,7 @@ Two things I was deliberately strict about. Every record carries a confidence do
 Checks run: build validates every field, code and duplicate (301 records, zero duplicates); the embedded JSON parses; the JavaScript passes a syntax check; and a headless DOM test confirmed all 301 cards render, the vocal-only toggle returns exactly 91, English and Arabic search both work, and all four tabs switch with no runtime errors. I did not open it in a real browser, so the visual design is unseen — tell me if anything looks off.
 
 The obvious next step is filling the thinnest regions, since those 55 low-confidence rows are mostly leads rather than facts.
+
+---
+
+**Status after the gap-filling pass (2026-11-12).** The "obvious next step" in the note above is done. Six research agents covered Latin America and the Caribbean, the Caucasus and Central Asia, the Balkans, East Asia, continental Europe, and the Southeast Asian and Pacific edges. Fifty-three verified records replaced four placeholder rows (Spanish-language nasheed, Caribbean scene, Tatar and Central Asian nasheed, Bosnian scene), so every region now carries data: 343 artists, 77 countries, 98 languages, 94 vocal-only, of which 47 strictly a cappella. Confidence is now 156 high / 134 medium / 53 low. Central Asia, East Asia and Latin America are no longer gaps; the remaining absences are narrower and are listed in the README's Known gaps section and in the site's field guide.
