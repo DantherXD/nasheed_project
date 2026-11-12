@@ -6,7 +6,7 @@
 <title>The Nasheed Library — a sourced database of nasheed, nasyid, na'at and ilahi</title>
 <meta name="description" content="An open, sourced database and aggregation map of Islamic vocal music: 343 artists and groups, the labels that release them, and the exact APIs you can extend it from.">
 <meta name="color-scheme" content="dark light">
-<link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="assets/style.css?v=2">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><text y='25' x='4' font-size='24' fill='%23e2b866'>ن</text></svg>">
 </head>
 <body>
@@ -15,12 +15,19 @@
 <header class="topbar">
   <button class="icon-btn menu-btn" id="menuBtn" aria-label="Open navigation" aria-expanded="false">☰</button>
   <a class="brand" href="#/overview">
-    <span class="brand-mark" lang="ar" dir="rtl">نشيد</span>
-    <span class="brand-text">Nasheed Library</span>
+    <span class="brand-mark" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none"><path d="M15.5 3.6a8.6 8.6 0 1 0 0 16.8 7 7 0 1 1 0-16.8Z" fill="url(#brandgrad)"/><defs><linearGradient id="brandgrad" x1="4" y1="4" x2="20" y2="20"><stop stop-color="#8ec5ff"/><stop offset="1" stop-color="#ddb0f8"/></linearGradient></defs></svg></span>
+    <span class="brand-text">nasheed <span>library</span></span>
   </a>
+  <nav class="topnav" aria-label="Sections">
+    <a href="#/artists">Artists</a>
+    <a href="#/labels">Labels</a>
+    <a href="#/sources">Sources</a>
+    <a href="#/references">References</a>
+    <a href="#/guide">Field guide</a>
+  </nav>
   <div class="search">
     <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.6-3.6"/></svg>
-    <input id="q" type="search" placeholder="Search artists, labels, sources, Arabic script…" autocomplete="off" spellcheck="false" aria-label="Search the library">
+    <input id="q" type="search" placeholder="Search the library…" autocomplete="off" spellcheck="false" aria-label="Search the library">
     <kbd>/</kbd>
   </div>
   <div class="top-actions">
@@ -64,39 +71,82 @@
     <!-- ================================================== overview -->
     <section class="page" id="page-overview">
       <div class="hero">
-        <div class="eyebrow">
-          <span lang="ar" dir="rtl">نشيد</span><span class="sep">/</span><span lang="ar" dir="rtl">أناشيد</span><span class="sep">/</span><span lang="ar" dir="rtl">منشدون</span><span class="sep">·</span> nasyid · na'at · ilahi · inshād
+        <div class="hero-copy">
+          <span class="badge">November updates <span aria-hidden="true">🔥</span></span>
+          <h1 class="hero-title">the nasheed library</h1>
+          <p class="hero-sub">Every munshid worth hearing, the labels that release them, and a link to play almost all of it — sourced, not scraped.</p>
+          <div class="hero-actions">
+            <a class="btn primary" href="#/artists">Browse the artists</a>
+            <a class="btn" href="#/artists?vocalOnly=1">Vocal-only first</a>
+            <a class="btn" href="#/guide">Field guide</a>
+            <a class="btn" href="https://github.com/DantherXD/nasheed_project" target="_blank" rel="noopener">GitHub</a>
+          </div>
+          <div class="stats" id="stats"></div>
         </div>
-        <h1>The Nasheed Library</h1>
-        <p class="lede">A sourced database and aggregation map of Islamic vocal music — the munshideen who sing it, the labels that release it, and the exact APIs you can keep extending it from. The a cappella and percussion-only tradition comes first.</p>
-        <div class="cta">
-          <a class="btn primary" href="#/artists">Browse the artists →</a>
-          <a class="btn" href="#/artists?vocalOnly=1">Vocal-only first</a>
-          <a class="btn" href="#/sources">Aggregation sources</a>
+        <div class="hero-art" aria-hidden="true">
+          <div class="glow"></div>
+          <svg class="emblem" viewBox="0 0 200 200">
+            <defs>
+              <linearGradient id="cres" x1="40" y1="20" x2="150" y2="180">
+                <stop stop-color="#8ed0ff"/>
+                <stop offset=".55" stop-color="#b9a6ff"/>
+                <stop offset="1" stop-color="#e2b4fa"/>
+              </linearGradient>
+              <mask id="cresmask">
+                <rect x="0" y="0" width="200" height="200" fill="#fff"/>
+                <circle cx="126" cy="100" r="62" fill="#000"/>
+              </mask>
+            </defs>
+            <circle cx="100" cy="100" r="78" fill="url(#cres)" mask="url(#cresmask)"/>
+            <circle cx="147" cy="55" r="15" fill="#c9a8ff" opacity=".3"/>
+            <circle cx="147" cy="55" r="7.5" fill="#f2ecff"/>
+          </svg>
         </div>
-        <div class="stats" id="stats"></div>
       </div>
 
-      <div class="hub">
-        <a class="hub-card" href="#/artists">
-          <h3><span aria-hidden="true">🎙</span> Artists &amp; groups</h3>
-          <p>Munshideen, ensembles, chanters and reciters — searchable in English or Arabic script, filterable by region, category, instrumentation and confidence.</p>
-          <span class="go" id="hubArtists">Open the roster →</span>
+      <p class="browse-hint">Or browse these pages <span aria-hidden="true">✨</span></p>
+
+      <div class="card-grid">
+        <a class="card" href="#/artists">
+          <span class="card-ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><rect x="9" y="2.5" width="6" height="11" rx="3"/><path d="M5.5 11a6.5 6.5 0 0 0 13 0M12 17.5V21M8.5 21h7"/></svg></span>
+          <h3>Artists &amp; groups</h3>
+          <p>Munshideen, ensembles and reciters — searchable in Arabic or English, filterable by region, category and instrumentation.</p>
+          <span class="e-dim" id="hubArtists"></span>
         </a>
-        <a class="hub-card" href="#/labels">
-          <h3><span aria-hidden="true">🏷</span> Labels &amp; platforms</h3>
-          <p>Who releases and monetises nasheed, including four entities explicitly flagged as <em>not</em> nasheed bodies so they stop circulating in lists.</p>
-          <span class="go">Open the label index →</span>
+        <a class="card" href="#/artists?vocalOnly=1">
+          <span class="card-ico mint" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M20 14.5A8.5 8.5 0 0 1 9.5 4a8.5 8.5 0 1 0 10.5 10.5Z"/></svg></span>
+          <h3>Vocal-only</h3>
+          <p>The a cappella and voice-plus-duff tradition first — the records most people mean by nasheed without music.</p>
         </a>
-        <a class="hub-card" href="#/sources">
-          <h3><span aria-hidden="true">🔌</span> Aggregation sources</h3>
-          <p>Copy-ready query strings for MusicBrainz, Discogs, Last.fm, Deezer, Spotify, YouTube, archive.org, Wikidata and more — each with its licence constraint.</p>
-          <span class="go">Open the source map →</span>
+        <a class="card" href="#/artists?cat=reciter">
+          <span class="card-ico violet" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M12 3v18M6.5 7.5v9M17.5 7.5v9M3 10.5v3M21 10.5v3"/></svg></span>
+          <h3>Reciters</h3>
+          <p>Qur'an reciters whose nasheed sits beside a different discipline, tagged so the two repertoires never merge.</p>
         </a>
-        <a class="hub-card" href="#/guide">
-          <h3><span aria-hidden="true">📖</span> Field guide</h3>
-          <p>Terminology, the four fiqh positions on instruments, regional traditions, five historical waves and the honest list of what this library does not cover.</p>
-          <span class="go">Read the guide →</span>
+        <a class="card" href="#/artists?cat=madih">
+          <span class="card-ico amber" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M4 19V6.5A2.5 2.5 0 0 1 6.5 4H20v15H6.5A2.5 2.5 0 0 0 4 21.5Z"/><path d="M8 8h8M8 12h5"/></svg></span>
+          <h3>Madīḥ &amp; qaṣīda</h3>
+          <p>Classical ode and praise poetry — Aleppo's family ensembles, Egyptian ibtihāl, the mawlid repertoire.</p>
+        </a>
+        <a class="card" href="#/labels">
+          <span class="card-ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M3.5 12.5V4h8.5l8.5 8.5-8.5 8.5Z"/><circle cx="8" cy="8.5" r="1.6"/></svg></span>
+          <h3>Labels &amp; platforms</h3>
+          <p>Who releases and monetises nasheed — plus the four entities flagged as <em>not</em> nasheed bodies.</p>
+        </a>
+        <a class="card" href="#/sources">
+          <span class="card-ico rose" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M9 3v5M15 3v5M7 8h10v5a5 5 0 0 1-10 0Z"/><path d="M12 18v3"/></svg></span>
+          <h3>Aggregation sources</h3>
+          <p>Copy-ready query strings for MusicBrainz, Discogs, Deezer, Wikidata and more, each with its licence limit.</p>
+        </a>
+        <a class="card" href="#/references">
+          <span class="card-ico mint" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M10 13.5a4 4 0 0 0 5.7 0l2.8-2.8a4 4 0 0 0-5.7-5.7L11.5 6.3"/><path d="M14 10.5a4 4 0 0 0-5.7 0l-2.8 2.8a4 4 0 0 0 5.7 5.7l1.3-1.3"/></svg></span>
+          <h3>References</h3>
+          <p>The research trail behind every record — encyclopaedia entries, press pieces, archival catalogues, papers.</p>
+        </a>
+        <a class="card" href="#/guide">
+          <span class="card-ico violet" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M12 6.5S10 4.5 6 4.5v13c4 0 6 2 6 2s2-2 6-2v-13c-4 0-6 2-6 2Z"/><path d="M12 6.5v13"/></svg></span>
+          <h3>Field guide</h3>
+          <p>Terminology, the four positions on instruments, regional traditions and the honest list of gaps.</p>
         </a>
       </div>
 
@@ -269,6 +319,6 @@
 </footer>
 
 <noscript><p style="padding:20px;color:#e0907f">This library needs JavaScript to render the database. The raw data is in <a href="data.json">data.json</a>.</p></noscript>
-<script src="assets/app.js"></script>
+<script src="assets/app.js?v=2"></script>
 </body>
 </html>

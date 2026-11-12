@@ -172,8 +172,9 @@ function renderStats() {
   $('#stats').innerHTML = [
     [c.artists, 'artists & groups'],
     [c.vocalOnly, 'vocal-only or duff-only'],
-    [`${c.acappella}`, 'strictly a cappella'],
+    [A.filter(a => a.v === 'acap').length, 'strictly a cappella'],
     [c.countries, 'countries & scenes'],
+    [A.filter(a => !a.c).length, 'awaiting a country'],
     [c.labels, 'labels & platforms'],
     [c.sources, 'aggregation sources']
   ].map(([n, l]) => `<div class="stat"><b>${n}</b><span>${l}</span></div>`).join('');
