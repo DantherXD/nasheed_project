@@ -156,6 +156,7 @@ function buildFacets() {
     ['vocal', 'Sort: vocal-first'],
     ['name', 'Sort: name A–Z'],
     ['country', 'Sort: country A–Z'],
+    ['listen', 'Sort: listening links'],
     ['conf', 'Sort: confidence']
   ].map(([v, t]) => `<option value="${v}">${t}</option>`).join('');
 
@@ -228,11 +229,14 @@ function artistEntry(a) {
 </li>`;
 }
 
+const listenCount = a => (a.links || []).filter(l => LISTEN_TYPES.includes(l.t)).length;
+
 function sortArtists(rows) {
   const cmp = {
     vocal: (x, y) => (VOCAL_ORDER[x.v] - VOCAL_ORDER[y.v]) || x.n.localeCompare(y.n),
     name: (x, y) => x.n.localeCompare(y.n),
     country: (x, y) => (x.c || '').localeCompare(y.c || '') || x.n.localeCompare(y.n),
+    listen: (x, y) => (listenCount(y) - listenCount(x)) || x.n.localeCompare(y.n),
     conf: (x, y) => (CONF_ORDER[x.cf] - CONF_ORDER[y.cf]) || x.n.localeCompare(y.n)
   }[state.sort] || ((x, y) => x.n.localeCompare(y.n));
   return rows.slice().sort(cmp);
