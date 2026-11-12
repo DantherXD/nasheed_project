@@ -29,7 +29,7 @@ const CONF_ORDER = { high: 0, med: 1, low: 2 };
 const state = {
   route: 'overview',
   q: '', region: '', cat: '', vocal: '', type: '', conf: '',
-  sort: 'vocal', vocalOnly: false, artistId: '', check: ''
+  sort: 'vocal', vocalOnly: false, artistId: '', check: '', need: ''
 };
 
 let DATA = null;
@@ -111,6 +111,7 @@ function readHash() {
   state.sort = p.get('sort') || 'vocal';
   state.vocalOnly = p.get('vocalOnly') === '1';
   state.check = ['todo', 'done'].includes(p.get('check')) ? p.get('check') : '';
+  state.need = ['link', 'country', 'inst'].includes(p.get('need')) ? p.get('need') : '';
 }
 
 function writeHash() {
@@ -124,6 +125,7 @@ function writeHash() {
   if (state.sort && state.sort !== 'vocal') p.set('sort', state.sort);
   if (state.vocalOnly) p.set('vocalOnly', '1');
   if (state.check) p.set('check', state.check);
+  if (state.need) p.set('need', state.need);
   const qs = p.toString();
   const next = '#/' + state.route + (qs ? '?' + qs : '');
   if (location.hash !== next) history.replaceState(null, '', next);
@@ -217,19 +219,38 @@ function buildFacets() {
 /* ---------------------------------------------------------- stats */
 function renderStats() {
   const c = DATA.meta.counts;
+  const playable = A.filter(listenCount).length;
+  const need = {
+    link: A.length - playable,
+    country: A.filter(a => !a.c).length,
+    inst: A.filter(a => a.v === 'unk').length
+  };
+
   $('#stats').innerHTML = [
     [c.artists, 'artists & groups'],
     [c.vocalOnly, 'vocal-only or duff-only'],
     [A.filter(a => a.v === 'acap').length, 'strictly a cappella'],
     [c.countries, 'countries & scenes'],
-    [A.filter(a => !a.c).length, 'awaiting a country'],
+    [playable, 'with a playable link'],
+    [need.link, 'awaiting a link'],
     [c.labels, 'labels & platforms'],
     [c.sources, 'aggregation sources']
   ].map(([n, l]) => `<div class="stat"><b>${n}</b><span>${l}</span></div>`).join('');
 
   $$('[data-count]').forEach(el => { el.textContent = c[el.dataset.count]; });
+  $$('[data-need]').forEach(el => { el.textContent = need[el.dataset.need]; });
   $('#refCount').textContent = A.filter(a => (a.refs || []).length).length;
   $('#hubArtists').textContent = `${c.artists} records · ${c.countries} countries →`;
+
+  /* the copy has to keep up with the data it describes */
+  const badge = $('#heroBadge');
+  if (badge) badge.textContent = 'updated ' + DATA.meta.built;
+  const sub = $('#heroSub');
+  if (sub) sub.textContent = `${A.length} records, ${playable} with a playable link and ` +
+    `${need.link} still awaiting one — sourced, not scraped.`;
+  const md = document.querySelector('meta[name="description"]');
+  if (md) md.content = `An open, sourced database of Islamic vocal music: ${A.length} artists and ` +
+    `groups across ${c.countries} countries, ${playable} with a playable link, and a citation trail for every record.`;
   $('#footStats').textContent =
     `${c.artists} artists · ${c.labels} labels · ${c.sources} sources · built ${DATA.meta.built}`;
 }
@@ -246,6 +267,9 @@ function filteredArtists() {
     if (state.vocalOnly && a.v !== 'acap' && a.v !== 'duff') return false;
     if (state.check === 'todo' && isChecked(a)) return false;
     if (state.check === 'done' && !isChecked(a)) return false;
+    if (state.need === 'link' && listenCount(a)) return false;
+    if (state.need === 'country' && a.c) return false;
+    if (state.need === 'inst' && a.v !== 'unk') return false;
     if (q && !norm([a.n, a.ar, a.c, a.r, a.l, a.e, a.w, a.nt, a.catLabel, a.vocalLabel].join(' ')).includes(q)) return false;
     return true;
   });
@@ -300,8 +324,11 @@ function renderArtists() {
   const rows = sortArtists(filteredArtists());
   const vocal = rows.filter(a => a.v === 'acap' || a.v === 'duff').length;
   const done = checkedCount();
+  const needLabel = { link: 'without a playable link', country: 'with no country recorded',
+    inst: 'with unresolved instrumentation' }[state.need] || '';
   $('#count').innerHTML =
-    `Showing <b>${rows.length}</b> of ${A.length} records · <b>${vocal}</b> vocal-only · ` +
+    `Showing <b>${rows.length}</b> of ${A.length} records${needLabel ? ' ' + needLabel : ''} · ` +
+    `<b>${vocal}</b> vocal-only · ` +
     `<b>${done}</b> reviewed${done ? ' (saved in this browser only)' : ''} · click a name to open its source`;
 
   if (!rows.length) {
@@ -338,7 +365,8 @@ function renderArtists() {
 
 function clearFilters() {
   state.q = ''; state.region = ''; state.cat = ''; state.vocal = '';
-  state.type = ''; state.conf = ''; state.vocalOnly = false; state.sort = 'vocal'; state.check = '';
+  state.type = ''; state.conf = ''; state.vocalOnly = false; state.sort = 'vocal';
+  state.check = ''; state.need = '';
   writeHash();
   render();
 }
@@ -438,6 +466,7 @@ function renderArtistPage() {
   const listen = links.filter(x => LISTEN_TYPES.includes(x.t));
   const other = links.filter(x => !LISTEN_TYPES.includes(x.t));
   const refs = a.refs || [];
+  const rel = (a.rel || []).map(id => A.find(x => x.id === id)).filter(Boolean);
   const dir = a.ar && RTL_SCRIPT.test(a.ar) ? ' lang="ar" dir="rtl"' : '';
 
   el.innerHTML = `
@@ -471,6 +500,13 @@ function renderArtistPage() {
   ${refs.length ? `<h2 class="group">References<span class="n">${refs.length}</span></h2>
   <p class="refnote">Documentation used to verify this record — a paper, a news piece or an encyclopaedia entry, not somewhere to hear the music.</p>
   <div class="linkrow">${chips(refs, 'ref')}</div>` : ''}
+
+  ${rel.length ? `<h2 class="group">Look next<span class="n">${rel.length}</span></h2>
+  <p class="refnote">Chosen for a shared country, category or instrumentation — a path onward, not a popularity chart.</p>
+  <ul class="rel-list">${rel.map(r => `<li><a class="rel-card" href="#/artist/${encodeURIComponent(r.id)}">
+    <span class="rel-name">${esc(r.n)}</span>
+    <span class="rel-meta">${esc([r.c || 'unresolved', r.catLabel, r.vocalLabel].filter(Boolean).join(' · '))}</span>
+  </a></li>`).join('')}</ul>` : ''}
 
   <div class="artist-foot">
     <button class="btn${isChecked(a) ? ' primary' : ''}" id="checkArtist" type="button" aria-pressed="${isChecked(a)}">${isChecked(a) ? '✓ Reviewed — undo' : '✓ Mark as reviewed'}</button>

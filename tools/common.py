@@ -9,6 +9,7 @@ import io
 import json
 import re
 import unicodedata
+from collections import defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -46,6 +47,47 @@ def _write_csv(path, header, rows):
     path.write_text(buf.getvalue(), encoding="utf-8-sig", newline="")
 
 
+def related_map(artists, limit=6):
+    """For each record, the records a reader should look at next.
+
+    A shared country outweighs a shared category, which outweighs shared
+    instrumentation; a shared region is only a tie-breaker. The point is a path
+    from one artist to another, which is what a directory lacks. Computed here so
+    the browser never has to: it ships inside site/data.json as `rel`.
+    """
+    by_country, by_cat, by_region = defaultdict(list), defaultdict(list), defaultdict(list)
+    for a in artists:
+        if a.get("c"):
+            by_country[a["c"]].append(a)
+        by_cat[a["k"]].append(a)
+        if a.get("r"):
+            by_region[a["r"]].append(a)
+
+    names = {a["id"]: a["n"] for a in artists}
+    out = {}
+    for a in artists:
+        score = {}
+
+        def bump(other, weight):
+            if other["id"] != a["id"]:
+                score[other["id"]] = score.get(other["id"], 0) + weight
+
+        for b in by_country.get(a.get("c"), ()) if a.get("c") else ():
+            bump(b, 3)
+            if b["k"] == a["k"]:
+                bump(b, 2)
+            if b["v"] == a["v"]:
+                bump(b, 1)
+        for b in by_cat[a["k"]]:
+            bump(b, 1)
+        for b in by_region.get(a.get("r"), ()) if a.get("r") else ():
+            bump(b, 1)
+
+        ranked = sorted(score.items(), key=lambda kv: (-kv[1], names.get(kv[0], "")))
+        out[a["id"]] = [other_id for other_id, _ in ranked[:limit]]
+    return out
+
+
 def save_db(db):
     """Write the database and regenerate every derived file."""
     DB_PATH.write_text(json.dumps(db, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
@@ -64,8 +106,13 @@ def save_db(db):
          for a in artists],
     )
 
+    # `rel` is derived, so it belongs in the shipped payload, not in the database file
+    rel = related_map(artists)
+    shipped = dict(db)
+    shipped["artists"] = [{**a, "rel": rel.get(a["id"], [])} for a in artists]
+
     library = (ROOT / "nasheed-library.html").read_text(encoding="utf-8")
-    payload = json.dumps(db, ensure_ascii=False, separators=(",", ":"))
+    payload = json.dumps(shipped, ensure_ascii=False, separators=(",", ":"))
     library = re.sub(
         r'(<script type="application/json" id="db">)(.*?)(</script>)',
         lambda m: m.group(1) + payload + m.group(3),

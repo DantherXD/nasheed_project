@@ -4,9 +4,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>The Nasheed Library — a sourced database of nasheed, nasyid, na'at and ilahi</title>
-<meta name="description" content="An open, sourced database and aggregation map of Islamic vocal music: 343 artists and groups, the labels that release them, and the exact APIs you can extend it from.">
+<meta name="description" content="An open, sourced database and aggregation map of Islamic vocal music: the artists and groups, the labels that release them, and the exact APIs you can extend it from.">
 <meta name="color-scheme" content="dark light">
-<link rel="stylesheet" href="assets/style.css?v=3">
+<link rel="stylesheet" href="assets/style.css?v=4">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><text y='25' x='4' font-size='24' fill='%23e2b866'>ن</text></svg>">
 </head>
 <body>
@@ -53,6 +53,14 @@
         <div class="nav-sub" id="regionNav"></div>
       </div>
       <div class="nav-group">
+        <div class="nav-title">Needs work</div>
+        <div class="nav-sub">
+          <a href="#/artists?need=link">No listening link <span class="n" data-need="link" style="margin-left:auto">·</span></a>
+          <a href="#/artists?need=country">No country <span class="n" data-need="country" style="margin-left:auto">·</span></a>
+          <a href="#/artists?need=inst">Instrumentation unknown <span class="n" data-need="inst" style="margin-left:auto">·</span></a>
+        </div>
+      </div>
+      <div class="nav-group">
         <div class="nav-title">Jump to</div>
         <div class="nav-sub">
           <a href="#/artists?vocalOnly=1">Vocal-only records</a>
@@ -72,9 +80,9 @@
     <section class="page" id="page-overview">
       <div class="hero">
         <div class="hero-copy">
-          <span class="badge">November updates <span aria-hidden="true">🔥</span></span>
+          <span class="badge"><span id="heroBadge">updated</span> <span aria-hidden="true">🔥</span></span>
           <h1 class="hero-title">the nasheed library</h1>
-          <p class="hero-sub">Every munshid worth hearing, the labels that release them, and a link to play almost all of it — sourced, not scraped.</p>
+          <p class="hero-sub" id="heroSub">Every munshid worth hearing, the labels that release them, and a playable link wherever one exists — sourced, not scraped.</p>
           <div class="hero-actions">
             <a class="btn primary" href="#/artists">Browse the artists</a>
             <a class="btn" href="#/artists?vocalOnly=1">Vocal-only first</a>
@@ -327,6 +335,6 @@
 </footer>
 
 <noscript><p style="padding:20px;color:#e0907f">This library needs JavaScript to render the database. The raw data is in <a href="data.json">data.json</a>.</p></noscript>
-<script src="assets/app.js?v=3"></script>
+<script src="assets/app.js?v=4"></script>
 </body>
 </html>

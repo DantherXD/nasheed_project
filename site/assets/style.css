@@ -337,6 +337,20 @@ select:focus{border-color:var(--gold-dim)}
 .entry.checked{opacity:.6}
 .entry.checked:hover{opacity:1}
 
+/* the path onward from an artist page */
+.rel-list{
+  list-style:none; display:grid; gap:8px; padding:0; margin:10px 0 20px;
+  grid-template-columns:repeat(auto-fill, minmax(230px, 1fr))
+}
+.rel-card{
+  display:block; padding:10px 12px; border:1px solid var(--line);
+  border-radius:10px; background:var(--surface); text-decoration:none
+}
+.rel-card:hover{border-color:var(--gold-dim); background:var(--surface-2)}
+.rel-name{display:block; color:var(--ink); font-weight:600; font-size:14.5px; line-height:1.3}
+.rel-meta{display:block; color:var(--muted); font-size:12.5px; margin-top:3px}
+.nav-sub a .n{font-variant-numeric:tabular-nums; color:var(--dim)}
+
 .tb-spacer{flex:1 1 auto}
 .link-btn{
   background:none; border:none; color:var(--dim); font:13px var(--font-sans);
