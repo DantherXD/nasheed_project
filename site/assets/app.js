@@ -419,7 +419,7 @@ window.addEventListener('hashchange', () => {
 });
 
 /* ---------------------------------------------------------- boot */
-fetch('data.json')
+fetch('data.json', { cache: 'no-cache' })
   .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
   .then(db => {
     DATA = db;
