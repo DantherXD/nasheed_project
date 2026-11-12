@@ -1,0 +1,99 @@
+{
+ "hits": [
+  {
+   "name": "Azim",
+   "mbid": "48f185e8-7392-4317-9729-cbca6ed8a511",
+   "country": "FR",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [
+    "hip hop",
+    "boom bap"
+   ],
+   "url": "https://musicbrainz.org/artist/48f185e8-7392-4317-9729-cbca6ed8a511"
+  },
+  {
+   "name": "A. R. Rahman",
+   "mbid": "e0bba708-bdd3-478d-84ea-c706413bedab",
+   "country": "IN",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1967-01-06",
+   "tags": [
+    "soundtrack",
+    "classical",
+    "bollywood",
+    "world fusion",
+    "indian",
+    "theatre",
+    "film score",
+    "asian"
+   ],
+   "url": "https://musicbrainz.org/artist/e0bba708-bdd3-478d-84ea-c706413bedab"
+  },
+  {
+   "name": "Mahabur Rahman",
+   "mbid": "92928414-2e1a-496f-8baf-7bd89bf5c13f",
+   "country": "GB",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1990-01-24",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/92928414-2e1a-496f-8baf-7bd89bf5c13f"
+  },
+  {
+   "name": "Azim Hassanpur",
+   "mbid": "f5c1be31-b4bc-47df-aa25-8588a42136ab",
+   "country": null,
+   "type": null,
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/f5c1be31-b4bc-47df-aa25-8588a42136ab"
+  },
+  {
+   "name": "Koosha Azim",
+   "mbid": "85aaa82f-264c-401e-8e1f-21aa79805fef",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "2003-01-03",
+   "tags": [
+    "electronic",
+    "hip hop"
+   ],
+   "url": "https://musicbrainz.org/artist/85aaa82f-264c-401e-8e1f-21aa79805fef"
+  },
+  {
+   "name": "Azim Ousman",
+   "mbid": "9accfaab-73e7-4822-afed-a1d662177e3f",
+   "country": "LK",
+   "type": "Person",
+   "disambiguation": "Song Writer",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/9accfaab-73e7-4822-afed-a1d662177e3f"
+  },
+  {
+   "name": "Azim Ambani",
+   "mbid": "a225804d-852e-449f-b10c-ef78da02ed14",
+   "country": null,
+   "type": null,
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/a225804d-852e-449f-b10c-ef78da02ed14"
+  },
+  {
+   "name": "Pünhan Azim",
+   "mbid": "47d94666-a786-41be-833f-5cd23c3cd37a",
+   "country": "AZ",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/47d94666-a786-41be-833f-5cd23c3cd37a"
+  }
+ ]
+}

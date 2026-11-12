@@ -1,0 +1,52 @@
+{
+ "hits": [
+  {
+   "id": "Q8819",
+   "label": "The Unicode Standard",
+   "description": "computing industry standard for the consistent encoding, representation and handling of text expressed in most of the world's writing systems",
+   "url": "https://www.wikidata.org/wiki/Q8819"
+  },
+  {
+   "id": "Q740308",
+   "label": "UNICEF",
+   "description": "specialised agency of the United Nations",
+   "url": "https://www.wikidata.org/wiki/Q740308"
+  },
+  {
+   "id": "Q87724322",
+   "label": "Unicode 13.0",
+   "description": "version of The Unicode® Standard",
+   "url": "https://www.wikidata.org/wiki/Q87724322"
+  },
+  {
+   "id": "Q29654788",
+   "label": "Unicode character",
+   "description": "type of code point used to encode a character in the Universal Character Set (UCS) defined by the Unicode and ISO/IEC 10646 standards",
+   "url": "https://www.wikidata.org/wiki/Q29654788"
+  },
+  {
+   "id": "Q682361",
+   "label": "Uničov",
+   "description": "town in the Czech Republic",
+   "url": "https://www.wikidata.org/wiki/Q682361"
+  },
+  {
+   "id": "Q87724274",
+   "label": "Unicode 2.0",
+   "description": "version of The Unicode® Standard",
+   "url": "https://www.wikidata.org/wiki/Q87724274"
+  },
+  {
+   "id": "Q109615233",
+   "label": "private-use character",
+   "description": "Unicode code point set to a character but left aside for private use",
+   "url": "https://www.wikidata.org/wiki/Q109615233"
+  },
+  {
+   "id": "Q12523252",
+   "label": "Unggul Indah Cahaya",
+   "description": "public company in Indonesia",
+   "url": "https://www.wikidata.org/wiki/Q12523252"
+  }
+ ]
+}

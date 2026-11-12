@@ -1,0 +1,84 @@
+{
+ "hits": [
+  {
+   "name": "Yahya",
+   "mbid": "3f00ccd6-1030-402a-85a8-816a810f236d",
+   "country": "DE",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/3f00ccd6-1030-402a-85a8-816a810f236d"
+  },
+  {
+   "name": "Yahya",
+   "mbid": "73d23096-829f-4377-8ff9-9ce447d889c0",
+   "country": "MA",
+   "type": "Person",
+   "disambiguation": "electronic music producer",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/73d23096-829f-4377-8ff9-9ce447d889c0"
+  },
+  {
+   "name": "Yahya",
+   "mbid": "6bf6e033-55f2-4984-b9c1-46dc829455b4",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "Indonesian Artist",
+   "begin": "2000-05-04",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/6bf6e033-55f2-4984-b9c1-46dc829455b4"
+  },
+  {
+   "name": "Bro Yahya",
+   "mbid": "562b555e-3559-4fc3-abf0-291c43bf6043",
+   "country": "JM",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/562b555e-3559-4fc3-abf0-291c43bf6043"
+  },
+  {
+   "name": "Tantowi Yahya",
+   "mbid": "05b8ca8d-c4b6-4fe5-a538-dc279cc3589f",
+   "country": "ID",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/05b8ca8d-c4b6-4fe5-a538-dc279cc3589f"
+  },
+  {
+   "name": "Shaában Yahya",
+   "mbid": "19fa3681-8ad7-4a5a-a6fe-3e06a204e5bb",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/19fa3681-8ad7-4a5a-a6fe-3e06a204e5bb"
+  },
+  {
+   "name": "Yahya Alkhansa",
+   "mbid": "1d934104-5776-49ff-b9ca-144890f9ca43",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/1d934104-5776-49ff-b9ca-144890f9ca43"
+  },
+  {
+   "name": "Yahya Geylan",
+   "mbid": "e7be9ca3-96c3-407f-b4f5-021c4b5f0108",
+   "country": "TR",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/e7be9ca3-96c3-407f-b4f5-021c4b5f0108"
+  }
+ ]
+}

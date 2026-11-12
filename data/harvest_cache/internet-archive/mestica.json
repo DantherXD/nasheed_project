@@ -1,0 +1,54 @@
+{
+ "total": 7,
+ "hits": [
+  {
+   "identifier": "jamendo-148533",
+   "title": "Mestica Artigianale - MALE",
+   "creator": "Mestica Artigianale",
+   "licence": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+   "url": "https://archive.org/details/jamendo-148533"
+  },
+  {
+   "identifier": "mesticaartigianaledimprovviso",
+   "title": "Mestica Artigianale - D'improvviso trafitti da un tremito",
+   "creator": "Mestica Artigianale",
+   "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+   "url": "https://archive.org/details/mesticaartigianaledimprovviso"
+  },
+  {
+   "identifier": "jamendo-021158",
+   "title": "Mestica Artigianale - Studi, o - Studies, or Vol II",
+   "creator": null,
+   "licence": null,
+   "url": "https://archive.org/details/jamendo-021158"
+  },
+  {
+   "identifier": "MALE-2024-05-04",
+   "title": "Mestica Artigianale Concerto 4 Maggio 2024",
+   "creator": "Mestica Artigianale",
+   "licence": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+   "url": "https://archive.org/details/MALE-2024-05-04"
+  },
+  {
+   "identifier": "jamendo-008354",
+   "title": "Mestica Artigianale - Cerca",
+   "creator": null,
+   "licence": null,
+   "url": "https://archive.org/details/jamendo-008354"
+  },
+  {
+   "identifier": "jamendo-146925",
+   "title": "Mestica Artigianale - Dimprovviso trafitti da un fremito",
+   "creator": "Mestica Artigianale",
+   "licence": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+   "url": "https://archive.org/details/jamendo-146925"
+  },
+  {
+   "identifier": "jamendo-020945",
+   "title": "Mestica Artigianale - Studi, o - Studies, or",
+   "creator": null,
+   "licence": null,
+   "url": "https://archive.org/details/jamendo-020945"
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "hits": [
+  {
+   "name": "Aysha",
+   "mbid": "a42e9dec-576e-43b1-a614-fadcf6aa169e",
+   "country": "IT",
+   "type": null,
+   "disambiguation": "Italian project",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/a42e9dec-576e-43b1-a614-fadcf6aa169e"
+  },
+  {
+   "name": "Jodie Aysha",
+   "mbid": "beafd550-4cb4-47e1-b930-4a9d95482600",
+   "country": "GB",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1988-11-22",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/beafd550-4cb4-47e1-b930-4a9d95482600"
+  },
+  {
+   "name": "Aysha Loren",
+   "mbid": "e0b6bc73-45d7-4799-88c1-e944627d33fe",
+   "country": "GB",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1981-10-19",
+   "tags": [
+    "reggae",
+    "soul"
+   ],
+   "url": "https://musicbrainz.org/artist/e0b6bc73-45d7-4799-88c1-e944627d33fe"
+  },
+  {
+   "name": "Aysha Akhtar",
+   "mbid": "87a20a95-5ebf-4956-a4ba-98bae8cc8e97",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "neurologist",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/87a20a95-5ebf-4956-a4ba-98bae8cc8e97"
+  },
+  {
+   "name": "Aysha Kala",
+   "mbid": "6a3f8a42-ca92-4770-a61e-9736ee6ad382",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "voice actor",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/6a3f8a42-ca92-4770-a61e-9736ee6ad382"
+  },
+  {
+   "name": "Aysha Monet",
+   "mbid": "fd6be10e-1e3e-4770-bd61-36ebe20d9338",
+   "country": null,
+   "type": null,
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/fd6be10e-1e3e-4770-bd61-36ebe20d9338"
+  },
+  {
+   "name": "Aysha Farheen",
+   "mbid": "a7a394b1-da5f-4381-afe4-086560a7f4ed",
+   "country": "IN",
+   "type": "Person",
+   "disambiguation": "South Indian Playback Singer",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/a7a394b1-da5f-4381-afe4-086560a7f4ed"
+  },
+  {
+   "name": "Aysha Benelli",
+   "mbid": "8ae9da1c-bbe0-41b1-904e-a14ea522479d",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "2003-05-13",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/8ae9da1c-bbe0-41b1-904e-a14ea522479d"
+  }
+ ]
+}

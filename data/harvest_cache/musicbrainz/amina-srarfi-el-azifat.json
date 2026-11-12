@@ -1,0 +1,130 @@
+{
+ "hits": [
+  {
+   "name": "Kaddour Srarfi",
+   "mbid": "36ddbf77-5dc7-49d6-bc4c-128a06d615a8",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/36ddbf77-5dc7-49d6-bc4c-128a06d615a8"
+  },
+  {
+   "name": "Various Artists",
+   "mbid": "89ad4ac3-39f7-470e-963a-56509c546377",
+   "country": null,
+   "type": "Other",
+   "disambiguation": "add compilations to this artist",
+   "begin": null,
+   "tags": [
+    "rock",
+    "trance",
+    "electronic",
+    "soundtrack",
+    "classical",
+    "pop",
+    "special purpose artist",
+    "jungle"
+   ],
+   "url": "https://musicbrainz.org/artist/89ad4ac3-39f7-470e-963a-56509c546377"
+  },
+  {
+   "name": "Above & Beyond",
+   "mbid": "370bd5a3-4abf-4356-8576-3a8fc0c11d65",
+   "country": "GB",
+   "type": "Group",
+   "disambiguation": null,
+   "begin": "2000",
+   "tags": [
+    "trance",
+    "electronic",
+    "downtempo",
+    "pop",
+    "drum and bass",
+    "ambient",
+    "dance",
+    "house"
+   ],
+   "url": "https://musicbrainz.org/artist/370bd5a3-4abf-4356-8576-3a8fc0c11d65"
+  },
+  {
+   "name": "Klaus & Klaus",
+   "mbid": "b8abcd69-c811-44fc-a150-977f9c23a7d3",
+   "country": "DE",
+   "type": "Group",
+   "disambiguation": null,
+   "begin": "1980",
+   "tags": [
+    "schlager"
+   ],
+   "url": "https://musicbrainz.org/artist/b8abcd69-c811-44fc-a150-977f9c23a7d3"
+  },
+  {
+   "name": "El Tri",
+   "mbid": "2c7d1a89-039f-499f-b354-ebe94512f8af",
+   "country": "MX",
+   "type": "Group",
+   "disambiguation": null,
+   "begin": "1984",
+   "tags": [
+    "rock",
+    "blues",
+    "latin"
+   ],
+   "url": "https://musicbrainz.org/artist/2c7d1a89-039f-499f-b354-ebe94512f8af"
+  },
+  {
+   "name": "Peter Gabriel",
+   "mbid": "8e66ea2b-b57b-47d9-8df0-df4630aeb8e5",
+   "country": "GB",
+   "type": "Person",
+   "disambiguation": "formerly of Genesis",
+   "begin": "1950-02-13",
+   "tags": [
+    "rock",
+    "soundtrack",
+    "pop",
+    "progressive rock",
+    "ambient",
+    "folk",
+    "experimental",
+    "british"
+   ],
+   "url": "https://musicbrainz.org/artist/8e66ea2b-b57b-47d9-8df0-df4630aeb8e5"
+  },
+  {
+   "name": "sonnov",
+   "mbid": "5fde3528-8641-4578-a031-37748a7c20ca",
+   "country": "RU",
+   "type": "Person",
+   "disambiguation": "Russian ambient / drone musician",
+   "begin": null,
+   "tags": [
+    "ambient",
+    "drone",
+    "has full bandcamp discography purchase"
+   ],
+   "url": "https://musicbrainz.org/artist/5fde3528-8641-4578-a031-37748a7c20ca"
+  },
+  {
+   "name": "Bill Nelson",
+   "mbid": "8d463dee-ffae-4028-a3af-ec8ccb595906",
+   "country": "GB",
+   "type": "Person",
+   "disambiguation": "English experimental musician",
+   "begin": "1948-12-18",
+   "tags": [
+    "rock",
+    "electronic",
+    "synthpop",
+    "pop",
+    "ambient",
+    "new wave",
+    "art rock",
+    "experimental rock"
+   ],
+   "url": "https://musicbrainz.org/artist/8d463dee-ffae-4028-a3af-ec8ccb595906"
+  }
+ ]
+}

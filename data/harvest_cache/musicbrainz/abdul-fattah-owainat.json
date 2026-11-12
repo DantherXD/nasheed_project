@@ -1,0 +1,84 @@
+{
+ "hits": [
+  {
+   "name": "Nabila Abdul Fattah",
+   "mbid": "43837584-52f9-442f-a267-1405cd259151",
+   "country": "SE",
+   "type": "Person",
+   "disambiguation": "Swedish rapper, activist and debater",
+   "begin": "1981-06-04",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/43837584-52f9-442f-a267-1405cd259151"
+  },
+  {
+   "name": "Ahmed Abdul Fattah",
+   "mbid": "2d96c376-ccc2-4c8e-88f5-d10de4e0eaa9",
+   "country": null,
+   "type": null,
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/2d96c376-ccc2-4c8e-88f5-d10de4e0eaa9"
+  },
+  {
+   "name": "Milena Fattah",
+   "mbid": "a251072b-8ef1-42f4-9321-999cb43b9262",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/a251072b-8ef1-42f4-9321-999cb43b9262"
+  },
+  {
+   "name": "Iman Fattah",
+   "mbid": "902a5459-98e8-4cf3-a689-8f602dcc0098",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1977-07-28",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/902a5459-98e8-4cf3-a689-8f602dcc0098"
+  },
+  {
+   "name": "Timur Fattah",
+   "mbid": "f13fa5a8-89ec-4913-b3f7-36b24c0f74d0",
+   "country": "UZ",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/f13fa5a8-89ec-4913-b3f7-36b24c0f74d0"
+  },
+  {
+   "name": "Fattah Abbou",
+   "mbid": "90fed754-bc7f-4eea-a77d-aeff65d5ca24",
+   "country": "MA",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/90fed754-bc7f-4eea-a77d-aeff65d5ca24"
+  },
+  {
+   "name": "Donny Fattah",
+   "mbid": "e27874e2-f19d-412a-9e7f-d9df778c915b",
+   "country": "ID",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1949-09-24",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/e27874e2-f19d-412a-9e7f-d9df778c915b"
+  },
+  {
+   "name": "Fattah Fathi",
+   "mbid": "31cb0e3c-03e0-4586-8ec2-e0af2dc30efe",
+   "country": "IR",
+   "type": "Person",
+   "disambiguation": "Iranian producer",
+   "begin": "1987-12-16",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/31cb0e3c-03e0-4586-8ec2-e0af2dc30efe"
+  }
+ ]
+}

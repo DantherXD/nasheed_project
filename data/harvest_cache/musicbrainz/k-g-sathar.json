@@ -1,0 +1,141 @@
+{
+ "hits": [
+  {
+   "name": "G. G. Anderson",
+   "mbid": "9567ea4f-7321-400d-a134-ad5f45b67335",
+   "country": "DE",
+   "type": "Person",
+   "disambiguation": "German Schlager singer, aka Gerd Grabowski",
+   "begin": "1949-12-04",
+   "tags": [
+    "schlager"
+   ],
+   "url": "https://musicbrainz.org/artist/9567ea4f-7321-400d-a134-ad5f45b67335"
+  },
+  {
+   "name": "J. K. Rowling",
+   "mbid": "569c0d90-28dd-413b-83e4-aaa7c27e667b",
+   "country": "GB",
+   "type": "Person",
+   "disambiguation": "English novelist",
+   "begin": "1965-07-31",
+   "tags": [
+    "british",
+    "uk",
+    "fantasy",
+    "audiobook",
+    "english",
+    "author",
+    "deu",
+    "non-musician"
+   ],
+   "url": "https://musicbrainz.org/artist/569c0d90-28dd-413b-83e4-aaa7c27e667b"
+  },
+  {
+   "name": "Warren G",
+   "mbid": "85d7666c-d3ce-4e2c-8b1b-f20db7cdae4f",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1970-11-10",
+   "tags": [
+    "rap",
+    "hip hop",
+    "dj",
+    "southern hip hop",
+    "gangsta rap",
+    "pop rap",
+    "g-funk",
+    "god"
+   ],
+   "url": "https://musicbrainz.org/artist/85d7666c-d3ce-4e2c-8b1b-f20db7cdae4f"
+  },
+  {
+   "name": "George Frideric Handel",
+   "mbid": "27870d47-bb98-42d1-bf2b-c7e972e6befc",
+   "country": "GB",
+   "type": "Person",
+   "disambiguation": "German‐British baroque composer",
+   "begin": "1685-02-23",
+   "tags": [
+    "classical",
+    "german",
+    "orchestral",
+    "british",
+    "opera",
+    "composer",
+    "keyboard",
+    "baroque"
+   ],
+   "url": "https://musicbrainz.org/artist/27870d47-bb98-42d1-bf2b-c7e972e6befc"
+  },
+  {
+   "name": "G‐Unit",
+   "mbid": "3a212655-d7d5-4570-9d31-4b7b1ef02629",
+   "country": "US",
+   "type": "Group",
+   "disambiguation": "hip hop group",
+   "begin": "2002",
+   "tags": [
+    "hip hop",
+    "gangsta rap",
+    "hip hop rnb and dance hall",
+    "50 cent"
+   ],
+   "url": "https://musicbrainz.org/artist/3a212655-d7d5-4570-9d31-4b7b1ef02629"
+  },
+  {
+   "name": "Kenny G",
+   "mbid": "4cd556a5-db82-43f6-8d55-99598b42da8f",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": "saxophonist",
+   "begin": "1956-06-05",
+   "tags": [
+    "jazz",
+    "american",
+    "adult contemporary",
+    "quiet storm",
+    "contemporary jazz",
+    "smooth jazz"
+   ],
+   "url": "https://musicbrainz.org/artist/4cd556a5-db82-43f6-8d55-99598b42da8f"
+  },
+  {
+   "name": "Gustav Mahler",
+   "mbid": "8d610e51-64b4-4654-b8df-064b0fb7a9d9",
+   "country": "AT",
+   "type": "Person",
+   "disambiguation": "Austro‐Bohemian Romantic composer",
+   "begin": "1860-07-07",
+   "tags": [
+    "classical",
+    "instrumental",
+    "production music",
+    "opera",
+    "austrian",
+    "composer",
+    "romantic",
+    "european"
+   ],
+   "url": "https://musicbrainz.org/artist/8d610e51-64b4-4654-b8df-064b0fb7a9d9"
+  },
+  {
+   "name": "Giuseppe Verdi",
+   "mbid": "f1bedf1f-4445-4651-9c35-f4a3f3860a13",
+   "country": "IT",
+   "type": "Person",
+   "disambiguation": "Italian opera composer",
+   "begin": "1813-10-10",
+   "tags": [
+    "classical",
+    "italian",
+    "production music",
+    "opera",
+    "composer",
+    "european"
+   ],
+   "url": "https://musicbrainz.org/artist/f1bedf1f-4445-4651-9c35-f4a3f3860a13"
+  }
+ ]
+}

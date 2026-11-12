@@ -1,0 +1,111 @@
+{
+ "hits": [
+  {
+   "name": "Buddhism Chanting Group",
+   "mbid": "330c9fdd-f709-40c1-b0a0-cb3e288a39b4",
+   "country": null,
+   "type": "Group",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/330c9fdd-f709-40c1-b0a0-cb3e288a39b4"
+  },
+  {
+   "name": "Various Artists",
+   "mbid": "89ad4ac3-39f7-470e-963a-56509c546377",
+   "country": null,
+   "type": "Other",
+   "disambiguation": "add compilations to this artist",
+   "begin": null,
+   "tags": [
+    "rock",
+    "trance",
+    "electronic",
+    "soundtrack",
+    "classical",
+    "pop",
+    "special purpose artist",
+    "jungle"
+   ],
+   "url": "https://musicbrainz.org/artist/89ad4ac3-39f7-470e-963a-56509c546377"
+  },
+  {
+   "name": "[unknown]",
+   "mbid": "125ec42a-7229-4250-afc5-e057484327fe",
+   "country": "XW",
+   "type": "Other",
+   "disambiguation": "Special Purpose Artist – Do not add releases here, if possible.",
+   "begin": null,
+   "tags": [
+    "soundtrack",
+    "classical",
+    "special purpose artist",
+    "fixme",
+    "ambient",
+    "bogus artist",
+    "software company as artist",
+    "meta artist"
+   ],
+   "url": "https://musicbrainz.org/artist/125ec42a-7229-4250-afc5-e057484327fe"
+  },
+  {
+   "name": "Chanting Monks",
+   "mbid": "6ae8ba4d-0fe1-4209-8593-42b2fff0ef47",
+   "country": null,
+   "type": null,
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/6ae8ba4d-0fe1-4209-8593-42b2fff0ef47"
+  },
+  {
+   "name": "Easy Chanting",
+   "mbid": "03a92b69-c469-4aa5-a345-c1e29222f2ee",
+   "country": null,
+   "type": null,
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/03a92b69-c469-4aa5-a345-c1e29222f2ee"
+  },
+  {
+   "name": "Chanting Stones",
+   "mbid": "38395232-28c0-41df-b2d3-b955625238ca",
+   "country": null,
+   "type": null,
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/38395232-28c0-41df-b2d3-b955625238ca"
+  },
+  {
+   "name": "Chanting Kings",
+   "mbid": "58e4c218-5393-49fa-ad8b-f175fd879aa7",
+   "country": "DE",
+   "type": "Group",
+   "disambiguation": "reggae",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/58e4c218-5393-49fa-ad8b-f175fd879aa7"
+  },
+  {
+   "name": "[no artist]",
+   "mbid": "eec63d3c-3b81-4ad4-b1e4-7c147d4d2b61",
+   "country": null,
+   "type": "Other",
+   "disambiguation": "Special Purpose Artist",
+   "begin": null,
+   "tags": [
+    "special purpose artist",
+    "fixme",
+    "bogus artist",
+    "meta artist",
+    "non-music",
+    "nature",
+    "bogus",
+    "nature sounds"
+   ],
+   "url": "https://musicbrainz.org/artist/eec63d3c-3b81-4ad4-b1e4-7c147d4d2b61"
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "hits": [
+  {
+   "name": "Mohamed Mood",
+   "mbid": "1618bd2e-459a-4556-9a8d-b394e692e139",
+   "country": "SD",
+   "type": "Person",
+   "disambiguation": "Sudanese hip-hop artist",
+   "begin": "1986-01-01",
+   "tags": [
+    "hip hop",
+    "underground rap",
+    "gangsta rap",
+    "west coast hip hop",
+    "old school rap",
+    "conscious hip hop",
+    "arabic hip hop",
+    "محمد مود"
+   ],
+   "url": "https://musicbrainz.org/artist/1618bd2e-459a-4556-9a8d-b394e692e139"
+  },
+  {
+   "name": "Mohamed Abozekry",
+   "mbid": "a4df6b6a-d55e-477d-ae88-794557326a61",
+   "country": "FR",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1991-07-06",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/a4df6b6a-d55e-477d-ae88-794557326a61"
+  },
+  {
+   "name": "Mohamed",
+   "mbid": "600f86e8-d080-4c74-a726-ebc0160c853e",
+   "country": null,
+   "type": null,
+   "disambiguation": "Bernd Burhoff, Burkhard Blaschke, Sascha Basler",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/600f86e8-d080-4c74-a726-ebc0160c853e"
+  },
+  {
+   "name": "Pops Mohamed",
+   "mbid": "70918e21-3fac-4dbf-85e3-b5d44d479dc5",
+   "country": "ZA",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1949-12-10",
+   "tags": [
+    "jazz",
+    "south african"
+   ],
+   "url": "https://musicbrainz.org/artist/70918e21-3fac-4dbf-85e3-b5d44d479dc5"
+  },
+  {
+   "name": "Mohamed",
+   "mbid": "56841b3d-94ec-411a-b07f-3d8cb5b18bcd",
+   "country": null,
+   "type": "Other",
+   "disambiguation": "Composer",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/56841b3d-94ec-411a-b07f-3d8cb5b18bcd"
+  },
+  {
+   "name": "Mohamed",
+   "mbid": "10481a0c-1892-4ad0-8154-e28720f424a1",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "Joujouka",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/10481a0c-1892-4ad0-8154-e28720f424a1"
+  },
+  {
+   "name": "mohamed",
+   "mbid": "6ad8f97c-7e2b-4e79-b79b-a16c711ad710",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "Jimmy Donaldson",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/6ad8f97c-7e2b-4e79-b79b-a16c711ad710"
+  },
+  {
+   "name": "Mohamed",
+   "mbid": "ac4730dd-5bd8-4319-9a40-786462759e37",
+   "country": "ES",
+   "type": "Person",
+   "disambiguation": "violinist for Mägo de Oz",
+   "begin": "1969",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/ac4730dd-5bd8-4319-9a40-786462759e37"
+  }
+ ]
+}

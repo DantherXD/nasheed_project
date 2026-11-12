@@ -1,0 +1,95 @@
+{
+ "hits": [
+  {
+   "name": "Saleem Kodathoor",
+   "mbid": "d3f5e84b-8559-462b-9892-7b65107f2034",
+   "country": null,
+   "type": null,
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/d3f5e84b-8559-462b-9892-7b65107f2034"
+  },
+  {
+   "name": "Saleem",
+   "mbid": "ded0f529-2a2e-4df9-a378-5cf1f1cf1f71",
+   "country": "MY",
+   "type": "Person",
+   "disambiguation": "Malaysian singer",
+   "begin": "1961-08-31",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/ded0f529-2a2e-4df9-a378-5cf1f1cf1f71"
+  },
+  {
+   "name": "Saleem",
+   "mbid": "3edecafb-cbf4-4011-9e2d-66508a512326",
+   "country": "FR",
+   "type": "Person",
+   "disambiguation": "French hip-hop vocalist",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/3edecafb-cbf4-4011-9e2d-66508a512326"
+  },
+  {
+   "name": "Saleem Ashkar",
+   "mbid": "71e7e71b-6b00-4652-97c0-9dfb84abb794",
+   "country": "IL",
+   "type": "Person",
+   "disambiguation": "pianist",
+   "begin": "1976",
+   "tags": [
+    "classical",
+    "pianist",
+    "israeli pianist"
+   ],
+   "url": "https://musicbrainz.org/artist/71e7e71b-6b00-4652-97c0-9dfb84abb794"
+  },
+  {
+   "name": "Master Saleem",
+   "mbid": "b1fafe9a-0e7d-4e67-932f-531072f04a55",
+   "country": "IN",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1980-07-13",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/b1fafe9a-0e7d-4e67-932f-531072f04a55"
+  },
+  {
+   "name": "Saleem Javed",
+   "mbid": "29d49842-620d-4179-b657-a46ea9b629f4",
+   "country": "PK",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/29d49842-620d-4179-b657-a46ea9b629f4"
+  },
+  {
+   "name": "Ameen Saleem",
+   "mbid": "a4cd3712-4768-49fe-9233-f75052e07f61",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/a4cd3712-4768-49fe-9233-f75052e07f61"
+  },
+  {
+   "name": "Shahmeer Saleem",
+   "mbid": "454f0727-6abb-4717-9dc6-e9eb1a5f4808",
+   "country": "KR",
+   "type": "Person",
+   "disambiguation": "샤미르 살림",
+   "begin": "2006-12-21",
+   "tags": [
+    "pop",
+    "kpop",
+    "hip hop",
+    "t-pop",
+    "3rd gen k-pop",
+    "k-pop"
+   ],
+   "url": "https://musicbrainz.org/artist/454f0727-6abb-4717-9dc6-e9eb1a5f4808"
+  }
+ ]
+}

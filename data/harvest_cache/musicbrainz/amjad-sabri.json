@@ -1,0 +1,93 @@
+{
+ "hits": [
+  {
+   "name": "Amjad Sabri",
+   "mbid": "5166bb26-1182-4c3a-a1fb-187a8fcd02c3",
+   "country": "PK",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1976-12-23",
+   "tags": [
+    "qawwal",
+    "qawwali"
+   ],
+   "url": "https://musicbrainz.org/artist/5166bb26-1182-4c3a-a1fb-187a8fcd02c3"
+  },
+  {
+   "name": "SABRI",
+   "mbid": "6393b3d5-8d35-43f8-875b-c59ab787e1a1",
+   "country": null,
+   "type": null,
+   "disambiguation": "Dutch singer",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/6393b3d5-8d35-43f8-875b-c59ab787e1a1"
+  },
+  {
+   "name": "Sabri",
+   "mbid": "3703d9a0-aedb-4024-ab41-ffe02689f374",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "Roma Rap artist from Shutka, Macedonia",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/3703d9a0-aedb-4024-ab41-ffe02689f374"
+  },
+  {
+   "name": "Sabri",
+   "mbid": "fa7a6988-1660-40d4-9f26-cef7f07d466f",
+   "country": "FR",
+   "type": "Person",
+   "disambiguation": "Rapper",
+   "begin": null,
+   "tags": [
+    "hip hop"
+   ],
+   "url": "https://musicbrainz.org/artist/fa7a6988-1660-40d4-9f26-cef7f07d466f"
+  },
+  {
+   "name": "S.A.B.R.I",
+   "mbid": "01784a9e-a9a5-49c7-b01b-c927f3950c36",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "Electronic & progressive house producer",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/01784a9e-a9a5-49c7-b01b-c927f3950c36"
+  },
+  {
+   "name": "Sabri Fejzullahu",
+   "mbid": "4a50d8fa-813f-4922-9bfd-adca14830d7e",
+   "country": "XK",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1947-09-16",
+   "tags": [
+    "sabri fejzullahu albumet e ty"
+   ],
+   "url": "https://musicbrainz.org/artist/4a50d8fa-813f-4922-9bfd-adca14830d7e"
+  },
+  {
+   "name": "Sabri Khan",
+   "mbid": "0520af13-6dab-4eda-b8b9-d14cf60e808b",
+   "country": "IN",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1927-05-21",
+   "tags": [
+    "sarangi"
+   ],
+   "url": "https://musicbrainz.org/artist/0520af13-6dab-4eda-b8b9-d14cf60e808b"
+  },
+  {
+   "name": "Sabb",
+   "mbid": "00f1440c-e7d9-4b9f-a86c-7eced5644d59",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/00f1440c-e7d9-4b9f-a86c-7eced5644d59"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "total": 3,
+ "hits": [
+  {
+   "identifier": "jamendo-236402",
+   "title": "RedLion - We we -RedLion",
+   "creator": "RedLion",
+   "licence": "http://creativecommons.org/licenses/by-nd/3.0/",
+   "url": "https://archive.org/details/jamendo-236402"
+  },
+  {
+   "identifier": "redlion-muslim-nasheed-trap",
+   "title": "Kılıç Dağhan Redlion Muslim Nasheed Trap",
+   "creator": "Nasheed Trap",
+   "licence": null,
+   "url": "https://archive.org/details/redlion-muslim-nasheed-trap"
+  },
+  {
+   "identifier": "iuma-redlion",
+   "title": "IUMA: RedLion",
+   "creator": null,
+   "licence": null,
+   "url": "https://archive.org/details/iuma-redlion"
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "hits": [
+  {
+   "id": "quranlab/hadith",
+   "url": "https://huggingface.co/datasets/quranlab/hadith"
+  },
+  {
+   "id": "Nuwaisir/Quran_speech_recognition_kaggle",
+   "url": "https://huggingface.co/datasets/Nuwaisir/Quran_speech_recognition_kaggle"
+  },
+  {
+   "id": "mustapha/QuranExe",
+   "url": "https://huggingface.co/datasets/mustapha/QuranExe"
+  },
+  {
+   "id": "tarteel-ai/quranqa",
+   "url": "https://huggingface.co/datasets/tarteel-ai/quranqa"
+  },
+  {
+   "id": "arbml/quran_uthmani",
+   "url": "https://huggingface.co/datasets/arbml/quran_uthmani"
+  }
+ ]
+}

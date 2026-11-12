@@ -1,0 +1,84 @@
+{
+ "hits": [
+  {
+   "name": "Rami",
+   "mbid": "72d4c03c-e2c8-4928-8b9b-26e3ab688686",
+   "country": "JP",
+   "type": "Person",
+   "disambiguation": "Aldious, Raglaia",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/72d4c03c-e2c8-4928-8b9b-26e3ab688686"
+  },
+  {
+   "name": "Rami",
+   "mbid": "441f4ad3-f3f3-463a-bbea-8e2f684c0434",
+   "country": "SE",
+   "type": "Person",
+   "disambiguation": "Swedish rapper Rami Mousa Elias",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/441f4ad3-f3f3-463a-bbea-8e2f684c0434"
+  },
+  {
+   "name": "Rami",
+   "mbid": "a81b0072-54f3-45d1-b21e-e4cbdc88bb5d",
+   "country": "IT",
+   "type": "Group",
+   "disambiguation": "Italian emo band",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/a81b0072-54f3-45d1-b21e-e4cbdc88bb5d"
+  },
+  {
+   "name": "RAMI",
+   "mbid": "f50ac9b4-be99-4dc7-91a0-eb4c9958f522",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "Lebanese music producer",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/f50ac9b4-be99-4dc7-91a0-eb4c9958f522"
+  },
+  {
+   "name": "Rami",
+   "mbid": "06f12865-491b-4d22-adbd-d05302aebbde",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": "Nashville-based Hungarian singer Judit Ramóna",
+   "begin": "1990-02-19",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/06f12865-491b-4d22-adbd-d05302aebbde"
+  },
+  {
+   "name": "Rami",
+   "mbid": "a0e96ce7-1dac-4f26-aed6-c1c22dc66228",
+   "country": null,
+   "type": null,
+   "disambiguation": "house",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/a0e96ce7-1dac-4f26-aed6-c1c22dc66228"
+  },
+  {
+   "name": "RAMI",
+   "mbid": "b819f5e2-4456-4862-bf65-105f2594572d",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "US DJ and Producer",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/b819f5e2-4456-4862-bf65-105f2594572d"
+  },
+  {
+   "name": "Rami",
+   "mbid": "b13f0288-830a-4ad7-9c60-830f545e5e2b",
+   "country": "SE",
+   "type": "Person",
+   "disambiguation": "Swedish record producer and songwriter",
+   "begin": "1975-01-17",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/b13f0288-830a-4ad7-9c60-830f545e5e2b"
+  }
+ ]
+}

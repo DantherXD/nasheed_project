@@ -1,0 +1,33 @@
+{
+ "hits": [
+  {
+   "name": "Dishari Shilpigosthi",
+   "mbid": "ec7c8b3f-7452-4bc8-8bbb-3cf953ff15d5",
+   "country": "BD",
+   "type": "Group",
+   "disambiguation": null,
+   "begin": "1976-05-20",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/ec7c8b3f-7452-4bc8-8bbb-3cf953ff15d5"
+  },
+  {
+   "name": "Saimum Shilpigosthi",
+   "mbid": "45bf3689-57ba-4b03-a934-1c3489d7d751",
+   "country": "BD",
+   "type": "Group",
+   "disambiguation": null,
+   "begin": "1978-01-01",
+   "tags": [
+    "সাইমুম",
+    "সাইমুম শিল্পীগোষ্ঠী",
+    "সাইমুম শিল্পী গোষ্ঠী",
+    "সাইমুম শিল্পীগোষ্ঠী বাংলাদেশ",
+    "শিল্পীগোষ্ঠী",
+    "শিল্পীগোষ্ঠী সাইমুম",
+    "সাইমুমের গান",
+    "saimum"
+   ],
+   "url": "https://musicbrainz.org/artist/45bf3689-57ba-4b03-a934-1c3489d7d751"
+  }
+ ]
+}

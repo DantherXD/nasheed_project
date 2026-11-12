@@ -1,0 +1,104 @@
+{
+ "hits": [
+  {
+   "name": "موسى العميرة",
+   "mbid": "58ea65e7-12bf-4cd2-9775-b8e6aa93d881",
+   "country": "SA",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1978-11-30",
+   "tags": [
+    "nasheed"
+   ],
+   "url": "https://musicbrainz.org/artist/58ea65e7-12bf-4cd2-9775-b8e6aa93d881"
+  },
+  {
+   "name": "Musa al-Gharbi",
+   "mbid": "ade796c6-f9ad-496d-ab4c-9924e4ac39eb",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": "biologist",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/ade796c6-f9ad-496d-ab4c-9924e4ac39eb"
+  },
+  {
+   "name": "Al Green",
+   "mbid": "fb7272ba-f130-4f0a-934d-6eeea4c18c9a",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": "US soul singer, songwriter, pastor and record producer",
+   "begin": "1946-04-13",
+   "tags": [
+    "soul",
+    "1980s",
+    "1970s",
+    "gospel",
+    "southern soul",
+    "soul blues",
+    "soul and reggae",
+    "contemporary gospel"
+   ],
+   "url": "https://musicbrainz.org/artist/fb7272ba-f130-4f0a-934d-6eeea4c18c9a"
+  },
+  {
+   "name": "Musa",
+   "mbid": "73789e9f-d7f4-44b3-a271-b189419077fb",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "prodmusa",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/73789e9f-d7f4-44b3-a271-b189419077fb"
+  },
+  {
+   "name": "جواد العلي",
+   "mbid": "42b03a84-b9b4-42b5-86b0-10ab51a51ef5",
+   "country": "SA",
+   "type": "Person",
+   "disambiguation": "saudi siner",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/42b03a84-b9b4-42b5-86b0-10ab51a51ef5"
+  },
+  {
+   "name": "MUSA",
+   "mbid": "58b0d040-040f-456e-b168-8193a3da1fde",
+   "country": "DE",
+   "type": "Person",
+   "disambiguation": "German rapper of african descent, BSMG member",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/58b0d040-040f-456e-b168-8193a3da1fde"
+  },
+  {
+   "name": "Ali Jackson",
+   "mbid": "a6900084-bf6a-4566-b8d0-bbcd6c86d6d1",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": "Detroit jazz bassist, 1931-1987",
+   "begin": "1931-03-29",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/a6900084-bf6a-4566-b8d0-bbcd6c86d6d1"
+  },
+  {
+   "name": "Al Jarreau",
+   "mbid": "3e54ba8b-f4cc-4192-9813-890d570e2b7a",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": "jazz, pop and r&b singer-songwriter",
+   "begin": "1940-03-12",
+   "tags": [
+    "soul",
+    "1980s",
+    "1970s",
+    "2000s",
+    "soft rock",
+    "crossover jazz",
+    "vocal jazz",
+    "jazz-funk"
+   ],
+   "url": "https://musicbrainz.org/artist/3e54ba8b-f4cc-4192-9813-890d570e2b7a"
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "hits": [
+  {
+   "name": "Hamza Namira",
+   "mbid": "740d185a-5d12-41a0-85c1-570f9ad61868",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1980-11-01",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/740d185a-5d12-41a0-85c1-570f9ad61868"
+  },
+  {
+   "name": "NaMiRa",
+   "mbid": "21fef28b-b6d1-4b5a-bfcc-c5fb210fb521",
+   "country": "JP",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/21fef28b-b6d1-4b5a-bfcc-c5fb210fb521"
+  },
+  {
+   "name": "Hamza",
+   "mbid": "6a2244c9-3122-454e-b83d-b23e2968884e",
+   "country": "BE",
+   "type": "Person",
+   "disambiguation": "Belgian rapper",
+   "begin": "1994-08-01",
+   "tags": [
+    "rap",
+    "hip hop",
+    "pop rap",
+    "french rap",
+    "alternative r&b",
+    "trap",
+    "french hip hop",
+    "trap soul"
+   ],
+   "url": "https://musicbrainz.org/artist/6a2244c9-3122-454e-b83d-b23e2968884e"
+  },
+  {
+   "name": "Hamza Yusuf",
+   "mbid": "4066e391-43c0-4dc6-9949-f88ab2ba5a35",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/4066e391-43c0-4dc6-9949-f88ab2ba5a35"
+  },
+  {
+   "name": "Hamza",
+   "mbid": "051816e7-d4e8-4aa5-88e4-f404d3994096",
+   "country": "BA",
+   "type": "Person",
+   "disambiguation": "Bosnian rapper",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/051816e7-d4e8-4aa5-88e4-f404d3994096"
+  },
+  {
+   "name": "Hamza",
+   "mbid": "519cacf4-8d27-4071-8b01-0824fabcdfbb",
+   "country": "IN",
+   "type": "Person",
+   "disambiguation": "Indian house producer",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/519cacf4-8d27-4071-8b01-0824fabcdfbb"
+  },
+  {
+   "name": "Hamza",
+   "mbid": "ebfd1db5-5fd0-4bb5-ab5b-817b6b95eced",
+   "country": "FR",
+   "type": "Person",
+   "disambiguation": "French old school hip hop / Near Les Repentis/Adès",
+   "begin": null,
+   "tags": [
+    "hip hop"
+   ],
+   "url": "https://musicbrainz.org/artist/ebfd1db5-5fd0-4bb5-ab5b-817b6b95eced"
+  },
+  {
+   "name": "Hamza",
+   "mbid": "99e60008-f95f-4974-b9c6-bd94fb141349",
+   "country": null,
+   "type": null,
+   "disambiguation": "probably US rapper",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/99e60008-f95f-4974-b9c6-bd94fb141349"
+  }
+ ]
+}

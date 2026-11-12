@@ -1,0 +1,93 @@
+{
+ "hits": [
+  {
+   "name": "Alawi",
+   "mbid": "bd7432bf-6504-4993-927f-1f5c897aa2b0",
+   "country": "CH",
+   "type": "Person",
+   "disambiguation": "Swiss rapper",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/bd7432bf-6504-4993-927f-1f5c897aa2b0"
+  },
+  {
+   "name": "Ahmad Al Alawi",
+   "mbid": "a810c595-4459-4dd6-aa4d-924c149ffbf6",
+   "country": "DZ",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1869-10",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/a810c595-4459-4dd6-aa4d-924c149ffbf6"
+  },
+  {
+   "name": "Saif Al-Alawi",
+   "mbid": "1712bce5-4f5b-42d5-bc03-0c35d2b059ad",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/1712bce5-4f5b-42d5-bc03-0c35d2b059ad"
+  },
+  {
+   "name": "Maliki",
+   "mbid": "870c2839-430c-4ab9-9b06-f66e65ff5943",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "house",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/870c2839-430c-4ab9-9b06-f66e65ff5943"
+  },
+  {
+   "name": "Maliki",
+   "mbid": "eef96038-c807-4d34-a047-7258385674e4",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": "US underground rapper feat. on KGB’s “J.U.I.C.E.” in 2001",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/eef96038-c807-4d34-a047-7258385674e4"
+  },
+  {
+   "name": "Maliki",
+   "mbid": "57056bfb-aa0e-44ad-9b39-0333cc9a6ab7",
+   "country": null,
+   "type": null,
+   "disambiguation": "feat. on Cayoz’s “Finding My Way”",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/57056bfb-aa0e-44ad-9b39-0333cc9a6ab7"
+  },
+  {
+   "name": "Maliki",
+   "mbid": "da9ea023-b679-4cbc-9535-542ccf8f8591",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "rapper from Tampa Florida",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/da9ea023-b679-4cbc-9535-542ccf8f8591"
+  },
+  {
+   "name": "Al Green",
+   "mbid": "fb7272ba-f130-4f0a-934d-6eeea4c18c9a",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": "US soul singer, songwriter, pastor and record producer",
+   "begin": "1946-04-13",
+   "tags": [
+    "soul",
+    "1980s",
+    "1970s",
+    "gospel",
+    "southern soul",
+    "soul blues",
+    "soul and reggae",
+    "contemporary gospel"
+   ],
+   "url": "https://musicbrainz.org/artist/fb7272ba-f130-4f0a-934d-6eeea4c18c9a"
+  }
+ ]
+}

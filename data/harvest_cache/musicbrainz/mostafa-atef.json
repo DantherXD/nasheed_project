@@ -1,0 +1,93 @@
+{
+ "hits": [
+  {
+   "name": "Atef",
+   "mbid": "8f990eb9-db77-4ddd-9598-edaac9045457",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "UK Hardcore producer Atef Bahri",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/8f990eb9-db77-4ddd-9598-edaac9045457"
+  },
+  {
+   "name": "Atef",
+   "mbid": "7c8d25ed-9c1d-4908-a6fb-5b99647727f3",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/7c8d25ed-9c1d-4908-a6fb-5b99647727f3"
+  },
+  {
+   "name": "Grateful Dead",
+   "mbid": "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+   "country": "US",
+   "type": "Group",
+   "disambiguation": null,
+   "begin": "1965",
+   "tags": [
+    "rock",
+    "folk",
+    "american",
+    "blues",
+    "folk rock",
+    "rnb",
+    "psychedelic rock",
+    "psychedelic"
+   ],
+   "url": "https://musicbrainz.org/artist/6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6"
+  },
+  {
+   "name": "Cyril Atef",
+   "mbid": "34dd4872-1f32-4037-96c6-1a4d1a792572",
+   "country": "FR",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1968",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/34dd4872-1f32-4037-96c6-1a4d1a792572"
+  },
+  {
+   "name": "Ahmed Atef",
+   "mbid": "5ef38b33-6633-4b8e-a5a9-3cddf41b9ae3",
+   "country": null,
+   "type": null,
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/5ef38b33-6633-4b8e-a5a9-3cddf41b9ae3"
+  },
+  {
+   "name": "Atef Younsi",
+   "mbid": "25a9c1ef-dab3-403b-8f2d-7bd123e8a825",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/25a9c1ef-dab3-403b-8f2d-7bd123e8a825"
+  },
+  {
+   "name": "عاطف صبحي",
+   "mbid": "0f9f398b-e342-4296-a3d6-5c918dc30986",
+   "country": "EG",
+   "type": "Person",
+   "disambiguation": "Atef Sobhy",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/0f9f398b-e342-4296-a3d6-5c918dc30986"
+  },
+  {
+   "name": "Atef Mitkal Kenawy",
+   "mbid": "23c1c9a1-5e39-43e1-b793-79e11f92f07e",
+   "country": null,
+   "type": null,
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/23c1c9a1-5e39-43e1-b793-79e11f92f07e"
+  }
+ ]
+}

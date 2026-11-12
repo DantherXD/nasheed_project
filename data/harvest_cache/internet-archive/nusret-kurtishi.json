@@ -1,0 +1,26 @@
+{
+ "total": 3,
+ "hits": [
+  {
+   "identifier": "LargVatanit",
+   "title": "Nusret Kurtishi - Larg Vatanit (2018)",
+   "creator": "DjBenny",
+   "licence": null,
+   "url": "https://archive.org/details/LargVatanit"
+  },
+  {
+   "identifier": "NusretKurtishi",
+   "title": "Nusret Kurtishi - Një Kujtim I Sofrës Shqiptare (2020)",
+   "creator": "DjBenny",
+   "licence": null,
+   "url": "https://archive.org/details/NusretKurtishi"
+  },
+  {
+   "identifier": "NusretKurtishi-Jetimi",
+   "title": "Nusret Kurtishi - Jetimi",
+   "creator": "www.Forum-Islamik.com",
+   "licence": null,
+   "url": "https://archive.org/details/NusretKurtishi-Jetimi"
+  }
+ ]
+}

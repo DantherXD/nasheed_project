@@ -1,0 +1,131 @@
+{
+ "hits": [
+  {
+   "name": "Madh",
+   "mbid": "3c15013b-2f7a-41e9-8cb9-2d081ec3162a",
+   "country": "IT",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1993-11-13",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/3c15013b-2f7a-41e9-8cb9-2d081ec3162a"
+  },
+  {
+   "name": "Various Artists",
+   "mbid": "89ad4ac3-39f7-470e-963a-56509c546377",
+   "country": null,
+   "type": "Other",
+   "disambiguation": "add compilations to this artist",
+   "begin": null,
+   "tags": [
+    "rock",
+    "trance",
+    "electronic",
+    "soundtrack",
+    "classical",
+    "pop",
+    "special purpose artist",
+    "jungle"
+   ],
+   "url": "https://musicbrainz.org/artist/89ad4ac3-39f7-470e-963a-56509c546377"
+  },
+  {
+   "name": "Al Green",
+   "mbid": "fb7272ba-f130-4f0a-934d-6eeea4c18c9a",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": "US soul singer, songwriter, pastor and record producer",
+   "begin": "1946-04-13",
+   "tags": [
+    "soul",
+    "1980s",
+    "1970s",
+    "gospel",
+    "southern soul",
+    "soul blues",
+    "soul and reggae",
+    "contemporary gospel"
+   ],
+   "url": "https://musicbrainz.org/artist/fb7272ba-f130-4f0a-934d-6eeea4c18c9a"
+  },
+  {
+   "name": "Orchester der Bayreuther Festspiele",
+   "mbid": "d90e3313-7a9e-43ee-aae8-769a53f65e92",
+   "country": null,
+   "type": "Orchestra",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/d90e3313-7a9e-43ee-aae8-769a53f65e92"
+  },
+  {
+   "name": "Al Jarreau",
+   "mbid": "3e54ba8b-f4cc-4192-9813-890d570e2b7a",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": "jazz, pop and r&b singer-songwriter",
+   "begin": "1940-03-12",
+   "tags": [
+    "soul",
+    "1980s",
+    "1970s",
+    "2000s",
+    "soft rock",
+    "crossover jazz",
+    "vocal jazz",
+    "jazz-funk"
+   ],
+   "url": "https://musicbrainz.org/artist/3e54ba8b-f4cc-4192-9813-890d570e2b7a"
+  },
+  {
+   "name": "Al Stewart",
+   "mbid": "ab7d49fa-c383-4c41-b890-3fe68e559dc4",
+   "country": "GB",
+   "type": "Person",
+   "disambiguation": "UK folk singer/songwriter",
+   "begin": "1945-09-05",
+   "tags": [
+    "folk",
+    "singer-songwriter",
+    "folk rock",
+    "baroque pop",
+    "1980s",
+    "1970s",
+    "2000s",
+    "soft rock"
+   ],
+   "url": "https://musicbrainz.org/artist/ab7d49fa-c383-4c41-b890-3fe68e559dc4"
+  },
+  {
+   "name": "Al Bowlly",
+   "mbid": "f747a4ff-d54f-41b1-be56-97abcf1eb688",
+   "country": "GB",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1898-01-07",
+   "tags": [
+    "death by bomb"
+   ],
+   "url": "https://musicbrainz.org/artist/f747a4ff-d54f-41b1-be56-97abcf1eb688"
+  },
+  {
+   "name": "Al Jolson",
+   "mbid": "5611a8e8-1521-4919-a531-2689bbb57ce4",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1886-05-26",
+   "tags": [
+    "pop",
+    "blues",
+    "musical theater",
+    "1970s",
+    "vocal jazz",
+    "traditional pop",
+    "death by heart attack",
+    "1940s"
+   ],
+   "url": "https://musicbrainz.org/artist/5611a8e8-1521-4919-a531-2689bbb57ce4"
+  }
+ ]
+}

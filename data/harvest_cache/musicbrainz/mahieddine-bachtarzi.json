@@ -1,0 +1,24 @@
+{
+ "hits": [
+  {
+   "name": "Mahieddine Bachtarzi",
+   "mbid": "da32ce7d-ad9a-4b63-a4da-54d690b43f11",
+   "country": "DZ",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1897-12-15",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/da32ce7d-ad9a-4b63-a4da-54d690b43f11"
+  },
+  {
+   "name": "Mahieddine Bentir",
+   "mbid": "443e2a04-7a54-42fd-b8ba-9cb3677328a0",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/443e2a04-7a54-42fd-b8ba-9cb3677328a0"
+  }
+ ]
+}

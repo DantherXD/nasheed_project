@@ -1,0 +1,64 @@
+{
+ "hits": [
+  {
+   "name": "B'Net Houariyat",
+   "mbid": "c9954831-bb9c-48ad-9bbf-047a1cdb3b25",
+   "country": "MA",
+   "type": "Group",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/c9954831-bb9c-48ad-9bbf-047a1cdb3b25"
+  },
+  {
+   "name": "Khadija Warzazia & Bnat El Houariyat",
+   "mbid": "23e3bd22-677c-4d5e-a4ad-3207cc8bd90e",
+   "country": "MA",
+   "type": "Group",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/23e3bd22-677c-4d5e-a4ad-3207cc8bd90e"
+  },
+  {
+   "name": "B’net Chaabi",
+   "mbid": "88545828-ccd0-4c5c-80f2-9c4c07ca9226",
+   "country": null,
+   "type": null,
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/88545828-ccd0-4c5c-80f2-9c4c07ca9226"
+  },
+  {
+   "name": "B’net Marrakech",
+   "mbid": "55bcc82a-92dc-4e3e-8907-dcfc4dfbb04c",
+   "country": "MA",
+   "type": "Group",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/55bcc82a-92dc-4e3e-8907-dcfc4dfbb04c"
+  },
+  {
+   "name": "Sultanats B’net Chaabi",
+   "mbid": "4fb7bb0b-3791-4c0f-9554-b341f2938f22",
+   "country": null,
+   "type": "Group",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/4fb7bb0b-3791-4c0f-9554-b341f2938f22"
+  },
+  {
+   "name": "Sheikhs Shikhats & B’net Chaabi",
+   "mbid": "31f87ba1-f61d-4201-878b-90678368a5e6",
+   "country": "BE",
+   "type": "Group",
+   "disambiguation": null,
+   "begin": "2021",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/31f87ba1-f61d-4201-878b-90678368a5e6"
+  }
+ ]
+}

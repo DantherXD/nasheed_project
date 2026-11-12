@@ -1,0 +1,112 @@
+{
+ "hits": [
+  {
+   "name": "Ahmed Helmy",
+   "mbid": "6321983f-4aee-41a9-9d64-68e81c8c12eb",
+   "country": "EG",
+   "type": "Person",
+   "disambiguation": "trance",
+   "begin": null,
+   "tags": [
+    "electronic",
+    "edm"
+   ],
+   "url": "https://musicbrainz.org/artist/6321983f-4aee-41a9-9d64-68e81c8c12eb"
+  },
+  {
+   "name": "Yazz Ahmed",
+   "mbid": "67b47219-58b2-4a22-893c-58b449f5219c",
+   "country": "GB",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1983",
+   "tags": [
+    "jazz",
+    "arabic",
+    "experimental",
+    "world fusion",
+    "psychedelic",
+    "spiritual jazz",
+    "arabic jazz",
+    "psychedelic arabic jazz"
+   ],
+   "url": "https://musicbrainz.org/artist/67b47219-58b2-4a22-893c-58b449f5219c"
+  },
+  {
+   "name": "Ahmed Romel",
+   "mbid": "529caa40-f395-4c55-9009-9bf145b12f32",
+   "country": "AE",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1989-07-08",
+   "tags": [
+    "trance",
+    "pop",
+    "dance",
+    "deep house",
+    "electronica",
+    "edm",
+    "melodic techno",
+    "melodic house"
+   ],
+   "url": "https://musicbrainz.org/artist/529caa40-f395-4c55-9009-9bf145b12f32"
+  },
+  {
+   "name": "Ilyas Ahmed",
+   "mbid": "c07020e2-9721-41b4-b3a6-3938e40ac84b",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1974",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/c07020e2-9721-41b4-b3a6-3938e40ac84b"
+  },
+  {
+   "name": "Ahmed Fakroun",
+   "mbid": "e71d25ac-af0c-47ef-8ead-48ef634e11d0",
+   "country": "LY",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1952",
+   "tags": [
+    "raï",
+    "arabic"
+   ],
+   "url": "https://musicbrainz.org/artist/e71d25ac-af0c-47ef-8ead-48ef634e11d0"
+  },
+  {
+   "name": "Ahmed Malek",
+   "mbid": "b67690b2-a6e9-456f-b847-1d9bfbc13fbf",
+   "country": "DZ",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1931-03-06",
+   "tags": [
+    "film score",
+    "jazz-funk",
+    "north african music"
+   ],
+   "url": "https://musicbrainz.org/artist/b67690b2-a6e9-456f-b847-1d9bfbc13fbf"
+  },
+  {
+   "name": "Ahmed",
+   "mbid": "569346cc-6bf7-4240-9292-ef1553fe9521",
+   "country": "DE",
+   "type": "Person",
+   "disambiguation": "German comedian",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/569346cc-6bf7-4240-9292-ef1553fe9521"
+  },
+  {
+   "name": "Ahmed",
+   "mbid": "7db482be-d253-4039-9352-2225bf655fc7",
+   "country": "IN",
+   "type": "Person",
+   "disambiguation": "Indian narh flutist from Rajasthan",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/7db482be-d253-4039-9352-2225bf655fc7"
+  }
+ ]
+}

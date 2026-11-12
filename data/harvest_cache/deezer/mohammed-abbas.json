@@ -1,0 +1,39 @@
+{
+ "hits": [
+  {
+   "name": "Mohamed Abas",
+   "id": 6604698,
+   "fans": 62,
+   "albums": 57,
+   "url": "https://www.deezer.com/artist/6604698"
+  },
+  {
+   "name": "Mohammed Bashar",
+   "id": 99920922,
+   "fans": 12,
+   "albums": 44,
+   "url": "https://www.deezer.com/artist/99920922"
+  },
+  {
+   "name": "Mohamed El Abbassi",
+   "id": 4647977,
+   "fans": 53,
+   "albums": 52,
+   "url": "https://www.deezer.com/artist/4647977"
+  },
+  {
+   "name": "Mohammed Abbas Karim",
+   "id": 9056912,
+   "fans": 22,
+   "albums": 14,
+   "url": "https://www.deezer.com/artist/9056912"
+  },
+  {
+   "name": "Mohamed El Abassi",
+   "id": 10391782,
+   "fans": 13,
+   "albums": 17,
+   "url": "https://www.deezer.com/artist/10391782"
+  }
+ ]
+}

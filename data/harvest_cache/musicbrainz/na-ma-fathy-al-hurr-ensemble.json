@@ -1,0 +1,115 @@
+{
+ "hits": [
+  {
+   "name": "Various Artists",
+   "mbid": "89ad4ac3-39f7-470e-963a-56509c546377",
+   "country": null,
+   "type": "Other",
+   "disambiguation": "add compilations to this artist",
+   "begin": null,
+   "tags": [
+    "rock",
+    "trance",
+    "electronic",
+    "soundtrack",
+    "classical",
+    "pop",
+    "special purpose artist",
+    "jungle"
+   ],
+   "url": "https://musicbrainz.org/artist/89ad4ac3-39f7-470e-963a-56509c546377"
+  },
+  {
+   "name": "James Hurr",
+   "mbid": "20e2bce3-bc75-403d-9916-f8816d54e552",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [
+    "house",
+    "tech house",
+    "edm"
+   ],
+   "url": "https://musicbrainz.org/artist/20e2bce3-bc75-403d-9916-f8816d54e552"
+  },
+  {
+   "name": "Ensemble Al‐Kindî",
+   "mbid": "71a02caa-63a7-48a8-9499-45428038c440",
+   "country": "SY",
+   "type": "Group",
+   "disambiguation": null,
+   "begin": "1983",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/71a02caa-63a7-48a8-9499-45428038c440"
+  },
+  {
+   "name": "Mahmoud Fathy",
+   "mbid": "a2639785-2f31-4659-9bd8-c0425bdbb278",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/a2639785-2f31-4659-9bd8-c0425bdbb278"
+  },
+  {
+   "name": "Paul Fathy",
+   "mbid": "e220af5b-b352-4e1d-8c98-026e3c6f10d4",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/e220af5b-b352-4e1d-8c98-026e3c6f10d4"
+  },
+  {
+   "name": "Al Green",
+   "mbid": "fb7272ba-f130-4f0a-934d-6eeea4c18c9a",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": "US soul singer, songwriter, pastor and record producer",
+   "begin": "1946-04-13",
+   "tags": [
+    "soul",
+    "1980s",
+    "1970s",
+    "gospel",
+    "southern soul",
+    "soul blues",
+    "soul and reggae",
+    "contemporary gospel"
+   ],
+   "url": "https://musicbrainz.org/artist/fb7272ba-f130-4f0a-934d-6eeea4c18c9a"
+  },
+  {
+   "name": "Victoria Hurr",
+   "mbid": "ac9bcb88-75a8-4813-b3ed-762bb9c11c7d",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/ac9bcb88-75a8-4813-b3ed-762bb9c11c7d"
+  },
+  {
+   "name": "Al Jarreau",
+   "mbid": "3e54ba8b-f4cc-4192-9813-890d570e2b7a",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": "jazz, pop and r&b singer-songwriter",
+   "begin": "1940-03-12",
+   "tags": [
+    "soul",
+    "1980s",
+    "1970s",
+    "2000s",
+    "soft rock",
+    "crossover jazz",
+    "vocal jazz",
+    "jazz-funk"
+   ],
+   "url": "https://musicbrainz.org/artist/3e54ba8b-f4cc-4192-9813-890d570e2b7a"
+  }
+ ]
+}

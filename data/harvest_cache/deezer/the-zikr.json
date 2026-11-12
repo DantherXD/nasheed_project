@@ -1,0 +1,60 @@
+{
+ "hits": [
+  {
+   "name": "The Doors",
+   "id": 847,
+   "fans": 3815263,
+   "albums": 57,
+   "url": "https://www.deezer.com/artist/847"
+  },
+  {
+   "name": "The Irrepressibles",
+   "id": 329723,
+   "fans": 27811,
+   "albums": 60,
+   "url": "https://www.deezer.com/artist/329723"
+  },
+  {
+   "name": "The Killers",
+   "id": 897,
+   "fans": 2247503,
+   "albums": 48,
+   "url": "https://www.deezer.com/artist/897"
+  },
+  {
+   "name": "The Corrs",
+   "id": 626,
+   "fans": 189342,
+   "albums": 27,
+   "url": "https://www.deezer.com/artist/626"
+  },
+  {
+   "name": "The Kinks",
+   "id": 1415,
+   "fans": 677872,
+   "albums": 99,
+   "url": "https://www.deezer.com/artist/1415"
+  },
+  {
+   "name": "The Horrors",
+   "id": 12924,
+   "fans": 63942,
+   "albums": 29,
+   "url": "https://www.deezer.com/artist/12924"
+  },
+  {
+   "name": "Tha Alkaholiks",
+   "id": 4071,
+   "fans": 4270,
+   "albums": 23,
+   "url": "https://www.deezer.com/artist/4071"
+  },
+  {
+   "name": "The Microphones",
+   "id": 73696,
+   "fans": 7595,
+   "albums": 14,
+   "url": "https://www.deezer.com/artist/73696"
+  }
+ ]
+}

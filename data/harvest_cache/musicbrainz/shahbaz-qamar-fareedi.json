@@ -1,0 +1,95 @@
+{
+ "hits": [
+  {
+   "name": "Shahbaz Qamar Fareedi",
+   "mbid": "cb5eed66-00c5-4f80-9602-f3fdeb69cf2d",
+   "country": "PK",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/cb5eed66-00c5-4f80-9602-f3fdeb69cf2d"
+  },
+  {
+   "name": "Qamar",
+   "mbid": "d15757f4-f5f7-4289-af16-8c220f6dd943",
+   "country": null,
+   "type": "Group",
+   "disambiguation": "Prog Andaluz band",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/d15757f4-f5f7-4289-af16-8c220f6dd943"
+  },
+  {
+   "name": "Qamar",
+   "mbid": "f1dc2fc7-a562-424b-8366-6cf52183fb90",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/f1dc2fc7-a562-424b-8366-6cf52183fb90"
+  },
+  {
+   "name": "Qamar Vaziri",
+   "mbid": "d654500f-0ec1-4e4f-90ae-37fa480c42f4",
+   "country": "IR",
+   "type": "Person",
+   "disambiguation": "Qamar-ol-Moluk Vaziri",
+   "begin": "1905",
+   "tags": [
+    "persian pop"
+   ],
+   "url": "https://musicbrainz.org/artist/d654500f-0ec1-4e4f-90ae-37fa480c42f4"
+  },
+  {
+   "name": "Nadi Qamar",
+   "mbid": "05ff9766-5ba5-43f9-98f0-0c6d465de1b5",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": "American jazz pianist and ethnomusicologist.",
+   "begin": "1917-07-06",
+   "tags": [
+    "charles mingus",
+    "jazz"
+   ],
+   "url": "https://musicbrainz.org/artist/05ff9766-5ba5-43f9-98f0-0c6d465de1b5"
+  },
+  {
+   "name": "Qamar Jalalabadi",
+   "mbid": "af91863a-fc34-495b-8f74-c65868e46df4",
+   "country": "IN",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1919",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/af91863a-fc34-495b-8f74-c65868e46df4"
+  },
+  {
+   "name": "Qamar Gulraiz",
+   "mbid": "4b8ed346-29bc-4039-9b60-72c8d4f3b0ef",
+   "country": "PK",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "2001-11-19",
+   "tags": [
+    "i am here",
+    "hawaii jahaz",
+    "smitills school",
+    "io sono qua",
+    "aadi khan"
+   ],
+   "url": "https://musicbrainz.org/artist/4b8ed346-29bc-4039-9b60-72c8d4f3b0ef"
+  },
+  {
+   "name": "Qamar Badwan",
+   "mbid": "978e0017-c3f4-4974-81fc-e31c686c1e0d",
+   "country": "JO",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/978e0017-c3f4-4974-81fc-e31c686c1e0d"
+  }
+ ]
+}

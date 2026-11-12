@@ -1,0 +1,93 @@
+{
+ "hits": [
+  {
+   "name": "Junaid Jamshed",
+   "mbid": "3f36ca82-81a9-4c84-8592-2cd7b2ae71bd",
+   "country": "PK",
+   "type": "Person",
+   "disambiguation": "Pakistani singer-songwriter",
+   "begin": "1964-09-03",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/3f36ca82-81a9-4c84-8592-2cd7b2ae71bd"
+  },
+  {
+   "name": "Jamshed",
+   "mbid": "6545caed-7052-49e6-a731-e855396de656",
+   "country": null,
+   "type": null,
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/6545caed-7052-49e6-a731-e855396de656"
+  },
+  {
+   "name": "Junaid",
+   "mbid": "68169f97-b6ad-49ae-afb0-64d2adeeafa7",
+   "country": "CA",
+   "type": "Person",
+   "disambiguation": "DJ",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/68169f97-b6ad-49ae-afb0-64d2adeeafa7"
+  },
+  {
+   "name": "Tajdar Junaid",
+   "mbid": "3e08a7fe-b2e9-4fcd-9561-d81e6422df67",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/3e08a7fe-b2e9-4fcd-9561-d81e6422df67"
+  },
+  {
+   "name": "Junaid Malik",
+   "mbid": "f5de7cc9-f2aa-4bbc-8772-3da7e96aaed7",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "Finalist on BritAsia Superstar & formerly known as 'Kalum'",
+   "begin": null,
+   "tags": [
+    "diary of a bad man",
+    "zack knight",
+    "jayson jay",
+    "kalum",
+    "song-writer",
+    "junaid malik",
+    "pakistani",
+    "singer"
+   ],
+   "url": "https://musicbrainz.org/artist/f5de7cc9-f2aa-4bbc-8772-3da7e96aaed7"
+  },
+  {
+   "name": "Junaid Akhtar",
+   "mbid": "9e130e59-aa8a-4ee9-ad4f-a384ba112924",
+   "country": "IN",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/9e130e59-aa8a-4ee9-ad4f-a384ba112924"
+  },
+  {
+   "name": "Junaid Khan",
+   "mbid": "e38e0fb9-291f-4f48-ac24-1a4fe67f07b5",
+   "country": "PK",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1981-11-02",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/e38e0fb9-291f-4f48-ac24-1a4fe67f07b5"
+  },
+  {
+   "name": "Junaid Ahmad",
+   "mbid": "b19ec588-cdc7-4ba8-83aa-2feaa31ff2b1",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/b19ec588-cdc7-4ba8-83aa-2feaa31ff2b1"
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "hits": [
+  {
+   "name": "Salim bin Ali Al-Maqrashi",
+   "mbid": "7b2c6a32-fd9e-4d82-bed9-e2263a8b184a",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/7b2c6a32-fd9e-4d82-bed9-e2263a8b184a"
+  },
+  {
+   "name": "Ali bin Mohammad",
+   "mbid": "9074bdf9-8828-4197-89c4-b4ed84809333",
+   "country": null,
+   "type": null,
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/9074bdf9-8828-4197-89c4-b4ed84809333"
+  },
+  {
+   "name": "Ali Mamak",
+   "mbid": "3e679d03-d454-4217-9e78-0c46129efd35",
+   "country": "MY",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1951-10-01",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/3e679d03-d454-4217-9e78-0c46129efd35"
+  },
+  {
+   "name": "Al Green",
+   "mbid": "fb7272ba-f130-4f0a-934d-6eeea4c18c9a",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": "US soul singer, songwriter, pastor and record producer",
+   "begin": "1946-04-13",
+   "tags": [
+    "soul",
+    "1980s",
+    "1970s",
+    "gospel",
+    "southern soul",
+    "soul blues",
+    "soul and reggae",
+    "contemporary gospel"
+   ],
+   "url": "https://musicbrainz.org/artist/fb7272ba-f130-4f0a-934d-6eeea4c18c9a"
+  },
+  {
+   "name": "Ali Jackson",
+   "mbid": "a6900084-bf6a-4566-b8d0-bbcd6c86d6d1",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": "Detroit jazz bassist, 1931-1987",
+   "begin": "1931-03-29",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/a6900084-bf6a-4566-b8d0-bbcd6c86d6d1"
+  },
+  {
+   "name": "Al Jarreau",
+   "mbid": "3e54ba8b-f4cc-4192-9813-890d570e2b7a",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": "jazz, pop and r&b singer-songwriter",
+   "begin": "1940-03-12",
+   "tags": [
+    "soul",
+    "1980s",
+    "1970s",
+    "2000s",
+    "soft rock",
+    "crossover jazz",
+    "vocal jazz",
+    "jazz-funk"
+   ],
+   "url": "https://musicbrainz.org/artist/3e54ba8b-f4cc-4192-9813-890d570e2b7a"
+  },
+  {
+   "name": "جواد العلي",
+   "mbid": "42b03a84-b9b4-42b5-86b0-10ab51a51ef5",
+   "country": "SA",
+   "type": "Person",
+   "disambiguation": "saudi siner",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/42b03a84-b9b4-42b5-86b0-10ab51a51ef5"
+  },
+  {
+   "name": "علي بن محمد",
+   "mbid": "05d55604-1d31-4482-abc6-bbca6301f2d0",
+   "country": "YE",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1970-05-28",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/05d55604-1d31-4482-abc6-bbca6301f2d0"
+  }
+ ]
+}

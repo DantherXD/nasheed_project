@@ -1,0 +1,102 @@
+{
+ "hits": [
+  {
+   "name": "Abu Arab",
+   "mbid": "c45e2e6d-49d9-4892-b70d-759781071f82",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "Poet of the Palestinian Revolution",
+   "begin": "1931",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/c45e2e6d-49d9-4892-b70d-759781071f82"
+  },
+  {
+   "name": "Arab Strap",
+   "mbid": "6caf09f5-2f01-4f76-bcc7-6207930c56c6",
+   "country": "GB",
+   "type": "Group",
+   "disambiguation": "Scottish indie rock band",
+   "begin": "1995",
+   "tags": [
+    "slowcore",
+    "indie rock",
+    "uk",
+    "scottish",
+    "british",
+    "classic pop and rock",
+    "sadcore",
+    "indietronica"
+   ],
+   "url": "https://musicbrainz.org/artist/6caf09f5-2f01-4f76-bcc7-6207930c56c6"
+  },
+  {
+   "name": "Arab",
+   "mbid": "4ac36c19-f6d1-4ee4-b75f-e3387f9949ad",
+   "country": "PL",
+   "type": "Person",
+   "disambiguation": "polish MC",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/4ac36c19-f6d1-4ee4-b75f-e3387f9949ad"
+  },
+  {
+   "name": "Arab",
+   "mbid": "657a7930-6b76-426e-bd9d-a0e2ab2813ce",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": "US rapper",
+   "begin": "1990-02-22",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/657a7930-6b76-426e-bd9d-a0e2ab2813ce"
+  },
+  {
+   "name": "Arab",
+   "mbid": "eb43b8d3-c628-4e6b-bc3b-a9709fd1fa32",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "Greek Rapper",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/eb43b8d3-c628-4e6b-bc3b-a9709fd1fa32"
+  },
+  {
+   "name": "Acid Arab",
+   "mbid": "f32e763e-be49-44e2-bde0-27c8e5686992",
+   "country": null,
+   "type": "Group",
+   "disambiguation": null,
+   "begin": "2012-08",
+   "tags": [
+    "electronic",
+    "house",
+    "arabic",
+    "techno",
+    "acid house",
+    "club",
+    "international",
+    "international fusion"
+   ],
+   "url": "https://musicbrainz.org/artist/f32e763e-be49-44e2-bde0-27c8e5686992"
+  },
+  {
+   "name": "Rob Shrubsole",
+   "mbid": "46346ee3-2e8b-45a1-9ea9-1e68fc497fee",
+   "country": "GB",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/46346ee3-2e8b-45a1-9ea9-1e68fc497fee"
+  },
+  {
+   "name": "Arab Spring",
+   "mbid": "797b1414-4bc7-4b7e-8768-ac8391695c58",
+   "country": null,
+   "type": "Group",
+   "disambiguation": "powerviolence",
+   "begin": "2013",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/797b1414-4bc7-4b7e-8768-ac8391695c58"
+  }
+ ]
+}

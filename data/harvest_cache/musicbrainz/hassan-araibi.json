@@ -1,0 +1,100 @@
+{
+ "hits": [
+  {
+   "name": "Hassan",
+   "mbid": "0c722821-475c-4f00-aa4e-4892054e4353",
+   "country": "SE",
+   "type": "Group",
+   "disambiguation": "Swedish humour group",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/0c722821-475c-4f00-aa4e-4892054e4353"
+  },
+  {
+   "name": "Mehdi Hassan",
+   "mbid": "bd0a20b2-ad1d-4440-ab22-e6dc71e6e199",
+   "country": "PK",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1927-07-18",
+   "tags": [
+    "ghazal",
+    "filmi"
+   ],
+   "url": "https://musicbrainz.org/artist/bd0a20b2-ad1d-4440-ab22-e6dc71e6e199"
+  },
+  {
+   "name": "Nazia Hassan",
+   "mbid": "c2110835-2d01-400a-8c66-22b65c6eecbf",
+   "country": "PK",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1965-04-03",
+   "tags": [
+    "pakistani pop"
+   ],
+   "url": "https://musicbrainz.org/artist/c2110835-2d01-400a-8c66-22b65c6eecbf"
+  },
+  {
+   "name": "Hassan K",
+   "mbid": "87cf2e89-98a2-4f8c-a442-88d56e765623",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [
+    "electronic"
+   ],
+   "url": "https://musicbrainz.org/artist/87cf2e89-98a2-4f8c-a442-88d56e765623"
+  },
+  {
+   "name": "Hassan Hakmoun",
+   "mbid": "3d3fdc17-ba59-4ba0-a326-a7803e65d4fc",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1963",
+   "tags": [
+    "jazz",
+    "world",
+    "world fusion",
+    "gnawa"
+   ],
+   "url": "https://musicbrainz.org/artist/3d3fdc17-ba59-4ba0-a326-a7803e65d4fc"
+  },
+  {
+   "name": "Nazia Hassan & Zoheb Hassan",
+   "mbid": "9a978ca8-c3af-483a-a349-94e6ca1f1fb5",
+   "country": "PK",
+   "type": "Group",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [
+    "pakistani pop"
+   ],
+   "url": "https://musicbrainz.org/artist/9a978ca8-c3af-483a-a349-94e6ca1f1fb5"
+  },
+  {
+   "name": "Mariem Hassan",
+   "mbid": "256dbf70-70ec-48cf-a2cf-ba05dc4dd203",
+   "country": "EH",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1958-05",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/256dbf70-70ec-48cf-a2cf-ba05dc4dd203"
+  },
+  {
+   "name": "Hassan Shamaizadeh",
+   "mbid": "0d164efd-ce99-4ce3-a03a-38bcacc9844d",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": "Iranian Singer",
+   "begin": "1939-11-23",
+   "tags": [
+    "persian pop"
+   ],
+   "url": "https://musicbrainz.org/artist/0d164efd-ce99-4ce3-a03a-38bcacc9844d"
+  }
+ ]
+}

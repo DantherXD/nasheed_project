@@ -1,0 +1,103 @@
+{
+ "hits": [
+  {
+   "name": "Bian Assegaf",
+   "mbid": "42799583-0481-42d1-826c-0d5a4a6e48c4",
+   "country": "ID",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/42799583-0481-42d1-826c-0d5a4a6e48c4"
+  },
+  {
+   "name": "Bing Slamet",
+   "mbid": "a0287f97-8952-43e8-ab75-5e3a9143f780",
+   "country": "ID",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1927-09-27",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/a0287f97-8952-43e8-ab75-5e3a9143f780"
+  },
+  {
+   "name": "Habib Mohebian",
+   "mbid": "c7a21981-b00e-4f0a-a7aa-e69ef7e3d92f",
+   "country": "IR",
+   "type": "Person",
+   "disambiguation": "Iranian Singer",
+   "begin": "1947-09-26",
+   "tags": [
+    "persian rock",
+    "iran music",
+    "persian pop",
+    "iranian rock music",
+    "persian blues",
+    "habib",
+    "habib mohebian",
+    "حبیب"
+   ],
+   "url": "https://musicbrainz.org/artist/c7a21981-b00e-4f0a-a7aa-e69ef7e3d92f"
+  },
+  {
+   "name": "Habib Wahid",
+   "mbid": "a18339d7-f51c-44c3-bce9-c9b3832163e7",
+   "country": "BD",
+   "type": "Person",
+   "disambiguation": "Bangladeshi Musician",
+   "begin": "1976-10-15",
+   "tags": [
+    "bangla",
+    "asian",
+    "pop",
+    "fusion",
+    "techno",
+    "folk",
+    "bangladeshi"
+   ],
+   "url": "https://musicbrainz.org/artist/a18339d7-f51c-44c3-bce9-c9b3832163e7"
+  },
+  {
+   "name": "Habib Koité",
+   "mbid": "08cf9600-2671-4a33-b5e5-594bb41e3de5",
+   "country": "ML",
+   "type": "Person",
+   "disambiguation": "Malian guitarist, singer and griot",
+   "begin": "1958-01-27",
+   "tags": [
+    "world"
+   ],
+   "url": "https://musicbrainz.org/artist/08cf9600-2671-4a33-b5e5-594bb41e3de5"
+  },
+  {
+   "name": "Habib",
+   "mbid": "bb9d5c80-c2b2-46a1-ae26-78200d0a87be",
+   "country": null,
+   "type": null,
+   "disambiguation": "Tunisian wedding singer",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/bb9d5c80-c2b2-46a1-ae26-78200d0a87be"
+  },
+  {
+   "name": "Habib",
+   "mbid": "32024dc5-3683-4d07-b015-4b1488925162",
+   "country": null,
+   "type": null,
+   "disambiguation": "electro experimental",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/32024dc5-3683-4d07-b015-4b1488925162"
+  },
+  {
+   "name": "Salomão Habib",
+   "mbid": "8d50bea9-a683-420d-b1d6-76eeeee0e3ca",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1965-10-02",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/8d50bea9-a683-420d-b1d6-76eeeee0e3ca"
+  }
+ ]
+}

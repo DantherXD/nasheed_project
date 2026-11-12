@@ -1,0 +1,115 @@
+{
+ "hits": [
+  {
+   "name": "الملا عثمان الموصلي",
+   "mbid": "208c7194-38f4-40c3-aa2a-8dcfc9858a67",
+   "country": "IQ",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1854",
+   "tags": [
+    "iraqi music"
+   ],
+   "url": "https://musicbrainz.org/artist/208c7194-38f4-40c3-aa2a-8dcfc9858a67"
+  },
+  {
+   "name": "'Abd al-Qâdir al-Mawsilî",
+   "mbid": "e96d9b9a-0306-467d-b3ca-db10bd583466",
+   "country": null,
+   "type": null,
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/e96d9b9a-0306-467d-b3ca-db10bd583466"
+  },
+  {
+   "name": "Beni Uthman",
+   "mbid": "439d0561-b78f-4fbe-9074-1733535d0744",
+   "country": null,
+   "type": null,
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/439d0561-b78f-4fbe-9074-1733535d0744"
+  },
+  {
+   "name": "Al Green",
+   "mbid": "fb7272ba-f130-4f0a-934d-6eeea4c18c9a",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": "US soul singer, songwriter, pastor and record producer",
+   "begin": "1946-04-13",
+   "tags": [
+    "soul",
+    "1980s",
+    "1970s",
+    "gospel",
+    "southern soul",
+    "soul blues",
+    "soul and reggae",
+    "contemporary gospel"
+   ],
+   "url": "https://musicbrainz.org/artist/fb7272ba-f130-4f0a-934d-6eeea4c18c9a"
+  },
+  {
+   "name": "Al Jarreau",
+   "mbid": "3e54ba8b-f4cc-4192-9813-890d570e2b7a",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": "jazz, pop and r&b singer-songwriter",
+   "begin": "1940-03-12",
+   "tags": [
+    "soul",
+    "1980s",
+    "1970s",
+    "2000s",
+    "soft rock",
+    "crossover jazz",
+    "vocal jazz",
+    "jazz-funk"
+   ],
+   "url": "https://musicbrainz.org/artist/3e54ba8b-f4cc-4192-9813-890d570e2b7a"
+  },
+  {
+   "name": "Al Stewart",
+   "mbid": "ab7d49fa-c383-4c41-b890-3fe68e559dc4",
+   "country": "GB",
+   "type": "Person",
+   "disambiguation": "UK folk singer/songwriter",
+   "begin": "1945-09-05",
+   "tags": [
+    "folk",
+    "singer-songwriter",
+    "folk rock",
+    "baroque pop",
+    "1980s",
+    "1970s",
+    "2000s",
+    "soft rock"
+   ],
+   "url": "https://musicbrainz.org/artist/ab7d49fa-c383-4c41-b890-3fe68e559dc4"
+  },
+  {
+   "name": "Aziz 'Uthmân",
+   "mbid": "94d35181-3c1b-45ff-900a-ad635ab4cf7c",
+   "country": null,
+   "type": null,
+   "disambiguation": "19th century singer",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/94d35181-3c1b-45ff-900a-ad635ab4cf7c"
+  },
+  {
+   "name": "Al Bowlly",
+   "mbid": "f747a4ff-d54f-41b1-be56-97abcf1eb688",
+   "country": "GB",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1898-01-07",
+   "tags": [
+    "death by bomb"
+   ],
+   "url": "https://musicbrainz.org/artist/f747a4ff-d54f-41b1-be56-97abcf1eb688"
+  }
+ ]
+}

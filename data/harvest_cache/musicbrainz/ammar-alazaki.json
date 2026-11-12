@@ -1,0 +1,90 @@
+{
+ "hits": [
+  {
+   "name": "ammar",
+   "mbid": "7de01cd2-4dad-43ae-9956-43f7a0fc9da1",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "Connecticut-based artist",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/7de01cd2-4dad-43ae-9956-43f7a0fc9da1"
+  },
+  {
+   "name": "Ammar",
+   "mbid": "bc3106f6-5373-4dd4-a5ac-0ca983c0031a",
+   "country": "NL",
+   "type": "Person",
+   "disambiguation": "Dutch singer, real name Ammar Bozoglu",
+   "begin": "1997-04-10",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/bc3106f6-5373-4dd4-a5ac-0ca983c0031a"
+  },
+  {
+   "name": "Ammar",
+   "mbid": "85efe4bc-50a5-4453-82bf-ee1848c16387",
+   "country": null,
+   "type": null,
+   "disambiguation": "German Rapper",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/85efe4bc-50a5-4453-82bf-ee1848c16387"
+  },
+  {
+   "name": "Akil Ammar",
+   "mbid": "c669b67a-0bca-4b94-92d0-1d8aec80cb71",
+   "country": "MX",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1978-10-02",
+   "tags": [
+    "hip hop"
+   ],
+   "url": "https://musicbrainz.org/artist/c669b67a-0bca-4b94-92d0-1d8aec80cb71"
+  },
+  {
+   "name": "Nik Ammar",
+   "mbid": "34ee9ef9-3890-4e46-a5b7-c1d3a45b1a6c",
+   "country": "GB",
+   "type": "Person",
+   "disambiguation": "in Oi Va Voi",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/34ee9ef9-3890-4e46-a5b7-c1d3a45b1a6c"
+  },
+  {
+   "name": "Ammar 808",
+   "mbid": "edf8f2f9-3727-44a0-abb2-e54194307850",
+   "country": "BE",
+   "type": "Person",
+   "disambiguation": "Sofyann Ben Youssef",
+   "begin": "1979-12-01",
+   "tags": [
+    "tunisia",
+    "electro-mezoued",
+    "electronic"
+   ],
+   "url": "https://musicbrainz.org/artist/edf8f2f9-3727-44a0-abb2-e54194307850"
+  },
+  {
+   "name": "Ammar El Sherei",
+   "mbid": "6e53a084-0d44-4d9b-b677-eb118b0879d8",
+   "country": "EG",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1948-04-16",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/6e53a084-0d44-4d9b-b677-eb118b0879d8"
+  },
+  {
+   "name": "Ammar YK",
+   "mbid": "9aaf12a9-6fbd-471e-95d6-692f4c773611",
+   "country": null,
+   "type": null,
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/9aaf12a9-6fbd-471e-95d6-692f4c773611"
+  }
+ ]
+}

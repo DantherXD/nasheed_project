@@ -1,0 +1,129 @@
+{
+ "hits": [
+  {
+   "name": "Johann Sebastian Bach",
+   "mbid": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+   "country": "DE",
+   "type": "Person",
+   "disambiguation": "German Baroque period composer & musician",
+   "begin": "1685-03-21",
+   "tags": [
+    "classical",
+    "instrumental",
+    "german",
+    "german composer",
+    "orchestral",
+    "composer",
+    "organist",
+    "baroque"
+   ],
+   "url": "https://musicbrainz.org/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c"
+  },
+  {
+   "name": "Yusuf Islam",
+   "mbid": "bf27c046-38b4-4b0f-ad65-358ed588cddf",
+   "country": "GB",
+   "type": "Person",
+   "disambiguation": "formerly Cat Stevens",
+   "begin": "1948-07-21",
+   "tags": [
+    "rock",
+    "pop",
+    "folk",
+    "british",
+    "singer-songwriter",
+    "uk",
+    "britannique",
+    "folk rock"
+   ],
+   "url": "https://musicbrainz.org/artist/bf27c046-38b4-4b0f-ad65-358ed588cddf"
+  },
+  {
+   "name": "Stephen Michael Stirling",
+   "mbid": "2b028cd0-3d78-4258-a003-f955b74ea3ec",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": "Canadian-American SF writer",
+   "begin": "1953-09-30",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/2b028cd0-3d78-4258-a003-f955b74ea3ec"
+  },
+  {
+   "name": "Milan Heyboer",
+   "mbid": "a203688c-e192-4bed-b345-264267d95827",
+   "country": "NL",
+   "type": "Person",
+   "disambiguation": "Dutch producer; ⅓ of Black Sun Empire",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/a203688c-e192-4bed-b345-264267d95827"
+  },
+  {
+   "name": "Cat Stevens",
+   "mbid": "e2345fdf-2be7-47c5-a6dd-be64353ad134",
+   "country": "GB",
+   "type": "Person",
+   "disambiguation": "now known as Yusuf Islam",
+   "begin": "1948-07-21",
+   "tags": [
+    "rock",
+    "folk",
+    "singer-songwriter",
+    "folk rock",
+    "baroque pop",
+    "soft rock",
+    "pop rock",
+    "contemporary folk"
+   ],
+   "url": "https://musicbrainz.org/artist/e2345fdf-2be7-47c5-a6dd-be64353ad134"
+  },
+  {
+   "name": "M/S",
+   "mbid": "aff12a52-1902-4191-89e8-4bf169a88ae8",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "Japanese doujin musician, Scoundrel Records, S&G, MEGAFEPPS, MuToPiA LABEL",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/aff12a52-1902-4191-89e8-4bf169a88ae8"
+  },
+  {
+   "name": "‐M‐",
+   "mbid": "99513c45-6c2d-4a6b-a089-074360591f01",
+   "country": "FR",
+   "type": "Person",
+   "disambiguation": "Matthieu Chedid",
+   "begin": "1971-12-21",
+   "tags": [
+    "rock",
+    "pop",
+    "sillyname",
+    "french",
+    "chanson française",
+    "producer",
+    "composer",
+    "lyricist"
+   ],
+   "url": "https://musicbrainz.org/artist/99513c45-6c2d-4a6b-a089-074360591f01"
+  },
+  {
+   "name": "Boney M.",
+   "mbid": "5403bf6e-bc1d-4e62-b31f-926a2bf66a14",
+   "country": "DE",
+   "type": "Group",
+   "disambiguation": null,
+   "begin": "1975",
+   "tags": [
+    "pop",
+    "soul",
+    "disco",
+    "dance-pop",
+    "europop",
+    "classic pop and rock",
+    "booka-shade",
+    "euro-disco"
+   ],
+   "url": "https://musicbrainz.org/artist/5403bf6e-bc1d-4e62-b31f-926a2bf66a14"
+  }
+ ]
+}

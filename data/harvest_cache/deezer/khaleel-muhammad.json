@@ -1,0 +1,25 @@
+{
+ "hits": [
+  {
+   "name": "Khaleel Muhammad",
+   "id": 12558764,
+   "fans": 8,
+   "albums": 2,
+   "url": "https://www.deezer.com/artist/12558764"
+  },
+  {
+   "name": "Muhammed Khaled",
+   "id": 64044762,
+   "fans": 8159,
+   "albums": 9,
+   "url": "https://www.deezer.com/artist/64044762"
+  },
+  {
+   "name": "Sahibzada Muhammad Sohail Kaleem Farooqi",
+   "id": 1670627,
+   "fans": 12,
+   "albums": 2,
+   "url": "https://www.deezer.com/artist/1670627"
+  }
+ ]
+}

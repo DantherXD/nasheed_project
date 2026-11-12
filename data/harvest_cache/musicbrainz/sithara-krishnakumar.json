@@ -1,0 +1,87 @@
+{
+ "hits": [
+  {
+   "name": "Sithara",
+   "mbid": "2e67248f-1b03-4842-92ee-c800ed70bef3",
+   "country": "IN",
+   "type": "Person",
+   "disambiguation": "Malayalam playback singer",
+   "begin": "1986-07-01",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/2e67248f-1b03-4842-92ee-c800ed70bef3"
+  },
+  {
+   "name": "Krishnakumar Kalyanasundaram",
+   "mbid": "32bb6bcf-769d-4065-a189-7da597c28ce6",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "South Indian Carnatic Singer",
+   "begin": "1973",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/32bb6bcf-769d-4065-a189-7da597c28ce6"
+  },
+  {
+   "name": "Binni Krishnakumar",
+   "mbid": "e0de5127-98aa-44b3-a6d4-d747537efc7d",
+   "country": null,
+   "type": null,
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/e0de5127-98aa-44b3-a6d4-d747537efc7d"
+  },
+  {
+   "name": "Uday Krishnakumar",
+   "mbid": "a2e9b38a-3859-4da1-932c-b732fc091d2a",
+   "country": "IN",
+   "type": "Person",
+   "disambiguation": "Indian composer",
+   "begin": "1979",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/a2e9b38a-3859-4da1-932c-b732fc091d2a"
+  },
+  {
+   "name": "G. Krishnakumar",
+   "mbid": "d4b451b8-f53a-4177-b78e-c8d1b1032993",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "Lyricist",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/d4b451b8-f53a-4177-b78e-c8d1b1032993"
+  },
+  {
+   "name": "K. Sivaangi",
+   "mbid": "22875526-16e9-4ae0-b400-788e03baf371",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "Indian Playback Singer",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/22875526-16e9-4ae0-b400-788e03baf371"
+  },
+  {
+   "name": "KK",
+   "mbid": "172e980e-ba97-4adb-acb0-d59733c599b6",
+   "country": "IN",
+   "type": "Person",
+   "disambiguation": "Krishnakumar Kunnath",
+   "begin": "1968-08-23",
+   "tags": [
+    "filmi",
+    "playback singer"
+   ],
+   "url": "https://musicbrainz.org/artist/172e980e-ba97-4adb-acb0-d59733c599b6"
+  },
+  {
+   "name": "Mohan Sithara",
+   "mbid": "3d561a5a-0735-4217-bcc2-0b624fb1aafd",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "Malayalam composer",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/3d561a5a-0735-4217-bcc2-0b624fb1aafd"
+  }
+ ]
+}

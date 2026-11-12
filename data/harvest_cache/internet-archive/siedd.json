@@ -1,0 +1,19 @@
+{
+ "total": 2,
+ "hits": [
+  {
+   "identifier": "Siedd-Journey",
+   "title": "Siedd - Journey",
+   "creator": "Anas K",
+   "licence": null,
+   "url": "https://archive.org/details/Siedd-Journey"
+  },
+  {
+   "identifier": "something-like-this-cover-2017",
+   "title": "Something Like This - Siedd",
+   "creator": "Siedd",
+   "licence": "http://creativecommons.org/publicdomain/mark/1.0/",
+   "url": "https://archive.org/details/something-like-this-cover-2017"
+  }
+ ]
+}

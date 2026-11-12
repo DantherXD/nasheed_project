@@ -1,0 +1,60 @@
+{
+ "hits": [
+  {
+   "name": "Tame Impala",
+   "id": 134790,
+   "fans": 1170380,
+   "albums": 42,
+   "url": "https://www.deezer.com/artist/134790"
+  },
+  {
+   "name": "Talking Heads",
+   "id": 181,
+   "fans": 449533,
+   "albums": 35,
+   "url": "https://www.deezer.com/artist/181"
+  },
+  {
+   "name": "TAEMIN",
+   "id": 7988496,
+   "fans": 318228,
+   "albums": 29,
+   "url": "https://www.deezer.com/artist/7988496"
+  },
+  {
+   "name": "Rashid",
+   "id": 4068342,
+   "fans": 227020,
+   "albums": 77,
+   "url": "https://www.deezer.com/artist/4068342"
+  },
+  {
+   "name": "Rakhim",
+   "id": 1359318,
+   "fans": 15218,
+   "albums": 47,
+   "url": "https://www.deezer.com/artist/1359318"
+  },
+  {
+   "name": "Ransom",
+   "id": 173494337,
+   "fans": 2688,
+   "albums": 74,
+   "url": "https://www.deezer.com/artist/173494337"
+  },
+  {
+   "name": "Yannis",
+   "id": 4750345,
+   "fans": 2131,
+   "albums": 26,
+   "url": "https://www.deezer.com/artist/4750345"
+  },
+  {
+   "name": "Garnic",
+   "id": 286159501,
+   "fans": 75,
+   "albums": 108,
+   "url": "https://www.deezer.com/artist/286159501"
+  }
+ ]
+}

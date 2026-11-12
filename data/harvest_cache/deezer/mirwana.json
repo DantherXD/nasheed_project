@@ -1,0 +1,60 @@
+{
+ "hits": [
+  {
+   "name": "Mirwana",
+   "id": 1493606,
+   "fans": 234,
+   "albums": 11,
+   "url": "https://www.deezer.com/artist/1493606"
+  },
+  {
+   "name": "Nirvana",
+   "id": 415,
+   "fans": 10109191,
+   "albums": 25,
+   "url": "https://www.deezer.com/artist/415"
+  },
+  {
+   "name": "Lin-Manuel Miranda",
+   "id": 1545788,
+   "fans": 75102,
+   "albums": 99,
+   "url": "https://www.deezer.com/artist/1545788"
+  },
+  {
+   "name": "Mariana Fagundes",
+   "id": 8633176,
+   "fans": 59495,
+   "albums": 62,
+   "url": "https://www.deezer.com/artist/8633176"
+  },
+  {
+   "name": "Miranda!",
+   "id": 4996,
+   "fans": 283591,
+   "albums": 73,
+   "url": "https://www.deezer.com/artist/4996"
+  },
+  {
+   "name": "Miranda Lambert",
+   "id": 5057,
+   "fans": 307029,
+   "albums": 55,
+   "url": "https://www.deezer.com/artist/5057"
+  },
+  {
+   "name": "Mãeana",
+   "id": 11188846,
+   "fans": 6815,
+   "albums": 28,
+   "url": "https://www.deezer.com/artist/11188846"
+  },
+  {
+   "name": "Roberta Miranda",
+   "id": 65349,
+   "fans": 214625,
+   "albums": 60,
+   "url": "https://www.deezer.com/artist/65349"
+  }
+ ]
+}

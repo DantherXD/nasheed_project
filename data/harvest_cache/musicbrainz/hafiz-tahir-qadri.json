@@ -1,0 +1,92 @@
+{
+ "hits": [
+  {
+   "name": "Tahir",
+   "mbid": "e34a5df5-5b6b-4581-8e4a-d014aea9a593",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": "US hip-hop producer Tahir Jamal",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/e34a5df5-5b6b-4581-8e4a-d014aea9a593"
+  },
+  {
+   "name": "Tahir",
+   "mbid": "fc2629e3-010f-4d0f-9d99-6db7ea75b87b",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "comedian",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/fc2629e3-010f-4d0f-9d99-6db7ea75b87b"
+  },
+  {
+   "name": "Tahïr",
+   "mbid": "cab11fc6-e7fe-46f0-945e-754fe4ce0bae",
+   "country": "FR",
+   "type": "Person",
+   "disambiguation": "Member of Azyatik",
+   "begin": null,
+   "tags": [
+    "hip hop"
+   ],
+   "url": "https://musicbrainz.org/artist/cab11fc6-e7fe-46f0-945e-754fe4ce0bae"
+  },
+  {
+   "name": "Inam Qadri",
+   "mbid": "abf062d7-3bf8-49c9-b1f4-eea583f98863",
+   "country": "PK",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/abf062d7-3bf8-49c9-b1f4-eea583f98863"
+  },
+  {
+   "name": "Hazin Qadri",
+   "mbid": "2cac0674-fe3f-4640-881f-37b198983d42",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "born Bashir Ahmad, Punjabi lyricist and screenwriter",
+   "begin": "1926-04-09",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/2cac0674-fe3f-4640-881f-37b198983d42"
+  },
+  {
+   "name": "Ilyas Qadri",
+   "mbid": "02d3513c-15de-4445-b38e-d31a06857906",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "poet",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/02d3513c-15de-4445-b38e-d31a06857906"
+  },
+  {
+   "name": "Tahir Aydoğdu",
+   "mbid": "b359fdcb-e48a-414e-bfb4-539d54a5bb85",
+   "country": "TR",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1959",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/b359fdcb-e48a-414e-bfb4-539d54a5bb85"
+  },
+  {
+   "name": "Tahir Palalı",
+   "mbid": "495c1c92-b80e-4a83-9532-dd52895b491b",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [
+    "turkish folk",
+    "alevi",
+    "alewitten",
+    "semah",
+    "deyiş"
+   ],
+   "url": "https://musicbrainz.org/artist/495c1c92-b80e-4a83-9532-dd52895b491b"
+  }
+ ]
+}

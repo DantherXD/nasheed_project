@@ -1,0 +1,84 @@
+{
+ "hits": [
+  {
+   "name": "Sheikh Yasin Al-Tuhami",
+   "mbid": "d9b33850-a6a0-4501-bb00-3eed4fd95fcd",
+   "country": null,
+   "type": null,
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/d9b33850-a6a0-4501-bb00-3eed4fd95fcd"
+  },
+  {
+   "name": "Yasin",
+   "mbid": "3e7c1862-9e69-4f3f-ac66-68998244b18d",
+   "country": "SE",
+   "type": "Person",
+   "disambiguation": "Swedish Rapper",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/3e7c1862-9e69-4f3f-ac66-68998244b18d"
+  },
+  {
+   "name": "Yasin",
+   "mbid": "8b7bea12-6c66-4d76-b87e-b4054639be2d",
+   "country": "ES",
+   "type": "Person",
+   "disambiguation": "Spanish MC",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/8b7bea12-6c66-4d76-b87e-b4054639be2d"
+  },
+  {
+   "name": "Yasin",
+   "mbid": "abeb6f4f-c701-4050-884c-9acec165427d",
+   "country": "MY",
+   "type": "Person",
+   "disambiguation": "Malaysian singer",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/abeb6f4f-c701-4050-884c-9acec165427d"
+  },
+  {
+   "name": "Yasin",
+   "mbid": "5cde4ebe-e158-4700-b3b8-c3dcc46a77a3",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "Yasin B. US Rapper and Songwriter",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/5cde4ebe-e158-4700-b3b8-c3dcc46a77a3"
+  },
+  {
+   "name": "Yasin",
+   "mbid": "22fdfa1e-2900-4819-9311-e45e3c076325",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": "US rapper",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/22fdfa1e-2900-4819-9311-e45e3c076325"
+  },
+  {
+   "name": "Yasin",
+   "mbid": "cb5f9ee0-9cc4-4dc4-96c5-5ab9f321ab42",
+   "country": null,
+   "type": null,
+   "disambiguation": "South Indian Playback Singer",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/cb5f9ee0-9cc4-4dc4-96c5-5ab9f321ab42"
+  },
+  {
+   "name": "Yasin",
+   "mbid": "a3f90318-e3b4-4efc-b0fa-2602fabc899a",
+   "country": "AF",
+   "type": "Person",
+   "disambiguation": "Afghan singer",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/a3f90318-e3b4-4efc-b0fa-2602fabc899a"
+  }
+ ]
+}

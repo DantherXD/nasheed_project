@@ -1,0 +1,86 @@
+{
+ "hits": [
+  {
+   "name": "Shafi Kollam",
+   "mbid": "e95f506a-4ff3-4a36-8c56-79ed8ddef17e",
+   "country": null,
+   "type": null,
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/e95f506a-4ff3-4a36-8c56-79ed8ddef17e"
+  },
+  {
+   "name": "Abhijith Kollam",
+   "mbid": "bcf00ef8-38bc-4701-a131-267b41796812",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "Indian playback singer",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/bcf00ef8-38bc-4701-a131-267b41796812"
+  },
+  {
+   "name": "Meesha Shafi",
+   "mbid": "9230ecc3-dc64-4606-8fea-9d321100f15e",
+   "country": "CA",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1981-12-01",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/9230ecc3-dc64-4606-8fea-9d321100f15e"
+  },
+  {
+   "name": "Faris Shafi",
+   "mbid": "771e0588-5f92-4bf7-8235-041b2868145c",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "Pakistani rapper and actor",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/771e0588-5f92-4bf7-8235-041b2868145c"
+  },
+  {
+   "name": "Dirty Shafi",
+   "mbid": "8c809c46-c7f3-45d3-99f4-b1b2e1763176",
+   "country": null,
+   "type": null,
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/8c809c46-c7f3-45d3-99f4-b1b2e1763176"
+  },
+  {
+   "name": "Mohd. Shafi",
+   "mbid": "361a74ae-4e4c-4a4b-b348-b37683c27ab4",
+   "country": null,
+   "type": null,
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/361a74ae-4e4c-4a4b-b348-b37683c27ab4"
+  },
+  {
+   "name": "Shafi Hadi",
+   "mbid": "0f1f92fa-dc0f-4bfd-9050-7d6e14961302",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1929-09-21",
+   "tags": [
+    "jazz"
+   ],
+   "url": "https://musicbrainz.org/artist/0f1f92fa-dc0f-4bfd-9050-7d6e14961302"
+  },
+  {
+   "name": "Shafi Badreddin",
+   "mbid": "f0995e87-6e2e-4c25-ac09-9df90508062c",
+   "country": "SY",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/f0995e87-6e2e-4c25-ac09-9df90508062c"
+  }
+ ]
+}

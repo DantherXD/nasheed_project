@@ -1,0 +1,93 @@
+{
+ "hits": [
+  {
+   "name": "Rayhan Noor",
+   "mbid": "ff8b1d3c-b1f4-424a-b17c-52fd482aafa1",
+   "country": "ID",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1993-06-21",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/ff8b1d3c-b1f4-424a-b17c-52fd482aafa1"
+  },
+  {
+   "name": "Rayhan Maditra",
+   "mbid": "8d364b63-e205-4cf9-ae1d-4b9fd1913f85",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1995-01-19",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/8d364b63-e205-4cf9-ae1d-4b9fd1913f85"
+  },
+  {
+   "name": "Rayhan Kadar",
+   "mbid": "35112b92-0be7-425a-a781-8f3933824191",
+   "country": null,
+   "type": null,
+   "disambiguation": "appears on Tranceportation",
+   "begin": null,
+   "tags": [
+    "rayhan kadar"
+   ],
+   "url": "https://musicbrainz.org/artist/35112b92-0be7-425a-a781-8f3933824191"
+  },
+  {
+   "name": "The Rayhan",
+   "mbid": "ca961ee0-2b36-418b-9f1f-c9fac05587c5",
+   "country": "MY",
+   "type": "Group",
+   "disambiguation": null,
+   "begin": "2026-02-28",
+   "tags": [
+    "nasheed"
+   ],
+   "url": "https://musicbrainz.org/artist/ca961ee0-2b36-418b-9f1f-c9fac05587c5"
+  },
+  {
+   "name": "Muhammad Rayhan Sudrajat",
+   "mbid": "26ac359c-f01b-4e23-97ab-3caa3329d799",
+   "country": null,
+   "type": null,
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/26ac359c-f01b-4e23-97ab-3caa3329d799"
+  },
+  {
+   "name": "Rayhan Rizki Ramadhan",
+   "mbid": "19a3b34b-8c80-459b-8afd-b0feeacc0ed4",
+   "country": "ID",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/19a3b34b-8c80-459b-8afd-b0feeacc0ed4"
+  },
+  {
+   "name": "Raihan",
+   "mbid": "ca091f51-4ed1-44bc-ae9c-815a89354b03",
+   "country": "MY",
+   "type": "Group",
+   "disambiguation": "Malaysian nasheed group",
+   "begin": "1996",
+   "tags": [
+    "nasheed"
+   ],
+   "url": "https://musicbrainz.org/artist/ca091f51-4ed1-44bc-ae9c-815a89354b03"
+  },
+  {
+   "name": "Abu",
+   "mbid": "51fc422a-d04b-42c3-8815-243fe4da4df6",
+   "country": "CH",
+   "type": "Person",
+   "disambiguation": "Swiss singer-songwriter",
+   "begin": null,
+   "tags": [
+    "switzerland",
+    "singer-songwriter"
+   ],
+   "url": "https://musicbrainz.org/artist/51fc422a-d04b-42c3-8815-243fe4da4df6"
+  }
+ ]
+}

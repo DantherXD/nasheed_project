@@ -1,0 +1,84 @@
+{
+ "hits": [
+  {
+   "name": "Théo Ould",
+   "mbid": "fe06a378-ead5-4d33-a625-e374c46eae39",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/fe06a378-ead5-4d33-a625-e374c46eae39"
+  },
+  {
+   "name": "Louisa Ould",
+   "mbid": "fb8d44d6-1f65-48d9-8ed8-6ebee3f73331",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/fb8d44d6-1f65-48d9-8ed8-6ebee3f73331"
+  },
+  {
+   "name": "Hermon Ould",
+   "mbid": "5237f076-191e-44cc-9b6e-ba86dcfe6fae",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1886",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/5237f076-191e-44cc-9b6e-ba86dcfe6fae"
+  },
+  {
+   "name": "Mohamed ould Deddah ould Choueikh",
+   "mbid": "026b74ae-5053-4624-9046-4716909dbd03",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/026b74ae-5053-4624-9046-4716909dbd03"
+  },
+  {
+   "name": "Khalifa Ould Eide",
+   "mbid": "62c71781-d495-4623-b474-7a991a1b29ab",
+   "country": "MR",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1958-12-29",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/62c71781-d495-4623-b474-7a991a1b29ab"
+  },
+  {
+   "name": "Jeich Ould Badu",
+   "mbid": "a5b14c24-3f1c-4247-a04f-1d93342ad60d",
+   "country": "MR",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/a5b14c24-3f1c-4247-a04f-1d93342ad60d"
+  },
+  {
+   "name": "Moudou Ould Mattalla",
+   "mbid": "25989b83-8d2c-4552-9cd6-0561a56a582e",
+   "country": "MR",
+   "type": "Person",
+   "disambiguation": "Guitarist from Mauritania.",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/25989b83-8d2c-4552-9cd6-0561a56a582e"
+  },
+  {
+   "name": "The Ould Pound",
+   "mbid": "5b394aa4-8789-4cc0-be51-562e42dc0128",
+   "country": null,
+   "type": "Group",
+   "disambiguation": null,
+   "begin": "2002",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/5b394aa4-8789-4cc0-be51-562e42dc0128"
+  }
+ ]
+}

@@ -1,0 +1,118 @@
+{
+ "hits": [
+  {
+   "name": "P!nk",
+   "mbid": "f4d5cc07-3bc9-4836-9b15-88a08359bc63",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": "American singer/songwriter",
+   "begin": "1979-09-08",
+   "tags": [
+    "rock",
+    "pop",
+    "singer-songwriter",
+    "electropop",
+    "female vocals",
+    "2000s",
+    "dance-pop",
+    "pop rock"
+   ],
+   "url": "https://musicbrainz.org/artist/f4d5cc07-3bc9-4836-9b15-88a08359bc63"
+  },
+  {
+   "name": "[unknown]",
+   "mbid": "125ec42a-7229-4250-afc5-e057484327fe",
+   "country": "XW",
+   "type": "Other",
+   "disambiguation": "Special Purpose Artist – Do not add releases here, if possible.",
+   "begin": null,
+   "tags": [
+    "soundtrack",
+    "classical",
+    "special purpose artist",
+    "fixme",
+    "ambient",
+    "bogus artist",
+    "software company as artist",
+    "meta artist"
+   ],
+   "url": "https://musicbrainz.org/artist/125ec42a-7229-4250-afc5-e057484327fe"
+  },
+  {
+   "name": "Scott P. Schreer",
+   "mbid": "d787793b-1853-446b-a540-54c9137aee31",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1953",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/d787793b-1853-446b-a540-54c9137aee31"
+  },
+  {
+   "name": "H. P. Lovecraft",
+   "mbid": "8047a401-5ca7-48dd-9d7c-2d2b822e51e6",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": "American horror author",
+   "begin": "1890-08-20",
+   "tags": [
+    "has german audiobooks"
+   ],
+   "url": "https://musicbrainz.org/artist/8047a401-5ca7-48dd-9d7c-2d2b822e51e6"
+  },
+  {
+   "name": "P. Susheela",
+   "mbid": "bb52ec6b-2446-41f9-a7f4-b19172ca48eb",
+   "country": "IN",
+   "type": "Person",
+   "disambiguation": "South Indian cinema playback singer",
+   "begin": "1935-11-13",
+   "tags": [
+    "filmi"
+   ],
+   "url": "https://musicbrainz.org/artist/bb52ec6b-2446-41f9-a7f4-b19172ca48eb"
+  },
+  {
+   "name": "P-MODEL",
+   "mbid": "bcc5fb7c-e8c8-4c2e-8f64-c46f1ea2b974",
+   "country": "JP",
+   "type": "Group",
+   "disambiguation": "Japanese electronic rock band",
+   "begin": "1979",
+   "tags": [
+    "electronic",
+    "japanese",
+    "post-punk",
+    "new wave",
+    "techno",
+    "synth-pop",
+    "art punk",
+    "avant-garde"
+   ],
+   "url": "https://musicbrainz.org/artist/bcc5fb7c-e8c8-4c2e-8f64-c46f1ea2b974"
+  },
+  {
+   "name": "j^p^n",
+   "mbid": "f8230fbb-49d5-4b89-b45c-6b44ec27f7d4",
+   "country": "JP",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/f8230fbb-49d5-4b89-b45c-6b44ec27f7d4"
+  },
+  {
+   "name": "S. P. Balasubrahmanyam",
+   "mbid": "719826ad-25b4-4bef-a44f-a80af3dbd721",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "Indian musician and playback singer",
+   "begin": "1946-06-04",
+   "tags": [
+    "filmi",
+    "death by covid-19"
+   ],
+   "url": "https://musicbrainz.org/artist/719826ad-25b4-4bef-a44f-a80af3dbd721"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "hits": [
+  {
+   "name": "Gholam Sakhi",
+   "mbid": "919355f9-4d40-4c88-bc2d-4c02e92d00a7",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "Afghani vocalist & guitarist",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/919355f9-4d40-4c88-bc2d-4c02e92d00a7"
+  },
+  {
+   "name": "Gholam Hassan",
+   "mbid": "8b9e7efc-0a5c-4f1b-a531-f60c4a1ef11a",
+   "country": "AF",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/8b9e7efc-0a5c-4f1b-a531-f60c4a1ef11a"
+  },
+  {
+   "name": "Gholam Alizade",
+   "mbid": "3988857f-2d35-41f8-a845-6136c681218f",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/3988857f-2d35-41f8-a845-6136c681218f"
+  },
+  {
+   "name": "Gholām-Hossein Banān",
+   "mbid": "10a83137-1a66-400c-a211-0b5819b89935",
+   "country": "IR",
+   "type": "Person",
+   "disambiguation": "Iranian Singer",
+   "begin": "1911-05-05",
+   "tags": [
+    "persian pop"
+   ],
+   "url": "https://musicbrainz.org/artist/10a83137-1a66-400c-a211-0b5819b89935"
+  },
+  {
+   "name": "Gholam Hossein Mirzai",
+   "mbid": "4ec23d19-a63f-46dd-8627-68a1c7a4f047",
+   "country": "IR",
+   "type": "Person",
+   "disambiguation": "durar. vocal",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/4ec23d19-a63f-46dd-8627-68a1c7a4f047"
+  },
+  {
+   "name": "Gholâm Nabi Zendadel",
+   "mbid": "bc7b8513-710a-492e-a360-cc5265150f18",
+   "country": "AF",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/bc7b8513-710a-492e-a360-cc5265150f18"
+  },
+  {
+   "name": "Rachid Taha",
+   "mbid": "04dd1f61-c21b-4d6a-b110-55b3c1309fa0",
+   "country": "FR",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1958-09-18",
+   "tags": [
+    "rock",
+    "arabic",
+    "world",
+    "world fusion",
+    "raï",
+    "رشيد طه‎"
+   ],
+   "url": "https://musicbrainz.org/artist/04dd1f61-c21b-4d6a-b110-55b3c1309fa0"
+  },
+  {
+   "name": "Rachid",
+   "mbid": "14f8a9ff-6dc5-4b13-ba5c-a481f68dea12",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": "son of Kool & the Gang's Ronald Bell",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/14f8a9ff-6dc5-4b13-ba5c-a481f68dea12"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "hits": [
+  {
+   "name": "Snada",
+   "mbid": "b1cb12b4-5360-44e7-abcc-20e0b13f69b5",
+   "country": null,
+   "type": null,
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/b1cb12b4-5360-44e7-abcc-20e0b13f69b5"
+  },
+  {
+   "name": "Snada",
+   "mbid": "eb94dc17-4398-4cde-a28f-74d17a079083",
+   "country": "ID",
+   "type": "Group",
+   "disambiguation": "Indonesian group",
+   "begin": "1991",
+   "tags": [
+    "nasheed"
+   ],
+   "url": "https://musicbrainz.org/artist/eb94dc17-4398-4cde-a28f-74d17a079083"
+  }
+ ]
+}

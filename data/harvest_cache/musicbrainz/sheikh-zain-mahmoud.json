@@ -1,0 +1,87 @@
+{
+ "hits": [
+  {
+   "name": "Zain",
+   "mbid": "35eeac65-dfb7-42a1-bae3-c2d3f82462ee",
+   "country": "MY",
+   "type": "Person",
+   "disambiguation": "of Ruffedge",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/35eeac65-dfb7-42a1-bae3-c2d3f82462ee"
+  },
+  {
+   "name": "Zain",
+   "mbid": "9e7b3719-1e67-45c4-ba4b-181d3c214e3c",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "British-Asian singer/songwriter",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/9e7b3719-1e67-45c4-ba4b-181d3c214e3c"
+  },
+  {
+   "name": "Maher Zain",
+   "mbid": "70ac6b1c-6070-4e4b-a752-25ad8beeaddf",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1981-07-16",
+   "tags": [
+    "gospel",
+    "maher zain the n1 for us"
+   ],
+   "url": "https://musicbrainz.org/artist/70ac6b1c-6070-4e4b-a752-25ad8beeaddf"
+  },
+  {
+   "name": "Mahmoud",
+   "mbid": "94157869-743e-4579-b7a5-4bde6f59bfe2",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "German Singer",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/94157869-743e-4579-b7a5-4bde6f59bfe2"
+  },
+  {
+   "name": "Mahmoud",
+   "mbid": "a4bfc9e7-bd2a-45cf-b1c3-6e34cb4d1b7f",
+   "country": "FI",
+   "type": "Person",
+   "disambiguation": "Finnish hip-hop",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/a4bfc9e7-bd2a-45cf-b1c3-6e34cb4d1b7f"
+  },
+  {
+   "name": "Manu Zain",
+   "mbid": "9258598f-e03b-4430-9e85-f9d340790a01",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/9258598f-e03b-4430-9e85-f9d340790a01"
+  },
+  {
+   "name": "Zain Bhikha",
+   "mbid": "99b2ad02-c573-4355-83e0-7fcb52006aec",
+   "country": "ZA",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1974-08-09",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/99b2ad02-c573-4355-83e0-7fcb52006aec"
+  },
+  {
+   "name": "Tété",
+   "mbid": "81c8653f-a227-4341-a2a7-d906fb450060",
+   "country": "FR",
+   "type": "Person",
+   "disambiguation": "French musician",
+   "begin": "1975-07-25",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/81c8653f-a227-4341-a2a7-d906fb450060"
+  }
+ ]
+}

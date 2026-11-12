@@ -1,0 +1,90 @@
+{
+ "hits": [
+  {
+   "name": "Nissa",
+   "mbid": "eca11912-1f81-4e54-b3f1-a451fe6bb4b1",
+   "country": null,
+   "type": null,
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/eca11912-1f81-4e54-b3f1-a451fe6bb4b1"
+  },
+  {
+   "name": "Vlad Sabyanin",
+   "mbid": "1ecbf068-da9e-47e1-98da-9bac3b00af99",
+   "country": "RU",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/1ecbf068-da9e-47e1-98da-9bac3b00af99"
+  },
+  {
+   "name": "Nissa Nyberget",
+   "mbid": "3eb1cfee-d4ea-4724-9ad4-7c76ae56a843",
+   "country": "NO",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1954-06-12",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/3eb1cfee-d4ea-4724-9ad4-7c76ae56a843"
+  },
+  {
+   "name": "Nissa Seych",
+   "mbid": "f8889cc7-24aa-48ef-8c59-2a93165dc8f2",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [
+    "hip hop",
+    "reggae",
+    "afrobeat",
+    "dancehall",
+    "r&b"
+   ],
+   "url": "https://musicbrainz.org/artist/f8889cc7-24aa-48ef-8c59-2a93165dc8f2"
+  },
+  {
+   "name": "Nissa Wood",
+   "mbid": "3a12b4c3-aff3-4fac-b464-28338ddec11e",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/3a12b4c3-aff3-4fac-b464-28338ddec11e"
+  },
+  {
+   "name": "Nissa Michelle",
+   "mbid": "4ee4d174-4fe2-4cb0-90b1-31ef09f2d851",
+   "country": "DE",
+   "type": "Person",
+   "disambiguation": "DJ",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/4ee4d174-4fe2-4cb0-90b1-31ef09f2d851"
+  },
+  {
+   "name": "Nissa Hamzah",
+   "mbid": "9cb3ef2d-e8ef-41aa-9261-7b2b9a4acdd5",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/9cb3ef2d-e8ef-41aa-9261-7b2b9a4acdd5"
+  },
+  {
+   "name": "Nissa Lai",
+   "mbid": "be4f9790-2404-406a-855e-38694304b330",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/be4f9790-2404-406a-855e-38694304b330"
+  }
+ ]
+}

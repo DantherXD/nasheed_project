@@ -1,0 +1,131 @@
+{
+ "hits": [
+  {
+   "name": "ALI PROJECT",
+   "mbid": "12b6e407-4ec0-4cc6-80d4-b38d7df99694",
+   "country": "JP",
+   "type": "Group",
+   "disambiguation": null,
+   "begin": "1985",
+   "tags": [
+    "rock",
+    "progressive rock",
+    "japanese",
+    "visual kei",
+    "darkwave",
+    "gothic lolita",
+    "neo classical",
+    "fuck ali project"
+   ],
+   "url": "https://musicbrainz.org/artist/12b6e407-4ec0-4cc6-80d4-b38d7df99694"
+  },
+  {
+   "name": "Nusrat Fateh Ali Khan",
+   "mbid": "5968383c-11c1-4c5b-ada0-504a38cec8e7",
+   "country": "PK",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1948-10-13",
+   "tags": [
+    "classical",
+    "vocals",
+    "world",
+    "punjabi",
+    "qawwali",
+    "pakistani",
+    "asian",
+    "ghazal"
+   ],
+   "url": "https://musicbrainz.org/artist/5968383c-11c1-4c5b-ada0-504a38cec8e7"
+  },
+  {
+   "name": "Nadia Ali",
+   "mbid": "e5d928e1-b020-4dd8-9497-7aaee1b337bd",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1980-08-03",
+   "tags": [
+    "american",
+    "pakistani",
+    "electronica and dance",
+    "trance",
+    "house",
+    "electronic dance music",
+    "vocalist",
+    "singer-songwriter"
+   ],
+   "url": "https://musicbrainz.org/artist/e5d928e1-b020-4dd8-9497-7aaee1b337bd"
+  },
+  {
+   "name": "Brother Ali",
+   "mbid": "e0b267df-9e16-4fd3-abb2-b47e61e7a2aa",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1977-07-30",
+   "tags": [
+    "hip-hop",
+    "hip hop",
+    "rapper",
+    "underground hip hop",
+    "conscious hip hop"
+   ],
+   "url": "https://musicbrainz.org/artist/e0b267df-9e16-4fd3-abb2-b47e61e7a2aa"
+  },
+  {
+   "name": "ALI",
+   "mbid": "a0bb95b8-9fd9-47dd-af28-d4210f7f2a11",
+   "country": "JP",
+   "type": "Group",
+   "disambiguation": "ALIEN LIBERTY INTERNATIONAL; multinational HIP-HOP / FUNK BAND from Shibuya",
+   "begin": "2016-06-03",
+   "tags": [
+    "hip hop",
+    "j-pop",
+    "j-rock",
+    "jazz fusion",
+    "acid jazz",
+    "jazz-funk",
+    "jazz rap",
+    "solo project"
+   ],
+   "url": "https://musicbrainz.org/artist/a0bb95b8-9fd9-47dd-af28-d4210f7f2a11"
+  },
+  {
+   "name": "Ali Shaheed Muhammad",
+   "mbid": "d5ee9a6f-8e10-47e7-bca7-7e3f82aad769",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1970-08-11",
+   "tags": [
+    "hip hop"
+   ],
+   "url": "https://musicbrainz.org/artist/d5ee9a6f-8e10-47e7-bca7-7e3f82aad769"
+  },
+  {
+   "name": "ALi",
+   "mbid": "698bca2c-a2e7-4950-bf02-f548a989622f",
+   "country": "KR",
+   "type": "Person",
+   "disambiguation": "Korean vocalist",
+   "begin": "1984-11-20",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/698bca2c-a2e7-4950-bf02-f548a989622f"
+  },
+  {
+   "name": "Ali",
+   "mbid": "f12c52ad-6a95-4d48-bdb5-71bc31235cab",
+   "country": "FR",
+   "type": "Person",
+   "disambiguation": "French rapper",
+   "begin": "1975-05-05",
+   "tags": [
+    "hip hop",
+    "conscious hip hop"
+   ],
+   "url": "https://musicbrainz.org/artist/f12c52ad-6a95-4d48-bdb5-71bc31235cab"
+  }
+ ]
+}

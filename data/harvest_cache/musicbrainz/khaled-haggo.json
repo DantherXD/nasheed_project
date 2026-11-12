@@ -1,0 +1,106 @@
+{
+ "hits": [
+  {
+   "name": "Khaled",
+   "mbid": "b4a479aa-4384-4acf-88b0-dee9188faeb5",
+   "country": "DZ",
+   "type": "Person",
+   "disambiguation": "Algerian raï singer‐songwriter",
+   "begin": "1960-02-29",
+   "tags": [
+    "french",
+    "arabic",
+    "world",
+    "algerian",
+    "raï",
+    "north african",
+    "international",
+    "worldwide"
+   ],
+   "url": "https://musicbrainz.org/artist/b4a479aa-4384-4acf-88b0-dee9188faeb5"
+  },
+  {
+   "name": "Khaled Hosseini",
+   "mbid": "a888def5-ba9f-4bce-aa0d-3f5a97c008e9",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1965-03-04",
+   "tags": [
+    "has german audiobooks"
+   ],
+   "url": "https://musicbrainz.org/artist/a888def5-ba9f-4bce-aa0d-3f5a97c008e9"
+  },
+  {
+   "name": "DJ Khaled",
+   "mbid": "081a2d60-9791-4e05-a075-f1890355eeee",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": "American hip hop DJ & producer",
+   "begin": "1975-11-26",
+   "tags": [
+    "hip hop",
+    "southern hip hop",
+    "gangsta rap",
+    "pop rap",
+    "dirty south",
+    "english",
+    "hip hop rnb and dance hall",
+    "contemporary r&b"
+   ],
+   "url": "https://musicbrainz.org/artist/081a2d60-9791-4e05-a075-f1890355eeee"
+  },
+  {
+   "name": "Khaled",
+   "mbid": "0b1aea37-1b1a-4c1f-bd59-23443ba90741",
+   "country": "ES",
+   "type": "Person",
+   "disambiguation": "Spanish-Moroccan rapper",
+   "begin": "1990",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/0b1aea37-1b1a-4c1f-bd59-23443ba90741"
+  },
+  {
+   "name": "SHAGGO",
+   "mbid": "8323fe73-3820-4f14-80fc-5bcbc25a795d",
+   "country": null,
+   "type": "Group",
+   "disambiguation": null,
+   "begin": "2025-01-01",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/8323fe73-3820-4f14-80fc-5bcbc25a795d"
+  },
+  {
+   "name": "Khaled",
+   "mbid": "681e537c-c507-4f40-8e13-79018cdc23c2",
+   "country": null,
+   "type": null,
+   "disambiguation": "German Rap",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/681e537c-c507-4f40-8e13-79018cdc23c2"
+  },
+  {
+   "name": "Khaled Mouzanar",
+   "mbid": "c914e186-519b-4122-aed0-afc6b47d5476",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/c914e186-519b-4122-aed0-afc6b47d5476"
+  },
+  {
+   "name": "Khaled Freak",
+   "mbid": "55a7e0e3-4780-491b-8c19-91aa530958cc",
+   "country": "FR",
+   "type": "Person",
+   "disambiguation": "French DJ specialised in political mashups",
+   "begin": null,
+   "tags": [
+    "comedy"
+   ],
+   "url": "https://musicbrainz.org/artist/55a7e0e3-4780-491b-8c19-91aa530958cc"
+  }
+ ]
+}

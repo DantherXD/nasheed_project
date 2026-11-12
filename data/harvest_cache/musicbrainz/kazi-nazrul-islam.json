@@ -1,0 +1,111 @@
+{
+ "hits": [
+  {
+   "name": "Kazi Nazrul Islam",
+   "mbid": "833c036c-fcee-4f78-a918-5aa0b2d95596",
+   "country": "BD",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1899-05-24",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/833c036c-fcee-4f78-a918-5aa0b2d95596"
+  },
+  {
+   "name": "Yusuf Islam",
+   "mbid": "bf27c046-38b4-4b0f-ad65-358ed588cddf",
+   "country": "GB",
+   "type": "Person",
+   "disambiguation": "formerly Cat Stevens",
+   "begin": "1948-07-21",
+   "tags": [
+    "rock",
+    "pop",
+    "folk",
+    "british",
+    "singer-songwriter",
+    "uk",
+    "britannique",
+    "folk rock"
+   ],
+   "url": "https://musicbrainz.org/artist/bf27c046-38b4-4b0f-ad65-358ed588cddf"
+  },
+  {
+   "name": "Aaron Nazrul",
+   "mbid": "60816edb-7870-4438-9eb8-987c7a2b1daa",
+   "country": null,
+   "type": null,
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/60816edb-7870-4438-9eb8-987c7a2b1daa"
+  },
+  {
+   "name": "Celt Islam",
+   "mbid": "b49b2234-96d9-4479-8e26-d8d3c3162406",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "Muhammad Abdullah Hamzah",
+   "begin": null,
+   "tags": [
+    "electronic",
+    "dubstep",
+    "dub",
+    "electronica",
+    "world fusion",
+    "edm",
+    "islam",
+    "drum & bass"
+   ],
+   "url": "https://musicbrainz.org/artist/b49b2234-96d9-4479-8e26-d8d3c3162406"
+  },
+  {
+   "name": "Mamuda Anjum Bristy",
+   "mbid": "4c3f8bc2-3887-4cd4-820d-1cc45f2beab8",
+   "country": "BD",
+   "type": "Person",
+   "disambiguation": "Artist from Bangladesh",
+   "begin": "1996-10-28",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/4c3f8bc2-3887-4cd4-820d-1cc45f2beab8"
+  },
+  {
+   "name": "Rupam Islam",
+   "mbid": "0e338740-7599-4c79-b419-656f9c3828db",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/0e338740-7599-4c79-b419-656f9c3828db"
+  },
+  {
+   "name": "Cat Stevens",
+   "mbid": "e2345fdf-2be7-47c5-a6dd-be64353ad134",
+   "country": "GB",
+   "type": "Person",
+   "disambiguation": "now known as Yusuf Islam",
+   "begin": "1948-07-21",
+   "tags": [
+    "rock",
+    "folk",
+    "singer-songwriter",
+    "folk rock",
+    "baroque pop",
+    "soft rock",
+    "pop rock",
+    "contemporary folk"
+   ],
+   "url": "https://musicbrainz.org/artist/e2345fdf-2be7-47c5-a6dd-be64353ad134"
+  },
+  {
+   "name": "Afrika Islam",
+   "mbid": "0e2625cd-6f00-4ca4-9dde-41d7d04d30f3",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1967",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/0e2625cd-6f00-4ca4-9dde-41d7d04d30f3"
+  }
+ ]
+}

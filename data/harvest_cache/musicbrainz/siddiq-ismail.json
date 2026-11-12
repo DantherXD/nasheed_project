@@ -1,0 +1,86 @@
+{
+ "hits": [
+  {
+   "name": "ismail",
+   "mbid": "c05725a7-0e02-4ba7-a9cf-f999a86473f4",
+   "country": null,
+   "type": "Other",
+   "disambiguation": "Software Crackers",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/c05725a7-0e02-4ba7-a9cf-f999a86473f4"
+  },
+  {
+   "name": "Ismail",
+   "mbid": "1417cc08-305a-467b-8c6e-4fa04c6a1371",
+   "country": null,
+   "type": null,
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/1417cc08-305a-467b-8c6e-4fa04c6a1371"
+  },
+  {
+   "name": "Ismail",
+   "mbid": "d3c0ffc6-9165-49e0-b12d-0b40342ab40f",
+   "country": null,
+   "type": null,
+   "disambiguation": "House",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/d3c0ffc6-9165-49e0-b12d-0b40342ab40f"
+  },
+  {
+   "name": "İsmail YK",
+   "mbid": "f61ee1db-94f7-4ba1-ad2d-a24193152b01",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [
+    "turkish"
+   ],
+   "url": "https://musicbrainz.org/artist/f61ee1db-94f7-4ba1-ad2d-a24193152b01"
+  },
+  {
+   "name": "İsmail Türüt",
+   "mbid": "3335fad6-69ab-4220-94ee-3b6cbf26c7f7",
+   "country": "TR",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/3335fad6-69ab-4220-94ee-3b6cbf26c7f7"
+  },
+  {
+   "name": "Ismail Darbar",
+   "mbid": "f0321554-8ec0-47c5-a939-c7f2b158947e",
+   "country": "IN",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1964-06-01",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/f0321554-8ec0-47c5-a939-c7f2b158947e"
+  },
+  {
+   "name": "Azeem",
+   "mbid": "ebdfbdc1-9f14-433d-8329-5ff8cc2d3e5d",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": "US rapper",
+   "begin": "1977-07-17",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/ebdfbdc1-9f14-433d-8329-5ff8cc2d3e5d"
+  },
+  {
+   "name": "Lobo Ismail",
+   "mbid": "d9ca223e-7cca-4347-9cf1-7de22476b53c",
+   "country": "JO",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1974-08-11",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/d9ca223e-7cca-4347-9cf1-7de22476b53c"
+  }
+ ]
+}

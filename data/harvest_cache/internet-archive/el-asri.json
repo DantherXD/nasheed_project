@@ -1,0 +1,40 @@
+{
+ "total": 5,
+ "hits": [
+  {
+   "identifier": "AlIkhlassFiAl3amal",
+   "title": "al ikhlass fi al 3amal",
+   "creator": "el asri yousef",
+   "licence": null,
+   "url": "https://archive.org/details/AlIkhlassFiAl3amal"
+  },
+  {
+   "identifier": "Ta9yDinAlHilaly",
+   "title": "ta9y din al hilaly",
+   "creator": "el asri yousef",
+   "licence": null,
+   "url": "https://archive.org/details/Ta9yDinAlHilaly"
+  },
+  {
+   "identifier": "orchestreelasri",
+   "title": "Orchestre El Asri",
+   "creator": null,
+   "licence": null,
+   "url": "https://archive.org/details/orchestreelasri"
+  },
+  {
+   "identifier": "elasri",
+   "title": "el asri",
+   "creator": null,
+   "licence": null,
+   "url": "https://archive.org/details/elasri"
+  },
+  {
+   "identifier": "el-asri-amdah-nabawiya-amdah-el-asri-2",
+   "title": "El Asri Amdah Nabawiya Amdah El Asri 2",
+   "creator": null,
+   "licence": null,
+   "url": "https://archive.org/details/el-asri-amdah-nabawiya-amdah-el-asri-2"
+  }
+ ]
+}

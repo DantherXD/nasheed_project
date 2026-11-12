@@ -1,0 +1,139 @@
+{
+ "hits": [
+  {
+   "name": "Various Artists",
+   "mbid": "89ad4ac3-39f7-470e-963a-56509c546377",
+   "country": null,
+   "type": "Other",
+   "disambiguation": "add compilations to this artist",
+   "begin": null,
+   "tags": [
+    "rock",
+    "trance",
+    "electronic",
+    "soundtrack",
+    "classical",
+    "pop",
+    "special purpose artist",
+    "jungle"
+   ],
+   "url": "https://musicbrainz.org/artist/89ad4ac3-39f7-470e-963a-56509c546377"
+  },
+  {
+   "name": "[unknown]",
+   "mbid": "125ec42a-7229-4250-afc5-e057484327fe",
+   "country": "XW",
+   "type": "Other",
+   "disambiguation": "Special Purpose Artist – Do not add releases here, if possible.",
+   "begin": null,
+   "tags": [
+    "soundtrack",
+    "classical",
+    "special purpose artist",
+    "fixme",
+    "ambient",
+    "bogus artist",
+    "software company as artist",
+    "meta artist"
+   ],
+   "url": "https://musicbrainz.org/artist/125ec42a-7229-4250-afc5-e057484327fe"
+  },
+  {
+   "name": "[no artist]",
+   "mbid": "eec63d3c-3b81-4ad4-b1e4-7c147d4d2b61",
+   "country": null,
+   "type": "Other",
+   "disambiguation": "Special Purpose Artist",
+   "begin": null,
+   "tags": [
+    "special purpose artist",
+    "fixme",
+    "bogus artist",
+    "meta artist",
+    "non-music",
+    "nature",
+    "bogus",
+    "nature sounds"
+   ],
+   "url": "https://musicbrainz.org/artist/eec63d3c-3b81-4ad4-b1e4-7c147d4d2b61"
+  },
+  {
+   "name": "The Spencer Davis Group",
+   "mbid": "178fdfdf-e02e-4608-9b51-e53471e28a58",
+   "country": "GB",
+   "type": "Group",
+   "disambiguation": null,
+   "begin": "1963",
+   "tags": [
+    "rock",
+    "blues",
+    "british",
+    "uk",
+    "blue-eyed soul",
+    "rock and roll",
+    "mod",
+    "beat"
+   ],
+   "url": "https://musicbrainz.org/artist/178fdfdf-e02e-4608-9b51-e53471e28a58"
+  },
+  {
+   "name": "The Dubliners",
+   "mbid": "d201e6c0-103d-4a9a-9969-909bd421ddad",
+   "country": "IE",
+   "type": "Group",
+   "disambiguation": null,
+   "begin": "1962",
+   "tags": [
+    "irish",
+    "folk",
+    "irish folk"
+   ],
+   "url": "https://musicbrainz.org/artist/d201e6c0-103d-4a9a-9969-909bd421ddad"
+  },
+  {
+   "name": "Group Publishing",
+   "mbid": "e03b55bd-3de7-46b1-a5d4-c2cb4541721d",
+   "country": "US",
+   "type": "Group",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [
+    "gospel",
+    "contemporary gospel"
+   ],
+   "url": "https://musicbrainz.org/artist/e03b55bd-3de7-46b1-a5d4-c2cb4541721d"
+  },
+  {
+   "name": "Queen",
+   "mbid": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+   "country": "GB",
+   "type": "Group",
+   "disambiguation": "UK rock group",
+   "begin": "1970-06-27",
+   "tags": [
+    "rock",
+    "pop",
+    "progressive rock",
+    "70s",
+    "80s",
+    "heavy metal",
+    "90s",
+    "pop-rock"
+   ],
+   "url": "https://musicbrainz.org/artist/0383dadf-2a4e-4d10-a46a-e9e041da8eb3"
+  },
+  {
+   "name": "Michael Schenker Group",
+   "mbid": "db005731-6c46-4e7d-83e3-21f80189884a",
+   "country": "DE",
+   "type": "Group",
+   "disambiguation": null,
+   "begin": "1979",
+   "tags": [
+    "heavy metal",
+    "hard rock"
+   ],
+   "url": "https://musicbrainz.org/artist/db005731-6c46-4e7d-83e3-21f80189884a"
+  }
+ ]
+}

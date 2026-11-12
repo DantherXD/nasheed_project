@@ -1,0 +1,87 @@
+{
+ "hits": [
+  {
+   "name": "Abdellatif Chaarani",
+   "mbid": "bf23537e-b5e4-4b6b-a789-0ea71d0aee70",
+   "country": null,
+   "type": null,
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/bf23537e-b5e4-4b6b-a789-0ea71d0aee70"
+  },
+  {
+   "name": "Abdellatif Combo",
+   "mbid": "16ebe2ca-3a04-41dd-b017-2b1ebbc6d722",
+   "country": null,
+   "type": null,
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/16ebe2ca-3a04-41dd-b017-2b1ebbc6d722"
+  },
+  {
+   "name": "Abdellatif Chedai",
+   "mbid": "53608005-0a71-4c49-ab41-c120c19cb960",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/53608005-0a71-4c49-ab41-c120c19cb960"
+  },
+  {
+   "name": "Abdellatif Oughassal",
+   "mbid": "7bbe122c-3699-4026-838c-795461261f73",
+   "country": "MA",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/7bbe122c-3699-4026-838c-795461261f73"
+  },
+  {
+   "name": "Abdellatif Abdellaoui",
+   "mbid": "13361671-e9ce-4058-af33-ec88074bfca0",
+   "country": "MA",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/13361671-e9ce-4058-af33-ec88074bfca0"
+  },
+  {
+   "name": "Houz",
+   "mbid": "75749faa-a917-4ace-bac5-5b5d7d8ab788",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "house/techno producer from Tunisia",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/75749faa-a917-4ace-bac5-5b5d7d8ab788"
+  },
+  {
+   "name": "K-Push",
+   "mbid": "26ead0b9-8c54-4519-b236-d4d06b8465ea",
+   "country": "FR",
+   "type": "Person",
+   "disambiguation": "French rapper aka Yen Gangsta / 400 Hyènes",
+   "begin": null,
+   "tags": [
+    "hip hop",
+    "hardcore hip hop"
+   ],
+   "url": "https://musicbrainz.org/artist/26ead0b9-8c54-4519-b236-d4d06b8465ea"
+  },
+  {
+   "name": "Shaykh Hanif",
+   "mbid": "4e66acf0-922c-4019-90e8-a9ae6418bf4a",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/4e66acf0-922c-4019-90e8-a9ae6418bf4a"
+  }
+ ]
+}

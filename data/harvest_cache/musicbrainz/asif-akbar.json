@@ -1,0 +1,91 @@
+{
+ "hits": [
+  {
+   "name": "Asif Akbar",
+   "mbid": "0dfe582f-a463-447f-a226-310e8d1c9fdb",
+   "country": "BD",
+   "type": "Person",
+   "disambiguation": "A bangladeshi pop singer",
+   "begin": "1972-03-25",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/0dfe582f-a463-447f-a226-310e8d1c9fdb"
+  },
+  {
+   "name": "Asif Akbar",
+   "mbid": "6bd7c989-90db-4fe6-b50d-71951ffc4029",
+   "country": "IN",
+   "type": "Person",
+   "disambiguation": "Indian rapper",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/6bd7c989-90db-4fe6-b50d-71951ffc4029"
+  },
+  {
+   "name": "Akbar",
+   "mbid": "1825a790-3f4e-45a9-9c57-6cbc4f2d005f",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": "rapper from Chicago, IL, member of Mental Giants",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/1825a790-3f4e-45a9-9c57-6cbc4f2d005f"
+  },
+  {
+   "name": "Akbar",
+   "mbid": "e448454d-29f2-4a8d-a419-52326abf15ce",
+   "country": null,
+   "type": null,
+   "disambiguation": "Iran trad (early 20th century)",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/e448454d-29f2-4a8d-a419-52326abf15ce"
+  },
+  {
+   "name": "Akbar",
+   "mbid": "b8c73578-5b7f-4209-99ed-32ffdab837ab",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "indonesian musician",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/b8c73578-5b7f-4209-99ed-32ffdab837ab"
+  },
+  {
+   "name": "Akbar",
+   "mbid": "c48321af-6290-4267-a35e-b42b84e01432",
+   "country": "GR",
+   "type": "Person",
+   "disambiguation": "psytrance artist",
+   "begin": null,
+   "tags": [
+    "trance",
+    "electronic",
+    "psytrance",
+    "psychedelic trance",
+    "psychedelic",
+    "psy-trance"
+   ],
+   "url": "https://musicbrainz.org/artist/c48321af-6290-4267-a35e-b42b84e01432"
+  },
+  {
+   "name": "Akbar",
+   "mbid": "9686b2c1-39cb-4f2a-8733-51e711670ac3",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "Derrick Muhammad, rapper from Columbus, OH",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/9686b2c1-39cb-4f2a-8733-51e711670ac3"
+  },
+  {
+   "name": "Akbar",
+   "mbid": "7f00bd89-3fd7-4245-b2d7-bcc3e78bec0e",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "designer/illustrator",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/7f00bd89-3fd7-4245-b2d7-bcc3e78bec0e"
+  }
+ ]
+}

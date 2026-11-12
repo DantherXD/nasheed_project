@@ -1,0 +1,117 @@
+{
+ "hits": [
+  {
+   "name": "Janna",
+   "mbid": "b5b1055b-c8f5-4c71-b477-a66d63246395",
+   "country": "FI",
+   "type": "Person",
+   "disambiguation": "Finnish singer Janna Hurmerinta",
+   "begin": "1981-12-20",
+   "tags": [
+    "pop",
+    "soul",
+    "international",
+    "r&b",
+    "finnish rock",
+    "finnish pop"
+   ],
+   "url": "https://musicbrainz.org/artist/b5b1055b-c8f5-4c71-b477-a66d63246395"
+  },
+  {
+   "name": "janna",
+   "mbid": "3f7cf445-f739-4b96-abf0-18730de4210a",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "Johanna Baumann",
+   "begin": null,
+   "tags": [
+    "rock",
+    "pop",
+    "folk rock",
+    "folk",
+    "indie folk",
+    "indie rock",
+    "indie pop"
+   ],
+   "url": "https://musicbrainz.org/artist/3f7cf445-f739-4b96-abf0-18730de4210a"
+  },
+  {
+   "name": "Janna",
+   "mbid": "235200b2-1d19-473c-aa45-0461cc997bcb",
+   "country": "DE",
+   "type": "Person",
+   "disambiguation": "Johanna Werner",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/235200b2-1d19-473c-aa45-0461cc997bcb"
+  },
+  {
+   "name": "Janna",
+   "mbid": "9732ce85-bb0d-4d39-9332-29df174da47d",
+   "country": "NL",
+   "type": "Person",
+   "disambiguation": "Dutch house vocalist \"Brazilian Nights\"",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/9732ce85-bb0d-4d39-9332-29df174da47d"
+  },
+  {
+   "name": "Al Green",
+   "mbid": "fb7272ba-f130-4f0a-934d-6eeea4c18c9a",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": "US soul singer, songwriter, pastor and record producer",
+   "begin": "1946-04-13",
+   "tags": [
+    "soul",
+    "1980s",
+    "1970s",
+    "gospel",
+    "southern soul",
+    "soul blues",
+    "soul and reggae",
+    "contemporary gospel"
+   ],
+   "url": "https://musicbrainz.org/artist/fb7272ba-f130-4f0a-934d-6eeea4c18c9a"
+  },
+  {
+   "name": "Janna",
+   "mbid": "65a22cb9-fb1f-4deb-8c77-416396c0d85a",
+   "country": "NL",
+   "type": "Person",
+   "disambiguation": "Dutch singer/songwriter Janna Baerends",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/65a22cb9-fb1f-4deb-8c77-416396c0d85a"
+  },
+  {
+   "name": "Janna",
+   "mbid": "6d04b018-b144-4fc0-8d28-fd7925ba75c4",
+   "country": "DE",
+   "type": "Person",
+   "disambiguation": "2010s German singer / MQEEBD & El Age Project feat. Janna",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/6d04b018-b144-4fc0-8d28-fd7925ba75c4"
+  },
+  {
+   "name": "Al Jarreau",
+   "mbid": "3e54ba8b-f4cc-4192-9813-890d570e2b7a",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": "jazz, pop and r&b singer-songwriter",
+   "begin": "1940-03-12",
+   "tags": [
+    "soul",
+    "1980s",
+    "1970s",
+    "2000s",
+    "soft rock",
+    "crossover jazz",
+    "vocal jazz",
+    "jazz-funk"
+   ],
+   "url": "https://musicbrainz.org/artist/3e54ba8b-f4cc-4192-9813-890d570e2b7a"
+  }
+ ]
+}

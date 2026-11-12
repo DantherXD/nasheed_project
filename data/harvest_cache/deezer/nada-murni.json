@@ -1,0 +1,32 @@
+{
+ "hits": [
+  {
+   "name": "Nasa Munir",
+   "id": 4092013,
+   "fans": 10,
+   "albums": 4,
+   "url": "https://www.deezer.com/artist/4092013"
+  },
+  {
+   "name": "Nada Murni",
+   "id": 7809164,
+   "fans": 16,
+   "albums": 0,
+   "url": "https://www.deezer.com/artist/7809164"
+  },
+  {
+   "name": "Edén Muñoz",
+   "id": 4414006,
+   "fans": 284743,
+   "albums": 63,
+   "url": "https://www.deezer.com/artist/4414006"
+  },
+  {
+   "name": "Nada Murni II",
+   "id": 7809166,
+   "fans": 9,
+   "albums": 0,
+   "url": "https://www.deezer.com/artist/7809166"
+  }
+ ]
+}

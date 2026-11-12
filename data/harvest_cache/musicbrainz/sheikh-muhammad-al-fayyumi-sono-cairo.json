@@ -1,0 +1,101 @@
+{
+ "hits": [
+  {
+   "name": "Sono",
+   "mbid": "18350267-3678-4269-b817-920e4f41e096",
+   "country": "DE",
+   "type": "Group",
+   "disambiguation": "German band",
+   "begin": null,
+   "tags": [
+    "electronic",
+    "synth-pop",
+    "electropop"
+   ],
+   "url": "https://musicbrainz.org/artist/18350267-3678-4269-b817-920e4f41e096"
+  },
+  {
+   "name": "Muhammad Al Muqit",
+   "mbid": "280de915-10e5-4fb1-8d60-64e768d662d7",
+   "country": "SA",
+   "type": "Person",
+   "disambiguation": "Poet, Artist, Singer, Nasheedist",
+   "begin": "1989",
+   "tags": [
+    "nasheed",
+    "islamic",
+    "anasheed",
+    "islamic music",
+    "اناشيد",
+    "نشيد"
+   ],
+   "url": "https://musicbrainz.org/artist/280de915-10e5-4fb1-8d60-64e768d662d7"
+  },
+  {
+   "name": "محمد القبانجي",
+   "mbid": "48d9d784-dacb-4dff-b0a9-f0d320067386",
+   "country": "IQ",
+   "type": "Person",
+   "disambiguation": "Iraqi maqam performer, 1904-1989",
+   "begin": "1904",
+   "tags": [
+    "iraqi maqam",
+    "iraqi music",
+    "mesopotamian music"
+   ],
+   "url": "https://musicbrainz.org/artist/48d9d784-dacb-4dff-b0a9-f0d320067386"
+  },
+  {
+   "name": "Muhammad al Yaqoubi",
+   "mbid": "72f3bbe0-99ae-4581-b1e4-fb878f341d84",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/72f3bbe0-99ae-4581-b1e4-fb878f341d84"
+  },
+  {
+   "name": "Cairo Cairo",
+   "mbid": "62d60641-74bb-41a1-9dd4-2740c24318f1",
+   "country": null,
+   "type": null,
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/62d60641-74bb-41a1-9dd4-2740c24318f1"
+  },
+  {
+   "name": "محمد",
+   "mbid": "a7fac559-f72e-4c9c-a746-9a6dd08902db",
+   "country": "SA",
+   "type": "Person",
+   "disambiguation": "Muslim prophet, creator of Islam",
+   "begin": "0570",
+   "tags": [
+    "religious"
+   ],
+   "url": "https://musicbrainz.org/artist/a7fac559-f72e-4c9c-a746-9a6dd08902db"
+  },
+  {
+   "name": "SONO MAKERS",
+   "mbid": "56375ade-3b67-41ba-9943-6aa1729a74ff",
+   "country": "JP",
+   "type": "Group",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/56375ade-3b67-41ba-9943-6aa1729a74ff"
+  },
+  {
+   "name": "Muhammad al-Bahr",
+   "mbid": "7409bbe0-558f-42ec-b7d3-cfe57aa6f895",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "Egyptian singer, 1909-1986",
+   "begin": "1909",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/7409bbe0-558f-42ec-b7d3-cfe57aa6f895"
+  }
+ ]
+}

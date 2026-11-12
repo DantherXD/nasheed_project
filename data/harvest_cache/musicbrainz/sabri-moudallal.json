@@ -1,0 +1,94 @@
+{
+ "hits": [
+  {
+   "name": "صبري مدلل",
+   "mbid": "5934f0ab-4432-43d8-bda1-a51a944b4c74",
+   "country": "SY",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1918",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/5934f0ab-4432-43d8-bda1-a51a944b4c74"
+  },
+  {
+   "name": "Sabri Moudallal et son ensemble",
+   "mbid": "ab7f2649-881f-42a1-8281-860fcdb4b819",
+   "country": null,
+   "type": "Group",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/ab7f2649-881f-42a1-8281-860fcdb4b819"
+  },
+  {
+   "name": "Sabri Fejzullahu",
+   "mbid": "4a50d8fa-813f-4922-9bfd-adca14830d7e",
+   "country": "XK",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1947-09-16",
+   "tags": [
+    "sabri fejzullahu albumet e ty"
+   ],
+   "url": "https://musicbrainz.org/artist/4a50d8fa-813f-4922-9bfd-adca14830d7e"
+  },
+  {
+   "name": "SABRI",
+   "mbid": "6393b3d5-8d35-43f8-875b-c59ab787e1a1",
+   "country": null,
+   "type": null,
+   "disambiguation": "Dutch singer",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/6393b3d5-8d35-43f8-875b-c59ab787e1a1"
+  },
+  {
+   "name": "Sabri",
+   "mbid": "3703d9a0-aedb-4024-ab41-ffe02689f374",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "Roma Rap artist from Shutka, Macedonia",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/3703d9a0-aedb-4024-ab41-ffe02689f374"
+  },
+  {
+   "name": "Sabri",
+   "mbid": "fa7a6988-1660-40d4-9f26-cef7f07d466f",
+   "country": "FR",
+   "type": "Person",
+   "disambiguation": "Rapper",
+   "begin": null,
+   "tags": [
+    "hip hop"
+   ],
+   "url": "https://musicbrainz.org/artist/fa7a6988-1660-40d4-9f26-cef7f07d466f"
+  },
+  {
+   "name": "The Sabri Brothers",
+   "mbid": "758cdd59-8341-4500-a7b7-37341258dc15",
+   "country": "PK",
+   "type": "Group",
+   "disambiguation": null,
+   "begin": "1956",
+   "tags": [
+    "qawwali",
+    "religious",
+    "sufi",
+    "ascetic",
+    "pakistani qawwali"
+   ],
+   "url": "https://musicbrainz.org/artist/758cdd59-8341-4500-a7b7-37341258dc15"
+  },
+  {
+   "name": "S.A.B.R.I",
+   "mbid": "01784a9e-a9a5-49c7-b01b-c927f3950c36",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "Electronic & progressive house producer",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/01784a9e-a9a5-49c7-b01b-c927f3950c36"
+  }
+ ]
+}

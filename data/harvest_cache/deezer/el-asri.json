@@ -1,0 +1,60 @@
+{
+ "hits": [
+  {
+   "name": "Ella Fitzgerald",
+   "id": 3280,
+   "fans": 1258543,
+   "albums": 165,
+   "url": "https://www.deezer.com/artist/3280"
+  },
+  {
+   "name": "Hussain Al Jassmi",
+   "id": 97411,
+   "fans": 768018,
+   "albums": 446,
+   "url": "https://www.deezer.com/artist/97411"
+  },
+  {
+   "name": "Elias Dris",
+   "id": 4875720,
+   "fans": 1362,
+   "albums": 9,
+   "url": "https://www.deezer.com/artist/4875720"
+  },
+  {
+   "name": "Orchestre Asri",
+   "id": 1451727,
+   "fans": 2036,
+   "albums": 50,
+   "url": "https://www.deezer.com/artist/1451727"
+  },
+  {
+   "name": "ElYariOficial",
+   "id": 210825507,
+   "fans": 439,
+   "albums": 87,
+   "url": "https://www.deezer.com/artist/210825507"
+  },
+  {
+   "name": "ELASI",
+   "id": 51631602,
+   "fans": 168,
+   "albums": 31,
+   "url": "https://www.deezer.com/artist/51631602"
+  },
+  {
+   "name": "ElMassi",
+   "id": 6519099,
+   "fans": 345,
+   "albums": 11,
+   "url": "https://www.deezer.com/artist/6519099"
+  },
+  {
+   "name": "Elias R",
+   "id": 139683,
+   "fans": 70,
+   "albums": 59,
+   "url": "https://www.deezer.com/artist/139683"
+  }
+ ]
+}

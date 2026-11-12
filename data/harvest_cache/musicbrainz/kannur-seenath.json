@@ -1,0 +1,34 @@
+{
+ "hits": [
+  {
+   "name": "Kannur Shereef",
+   "mbid": "1e455e4f-71ea-4be0-9483-5eb05c4e95e9",
+   "country": null,
+   "type": null,
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/1e455e4f-71ea-4be0-9483-5eb05c4e95e9"
+  },
+  {
+   "name": "Kannur Rajan",
+   "mbid": "2ee0548b-0480-4813-9475-443e7ef9e32c",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "Malayalam music composer",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/2ee0548b-0480-4813-9475-443e7ef9e32c"
+  },
+  {
+   "name": "Kannur Santosh",
+   "mbid": "db4c497c-9061-4a1e-85b4-946d114161ec",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/db4c497c-9061-4a1e-85b4-946d114161ec"
+  }
+ ]
+}

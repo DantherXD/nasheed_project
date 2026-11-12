@@ -1,0 +1,86 @@
+{
+ "hits": [
+  {
+   "name": "Riem Higazi",
+   "mbid": "37e3c6af-2d36-46ca-9e51-d52e7371fe52",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/37e3c6af-2d36-46ca-9e51-d52e7371fe52"
+  },
+  {
+   "name": "Salama Highzi",
+   "mbid": "e461d0b4-73ce-4dda-a456-378e69a89415",
+   "country": "EG",
+   "type": "Person",
+   "disambiguation": "an Egyptian singer and composer",
+   "begin": "1852",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/e461d0b4-73ce-4dda-a456-378e69a89415"
+  },
+  {
+   "name": "Florin Salam",
+   "mbid": "1ddb579b-e2b7-479a-a3cb-0c79c572d9d8",
+   "country": "RO",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1979-10-01",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/1ddb579b-e2b7-479a-a3cb-0c79c572d9d8"
+  },
+  {
+   "name": "Salam",
+   "mbid": "842f6627-2341-4e16-af20-528cb7cd6f1a",
+   "country": "SN",
+   "type": "Group",
+   "disambiguation": "Senegalese folk group",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/842f6627-2341-4e16-af20-528cb7cd6f1a"
+  },
+  {
+   "name": "Salam",
+   "mbid": "11dac65e-8dce-4bd0-86a7-422c6831b7cb",
+   "country": "MY",
+   "type": "Person",
+   "disambiguation": "Malaysian singer",
+   "begin": null,
+   "tags": [
+    "malaysia"
+   ],
+   "url": "https://musicbrainz.org/artist/11dac65e-8dce-4bd0-86a7-422c6831b7cb"
+  },
+  {
+   "name": "Salam",
+   "mbid": "4cfbe67b-0a8f-4557-bf77-e46a3e680e25",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "Techno artist from France",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/4cfbe67b-0a8f-4557-bf77-e46a3e680e25"
+  },
+  {
+   "name": "Salam",
+   "mbid": "bf5c80bd-eb21-425f-85d1-489e89a52678",
+   "country": null,
+   "type": null,
+   "disambiguation": "rapper",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/bf5c80bd-eb21-425f-85d1-489e89a52678"
+  },
+  {
+   "name": "Salam",
+   "mbid": "b59d827b-83e5-42d5-abb2-3e8cf8fc5b64",
+   "country": null,
+   "type": "Group",
+   "disambiguation": "Musique du Monde, basé à Lille",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/b59d827b-83e5-42d5-abb2-3e8cf8fc5b64"
+  }
+ ]
+}

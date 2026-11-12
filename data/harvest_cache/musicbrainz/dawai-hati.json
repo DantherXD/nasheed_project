@@ -1,0 +1,87 @@
+{
+ "hits": [
+  {
+   "name": "Hati",
+   "mbid": "717cfb41-64e3-4775-a69c-3c7824f25aae",
+   "country": "DE",
+   "type": "Group",
+   "disambiguation": "German black metal band",
+   "begin": "1999",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/717cfb41-64e3-4775-a69c-3c7824f25aae"
+  },
+  {
+   "name": "Hati",
+   "mbid": "7f15045c-3c82-46bd-b659-092191995f51",
+   "country": "PL",
+   "type": "Group",
+   "disambiguation": "Polish group",
+   "begin": "2001",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/7f15045c-3c82-46bd-b659-092191995f51"
+  },
+  {
+   "name": "Hati",
+   "mbid": "7d1735d5-80e2-475d-b671-b291f8249186",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "British Solo Artist",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/7d1735d5-80e2-475d-b671-b291f8249186"
+  },
+  {
+   "name": "hati",
+   "mbid": "3cf31a2c-10f6-4313-a456-4fe136fc892e",
+   "country": "JP",
+   "type": "Person",
+   "disambiguation": "Japanese bassist",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/3cf31a2c-10f6-4313-a456-4fe136fc892e"
+  },
+  {
+   "name": "Hati Hróðvitnisson",
+   "mbid": "7df68175-1c90-48ce-a884-a51deb0ae0e4",
+   "country": "SE",
+   "type": "Group",
+   "disambiguation": "Swedish Black Metal",
+   "begin": null,
+   "tags": [
+    "black metal",
+    "raw black metal"
+   ],
+   "url": "https://musicbrainz.org/artist/7df68175-1c90-48ce-a884-a51deb0ae0e4"
+  },
+  {
+   "name": "Hati Munetsi",
+   "mbid": "8659def5-c69c-4963-bcb5-47c0a7eae7fb",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/8659def5-c69c-4963-bcb5-47c0a7eae7fb"
+  },
+  {
+   "name": "Peneduh Hati",
+   "mbid": "a31793c2-d06e-46cf-8da4-bf463020b5e6",
+   "country": "ID",
+   "type": "Group",
+   "disambiguation": null,
+   "begin": "2014-02-02",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/a31793c2-d06e-46cf-8da4-bf463020b5e6"
+  },
+  {
+   "name": "DJ Hati-Monji",
+   "mbid": "985d0122-bead-47df-96f3-a5ba7ff210fb",
+   "country": "JP",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/985d0122-bead-47df-96f3-a5ba7ff210fb"
+  }
+ ]
+}

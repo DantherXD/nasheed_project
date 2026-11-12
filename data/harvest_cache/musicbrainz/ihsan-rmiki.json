@@ -1,0 +1,84 @@
+{
+ "hits": [
+  {
+   "name": "Ihsan Rmiki & Ensemble Al-Jûd",
+   "mbid": "06f68d46-da43-425f-b484-295622ab164b",
+   "country": null,
+   "type": null,
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/06f68d46-da43-425f-b484-295622ab164b"
+  },
+  {
+   "name": "Ihsan",
+   "mbid": "f256dec3-93c5-4138-a68c-e0c9e70b603c",
+   "country": null,
+   "type": null,
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/f256dec3-93c5-4138-a68c-e0c9e70b603c"
+  },
+  {
+   "name": "İhsan Özgen",
+   "mbid": "31b24c3b-9072-44c5-87f9-7114f4d5c7fe",
+   "country": "TR",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1942",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/31b24c3b-9072-44c5-87f9-7114f4d5c7fe"
+  },
+  {
+   "name": "Bridget Mermikides",
+   "mbid": "dc657684-fc61-4276-bf0f-9a5a95ec3422",
+   "country": "GB",
+   "type": "Person",
+   "disambiguation": "Classical and Electric Guitarist",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/dc657684-fc61-4276-bf0f-9a5a95ec3422"
+  },
+  {
+   "name": "Milton Mermikides",
+   "mbid": "e32d23d5-b3fd-4cb8-b6d7-f07f4f5f1fec",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/e32d23d5-b3fd-4cb8-b6d7-f07f4f5f1fec"
+  },
+  {
+   "name": "Ihsan Bilal",
+   "mbid": "03d2f966-b0bc-4135-9a18-c70d496119a8",
+   "country": null,
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/03d2f966-b0bc-4135-9a18-c70d496119a8"
+  },
+  {
+   "name": "Ihsan Fadhlan",
+   "mbid": "6d2c1036-e3ec-48d7-8916-4820d9366dcc",
+   "country": "ID",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/6d2c1036-e3ec-48d7-8916-4820d9366dcc"
+  },
+  {
+   "name": "İhsan Eş",
+   "mbid": "f3cedf6c-8e9d-4e24-80cc-06dfb4cd8558",
+   "country": null,
+   "type": null,
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/f3cedf6c-8e9d-4e24-80cc-06dfb4cd8558"
+  }
+ ]
+}

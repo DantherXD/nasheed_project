@@ -1,0 +1,115 @@
+{
+ "hits": [
+  {
+   "name": "Bilal Hassani",
+   "mbid": "cbc97f60-f539-406f-859e-3599188d20c8",
+   "country": "FR",
+   "type": "Person",
+   "disambiguation": "French singer",
+   "begin": "1999-09-09",
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/cbc97f60-f539-406f-859e-3599188d20c8"
+  },
+  {
+   "name": "Al Green",
+   "mbid": "fb7272ba-f130-4f0a-934d-6eeea4c18c9a",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": "US soul singer, songwriter, pastor and record producer",
+   "begin": "1946-04-13",
+   "tags": [
+    "soul",
+    "1980s",
+    "1970s",
+    "gospel",
+    "southern soul",
+    "soul blues",
+    "soul and reggae",
+    "contemporary gospel"
+   ],
+   "url": "https://musicbrainz.org/artist/fb7272ba-f130-4f0a-934d-6eeea4c18c9a"
+  },
+  {
+   "name": "Ric Hassani",
+   "mbid": "4d475f90-b106-4267-8af3-cdc291b2e1eb",
+   "country": "NG",
+   "type": "Person",
+   "disambiguation": "Nigerian singer Ikechukwu Eric Ahiauzu",
+   "begin": "1989-01-06",
+   "tags": [
+    "soul"
+   ],
+   "url": "https://musicbrainz.org/artist/4d475f90-b106-4267-8af3-cdc291b2e1eb"
+  },
+  {
+   "name": "Al Jarreau",
+   "mbid": "3e54ba8b-f4cc-4192-9813-890d570e2b7a",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": "jazz, pop and r&b singer-songwriter",
+   "begin": "1940-03-12",
+   "tags": [
+    "soul",
+    "1980s",
+    "1970s",
+    "2000s",
+    "soft rock",
+    "crossover jazz",
+    "vocal jazz",
+    "jazz-funk"
+   ],
+   "url": "https://musicbrainz.org/artist/3e54ba8b-f4cc-4192-9813-890d570e2b7a"
+  },
+  {
+   "name": "Al Stewart",
+   "mbid": "ab7d49fa-c383-4c41-b890-3fe68e559dc4",
+   "country": "GB",
+   "type": "Person",
+   "disambiguation": "UK folk singer/songwriter",
+   "begin": "1945-09-05",
+   "tags": [
+    "folk",
+    "singer-songwriter",
+    "folk rock",
+    "baroque pop",
+    "1980s",
+    "1970s",
+    "2000s",
+    "soft rock"
+   ],
+   "url": "https://musicbrainz.org/artist/ab7d49fa-c383-4c41-b890-3fe68e559dc4"
+  },
+  {
+   "name": "Al Bowlly",
+   "mbid": "f747a4ff-d54f-41b1-be56-97abcf1eb688",
+   "country": "GB",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1898-01-07",
+   "tags": [
+    "death by bomb"
+   ],
+   "url": "https://musicbrainz.org/artist/f747a4ff-d54f-41b1-be56-97abcf1eb688"
+  },
+  {
+   "name": "Hassani Kwess",
+   "mbid": "256c3a9c-e429-4fab-8fe4-740bf2948888",
+   "country": null,
+   "type": null,
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/256c3a9c-e429-4fab-8fe4-740bf2948888"
+  },
+  {
+   "name": "Taha Hassani",
+   "mbid": "7e1c1d1e-8885-4d5b-ac74-3ed92a9f57ff",
+   "country": "IR",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/7e1c1d1e-8885-4d5b-ac74-3ed92a9f57ff"
+  }
+ ]
+}

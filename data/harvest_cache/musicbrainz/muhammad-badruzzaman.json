@@ -1,0 +1,112 @@
+{
+ "hits": [
+  {
+   "name": "Ali Shaheed Muhammad",
+   "mbid": "d5ee9a6f-8e10-47e7-bca7-7e3f82aad769",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1970-08-11",
+   "tags": [
+    "hip hop"
+   ],
+   "url": "https://musicbrainz.org/artist/d5ee9a6f-8e10-47e7-bca7-7e3f82aad769"
+  },
+  {
+   "name": "Idris Muhammad",
+   "mbid": "318c02c2-d766-4843-9035-e186531fc98c",
+   "country": "US",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1939-11-13",
+   "tags": [
+    "jazz",
+    "jazz fusion",
+    "jazz-funk",
+    "contemporary jazz",
+    "soul jazz"
+   ],
+   "url": "https://musicbrainz.org/artist/318c02c2-d766-4843-9035-e186531fc98c"
+  },
+  {
+   "name": "Muhammad Ari Pratomo",
+   "mbid": "7e68cbbb-0584-400e-8bee-e8ad9fd23646",
+   "country": "ID",
+   "type": "Person",
+   "disambiguation": "MuhammadAriLaw",
+   "begin": "1982-06-21",
+   "tags": [
+    "muhammad ari pratomo",
+    "muhammadarilaw",
+    "indonesian lawyer",
+    "ari pratomo",
+    "musik muhammad ari pratomo",
+    "pengacara muhammad ari pratomo"
+   ],
+   "url": "https://musicbrainz.org/artist/7e68cbbb-0584-400e-8bee-e8ad9fd23646"
+  },
+  {
+   "name": "Muhammad",
+   "mbid": "b10756bd-57f3-4e3b-9cb5-e165d07552f2",
+   "country": null,
+   "type": "Person",
+   "disambiguation": "BEMANI vocalist?",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/b10756bd-57f3-4e3b-9cb5-e165d07552f2"
+  },
+  {
+   "name": "Muhammad Al Muqit",
+   "mbid": "280de915-10e5-4fb1-8d60-64e768d662d7",
+   "country": "SA",
+   "type": "Person",
+   "disambiguation": "Poet, Artist, Singer, Nasheedist",
+   "begin": "1989",
+   "tags": [
+    "nasheed",
+    "islamic",
+    "anasheed",
+    "islamic music",
+    "اناشيد",
+    "نشيد"
+   ],
+   "url": "https://musicbrainz.org/artist/280de915-10e5-4fb1-8d60-64e768d662d7"
+  },
+  {
+   "name": "Muhammad Ghânim",
+   "mbid": "5757fa9e-3a67-465e-98df-ec089e6f78e9",
+   "country": "TN",
+   "type": "Person",
+   "disambiguation": "Tunisian rbâb player",
+   "begin": null,
+   "tags": [],
+   "url": "https://musicbrainz.org/artist/5757fa9e-3a67-465e-98df-ec089e6f78e9"
+  },
+  {
+   "name": "Muhammad Malli",
+   "mbid": "ca81df31-c59f-4f1e-a39f-aa2a25ee257a",
+   "country": "AT",
+   "type": "Person",
+   "disambiguation": null,
+   "begin": "1940-07-13",
+   "tags": [
+    "jazz"
+   ],
+   "url": "https://musicbrainz.org/artist/ca81df31-c59f-4f1e-a39f-aa2a25ee257a"
+  },
+  {
+   "name": "Muhammad Pedophile",
+   "mbid": "525b6824-2ad0-4fdd-8095-5fc9a388b13d",
+   "country": "EE",
+   "type": "Group",
+   "disambiguation": "Black Metal band",
+   "begin": "2022",
+   "tags": [
+    "black metal",
+    "anti-islam",
+    "antiislam"
+   ],
+   "url": "https://musicbrainz.org/artist/525b6824-2ad0-4fdd-8095-5fc9a388b13d"
+  }
+ ]
+}
