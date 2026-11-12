@@ -6,10 +6,10 @@
   "built": "2026-11-11",
   "note": "Metadata and links only. No audio is hosted. Confidence values mark how well each record was verified.",
   "counts": {
-   "artists": 433,
+   "artists": 475,
    "labels": 61,
    "sources": 21,
-   "countries": 78,
+   "countries": 79,
    "vocalOnly": 98
   }
  },
@@ -12717,6 +12717,1056 @@
    "vocalLabel": "Unknown",
    "refs": [],
    "u": "https://music.apple.com/us/artist/%D9%8A%D8%B2%D9%8A%D8%AF-%D8%A7%D9%84%D8%AF%D9%88%D8%B3%D8%B1%D9%8A/1463946381?uo=4"
+  },
+  {
+   "n": "Mustafa Hamdo",
+   "ar": "مصطفى حمدو",
+   "c": "Syria",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2010s–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "med",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 4 winner; returned as an official vocal coach in seasons 9–13 and led the ensemble at the 2022 final. Sings with the competition's house band, so filed as mixed rather than inshad.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://editorstime.com/sheikh-sultan-bin-ahmed-al-qasimi-crowns-munshid-al-sharjah-winner"
+    }
+   ],
+   "id": "mustafa-hamdo",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Kamal Rezzoug",
+   "ar": "كمال رزوق",
+   "c": "Algeria",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2014–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "med",
+   "w": "Ma Zal Al Hal; Sayyidat Al Hob",
+   "nt": "Munshid Al Sharjah season 7 winner (2014); guest of honour at Algerian inshad festivals and later an audition judge. Two albums, performed with the competition's house band, so filed as mixed.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://www.thenationalnews.com/arts-culture/on-stage/2022/12/01/munshid-al-sharjah-past-finalists-where-are-they-now"
+    }
+   ],
+   "id": "kamal-rezzoug",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Shuaib Fadil",
+   "ar": "شعيب فضيل",
+   "c": "Morocco",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2015–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "med",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 8 finalist (top six, 2015). House-band accompaniment, so filed as mixed rather than inshad.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://www.emaratalyoum.com/life/four-sides/2015-12-20-1.851346"
+    }
+   ],
+   "id": "shuaib-fadil",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Ali Sahrrawi",
+   "ar": "علي صحرواي",
+   "c": "Algeria",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2015–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "med",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 8 finalist (top six, 2015). House-band accompaniment, so filed as mixed rather than inshad.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://www.emaratalyoum.com/life/four-sides/2015-12-20-1.851346"
+    }
+   ],
+   "id": "ali-sahrrawi",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Mohammed Naji Farah",
+   "ar": "محمد ناجي فرح",
+   "c": "Yemen",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2015–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "med",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 8 finalist (top six, 2015), one of the few Yemeni entrants to reach a final. House-band accompaniment, so filed as mixed.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://www.emaratalyoum.com/life/four-sides/2015-12-20-1.851346"
+    }
+   ],
+   "id": "mohammed-naji-farah",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Youssef Hilal",
+   "ar": "يوسف هلال",
+   "c": "France",
+   "r": "Europe",
+   "l": "Arabic; French",
+   "e": "2015–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "med",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 8 finalist (top six, 2015), representing France. House-band accompaniment, so filed as mixed rather than inshad.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://www.emaratalyoum.com/life/four-sides/2015-12-20-1.851346"
+    }
+   ],
+   "id": "youssef-hilal",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Basel Mustafa",
+   "ar": "باسل مصطفى",
+   "c": "Syria",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2015–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "med",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 8 finalist (top six, 2015). House-band accompaniment, so filed as mixed rather than inshad.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://www.emaratalyoum.com/life/four-sides/2015-12-20-1.851346"
+    }
+   ],
+   "id": "basel-mustafa",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Anas Al-Huwais",
+   "ar": "أنس الحويس",
+   "c": "Saudi Arabia",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2015–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "med",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 8 finalist (top six, 2015). House-band accompaniment, so filed as mixed rather than inshad.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://www.emaratalyoum.com/life/four-sides/2015-12-20-1.851346"
+    }
+   ],
+   "id": "anas-al-huwais",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Maulana Kurch",
+   "ar": "مولانا كورتش",
+   "c": "North Macedonia",
+   "r": "Europe",
+   "l": "Arabic; Albanian",
+   "e": "2015",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "low",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 8 semi-finalist, eliminated on the third night; no recorded catalogue found. Performed with the competition's house band, so filed as mixed.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://www.emaratalyoum.com/life/four-sides/2015-12-20-1.851346"
+    }
+   ],
+   "id": "maulana-kurch",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Ibrahim Al-Bouhzaifi",
+   "ar": "إبراهيم البوحذيفي",
+   "c": "Belgium",
+   "r": "Europe",
+   "l": "Arabic; French",
+   "e": "2015",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "low",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 8 semi-finalist, eliminated on the third night; no recorded catalogue found. Performed with the competition's house band, so filed as mixed.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://www.emaratalyoum.com/life/four-sides/2015-12-20-1.851346"
+    }
+   ],
+   "id": "ibrahim-al-bouhzaifi",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Abdulrahman Touqan",
+   "ar": "عبدالرحمن طوقان",
+   "c": "Italy",
+   "r": "Europe",
+   "l": "Arabic; Italian",
+   "e": "2015",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "low",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 8 semi-finalist, eliminated on the third night; no recorded catalogue found. Performed with the competition's house band, so filed as mixed.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://www.emaratalyoum.com/life/four-sides/2015-12-20-1.851346"
+    }
+   ],
+   "id": "abdulrahman-touqan",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Mahmoud Ali Helal",
+   "ar": "محمود هلال",
+   "c": "Egypt",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2016–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "med",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 9 winner, the first Egyptian to take the title; imam of Cairo's Sheikh Zayed Mosque and later a member of the programme's team. House-band accompaniment, so filed as mixed.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://www.almasryalyoum.com/news/details/1062167"
+    }
+   ],
+   "id": "mahmoud-ali-helal",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Yassine El Chehab",
+   "ar": "ياسين الشهاب",
+   "c": "Morocco",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2017–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "med",
+   "w": "Album of chants (after 2017)",
+   "nt": "Munshid Al Sharjah season 10 winner (2017); congratulated by King Mohammed VI and became a regular on Moroccan television. Released an album of chants, and performs with the competition's house band, so filed as mixed.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://www.thenationalnews.com/arts-culture/on-stage/2022/12/01/munshid-al-sharjah-past-finalists-where-are-they-now"
+    }
+   ],
+   "id": "yassine-el-chehab",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Abdul Majeed Areeqat",
+   "ar": "عبد المجيد عريقات",
+   "c": "Palestine",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2019–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "med",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 12 runner-up, from Gaza. House-band accompaniment, so filed as mixed rather than inshad.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://safa.ps/post/273052"
+    }
+   ],
+   "id": "abdul-majeed-areeqat",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Hassan Al Jalb",
+   "ar": "حسن الجلب",
+   "c": "Syria",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2019–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "med",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 12 third place. House-band accompaniment, so filed as mixed rather than inshad.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://safa.ps/post/273052"
+    }
+   ],
+   "id": "hassan-al-jalb",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Nidal Ayman",
+   "ar": "نضال عيمن",
+   "c": "Algeria",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2019–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "med",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 12 finalist (top six). House-band accompaniment, so filed as mixed rather than inshad.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://www.youm7.com/story/2019/12/8/4536542"
+    }
+   ],
+   "id": "nidal-ayman",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Ibrahim Inhad",
+   "ar": "إبراهيم إنهض",
+   "c": "Morocco",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2019–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "med",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 12 finalist (top six). House-band accompaniment, so filed as mixed rather than inshad.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://www.youm7.com/story/2019/12/8/4536542"
+    }
+   ],
+   "id": "ibrahim-inhad",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Arkan Al-Qaisi",
+   "ar": "أركان القيسي",
+   "c": "Iraq",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2019–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "med",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 12 finalist (top six). House-band accompaniment, so filed as mixed rather than inshad.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://www.youm7.com/story/2019/12/8/4536542"
+    }
+   ],
+   "id": "arkan-al-qaisi",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Omar Kabbara",
+   "ar": "عمر كبارة",
+   "c": "Lebanon",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2019–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "med",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 12 finalist; the programme brought him a new online audience. House-band accompaniment, so filed as mixed rather than inshad.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://www.thenationalnews.com/arts-culture/on-stage/2022/12/01/munshid-al-sharjah-past-finalists-where-are-they-now"
+    }
+   ],
+   "id": "omar-kabbara",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Zakaria Al Zirek",
+   "ar": "زكريا الزيرك",
+   "c": "Morocco",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2021–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "med",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 13 winner (2022), an Islamic Studies graduate. House-band accompaniment, so filed as mixed rather than inshad.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://editorstime.com/sheikh-sultan-bin-ahmed-al-qasimi-crowns-munshid-al-sharjah-winner"
+    }
+   ],
+   "id": "zakaria-al-zirek",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Ahmed Samreen",
+   "ar": "أحمد سمرين",
+   "c": "Jordan",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2021–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "med",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 13 runner-up (2022). House-band accompaniment, so filed as mixed rather than inshad.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://editorstime.com/sheikh-sultan-bin-ahmed-al-qasimi-crowns-munshid-al-sharjah-winner"
+    }
+   ],
+   "id": "ahmed-samreen",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Aseel Jaber",
+   "ar": "أصيل جابر",
+   "c": "Algeria",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2021–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "med",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 13 third place (2022). House-band accompaniment, so filed as mixed rather than inshad.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://editorstime.com/sheikh-sultan-bin-ahmed-al-qasimi-crowns-munshid-al-sharjah-winner"
+    }
+   ],
+   "id": "aseel-jaber",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Ahmed Hegazy",
+   "ar": "أحمد حجازي",
+   "c": "Sudan",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2021–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "med",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 13 finalist (top nine, 2022); the only documented Sudanese entrant in that season. House-band accompaniment, so filed as mixed.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://www.youm7.com/story/2022/3/25/5704622"
+    }
+   ],
+   "id": "ahmed-hegazy",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Mostafa El Shafei",
+   "ar": "مصطفى الشافعي",
+   "c": "Egypt",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2021–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "med",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 13 finalist (top nine); directs an inshad group under Egypt's Ministry of Culture. House-band accompaniment, so filed as mixed.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://www.youm7.com/story/2022/3/25/5704622"
+    }
+   ],
+   "id": "mostafa-el-shafei",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Issa Al-Hussein",
+   "ar": "عيسى الحسين",
+   "c": "Saudi Arabia",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2021–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "med",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 13 finalist (top nine, 2022). House-band accompaniment, so filed as mixed rather than inshad.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://www.youm7.com/story/2022/3/25/5704622"
+    }
+   ],
+   "id": "issa-al-hussein",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Abdullah Al-Qasimi",
+   "ar": "عبدالله القاسمي",
+   "c": "Bahrain",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2021–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "med",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 13 finalist (top nine, 2022). House-band accompaniment, so filed as mixed rather than inshad.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://www.youm7.com/story/2022/3/25/5704622"
+    }
+   ],
+   "id": "abdullah-al-qasimi",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Rahif Hajj",
+   "ar": "رهيف الحاج",
+   "c": "Lebanon",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2021–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "med",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 13 finalist (top nine, 2022). House-band accompaniment, so filed as mixed rather than inshad.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://www.youm7.com/story/2022/3/25/5704622"
+    }
+   ],
+   "id": "rahif-hajj",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Mohammed bin Murad Farshio",
+   "ar": "محمد بن مراد فرشيو",
+   "c": "Tunisia",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2021–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "low",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 13 semi-finalist, eliminated on the first night; no recorded catalogue found. Performed with the competition's house band, so filed as mixed.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://www.thenationalnews.com/arts-culture/music/2022/03/25/munshid-al-sharjah-three-contestants-out-of-competition-in-shock-elimination"
+    }
+   ],
+   "id": "mohammed-bin-murad-farshio",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Alawi Al-Shatiri",
+   "ar": "علوي الشاطري",
+   "c": "Yemen",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2021–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "low",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 13 semi-finalist, eliminated on the first night; no recorded catalogue found. Performed with the competition's house band, so filed as mixed.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://www.thenationalnews.com/arts-culture/music/2022/03/25/munshid-al-sharjah-three-contestants-out-of-competition-in-shock-elimination"
+    }
+   ],
+   "id": "alawi-al-shatiri",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Jamal Al-Kaabi",
+   "ar": "جمال الكعبي",
+   "c": "UAE",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2021–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "low",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 13 semi-finalist, representing the UAE; eliminated on the first night. No recorded catalogue found. Performed with the competition's house band, so filed as mixed.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://www.thenationalnews.com/arts-culture/music/2022/03/25/munshid-al-sharjah-three-contestants-out-of-competition-in-shock-elimination"
+    }
+   ],
+   "id": "jamal-al-kaabi",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Yahya Nadi",
+   "ar": "يحيى نادي",
+   "c": "Egypt",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2022–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "med",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 14 winner (2022), the third Egyptian title. House-band accompaniment, so filed as mixed rather than inshad.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://www.gulftoday.ae/News/2022/12/26/Sultan-Bin-Ahmed-graces-shows-by-Sharjah-Munshid-finalists"
+    }
+   ],
+   "id": "yahya-nadi",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Abdullah Al Omari",
+   "ar": "عبدالله العمري",
+   "c": "Lebanon",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2022–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "med",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 14 runner-up (2022). House-band accompaniment, so filed as mixed rather than inshad.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://www.gulftoday.ae/News/2022/12/26/Sultan-Bin-Ahmed-graces-shows-by-Sharjah-Munshid-finalists"
+    }
+   ],
+   "id": "abdullah-al-omari",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Muhammad Al Wafi Idris",
+   "ar": "محمد الوافي إدريس",
+   "c": "Libya",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2022–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "med",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 14 third place (2022), the only Libyan in the final six. House-band accompaniment, so filed as mixed.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://www.gulftoday.ae/News/2022/12/26/Sultan-Bin-Ahmed-graces-shows-by-Sharjah-Munshid-finalists"
+    }
+   ],
+   "id": "muhammad-al-wafi-idris",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Muhammad Al-Masha'leh",
+   "ar": "محمد المشاعلة",
+   "c": "Jordan",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2022–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "med",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 14 finalist (top six, 2022). House-band accompaniment, so filed as mixed rather than inshad.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://www.gulftoday.ae/News/2022/12/26/Sultan-Bin-Ahmed-graces-shows-by-Sharjah-Munshid-finalists"
+    }
+   ],
+   "id": "muhammad-al-masha-leh",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Issa Shammout",
+   "ar": "عيسى شموط",
+   "c": "Syria",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2022–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "med",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 14 finalist (top six, 2022). House-band accompaniment, so filed as mixed rather than inshad.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://www.gulftoday.ae/News/2022/12/26/Sultan-Bin-Ahmed-graces-shows-by-Sharjah-Munshid-finalists"
+    }
+   ],
+   "id": "issa-shammout",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Muhammad Al Rifai",
+   "ar": "محمد الرفاعي",
+   "c": "Iraq",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2022–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "med",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 14 finalist (top six, 2022). House-band accompaniment, so filed as mixed rather than inshad.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://www.gulftoday.ae/News/2022/12/26/Sultan-Bin-Ahmed-graces-shows-by-Sharjah-Munshid-finalists"
+    }
+   ],
+   "id": "muhammad-al-rifai",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Abdulaziz Alawi",
+   "ar": "عبدالعزيز علاوي",
+   "c": "Saudi Arabia",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2022–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "low",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 14 quarter-finalist, eliminated 15 December 2022; no recorded catalogue found. Performed with the competition's house band, so filed as mixed.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://www.thenationalnews.com/arts-culture/music-stage/2022/12/16/munshid-al-sharjah-three-contestants-eliminated-in-quarter-finals/"
+    }
+   ],
+   "id": "abdulaziz-alawi",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Uday Al Akhras",
+   "ar": "عدي الأخرس",
+   "c": "Palestine",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2022–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "low",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 14 quarter-finalist, eliminated 15 December 2022; no recorded catalogue found. Performed with the competition's house band, so filed as mixed.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://www.thenationalnews.com/arts-culture/music-stage/2022/12/16/munshid-al-sharjah-three-contestants-eliminated-in-quarter-finals/"
+    }
+   ],
+   "id": "uday-al-akhras",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Abdul Bari Karroum",
+   "ar": "عبدالباري كروم",
+   "c": "Algeria",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2022–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "low",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 14 quarter-finalist, eliminated 15 December 2022; no recorded catalogue found. Performed with the competition's house band, so filed as mixed.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://www.thenationalnews.com/arts-culture/music-stage/2022/12/16/munshid-al-sharjah-three-contestants-eliminated-in-quarter-finals/"
+    }
+   ],
+   "id": "abdul-bari-karroum",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Ezz El Din Al-Esawy",
+   "ar": "عز الدين العيساوي",
+   "c": "Morocco",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2022",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "low",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 14 contestant, eliminated before the final six; no recorded catalogue found. Performed with the competition's house band, so filed as mixed.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://www.gulftoday.ae/news/2022/12/11/"
+    }
+   ],
+   "id": "ezz-el-din-al-esawy",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Sultan Daoud Al-Ali",
+   "ar": "سلطان داود العلي",
+   "c": "UAE",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2022",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "low",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 14 contestant, eliminated before the final six; no recorded catalogue found. Performed with the competition's house band, so filed as mixed.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://www.gulftoday.ae/news/2022/12/11/"
+    }
+   ],
+   "id": "sultan-daoud-al-ali",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
+  },
+  {
+   "n": "Makhlid Al Jabry",
+   "ar": "مخلد الجابري",
+   "c": "Oman",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2022",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "cf": "low",
+   "w": "—",
+   "nt": "Munshid Al Sharjah season 14 contestant, eliminated before the final six; no recorded catalogue found. Performed with the competition's house band, so filed as mixed.",
+   "refs": [
+    {
+     "t": "press",
+     "u": "https://www.gulftoday.ae/news/2022/12/11/"
+    }
+   ],
+   "id": "makhlid-al-jabry",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "links": [],
+   "u": ""
   }
  ],
  "organizations": [
