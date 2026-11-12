@@ -10,14 +10,14 @@ Built to be the broadest single-file reference available, with the a cappella an
 |---|---|
 | `site/` | The website — a static wiki shell with sidebar navigation, search, filters and dense link lists. Published to GitHub Pages by `.github/workflows/pages.yml`. |
 | `nasheed-library.html` | The original single-file app. Open it in any browser — search, filter, sort, export. Fully self-contained, works offline. |
-| `nasheed-db.json` | The whole database: 301 artists, 61 labels/platforms, 20 aggregation sources, plus taxonomy. |
+| `nasheed-db.json` | The whole database: 355 artists, 61 labels/platforms, 21 aggregation sources, plus taxonomy. |
 | `nasheed_artists.csv` | Flat artist table, Excel-ready (UTF-8 BOM). |
 | `nasheed_labels_and_platforms.csv` | Labels, broadcasters, festivals, awards, distributors. |
 | `nasheed_aggregation_sources.csv` | Each data source with access method, example query and licence limits. |
 
-**Counts:** 348 artists and groups · 77 countries · 98 languages · 94 vocal-only or duff-only · 47 strictly a cappella · 61 labels and platforms · 21 aggregation sources.
+**Counts:** 355 artists and groups · 77 countries · 71 languages · 94 vocal-only or duff-only · 47 strictly a cappella · 61 labels and platforms · 21 aggregation sources.
 
-By region: Arab World 125 · South Asia 42 · Southeast Asia 46 · Turkey & Iran 28 · Africa 24 · Europe 42 · North America 12 · Caucasus & Central Asia 13 · Latin America 7 · East Asia 7 · Asia-Pacific 2.
+By region: Arab World 131 · Southeast Asia 46 · Europe 43 · South Asia 42 · Turkey & Iran 28 · Africa 24 · Caucasus & Central Asia 13 · North America 12 · East Asia 7 · Latin America 7 · Asia-Pacific 2.
 
 ## The website
 
@@ -73,15 +73,20 @@ Instrumentation codes: `acap` (a cappella), `duff` (voice + percussion only), `i
 
 Category codes: `nasheed`, `naat`, `nasyid`, `ilahi`, `inshad`, `qasida`, `madih`, `maddahi`, `children`, `adjacent`, `reciter`.
 
-## Rebuilding
+## Tools
 
-Source data lives in `data/` as three artist chunks plus organisations and sources. To regenerate everything:
+`nasheed-db.json` is the source of truth. Everything else — the CSV exports, the single-file app, `site/data.json` — is regenerated from it by `tools/common.py`, so the copies cannot drift.
 
-```bash
-python3 build.py
-```
+| Command | What it does |
+|---|---|
+| `python3 tools/crawl_portals.py --source all` | Re-crawls the Assajda index and Samaa's music-free archive, writes `data/portal_candidates.json`, and reports which portal artists the database has not got. Pages are cached, so a re-run is nearly free; `--refresh` fetches again, `--report-only` just re-reports the last crawl. |
+| `python3 tools/add_records.py data/new_records_samaa.json` | Adds fully-researched records. Checks every field against the taxonomy, rejects duplicates on either name, and refuses a record with no country. |
+| `python3 tools/fetch_apple.py --out apple_links.json` | Finds Apple Music artist pages for records that lack one via Apple's public search API. Resumable — interrupt it or get rate-limited and the same command carries on later. |
+| `python3 tools/ingest_apple.py apple_links.json` | Merges those results, verifying each URL really is a `music.apple.com` artist page first. `--dry-run` reports without writing. |
 
-The build validates required fields, rejects duplicate names, checks every code against the taxonomy, and fails loudly rather than emitting a broken file.
+The Samaa crawl reads `/genre/acapella-version/` — "بدون موسيقى" — not the whole artist list, because a cappella is what this library accepts as inshad. An act whose portal page is instrumental pop never reaches the candidate file. Arabic-only names are kept as they are; a Latin name is a bonus, not a requirement.
+
+Listening links are capped at two per artist by `tools/common.py`, chosen YouTube → Apple Music → Spotify → Deezer → Amazon Music. Two is enough to hear someone; a fifth is clutter.
 
 ## Method and confidence
 
@@ -89,8 +94,8 @@ Records were compiled from label and institutional pages, Wikipedia and Wikidata
 
 Every record carries a confidence value:
 
-- **high (156)** — artist and at least some works confirmed against a label, institutional or reliable reference.
-- **medium (138)** — artist confirmed, discography or dates partial.
+- **high (160)** — artist and at least some works confirmed against a label, institutional or reliable reference.
+- **medium (141)** — artist confirmed, discography or dates partial.
 - **low (54)** — name attested but details unverified. Research leads, not facts.
 
 No album title, date or label was invented to fill a cell. Where a field could not be verified it says so or is left blank. 21 records have no confirmed work titles and 6 have no link, deliberately.
@@ -101,6 +106,8 @@ No album title, date or label was invented to fill a cell. Where a field could n
 2. **A Creative Commons tag on a re-upload is not a licence.** It must come from the rights holder. Only CC0, CC BY and CC BY-SA are safe for broad reuse; NC blocks ad-supported use and ND blocks syncing to video.
 3. **Extremist content is excluded.** A meaningful share of what is tagged "nasheed" on open archives is ISIS or Taliban propaganda. That needs a denylist and takedown process from day one.
 4. **Genres are not merged.** Qawwali, Sufi art song, children's song and political chant are tagged `adjacent` rather than folded into "nasheed".
+5. **Inshad only.** Portal crawls accept music-free material — the a cappella archive, not a whole catalogue — so an instrumented pop singer who happens to have recorded one nasheed does not get in.
+6. **Two listening links, not six.** Cover the artist on the services people actually use and stop; `links` also carries catalogue and official pages, which are not listening links.
 
 ## Known gaps
 

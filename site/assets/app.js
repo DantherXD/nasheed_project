@@ -332,10 +332,10 @@ function renderSources() {
 /* ---------------------------------------------------------- links */
 const LINK_LABEL = {
   apple: 'Apple Music', spotify: 'Spotify', deezer: 'Deezer', youtube: 'YouTube',
-  catalogue: 'Catalogue', official: 'Official site', linktree: 'All links',
+  amazon: 'Amazon Music', catalogue: 'Catalogue', official: 'Official site', linktree: 'All links',
   wiki: 'Wikipedia', press: 'Press', paper: 'Study', archive: 'Archive'
 };
-const LISTEN_TYPES = ['apple', 'spotify', 'deezer', 'youtube'];
+const LISTEN_TYPES = ['youtube', 'apple', 'spotify', 'deezer', 'amazon'];
 
 const chips = (list, cls) => (list || []).map(l =>
   `<a class="chip ${cls} ${esc(l.t)}" href="${esc(l.u)}" target="_blank" rel="noopener">${esc(LINK_LABEL[l.t] || l.t)} ↗</a>`

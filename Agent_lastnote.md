@@ -45,3 +45,11 @@ The obvious next step is filling the thinnest regions, since those 55 low-confid
 ---
 
 **Status after the gap-filling pass (2026-11-12).** The "obvious next step" in the note above is done. Six research agents covered Latin America and the Caribbean, the Caucasus and Central Asia, the Balkans, East Asia, continental Europe, and the Southeast Asian and Pacific edges. Fifty-three verified records replaced four placeholder rows (Spanish-language nasheed, Caribbean scene, Tatar and Central Asian nasheed, Bosnian scene), so every region now carries data: 343 artists, 77 countries, 98 languages, 94 vocal-only, of which 47 strictly a cappella. Confidence is now 156 high / 134 medium / 53 low. Central Asia, East Asia and Latin America are no longer gaps; the remaining absences are narrower and are listed in the README's Known gaps section and in the site's field guide.
+
+---
+
+**Status after the inshad and tooling pass (2026-11-12).** Links are now typed (`links[]` for streaming, catalogue and official pages; `refs[]` for papers, press and encyclopaedia entries) and capped at two listening links per artist, YouTube → Apple Music → Spotify → Deezer → Amazon Music. Every artist has a hub page at `#/artist/<id>`, and the 131 records that only ever had documentation are gathered on `#/references`, with the 51 that have no listening link at all listed first.
+
+The portal crawl is repeatable now and lives in `tools/`. Samaa is read through `/genre/acapella-version/` ("بدون موسيقى"), not the whole catalogue, so only music-free material enters the candidate file; Arabic-only names are accepted as they are. That crawl surfaced 175 artists the database did not have, of which 58 carry three or more tracks. Eight of the strongest were researched and added with verified countries — Yemen (Abdulqader Qawza, Ameen Hameem), Kuwait (Abdullah Aljarallah, Abdulrahman Al-Kandari, Yousef Al Ayoub), Saudi Arabia (Abdullah Al-Juwaiber), Jordan (Ayman Ramadan) and Denmark (Mohanad Mansour) — bringing the library to 355 artists. The remaining candidates sit in `data/portal_candidates.json` waiting for the same treatment.
+
+`tools/fetch_apple.py` exists for anyone with an address Apple has not rate-limited: it writes `apple_links.json`, which `tools/ingest_apple.py` merges.

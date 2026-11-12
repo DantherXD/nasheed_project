@@ -5,4 +5,8 @@ node_modules/
 # local screenshots
 artifacts/
 
+# python
+__pycache__/
+*.pyc
+
 .DS_Store

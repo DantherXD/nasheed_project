@@ -6,13 +6,11 @@
   "built": "2026-11-11",
   "note": "Metadata and links only. No audio is hosted. Confidence values mark how well each record was verified.",
   "counts": {
-   "artists": 348,
+   "artists": 355,
    "labels": 61,
    "sources": 21,
    "countries": 77,
-   "vocalOnly": 94,
-   "acappella": 47,
-   "languages": 98
+   "vocalOnly": 94
   }
  },
  "taxonomy": {
@@ -521,10 +519,6 @@
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/11567643"
-    },
-    {
-     "t": "youtube",
-     "u": "https://www.youtube.com/@mohamedTarek_OfficialChannel"
     }
    ],
    "refs": []
@@ -617,10 +611,6 @@
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/7509184"
-    },
-    {
-     "t": "youtube",
-     "u": "https://www.youtube.com/@MostafaAtef"
     }
    ],
    "refs": []
@@ -4255,10 +4245,6 @@
     {
      "t": "deezer",
      "u": "https://www.deezer.com/en/artist/102585"
-    },
-    {
-     "t": "deezer",
-     "u": "https://www.deezer.com/artist/1407409"
     }
    ],
    "refs": []
@@ -4284,10 +4270,6 @@
     {
      "t": "deezer",
      "u": "https://www.deezer.com/en/artist/346286"
-    },
-    {
-     "t": "deezer",
-     "u": "https://www.deezer.com/artist/1305891"
     }
    ],
    "refs": []
@@ -8945,10 +8927,6 @@
     {
      "t": "deezer",
      "u": "https://www.deezer.com/en/artist/15084643"
-    },
-    {
-     "t": "deezer",
-     "u": "https://www.deezer.com/artist/15084643"
     }
    ],
    "refs": []
@@ -9245,10 +9223,6 @@
     {
      "t": "deezer",
      "u": "https://www.deezer.com/fr/artist/4088420"
-    },
-    {
-     "t": "deezer",
-     "u": "https://www.deezer.com/artist/4088420"
     }
    ],
    "refs": []
@@ -9770,6 +9744,213 @@
     }
    ],
    "refs": []
+  },
+  {
+   "n": "Ameen Hameem",
+   "ar": "أمين حاميم",
+   "c": "Yemen",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "pre-2000–present",
+   "t": "Solo",
+   "k": "inshad",
+   "v": "mixed",
+   "w": "I'tidhar (album); Ashya' (2023); Ya Rasul Allah",
+   "cf": "high",
+   "nt": "Ameen Ahmed Hameem, born 1976 in Ibb governorate; Samaa biography records sessions in Sana'a, Riyadh and Cairo",
+   "links": [
+    {
+     "t": "catalogue",
+     "u": "https://play.samaanetwork.net/2354/"
+    }
+   ],
+   "id": "ameen-hameem",
+   "catLabel": "Inshād / ibtihāl",
+   "vocalLabel": "Mixed / varies",
+   "refs": [],
+   "u": "https://play.samaanetwork.net/2354/"
+  },
+  {
+   "n": "Abdullah Aljarallah",
+   "ar": "عبدالله الجارالله",
+   "c": "Kuwait",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2014–present",
+   "t": "Solo",
+   "k": "inshad",
+   "v": "mixed",
+   "w": "Qul li-alladhi (2014); Raja'tu (2015, with Ahmad Al-Nufais); Al-Nur al-Dani (2025)",
+   "cf": "med",
+   "nt": "Kuwaiti munshid and content creator; works for Kuwait TV and a Kuwait-based poet and composer circle",
+   "links": [
+    {
+     "t": "youtube",
+     "u": "https://www.youtube.com/channel/UCy-SlSMFgncFf7KFcm3tSdA"
+    },
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/abdullah-aljarallah/1439447181"
+    },
+    {
+     "t": "catalogue",
+     "u": "https://play.samaanetwork.net/1304/"
+    }
+   ],
+   "id": "abdullah-aljarallah",
+   "catLabel": "Inshād / ibtihāl",
+   "vocalLabel": "Mixed / varies",
+   "refs": [],
+   "u": "https://www.youtube.com/channel/UCy-SlSMFgncFf7KFcm3tSdA"
+  },
+  {
+   "n": "Abdulrahman Al-Kandari",
+   "ar": "عبدالرحمن الكندري",
+   "c": "Kuwait",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "c. 2014–present",
+   "t": "Solo",
+   "k": "inshad",
+   "v": "mixed",
+   "w": "Qudwa 2 (2023); Wisam al-Qur'an (2021); Fi Kitab Allah (2016)",
+   "cf": "med",
+   "nt": "Named among Kuwait's munshids on Samaa's joint track 'Li-ajlika ya Mishary'; his nasheeds are the theme songs of programmes by Kuwaiti reciter Fahad Al-Kandari",
+   "links": [
+    {
+     "t": "spotify",
+     "u": "https://open.spotify.com/artist/6KPyk5aD8bwNMMnrRt1kiG"
+    },
+    {
+     "t": "catalogue",
+     "u": "https://play.samaanetwork.net/10032/"
+    }
+   ],
+   "id": "abdulrahman-al-kandari",
+   "catLabel": "Inshād / ibtihāl",
+   "vocalLabel": "Mixed / varies",
+   "refs": [],
+   "u": "https://open.spotify.com/artist/6KPyk5aD8bwNMMnrRt1kiG"
+  },
+  {
+   "n": "Mohanad Mansour",
+   "ar": "مهند منصور",
+   "c": "Denmark",
+   "r": "Europe",
+   "l": "Arabic",
+   "e": "2015–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "w": "Ahla Kelme (2016); Jadded al-Azm (2016); Sham'at Hurriyya (2016)",
+   "cf": "high",
+   "nt": "Danish singer of Palestinian origin, born 1980 in Saida and raised in Denmark; Samaa's Ahla Kelme tracklist matches his Apple Music album",
+   "links": [
+    {
+     "t": "official",
+     "u": "http://mohanadmansour.com/"
+    },
+    {
+     "t": "youtube",
+     "u": "https://www.youtube.com/channel/UChpdsbu5iHMggegjXlCt9og"
+    },
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/mohanad-mansour/1083546159"
+    },
+    {
+     "t": "catalogue",
+     "u": "https://play.samaanetwork.net/11152/"
+    }
+   ],
+   "id": "mohanad-mansour",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "refs": [],
+   "u": "http://mohanadmansour.com/"
+  },
+  {
+   "n": "Yousef Al Ayoub",
+   "ar": "يوسف الأيوب",
+   "c": "Kuwait",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "c. 2010–present",
+   "t": "Solo",
+   "k": "madih",
+   "v": "mixed",
+   "w": "Al-Mushtaq; Anta al-Alim; Qalbi Lak (2016); 'Aud Ishtiyaq (2018)",
+   "cf": "high",
+   "nt": "Billed as 'the Kuwaiti munshid' on his own releases; repertoire is madih and qasida, with texts by al-Burai'i and al-Suhayli",
+   "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/yousef-al-ayoub/824645318"
+    },
+    {
+     "t": "catalogue",
+     "u": "https://play.samaanetwork.net/2881/"
+    }
+   ],
+   "id": "yousef-al-ayoub",
+   "catLabel": "Madīḥ (praise)",
+   "vocalLabel": "Mixed / varies",
+   "refs": [],
+   "u": "https://music.apple.com/us/artist/yousef-al-ayoub/824645318"
+  },
+  {
+   "n": "Abdullah Al-Juwaiber",
+   "ar": "عبدالله الجويبر",
+   "c": "Saudi Arabia",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "c. 2016–present",
+   "t": "Solo",
+   "k": "nasheed",
+   "v": "mixed",
+   "w": "Fi Hawaka (2020, album); Al-Qiyama; Sayyid al-Khalq",
+   "cf": "med",
+   "nt": "Saudi per the Arabic Wikipedia entry on arranger Yazan Nusaiba, which places him in the kingdom; Fi Hawaka credits Saudi poet Abd al-Rahman al-Ashmaawi and Jeddah mixing",
+   "links": [
+    {
+     "t": "catalogue",
+     "u": "https://play.samaanetwork.net/17872/"
+    }
+   ],
+   "id": "abdullah-al-juwaiber",
+   "catLabel": "Nasheed",
+   "vocalLabel": "Mixed / varies",
+   "refs": [],
+   "u": "https://play.samaanetwork.net/17872/"
+  },
+  {
+   "n": "Ayman Ramadan",
+   "ar": "أيمن رمضان",
+   "c": "Jordan",
+   "r": "Arab World",
+   "l": "Arabic",
+   "e": "2000–present",
+   "t": "Solo",
+   "k": "inshad",
+   "v": "mixed",
+   "w": "Mushtaq (album); Khalli Niyyatak lillah; Asif; Al-Quds btinadi",
+   "cf": "high",
+   "nt": "Ayman Ramadan Ibrahim, born 20 June 1974 in Amman and a sound engineer at Al-Sawt al-Jadid studios there; Discogs corroborates the Jordanian origin",
+   "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/%D8%A3%D9%8A%D9%85%D9%86-%D8%B1%D9%85%D8%B6%D8%A7%D9%86/1054906952"
+    },
+    {
+     "t": "catalogue",
+     "u": "https://play.samaanetwork.net/1058/"
+    }
+   ],
+   "id": "ayman-ramadan",
+   "catLabel": "Inshād / ibtihāl",
+   "vocalLabel": "Mixed / varies",
+   "refs": [],
+   "u": "https://music.apple.com/us/artist/%D8%A3%D9%8A%D9%85%D9%86-%D8%B1%D9%85%D8%B6%D8%A7%D9%86/1054906952"
   }
  ],
  "organizations": [

@@ -1,0 +1,4059 @@
+{
+ "samaa": {
+  "19028": {
+   "portal": "samaa",
+   "portal_id": "19028",
+   "url": "https://play.samaanetwork.net/19028/",
+   "tracks": [
+    "Mawlaya",
+    "Save Me",
+    "Trees of Freedom",
+    "Prophet Yusuf",
+    "Palestine",
+    "When The Dust Settles",
+    "Ya Falastini",
+    "Kun Fayakun",
+    "Jannah - Vocal"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "Muad",
+   "count": 9,
+   "in_db": null
+  },
+  "30480": {
+   "portal": "samaa",
+   "portal_id": "30480",
+   "url": "https://play.samaanetwork.net/30480/",
+   "tracks": [
+    "خير الصحاب"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "عمر الإبراهيم",
+   "count": 1,
+   "in_db": null
+  },
+  "28484": {
+   "portal": "samaa",
+   "portal_id": "28484",
+   "url": "https://play.samaanetwork.net/28484/",
+   "tracks": [
+    "الحج وافانا",
+    "تفكر",
+    "تاج الوقار"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "محمد بشير",
+   "count": 3,
+   "in_db": null
+  },
+  "1304": {
+   "portal": "samaa",
+   "portal_id": "1304",
+   "url": "https://play.samaanetwork.net/1304/",
+   "tracks": [
+    "رجعت",
+    "أيها السيف",
+    "النور الداني",
+    "هزني الشوق",
+    "نصر أو استشهاد",
+    "منذ سنين",
+    "هو الحب",
+    "سلام",
+    "لأنك الله - لحن جديد",
+    "به أسمو",
+    "كن متقنا - مؤثرات",
+    "الحياة",
+    "اسمعوني",
+    "كانوا هنا",
+    "أعود إليك",
+    "لأنك الله ( مناجاة )",
+    "قل للذي",
+    "ودعتكم"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد عبدالله الجارالله",
+   "count": 18,
+   "in_db": null
+  },
+  "16043": {
+   "portal": "samaa",
+   "portal_id": "16043",
+   "url": "https://play.samaanetwork.net/16043/",
+   "tracks": [
+    "أن لا إله سواك",
+    "حكمة القرآن",
+    "وعد الحق",
+    "مصطفى الدعوات",
+    "يا عالم الأحوال",
+    "نور القرآن",
+    "نور القرآن - آهات",
+    "أحرمت بالروح",
+    "يا لطيف الصنع",
+    "يا رب",
+    "يا غافر الذنب",
+    "قبلة الدنيا",
+    "صلوا عليه",
+    "حبيبي يا رسول الله"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد محمد الوهيبي",
+   "count": 14,
+   "in_db": "mohammed-al-wahaibi"
+  },
+  "2881": {
+   "portal": "samaa",
+   "portal_id": "2881",
+   "url": "https://play.samaanetwork.net/2881/",
+   "tracks": [
+    "المشتاق",
+    "أنت العليم",
+    "ولي أمل",
+    "يامن يرى",
+    "سهم الأمس",
+    "أشرق البدر",
+    "طال ليلي",
+    "أسري إليها",
+    "أرحنا بها",
+    "تلوتك",
+    "رملك ذهب",
+    "واسع الكرم"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد يوسف الأيوب",
+   "count": 12,
+   "in_db": null
+  },
+  "31460": {
+   "portal": "samaa",
+   "portal_id": "31460",
+   "url": "https://play.samaanetwork.net/31460/",
+   "tracks": [
+    "وإذا خلوت"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "بهاء الدين فتياني",
+   "count": 1,
+   "in_db": null
+  },
+  "19101": {
+   "portal": "samaa",
+   "portal_id": "19101",
+   "url": "https://play.samaanetwork.net/19101/",
+   "tracks": [
+    "ناج الله",
+    "إليك",
+    "سافر بنا يا نور",
+    "خير الخلق",
+    "ذاك أبي",
+    "هنا أثر"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد أحمد النفيس",
+   "count": 6,
+   "in_db": null
+  },
+  "29682": {
+   "portal": "samaa",
+   "portal_id": "29682",
+   "url": "https://play.samaanetwork.net/29682/",
+   "tracks": [
+    "قطع الشوق قلبي",
+    "لا يرد الله عبدا",
+    "لبيك المنى",
+    "العيد جانا",
+    "وأحسن منك",
+    "رباه",
+    "قد مات قوم",
+    "نفسي تتوق",
+    "قلب ثاني",
+    "صلى عليك الله",
+    "اقرأ معي القرآن",
+    "ابتسم",
+    "غايبينك",
+    "إلهي لست للفردوس أهلا",
+    "يا فلسطين الأبية",
+    "رب الخفايا",
+    "كن داعيا",
+    "أهلا رمضان",
+    "هوى نفسي",
+    "لأنك الله",
+    "منذ فارقت الديار"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفهد",
+   "count": 21,
+   "in_db": null
+  },
+  "1103": {
+   "portal": "samaa",
+   "portal_id": "1103",
+   "url": "https://play.samaanetwork.net/1103/",
+   "tracks": [
+    "عجائب 10",
+    "وعدا",
+    "جمعنا العيد",
+    "قم لهادينا - مؤثرات",
+    "الدرع الحصين",
+    "نشيد لأجلك يا مشاري",
+    "فرحة العيد"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان عثمان الإبراهيم",
+   "count": 7,
+   "in_db": null
+  },
+  "124": {
+   "portal": "samaa",
+   "portal_id": "124",
+   "url": "https://play.samaanetwork.net/124/",
+   "tracks": [
+    "لا تحزن",
+    "Qalbi fil Madinah",
+    "مالي سواك",
+    "رحمة للعالمين",
+    "Nour Ala Nour (Vocals Only Version)",
+    "Hubb Ennabi - Vocals",
+    "Huwa Ahmadun - Vocals",
+    "Nour Ala Nour - Vocals",
+    "Laytaka Ma'ana - Vocals",
+    "Qalbi Sajad - Vocals",
+    "Ramadan Gana - Vocals",
+    "حب النبي - مؤثرات",
+    "Nour Ala Nour - Vocals only",
+    "هو أحمد - بدون موسيقى",
+    "على نهجك مشيت",
+    "هو القرآن",
+    "كن رحمة - النسخة المطولة",
+    "Jannah (Vocals-Only Arabic)",
+    "One (Vocals Only Arabic Version)",
+    "Ummati (Vocals-Only Arabic)",
+    "Tadroon (Vocals-Only)",
+    "Rabbee Yebarik (Vocals-Only Arabic)",
+    "Bilthikr [Vocals-Only]",
+    "Bika Moulhimi [Vocals-Only Arabic]",
+    "One (Vocals-Only International Version)",
+    "Ummati (Vocals-Only English Version)",
+    "One Day (Vocals-Only)",
+    "Close to You (Vocals-Only)",
+    "The Way of Love [Vocals-Only]",
+    "Let it go (Vocals-Only)",
+    "True Love (Vocals-Only)",
+    "Rabbee Yebarik (Vocals-Only English Version)",
+    "Allah Ya Moulana (Vocals-Only)",
+    "I'm Alive [Vocals-Only]",
+    "Jannah (Vocals-Only English)",
+    "By My Side (Vocals-Only)",
+    "Good Day [Vocals-Only]",
+    "Peace Be Upon You (Vocals-Only)",
+    "Medina (Vocals-Only)",
+    "The Power [Vocals-Only]",
+    "كن رحمة",
+    "Muhammad (pbuh) [Vocals Only - No Music]",
+    "أعمارنا أعمالنا",
+    "المتسامح رابح",
+    "Ramadan ( English - No Music )",
+    "رمضان - بدون موسيقى",
+    "Forgive Me (Vocals Only - No Music Version)",
+    "I Love You So (Vocals Only - No Music)",
+    "Number One for Me (Vocals Only - No Music)",
+    "Mawlaya (Vocals Only - No Music)",
+    "My Little Girl (Vocals Only - No Music)",
+    "Forgive Me (Vocals Only - No Music)",
+    "One Big Family (Vocals Only - No Music)",
+    "Assalamu Alayka (Vocals Only - No Music)",
+    "Paradise (Vocals Only - No Music)",
+    "Masha Allah (Vocals Only - No Music)",
+    "Radhitu Billahi Rabba (Vocals Only - No Music)",
+    "Freedom (Vocals Only - No Music)",
+    "So Soon (Vocals Only - No Music)",
+    "Guide Me All the Way (Vocals Only - No Music)",
+    "Mawlaya (Bonus Track - Arabic Version - Vocals Only)",
+    "Assalamu Alayka (Bonus Track - Arabic Version - Vocals Only)",
+    "Radhitu Billahi Rabba (Bonus Track - Arabic Version - Vocals Only)",
+    "Thank You Allah (Vocals Only - No Music Version)",
+    "Always Be There (Vocals Only Version)",
+    "Ya Nabi Salam Alayka (Vocals Only Version)",
+    "Insha Allah (English - Vocals Only Version)",
+    "Palestine Will Be Free (Vocals Only Version)",
+    "Thank You Allah (Vocals Only Version)",
+    "Allahi Allah Kiya Karo (Vocals Only Version)",
+    "The Chosen One (Vocals Only Version)",
+    "Baraka Allahu Lakuma (Vocals Only Version)",
+    "Hold My Hand (Vocals Only Version)",
+    "Subhana Allah (Vocals Only Version)",
+    "Open Your Eyes (Vocals Only Version)",
+    "Insha Allah (Arabic - Vocals Only Version)",
+    "Ya Nabi Salam Alayka (Arabic - Vocals Only Version)",
+    "Sepanjang Hidup (Vocals Only Version)",
+    "Insya Allah (Malay - Vocals Only Version)"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "ماهر زين - Maher Zain",
+   "count": 79,
+   "in_db": "maher-zain"
+  },
+  "29849": {
+   "portal": "samaa",
+   "portal_id": "29849",
+   "url": "https://play.samaanetwork.net/29849/",
+   "tracks": [
+    "إن مسنا الضر"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "موسى الفودري",
+   "count": 1,
+   "in_db": null
+  },
+  "29874": {
+   "portal": "samaa",
+   "portal_id": "29874",
+   "url": "https://play.samaanetwork.net/29874/",
+   "tracks": [
+    "يا عالم بحالي"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "بدر النفيس",
+   "count": 1,
+   "in_db": null
+  },
+  "31153": {
+   "portal": "samaa",
+   "portal_id": "31153",
+   "url": "https://play.samaanetwork.net/31153/",
+   "tracks": [
+    "النبراس 6"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "عبدالغفور عبدالغفور",
+   "count": 1,
+   "in_db": null
+  },
+  "16112": {
+   "portal": "samaa",
+   "portal_id": "16112",
+   "url": "https://play.samaanetwork.net/16112/",
+   "tracks": [
+    "سر السعادة",
+    "يا أيها المهموم",
+    "لبيك",
+    "إلى عرفات",
+    "وديلي سلامي",
+    "مسعد يامن & في أطهر أرض",
+    "زاد الأتقى",
+    "الخير"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان محمد كندو | Mohammed Kendo",
+   "count": 8,
+   "in_db": null
+  },
+  "487": {
+   "portal": "samaa",
+   "portal_id": "487",
+   "url": "https://play.samaanetwork.net/487/",
+   "tracks": [
+    "أهلا يا رمضان",
+    "Dhikrullah (Vocals Only)",
+    "إلهي",
+    "Tabassam ( No Music )",
+    "Rouhi Fidak - No Music",
+    "Tabassam - No Music",
+    "Alhamdu Lillah - No Music",
+    "Adnani - No Music",
+    "Ghar Hira - No Music",
+    "Eidun Saeed - No Music",
+    "Assalatu Wassalamu - No Music",
+    "Ya Man Bihali - No Music",
+    "Farha - No Music",
+    "Ataytu Bithanbi - No Music",
+    "Du3a - No Music"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "مسعود كرتيس | Mesut Kurtis",
+   "count": 15,
+   "in_db": "mesut-kurtis"
+  },
+  "9950": {
+   "portal": "samaa",
+   "portal_id": "9950",
+   "url": "https://play.samaanetwork.net/9950/",
+   "tracks": [
+    "عادت دمشق",
+    "سلوا التاريخ",
+    "لا تغيب",
+    "أكرم بآل",
+    "أقصى العيون",
+    "إنا كفيناك",
+    "خير الورى"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد نايف الشرهان",
+   "count": 7,
+   "in_db": null
+  },
+  "19133": {
+   "portal": "samaa",
+   "portal_id": "19133",
+   "url": "https://play.samaanetwork.net/19133/",
+   "tracks": [
+    "يا رب العالمين",
+    "يا حبيبي"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان محمد يوسف",
+   "count": 2,
+   "in_db": null
+  },
+  "1989": {
+   "portal": "samaa",
+   "portal_id": "1989",
+   "url": "https://play.samaanetwork.net/1989/",
+   "tracks": [
+    "نوري",
+    "سيبها على الله",
+    "حوض النبي",
+    "شكرا لك ربي",
+    "ناظري",
+    "جد بلطفك",
+    "الرحيل",
+    "فاظفر بها",
+    "يتيم",
+    "مدينتي الشارقة",
+    "سجدت",
+    "لحظات مع الله",
+    "Hold These Days",
+    "Yusuf",
+    "Remember Them",
+    "Pourquoi les hommes pleurent",
+    "يا إلهي",
+    "نهاية الغربة",
+    "عودة الدرة",
+    "لا اله الا الله",
+    "دنيا البشر",
+    "مذ عرفت الله",
+    "حسنات",
+    "I Still Ask",
+    "أطفالنا",
+    "Allah Almighty",
+    "خير الخلق",
+    "Hijab",
+    "أيها الحادي",
+    "Don't Let Me Go",
+    "صناع الحياة",
+    "يا بني",
+    "البوم فارتق",
+    "يا عظيما",
+    "الحجاب",
+    "القرآن",
+    "دار الغرور",
+    "فارتق",
+    "طالب العلم",
+    "يا عيد",
+    "يا من يرى",
+    "انتصف الليل",
+    "كم تشتكي",
+    "عجبا",
+    "القدس تنادينا",
+    "رمضان قد أهل",
+    "زايد الخير",
+    "طويل الشوق",
+    "وقف الطفل"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "أحمد بوخاطر | Ahmed Bukhatir",
+   "count": 49,
+   "in_db": "ahmed-bukhatir"
+  },
+  "29248": {
+   "portal": "samaa",
+   "portal_id": "29248",
+   "url": "https://play.samaanetwork.net/29248/",
+   "tracks": [
+    "ربي الإله",
+    "ظلام الليل",
+    "إليك أشكو",
+    "شوقي يزيد",
+    "ذنوبي",
+    "يا خالق الخلق",
+    "أشتكي لله مني",
+    "عليك أصلي ﷺ",
+    "ودعت روحي",
+    "أسرى بك الله",
+    "فلسطين صبرا",
+    "صاحب النسب",
+    "ألا قم",
+    "أغثني"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "منصور الخليفي",
+   "count": 14,
+   "in_db": null
+  },
+  "229": {
+   "portal": "samaa",
+   "portal_id": "229",
+   "url": "https://play.samaanetwork.net/229/",
+   "tracks": [
+    "يا حلاة البنت",
+    "استهديتك",
+    "شارة برنامج بالقرآن اهتديت ٣",
+    "غيث",
+    "إضحك",
+    "أصير أحسن",
+    "قصة العشاق",
+    "نفسها",
+    "لعله خير",
+    "كن أنت",
+    "عين",
+    "هأنذا",
+    "خله",
+    "لغات العالم",
+    "فكرة",
+    "الميزان",
+    "درب النجاح",
+    "نقدر",
+    "يحلو الوصال",
+    "أنا الإنسان",
+    "مافي مستحيل",
+    "توازن الحياة",
+    "لابد من حب",
+    "حياتنا غير",
+    "خواطر",
+    "عجيب",
+    "إلهي وكم",
+    "الضرير",
+    "أشكو إلى الله",
+    "خالق الأكوان",
+    "الصبر"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "حمود الخضر | Humood Alkhadher",
+   "count": 31,
+   "in_db": "humood-alkhudher"
+  },
+  "17187": {
+   "portal": "samaa",
+   "portal_id": "17187",
+   "url": "https://play.samaanetwork.net/17187/",
+   "tracks": [
+    "رباه يا غوثاه",
+    "همم",
+    "أصحاب محمد",
+    "مفاز الغيب"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد موسى العميرة",
+   "count": 4,
+   "in_db": null
+  },
+  "30790": {
+   "portal": "samaa",
+   "portal_id": "30790",
+   "url": "https://play.samaanetwork.net/30790/",
+   "tracks": [
+    "مع السلامة"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "حمزة أبو قينص (رحمه الله)",
+   "count": 1,
+   "in_db": null
+  },
+  "19112": {
+   "portal": "samaa",
+   "portal_id": "19112",
+   "url": "https://play.samaanetwork.net/19112/",
+   "tracks": [
+    "ميدلي يمني",
+    "إلهي إلهي",
+    "أهلا رمضان",
+    "نبي بالهدى",
+    "الصبح بدا",
+    "حبيبي رسول الله"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان محمد طارق",
+   "count": 6,
+   "in_db": "mohamed-tarek"
+  },
+  "12020": {
+   "portal": "samaa",
+   "portal_id": "12020",
+   "url": "https://play.samaanetwork.net/12020/",
+   "tracks": [
+    "Khadijah (Only Vocals)"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "زين بيكا | Zain Bhikha",
+   "count": 1,
+   "in_db": "zain-bhikha"
+  },
+  "2917": {
+   "portal": "samaa",
+   "portal_id": "2917",
+   "url": "https://play.samaanetwork.net/2917/",
+   "tracks": [
+    "جبرا بهم",
+    "ما مر ذكرك",
+    "يوم عيدك",
+    "أسبح ربي"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان إبراهيم الدردساوي",
+   "count": 4,
+   "in_db": null
+  },
+  "10647": {
+   "portal": "samaa",
+   "portal_id": "10647",
+   "url": "https://play.samaanetwork.net/10647/",
+   "tracks": [
+    "أي سر في المدينة",
+    "النبراس"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد مشاري البغلي",
+   "count": 2,
+   "in_db": null
+  },
+  "293": {
+   "portal": "samaa",
+   "portal_id": "293",
+   "url": "https://play.samaanetwork.net/293/",
+   "tracks": [
+    "يا شايل الهم",
+    "لأجلك يا مكة",
+    "الأم الغالية",
+    "لم يقل آه",
+    "علي - رضي الله عنه",
+    "ليالي الخير",
+    "حياك",
+    "حبيبي محمد - بدون مؤثرات",
+    "عليك اعتمادي",
+    "فديتك يا رسول الله",
+    "مشاري 2020",
+    "توشك العين",
+    "يا عين لا تحزني",
+    "لا تشغل البال",
+    "الجروح",
+    "جنة الأرض .. أمي",
+    "غردي يا روح",
+    "يكفيك ابتسامة",
+    "مالك و رضوان",
+    "الخليل",
+    "قلها",
+    "فرج همومي",
+    "كلمة طيبة",
+    "فرصة",
+    "سيمر هذا الوقت",
+    "أنشد لكم",
+    "المصطفى ﷺ",
+    "لعله خير",
+    "للحرف",
+    "يا عين",
+    "المرتل",
+    "عرفتك",
+    "لا تقل مالي أقاسي",
+    "أرى في الخلق",
+    "ساعدونا",
+    "ما في أحلى",
+    "ما هكذا الإسلام",
+    "بئر السماء",
+    "في رمضان",
+    "يا أهل المدينة",
+    "شانئي الأبتر",
+    "فرحة إنسان",
+    "شارة برنامج فرحة إنسان",
+    "عثمان بن عفان",
+    "يا كويت .. اسمك حويت",
+    "ميمية الفرزدق",
+    "بالمصري",
+    "آخر كلام النبي",
+    "غمض عينيك",
+    "اوعديني",
+    "اسم النبي",
+    "بيوت كتير",
+    "حقيقة",
+    "بنتي",
+    "يوم جمعة",
+    "صل ع النبي",
+    "خير الصباح",
+    "قابلني صدفة",
+    "أول كلامي",
+    "واحر قلباه",
+    "قلبي محمد",
+    "أبوبكر",
+    "إلى طيبة",
+    "الأمر لله",
+    "ليلة بحر",
+    "أحببتك",
+    "درب الكرم",
+    "الحب",
+    "طول الأمل",
+    "رباه",
+    "أقبل",
+    "راضية عني",
+    "ربي هو الله",
+    "سكة تانية",
+    "متى نلتقي",
+    "شغلتني الحياة",
+    "يا رفيقي",
+    "اشتياقي",
+    "فقدتك",
+    "قمري",
+    "نداء الوطن",
+    "فز لأمر العز",
+    "نصر اليمن",
+    "اليتامى",
+    "وديعتك الكويت",
+    "استغفر الله",
+    "خاطري",
+    "أكبر الشدات",
+    "شكرا",
+    "الله عطانا",
+    "العارم",
+    "صفحة جديدة",
+    "وطهر بيتي",
+    "يا رزاق",
+    "طهور",
+    "محمد ﷺ",
+    "رتل 2",
+    "كن محسنا",
+    "دعاء الكويت",
+    "دعاء مصر",
+    "زايد",
+    "سعودي",
+    "كلامك عنوانك",
+    "الأرض لله ٢",
+    "تراحمي يا قلوب",
+    "الفاروق",
+    "رتل",
+    "المستحيل",
+    "بيني وبينكم",
+    "العيد",
+    "إنسان",
+    "رحمن",
+    "صحبتك سمعتك",
+    "أفواه القرآن",
+    "تراحمي",
+    "سوريا",
+    "أبكي على شام",
+    "البحرين",
+    "اليمن",
+    "سيد الأخلاق",
+    "بنات الريح",
+    "ياما كان",
+    "وطن",
+    "يشفيك",
+    "أرض",
+    "السلام",
+    "يا أقصى",
+    "دنياك",
+    "خليجي",
+    "زمزم",
+    "أدعوك",
+    "ليلي سرى",
+    "إن رضوا",
+    "تبارك الرحمن",
+    "جهرا دعوتك",
+    "مؤمن",
+    "يا مرحبا",
+    "رمضان",
+    "عناقيد 2",
+    "دموع على أستار الكعبة",
+    "وقفت وأجفاني",
+    "يا ونتي",
+    "يا الإمارات",
+    "رأيت الذنوب",
+    "شكرا يا مصر",
+    "قالوا سكت",
+    "رمضان زين الشهور",
+    "العاصمة",
+    "نفسي هفت",
+    "هذي عمان",
+    "الأرض لله",
+    "الله الله ياربي",
+    "للحرم عزمت الروحة",
+    "يا نقاد الشعر",
+    "أنا نصي",
+    "عناقيد",
+    "بهجت اللحاظ",
+    "ياللي غسلت",
+    "جيتك يا دار العز",
+    "الذود",
+    "فاز",
+    "الواحد الأحد",
+    "أغيب",
+    "نختلف",
+    "تذكر إنت ( ريمكس )",
+    "جربتها وعشقتها",
+    "هذي زكاتي",
+    "يارب أسألك التقى",
+    "الله على الظالم",
+    "دوما لك الحمد",
+    "يا صاحبي",
+    "قطر",
+    "لا عاد",
+    "مع الحبيب",
+    "الشهيد",
+    "يا من إذا",
+    "ريض يا الطارش",
+    "ذكريات",
+    "إنت مين",
+    "قل لي",
+    "شفيع الخلائق",
+    "يبه",
+    "إلى الله",
+    "لا إله إلا الله",
+    "صحبتك",
+    "ما طلعنا",
+    "الضرير",
+    "جل البديع",
+    "تذكر",
+    "أضفيت",
+    "أسماء الله الحسنى",
+    "يا بلادي",
+    "قلبي الصغير",
+    "بيت الله",
+    "بكت عيني",
+    "يامن يرى",
+    "يد الإبداع",
+    "ليلة القدر",
+    "أشد الجهاد",
+    "أرى الدنيا",
+    "أصلي عليك",
+    "أنت المعين",
+    "كتاب الله",
+    "يا سروري",
+    "أنت رحماني",
+    "أشكو إلى الله",
+    "النعمة زوالة",
+    "أنا العبد",
+    "حنيني (إلا صلاتي)",
+    "إلا صلاتي",
+    "قف بالخضوع",
+    "أبا الأنبياء",
+    "أنشودة الأذان",
+    "متفرد بالكبرياء",
+    "أرحم الرحماء",
+    "إلهي سيدي",
+    "دعوني أناجي",
+    "بكل الشوق",
+    "أسير الخطايا",
+    "نوح الحمام",
+    "مع الله",
+    "حنيني",
+    "ربي سبحانك",
+    "يا الله",
+    "يا ربنا",
+    "طلع البدر علينا",
+    "ليس الغريب",
+    "إلهي",
+    "يمه",
+    "الطفولة",
+    "إذا قربت",
+    "تغيرت المودة",
+    "قريح القلب",
+    "وقفت على القبور"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "مشاري العفاسي | Mishary Alafasy",
+   "count": 234,
+   "in_db": "mishary-rashid-alafasy"
+  },
+  "30385": {
+   "portal": "samaa",
+   "portal_id": "30385",
+   "url": "https://play.samaanetwork.net/30385/",
+   "tracks": [
+    "Asmaul Husna"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "Egzon Ibrahimi",
+   "count": 1,
+   "in_db": "egzon-ibrahimi"
+  },
+  "1222": {
+   "portal": "samaa",
+   "portal_id": "1222",
+   "url": "https://play.samaanetwork.net/1222/",
+   "tracks": [
+    "كن أنت العيد",
+    "لاح هلال",
+    "سوى الله",
+    "يا كاتب التاريخ",
+    "بالأنس يلوح",
+    "أسطورة الحب",
+    "بحبك أحيا",
+    "أما آن",
+    "تسمعني رباه",
+    "رباه بلطفك"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان عمار صرصر",
+   "count": 10,
+   "in_db": null
+  },
+  "30267": {
+   "portal": "samaa",
+   "portal_id": "30267",
+   "url": "https://play.samaanetwork.net/30267/",
+   "tracks": [
+    "شوقا لبيت الله"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "محمد متعب الراجحي",
+   "count": 1,
+   "in_db": null
+  },
+  "1054": {
+   "portal": "samaa",
+   "portal_id": "1054",
+   "url": "https://play.samaanetwork.net/1054/",
+   "tracks": [
+    "صلى وسلم",
+    "علمني يارب",
+    "واضرب لهم مثلا",
+    "قلبي يرى",
+    "نسائم الربيع",
+    "العيد والسلام",
+    "الله يحبك",
+    "من غيرنا",
+    "ربي رحيم",
+    "طايع الوالدين",
+    "سيد المحبين",
+    "صورة جميلة",
+    "القبقبة",
+    "همي",
+    "داعي المولى",
+    "واحد من الناس",
+    "فور شباب",
+    "الله الله",
+    "نرجوا ثوابك",
+    "حكايات",
+    "الجنة",
+    "في أطهر أرض"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان عبدالقادر قوزع",
+   "count": 22,
+   "in_db": null
+  },
+  "30067": {
+   "portal": "samaa",
+   "portal_id": "30067",
+   "url": "https://play.samaanetwork.net/30067/",
+   "tracks": [
+    "وإني تائه",
+    "بوح النفوس",
+    "هدوء"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "مالك ملكاوي",
+   "count": 3,
+   "in_db": null
+  },
+  "29924": {
+   "portal": "samaa",
+   "portal_id": "29924",
+   "url": "https://play.samaanetwork.net/29924/",
+   "tracks": [
+    "الله يعلم",
+    "إلى ربي"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "عبدالعزيز الراشد",
+   "count": 2,
+   "in_db": null
+  },
+  "30004": {
+   "portal": "samaa",
+   "portal_id": "30004",
+   "url": "https://play.samaanetwork.net/30004/",
+   "tracks": [
+    "لا تبالي يا غزة - اكابيلا",
+    "لا تبالي يا غزة"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "خالد الشريف",
+   "count": 2,
+   "in_db": null
+  },
+  "29908": {
+   "portal": "samaa",
+   "portal_id": "29908",
+   "url": "https://play.samaanetwork.net/29908/",
+   "tracks": [
+    "الأرض لي",
+    "طال المسير",
+    "حكاية خير",
+    "بقايا السنين",
+    "أخي في فؤادي",
+    "لنا رب",
+    "أيا رباه",
+    "فجر الزمان",
+    "النور يسأل",
+    "عدنا إليك"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "حامد الظفيري",
+   "count": 10,
+   "in_db": null
+  },
+  "384": {
+   "portal": "samaa",
+   "portal_id": "384",
+   "url": "https://play.samaanetwork.net/384/",
+   "tracks": [
+    "بلاد الأنبياء",
+    "أمتي",
+    "شارة البداية - الحسن والحسين",
+    "قدر الله",
+    "قربك يسعدهم",
+    "يا حافظ القرآن",
+    "المعلم",
+    "خليجي 2",
+    "يا أمتي",
+    "مولاي",
+    "رفيق الدرب",
+    "في ليلة",
+    "عرفتك",
+    "عائدون",
+    "هب النسيم",
+    "سائر"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "محمد الحسيان | Mohammed Alhusayan",
+   "count": 16,
+   "in_db": "mohammed-al-hassyan"
+  },
+  "29670": {
+   "portal": "samaa",
+   "portal_id": "29670",
+   "url": "https://play.samaanetwork.net/29670/",
+   "tracks": [
+    "حسن الظن"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "محمد نبيل",
+   "count": 1,
+   "in_db": null
+  },
+  "15867": {
+   "portal": "samaa",
+   "portal_id": "15867",
+   "url": "https://play.samaanetwork.net/15867/",
+   "tracks": [
+    "SubhanAllahi wa bihamdihi (Dhikr)",
+    "Ishraq ( Vocals Only )",
+    "Subhanallah (Vocals Only)",
+    "Si një yll (Vocals Only)",
+    "Salam Alayka (Vocals Only)",
+    "Sabrun Jameel (Vocals Only)",
+    "Babullah ( Vocals Only )",
+    "Deti i Mëshirës (Vocals Only)",
+    "Amantu Billah (Vocals Only)",
+    "Ya Mecca (Vocals Only)",
+    "Al Mukhtar (Vocals Only)",
+    "Talaa Al Badru (Vocals Only)",
+    "Al Mustafa (Vocals Only)"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "مولانا كورتش - Mevlan Kurtishi",
+   "count": 13,
+   "in_db": "mevlan-kurtishi"
+  },
+  "3395": {
+   "portal": "samaa",
+   "portal_id": "3395",
+   "url": "https://play.samaanetwork.net/3395/",
+   "tracks": [
+    "Ya Allah (Acapella - Vocals Only)",
+    "Muhammad Noor (Acapella Vocals-Only)"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان رائف حجاج - Raef",
+   "count": 2,
+   "in_db": "raef"
+  },
+  "23929": {
+   "portal": "samaa",
+   "portal_id": "23929",
+   "url": "https://play.samaanetwork.net/23929/",
+   "tracks": [
+    "الأرجوزة الميئية",
+    "ما خاب قلبي",
+    "مشتاق - مؤثرات",
+    "موشح يا رب يا الله"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "ماجد الدعوس",
+   "count": 4,
+   "in_db": null
+  },
+  "9564": {
+   "portal": "samaa",
+   "portal_id": "9564",
+   "url": "https://play.samaanetwork.net/9564/",
+   "tracks": [
+    "قلب رحيم",
+    "تهفو المشاعر",
+    "شارة برنامج أعظم سجين في التاريخ"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد محمد عباس",
+   "count": 3,
+   "in_db": null
+  },
+  "19831": {
+   "portal": "samaa",
+   "portal_id": "19831",
+   "url": "https://play.samaanetwork.net/19831/",
+   "tracks": [
+    "ملاذ",
+    "غرام"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "ناصر السعيد",
+   "count": 2,
+   "in_db": null
+  },
+  "9739": {
+   "portal": "samaa",
+   "portal_id": "9739",
+   "url": "https://play.samaanetwork.net/9739/",
+   "tracks": [
+    "زوج الحمام",
+    "هيام الأقلام",
+    "بشرى",
+    "عطر الديار",
+    "محراب الحرمين",
+    "كأنك معه",
+    "في القدس ينسكب الضياء",
+    "اشتياق",
+    "أكفكف الشوق",
+    "في صحبة يوسف"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد محمد الغزالي",
+   "count": 10,
+   "in_db": null
+  },
+  "8345": {
+   "portal": "samaa",
+   "portal_id": "8345",
+   "url": "https://play.samaanetwork.net/8345/",
+   "tracks": [
+    "مدارات الكمال",
+    "إلهي",
+    "حنين القلب",
+    "يا راحلا",
+    "حوار الأرواح",
+    "الحب لك",
+    "عزنا هذا الكتاب",
+    "رسمنا حلمنا",
+    "وتذكرت",
+    "سرت"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد إبراهيم النقيب",
+   "count": 10,
+   "in_db": null
+  },
+  "29231": {
+   "portal": "samaa",
+   "portal_id": "29231",
+   "url": "https://play.samaanetwork.net/29231/",
+   "tracks": [
+    "طه"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "حسين الأكرف",
+   "count": 1,
+   "in_db": null
+  },
+  "19308": {
+   "portal": "samaa",
+   "portal_id": "19308",
+   "url": "https://play.samaanetwork.net/19308/",
+   "tracks": [
+    "O Mohammad"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "Salim Sulaiman",
+   "count": 1,
+   "in_db": null
+  },
+  "1077": {
+   "portal": "samaa",
+   "portal_id": "1077",
+   "url": "https://play.samaanetwork.net/1077/",
+   "tracks": [
+    "الطوفان",
+    "عن قريب",
+    "إمام المرسلين"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان خالد الحقان",
+   "count": 3,
+   "in_db": null
+  },
+  "11687": {
+   "portal": "samaa",
+   "portal_id": "11687",
+   "url": "https://play.samaanetwork.net/11687/",
+   "tracks": [
+    "اضرب بالطوفان",
+    "ولما قسا قلبي",
+    "الزهراء"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد خالد عبدالقادر",
+   "count": 3,
+   "in_db": null
+  },
+  "21857": {
+   "portal": "samaa",
+   "portal_id": "21857",
+   "url": "https://play.samaanetwork.net/21857/",
+   "tracks": [
+    "ما تزعلش",
+    "إنت الروح"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "إبراهيم السويلم",
+   "count": 2,
+   "in_db": null
+  },
+  "3371": {
+   "portal": "samaa",
+   "portal_id": "3371",
+   "url": "https://play.samaanetwork.net/3371/",
+   "tracks": [
+    "قد سرت خلفك",
+    "كفاية",
+    "جذابة الروح",
+    "واهب الخير",
+    "ودعتني",
+    "صلاة الله",
+    "صلو",
+    "ياخوتي",
+    "وحيدا بقبري",
+    "في جميلك"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان مروان صباح",
+   "count": 10,
+   "in_db": null
+  },
+  "28473": {
+   "portal": "samaa",
+   "portal_id": "28473",
+   "url": "https://play.samaanetwork.net/28473/",
+   "tracks": [
+    "من لي سواك"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "محمد بن عايض",
+   "count": 1,
+   "in_db": null
+  },
+  "10032": {
+   "portal": "samaa",
+   "portal_id": "10032",
+   "url": "https://play.samaanetwork.net/10032/",
+   "tracks": [
+    "قدوة ٢",
+    "بأول مرة",
+    "أسير بدرب قرآني",
+    "في كتاب الله",
+    "وسام القرآن",
+    "قدوة 2020",
+    "أرواحنا مشتاقة",
+    "فسيروا 3",
+    "بالقرآن نرعاهم",
+    "برنامج فسيروا 2",
+    "سكت الوجود",
+    "سبحه ليلا",
+    "نور وأنس",
+    "ما أعظمك"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد عبدالرحمن الكندري",
+   "count": 14,
+   "in_db": null
+  },
+  "978": {
+   "portal": "samaa",
+   "portal_id": "978",
+   "url": "https://play.samaanetwork.net/978/",
+   "tracks": [
+    "بالقرآن اهتديت",
+    "يا إله الكون",
+    "لما اشتكى",
+    "كان المدى",
+    "قرآني",
+    "شوقي",
+    "منو غيرك",
+    "أناشيد بالقرآن اهتديت",
+    "شارة برنامج فسيروا",
+    "خجلان",
+    "خذها نصيحة",
+    "خيركم لأهله"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان عبدالعزيز عبدالغني",
+   "count": 12,
+   "in_db": null
+  },
+  "4394": {
+   "portal": "samaa",
+   "portal_id": "4394",
+   "url": "https://play.samaanetwork.net/4394/",
+   "tracks": [
+    "بهداية",
+    "مشاريف الأعمال",
+    "نور حياتي",
+    "ليرق قلبي",
+    "شمس الكون",
+    "من قلبنا",
+    "نور عيني",
+    "النور المبين",
+    "الآل والأصحاب",
+    "الحياة",
+    "بداية",
+    "نبع",
+    "رسيل",
+    "الموعد الغالي",
+    "فرت همومي",
+    "طوينا",
+    "ضم ترابها",
+    "ألبي النداء"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد محمد السالم",
+   "count": 18,
+   "in_db": null
+  },
+  "2354": {
+   "portal": "samaa",
+   "portal_id": "2354",
+   "url": "https://play.samaanetwork.net/2354/",
+   "tracks": [
+    "الله يا ربي - مؤثرات",
+    "إذا شئت",
+    "سر الحكاية",
+    "على درب المحبة",
+    "قد كلمتنا",
+    "صحبتك سمعتك",
+    "خير صرح",
+    "غرام",
+    "ما كل ما يلمع ذهب",
+    "يحب القلب",
+    "اعتذار",
+    "مع الله",
+    "الله الله",
+    "لا تنتابني يا التعب",
+    "هل من بشر",
+    "الا يا بال",
+    "مكة",
+    "حبك لنا ملموس",
+    "من أنت",
+    "صابتك شوكة",
+    "مثل السحابة",
+    "يارب يا رحمن"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان أمين حاميم",
+   "count": 22,
+   "in_db": null
+  },
+  "3045": {
+   "portal": "samaa",
+   "portal_id": "3045",
+   "url": "https://play.samaanetwork.net/3045/",
+   "tracks": [
+    "أثر القرآن"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان سليمان العراقي",
+   "count": 1,
+   "in_db": null
+  },
+  "23727": {
+   "portal": "samaa",
+   "portal_id": "23727",
+   "url": "https://play.samaanetwork.net/23727/",
+   "tracks": [
+    "تقبل مني"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان هاني الشيباني",
+   "count": 1,
+   "in_db": null
+  },
+  "24002": {
+   "portal": "samaa",
+   "portal_id": "24002",
+   "url": "https://play.samaanetwork.net/24002/",
+   "tracks": [
+    "نبي الله"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد أحمد الشكيلي",
+   "count": 1,
+   "in_db": null
+  },
+  "18011": {
+   "portal": "samaa",
+   "portal_id": "18011",
+   "url": "https://play.samaanetwork.net/18011/",
+   "tracks": [
+    "أبجدية المحبة - مؤثرات",
+    "صلى عليك الله - مؤثرات",
+    "سلام سلام"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد عبدالله القاسمي",
+   "count": 3,
+   "in_db": null
+  },
+  "18934": {
+   "portal": "samaa",
+   "portal_id": "18934",
+   "url": "https://play.samaanetwork.net/18934/",
+   "tracks": [
+    "حنين وشوق",
+    "أمط لثام الخنا"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد عمر البلوشي",
+   "count": 2,
+   "in_db": null
+  },
+  "18984": {
+   "portal": "samaa",
+   "portal_id": "18984",
+   "url": "https://play.samaanetwork.net/18984/",
+   "tracks": [
+    "الرحمة المهداة"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد عبدالله السفلي",
+   "count": 1,
+   "in_db": null
+  },
+  "19019": {
+   "portal": "samaa",
+   "portal_id": "19019",
+   "url": "https://play.samaanetwork.net/19019/",
+   "tracks": [
+    "وقفت ببابك"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد عزام المقيطيب",
+   "count": 1,
+   "in_db": null
+  },
+  "17872": {
+   "portal": "samaa",
+   "portal_id": "17872",
+   "url": "https://play.samaanetwork.net/17872/",
+   "tracks": [
+    "في هواك (مؤثرات)",
+    "في هواك - مؤثرات",
+    "القيامة - مؤثرات",
+    "سيد الخلق - مؤثرات",
+    "يا ليت - مؤثرات",
+    "يا وطني - مؤثرات",
+    "الف لا باس - مؤثرات",
+    "شاي بزعفران - مؤثرات",
+    "شوقا إليه - مؤثرات",
+    "حين الغروب - مؤثرات",
+    "موال في هواك - مؤثرات"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان عبدالله الجويبر",
+   "count": 11,
+   "in_db": null
+  },
+  "13487": {
+   "portal": "samaa",
+   "portal_id": "13487",
+   "url": "https://play.samaanetwork.net/13487/",
+   "tracks": [
+    "سيفنى الوباء"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان عبدالله الضبيبي",
+   "count": 1,
+   "in_db": null
+  },
+  "16401": {
+   "portal": "samaa",
+   "portal_id": "16401",
+   "url": "https://play.samaanetwork.net/16401/",
+   "tracks": [
+    "رسول الحب",
+    "استقبال رمضان"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان علي مغربي | Ali Maghrebi",
+   "count": 2,
+   "in_db": null
+  },
+  "429": {
+   "portal": "samaa",
+   "portal_id": "429",
+   "url": "https://play.samaanetwork.net/429/",
+   "tracks": [
+    "مشتاق",
+    "إذا جاريت",
+    "راعي القافية",
+    "ودعتك الله"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان صالح مانع اليامي",
+   "count": 4,
+   "in_db": null
+  },
+  "19180": {
+   "portal": "samaa",
+   "portal_id": "19180",
+   "url": "https://play.samaanetwork.net/19180/",
+   "tracks": [
+    "يا هلالا"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان إسلام صبحي",
+   "count": 1,
+   "in_db": null
+  },
+  "19197": {
+   "portal": "samaa",
+   "portal_id": "19197",
+   "url": "https://play.samaanetwork.net/19197/",
+   "tracks": [
+    "هو الحب"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد عبدالرحمن الخضر",
+   "count": 1,
+   "in_db": null
+  },
+  "17165": {
+   "portal": "samaa",
+   "portal_id": "17165",
+   "url": "https://play.samaanetwork.net/17165/",
+   "tracks": [
+    "بوح آيه",
+    "إني ذكرتك"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "عبدالعزيز آل تويم",
+   "count": 2,
+   "in_db": null
+  },
+  "16503": {
+   "portal": "samaa",
+   "portal_id": "16503",
+   "url": "https://play.samaanetwork.net/16503/",
+   "tracks": [
+    "المعلم",
+    "عبيد"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد حمزة غريب",
+   "count": 2,
+   "in_db": null
+  },
+  "13385": {
+   "portal": "samaa",
+   "portal_id": "13385",
+   "url": "https://play.samaanetwork.net/13385/",
+   "tracks": [
+    "أعددت نفسي - مؤثرات"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان عبدالله ناقد",
+   "count": 1,
+   "in_db": null
+  },
+  "10330": {
+   "portal": "samaa",
+   "portal_id": "10330",
+   "url": "https://play.samaanetwork.net/10330/",
+   "tracks": [
+    "ملكوت الله",
+    "رباه"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان بلال الأغبري",
+   "count": 2,
+   "in_db": null
+  },
+  "19414": {
+   "portal": "samaa",
+   "portal_id": "19414",
+   "url": "https://play.samaanetwork.net/19414/",
+   "tracks": [
+    "حلمك"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد حسام باسمح",
+   "count": 1,
+   "in_db": null
+  },
+  "19445": {
+   "portal": "samaa",
+   "portal_id": "19445",
+   "url": "https://play.samaanetwork.net/19445/",
+   "tracks": [
+    "ترد الروح"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد صالح جهرور",
+   "count": 1,
+   "in_db": null
+  },
+  "15165": {
+   "portal": "samaa",
+   "portal_id": "15165",
+   "url": "https://play.samaanetwork.net/15165/",
+   "tracks": [
+    "حياتك حلوة",
+    "غربة",
+    "حبيب الروح",
+    "أخوي",
+    "أقبلت يارمضان",
+    "خليها لي"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان هشام باسمح",
+   "count": 6,
+   "in_db": null
+  },
+  "19570": {
+   "portal": "samaa",
+   "portal_id": "19570",
+   "url": "https://play.samaanetwork.net/19570/",
+   "tracks": [
+    "وأصبحت طيفا"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "أحمد المطاوع",
+   "count": 1,
+   "in_db": null
+  },
+  "19561": {
+   "portal": "samaa",
+   "portal_id": "19561",
+   "url": "https://play.samaanetwork.net/19561/",
+   "tracks": [
+    "سيول المغفرة",
+    "طهر قلبي - مؤثرات"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "سليمان الكندي",
+   "count": 2,
+   "in_db": null
+  },
+  "14855": {
+   "portal": "samaa",
+   "portal_id": "14855",
+   "url": "https://play.samaanetwork.net/14855/",
+   "tracks": [
+    "ضي النظر",
+    "أغلى حب"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد وهيب باصمد",
+   "count": 2,
+   "in_db": null
+  },
+  "14767": {
+   "portal": "samaa",
+   "portal_id": "14767",
+   "url": "https://play.samaanetwork.net/14767/",
+   "tracks": [
+    "رحلة التغيير"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد سمير البشيري",
+   "count": 1,
+   "in_db": "samir-al-bashiri"
+  },
+  "395": {
+   "portal": "samaa",
+   "portal_id": "395",
+   "url": "https://play.samaanetwork.net/395/",
+   "tracks": [
+    "صلاتك عهد",
+    "ارجع لأصلك",
+    "حياة جديدة"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد جهاد اليافعي",
+   "count": 3,
+   "in_db": null
+  },
+  "19721": {
+   "portal": "samaa",
+   "portal_id": "19721",
+   "url": "https://play.samaanetwork.net/19721/",
+   "tracks": [
+    "بظلك أستجير"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "أمين بخش",
+   "count": 1,
+   "in_db": null
+  },
+  "19761": {
+   "portal": "samaa",
+   "portal_id": "19761",
+   "url": "https://play.samaanetwork.net/19761/",
+   "tracks": [
+    "غصن العطاء - مؤثرات"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "ماجد الحجي",
+   "count": 1,
+   "in_db": null
+  },
+  "2666": {
+   "portal": "samaa",
+   "portal_id": "2666",
+   "url": "https://play.samaanetwork.net/2666/",
+   "tracks": [
+    "بالمحبة",
+    "معاناتي"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان حسن النيرب",
+   "count": 2,
+   "in_db": null
+  },
+  "11152": {
+   "portal": "samaa",
+   "portal_id": "11152",
+   "url": "https://play.samaanetwork.net/11152/",
+   "tracks": [
+    "أحلى كلمة",
+    "جدد العزم - مؤثرات",
+    "أنادي ( موال ) - مؤثرات",
+    "شمعة حرية - مؤثرات",
+    "طوبى للصائمين - مؤثرات",
+    "يوم العودة - مؤثرات",
+    "صحب النبي - مؤثرات",
+    "Our Message - acapella",
+    "خير البرية - مؤثرات",
+    "قدس الوفاء - مؤثرات",
+    "أحلى فلسطين - مؤثرات",
+    "أمي أحلى كلمة - مؤثرات",
+    "وكلها لله - مؤثرات"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان مهند منصور",
+   "count": 13,
+   "in_db": null
+  },
+  "11054": {
+   "portal": "samaa",
+   "portal_id": "11054",
+   "url": "https://play.samaanetwork.net/11054/",
+   "tracks": [
+    "La Hawla Wala Quwwata Illa Billah",
+    "Allahumma Solli Ala Muhammad",
+    "Ya Latif",
+    "Allahu Rabbi",
+    "Ya Hayyu Ya Qayyum",
+    "Tasbih Tahmid Tahlil",
+    "La Ilaha Illa Allah",
+    "Ya Muqallib Al Qulub"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "Inteam",
+   "count": 8,
+   "in_db": null
+  },
+  "343": {
+   "portal": "samaa",
+   "portal_id": "343",
+   "url": "https://play.samaanetwork.net/343/",
+   "tracks": [
+    "لا ترتحل"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "فريق نجوم غرباء للفن الإسلامي",
+   "count": 1,
+   "in_db": null
+  },
+  "3809": {
+   "portal": "samaa",
+   "portal_id": "3809",
+   "url": "https://play.samaanetwork.net/3809/",
+   "tracks": [
+    "قلب واحد ٤",
+    "القلب ناجاك",
+    "قل للمحب",
+    "يا ذا الجلال"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان يحيى حوى",
+   "count": 4,
+   "in_db": "yahya-hawwa"
+  },
+  "11306": {
+   "portal": "samaa",
+   "portal_id": "11306",
+   "url": "https://play.samaanetwork.net/11306/",
+   "tracks": [
+    "ولرب نازلة",
+    "يا مستجيب للداعي",
+    "يا اللي فراقك",
+    "همي سطا"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد أسامه الزيودي",
+   "count": 4,
+   "in_db": null
+  },
+  "19963": {
+   "portal": "samaa",
+   "portal_id": "19963",
+   "url": "https://play.samaanetwork.net/19963/",
+   "tracks": [
+    "حبك"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "يزيد الدوسري",
+   "count": 1,
+   "in_db": null
+  },
+  "8339": {
+   "portal": "samaa",
+   "portal_id": "8339",
+   "url": "https://play.samaanetwork.net/8339/",
+   "tracks": [
+    "قلب نقي"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد فارس السيد",
+   "count": 1,
+   "in_db": null
+  },
+  "19997": {
+   "portal": "samaa",
+   "portal_id": "19997",
+   "url": "https://play.samaanetwork.net/19997/",
+   "tracks": [
+    "غيمة حب - مؤثرات"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "أحمد اليحمدي",
+   "count": 1,
+   "in_db": null
+  },
+  "2924": {
+   "portal": "samaa",
+   "portal_id": "2924",
+   "url": "https://play.samaanetwork.net/2924/",
+   "tracks": [
+    "أحب الصالحين",
+    "خذي قلبي"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان عبدالكريم مهيوب",
+   "count": 2,
+   "in_db": null
+  },
+  "6678": {
+   "portal": "samaa",
+   "portal_id": "6678",
+   "url": "https://play.samaanetwork.net/6678/",
+   "tracks": [
+    "دانه",
+    "يا قاصد طيبة",
+    "دع ما سوى الله",
+    "تعلقت بالأسباب",
+    "يا من يلوم",
+    "فارج الهم",
+    "أهل الهوى",
+    "أبا الزهراء",
+    "عالم الضمائر"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان هاشم باروم",
+   "count": 9,
+   "in_db": null
+  },
+  "1074": {
+   "portal": "samaa",
+   "portal_id": "1074",
+   "url": "https://play.samaanetwork.net/1074/",
+   "tracks": [
+    "النصر الموعد يا شام"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان خيري حاتم",
+   "count": 1,
+   "in_db": null
+  },
+  "20129": {
+   "portal": "samaa",
+   "portal_id": "20129",
+   "url": "https://play.samaanetwork.net/20129/",
+   "tracks": [
+    "لطيبة عشقي"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "عبدالرحمن طه",
+   "count": 1,
+   "in_db": null
+  },
+  "20173": {
+   "portal": "samaa",
+   "portal_id": "20173",
+   "url": "https://play.samaanetwork.net/20173/",
+   "tracks": [
+    "رسول السلام"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "ياسر زين",
+   "count": 1,
+   "in_db": null
+  },
+  "20199": {
+   "portal": "samaa",
+   "portal_id": "20199",
+   "url": "https://play.samaanetwork.net/20199/",
+   "tracks": [
+    "يا أملي"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد بدر السلمي",
+   "count": 1,
+   "in_db": null
+  },
+  "1185": {
+   "portal": "samaa",
+   "portal_id": "1185",
+   "url": "https://play.samaanetwork.net/1185/",
+   "tracks": [
+    "جف الوقت",
+    "يا رحيم"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان أمجد الخولاني",
+   "count": 2,
+   "in_db": null
+  },
+  "20255": {
+   "portal": "samaa",
+   "portal_id": "20255",
+   "url": "https://play.samaanetwork.net/20255/",
+   "tracks": [
+    "جنة الدنيا"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "أحمد الغزاوي",
+   "count": 1,
+   "in_db": null
+  },
+  "8290": {
+   "portal": "samaa",
+   "portal_id": "8290",
+   "url": "https://play.samaanetwork.net/8290/",
+   "tracks": [
+    "رجواك"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان سليمان الراشدي",
+   "count": 1,
+   "in_db": null
+  },
+  "2737": {
+   "portal": "samaa",
+   "portal_id": "2737",
+   "url": "https://play.samaanetwork.net/2737/",
+   "tracks": [
+    "يمطر الحب"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان أيمن قصيلة",
+   "count": 1,
+   "in_db": null
+  },
+  "1242": {
+   "portal": "samaa",
+   "portal_id": "1242",
+   "url": "https://play.samaanetwork.net/1242/",
+   "tracks": [
+    "شارة برنامج لقاء الأحبة",
+    "علمني موسى",
+    "مشاعر"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان أحمد سيف",
+   "count": 3,
+   "in_db": null
+  },
+  "20297": {
+   "portal": "samaa",
+   "portal_id": "20297",
+   "url": "https://play.samaanetwork.net/20297/",
+   "tracks": [
+    "شارة برنامج الصفوة"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان براء العويد",
+   "count": 1,
+   "in_db": null
+  },
+  "952": {
+   "portal": "samaa",
+   "portal_id": "952",
+   "url": "https://play.samaanetwork.net/952/",
+   "tracks": [
+    "لحظة عمر",
+    "أحبك يا كويت"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان إبراهيم السعيد",
+   "count": 2,
+   "in_db": null
+  },
+  "20332": {
+   "portal": "samaa",
+   "portal_id": "20332",
+   "url": "https://play.samaanetwork.net/20332/",
+   "tracks": [
+    "سيد الأكوان - مؤثرات"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المثنى بديوي ( رحمه الله)",
+   "count": 1,
+   "in_db": null
+  },
+  "20466": {
+   "portal": "samaa",
+   "portal_id": "20466",
+   "url": "https://play.samaanetwork.net/20466/",
+   "tracks": [
+    "فرحة الموعود"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "فرقة الأصالة الفنية",
+   "count": 1,
+   "in_db": null
+  },
+  "1612": {
+   "portal": "samaa",
+   "portal_id": "1612",
+   "url": "https://play.samaanetwork.net/1612/",
+   "tracks": [
+    "شتات الشتاء",
+    "شموخ يتيم",
+    "طيب نوايانا - مؤثرات",
+    "إلهي",
+    "عائشة",
+    "احنا تخرجنا",
+    "أمتي",
+    "كتاب الله",
+    "كلنا",
+    "حياة التطوعي",
+    "إنسانيتي - مؤثرات",
+    "هذي أيادينا",
+    "حوار الطفولة",
+    "يا سريع الغوث",
+    "أوبريت الأوقاف",
+    "لكويتنا اتحدنا",
+    "طابت يداك",
+    "يا كويتنا",
+    "إذا هجم الشقاء",
+    "هممنا بالسماء",
+    "سبيل الوقف",
+    "أكرم بقوم",
+    "نور في كل بيت",
+    "خير يجمعنا",
+    "طوبى",
+    "ارسم لأمتك المسار",
+    "فوق الملايين",
+    "دروب الأمل",
+    "عشانك أصلي",
+    "كويت الخير",
+    "في الشارقة",
+    "موال سوريا",
+    "ثابت على قيمي",
+    "جامعة الشارقة",
+    "يا رفيقي",
+    "يا قاطف النور",
+    "أتدري من يزيل الهم",
+    "أندلسيات",
+    "هما من نورا دربي",
+    "السجدة",
+    "جيتك إلهي",
+    "يا رجائي",
+    "صلى عليك الله",
+    "غربتي",
+    "أودى الهوى",
+    "رمضان",
+    "جد بلطفك",
+    "باب الرجاء",
+    "أسري إليك",
+    "نور الكون",
+    "يا رجائي 4",
+    "إليك وجهت",
+    "يا رجائي 3",
+    "تبارك ذو الجلال",
+    "يا رجائي ٣",
+    "قف في الحياة",
+    "فرشي التراب",
+    "يارجائي 2",
+    "أشرق النور",
+    "أمي فلسطين",
+    "إليك أفر",
+    "يارجائي ٢",
+    "تفكرت يوما",
+    "يا رجائي 1",
+    "يا رجائي ١",
+    "الحمد لله"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد مشاري العرادة",
+   "count": 66,
+   "in_db": "mishary-al-arada"
+  },
+  "331": {
+   "portal": "samaa",
+   "portal_id": "331",
+   "url": "https://play.samaanetwork.net/331/",
+   "tracks": [
+    "أبناؤنا",
+    "يا الله"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان وليد الرجيبي",
+   "count": 2,
+   "in_db": null
+  },
+  "20507": {
+   "portal": "samaa",
+   "portal_id": "20507",
+   "url": "https://play.samaanetwork.net/20507/",
+   "tracks": [
+    "إيه أحبك",
+    "أصحاب - مؤثرات"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد عبدالله بن محمد",
+   "count": 2,
+   "in_db": null
+  },
+  "20558": {
+   "portal": "samaa",
+   "portal_id": "20558",
+   "url": "https://play.samaanetwork.net/20558/",
+   "tracks": [
+    "ما يهزك الياس"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "أحمد امباسي",
+   "count": 1,
+   "in_db": null
+  },
+  "1058": {
+   "portal": "samaa",
+   "portal_id": "1058",
+   "url": "https://play.samaanetwork.net/1058/",
+   "tracks": [
+    "خلي نيتك لله",
+    "آسف",
+    "مشتاق",
+    "إلا رسول الله",
+    "لا عيد بفرقاكم",
+    "لما نسم هواكم",
+    "يا امي",
+    "يا نبي",
+    "لا إله إلا الله",
+    "يا عالم العدالة",
+    "يا طيبة ضميني"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان أيمن رمضان",
+   "count": 11,
+   "in_db": null
+  },
+  "13283": {
+   "portal": "samaa",
+   "portal_id": "13283",
+   "url": "https://play.samaanetwork.net/13283/",
+   "tracks": [
+    "السلام سلام",
+    "الحياة",
+    "دعوة سلام",
+    "سابق",
+    "لولاك",
+    "أحيانا نبحر",
+    "Alsalam Salam ( Spanish )",
+    "بيض الله قلبك"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد عبدالمجيد الفوزان",
+   "count": 8,
+   "in_db": null
+  },
+  "20624": {
+   "portal": "samaa",
+   "portal_id": "20624",
+   "url": "https://play.samaanetwork.net/20624/",
+   "tracks": [
+    "عساكم بخير"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان إبراهيم الجلال",
+   "count": 1,
+   "in_db": null
+  },
+  "356": {
+   "portal": "samaa",
+   "portal_id": "356",
+   "url": "https://play.samaanetwork.net/356/",
+   "tracks": [
+    "لا تخجلي",
+    "أعذب الألفاظ - مؤثرات",
+    "أسعد الناس - مؤثرات",
+    "لا تخجلي - مؤثرات",
+    "خل الأمل - مؤثرات",
+    "نهاري عذاب - مؤثرات",
+    "حافظ القرآن - مؤثرات",
+    "يا بوي - مؤثرات",
+    "نعال أمي - مؤثرات",
+    "أل البيت - مؤثرات",
+    "شوق الرسول - مؤثرات"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان وليد الحمادي",
+   "count": 11,
+   "in_db": null
+  },
+  "2654": {
+   "portal": "samaa",
+   "portal_id": "2654",
+   "url": "https://play.samaanetwork.net/2654/",
+   "tracks": [
+    "موسم الإستفادة - مؤثرات",
+    "دنيا العجايب"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان محمد الكاف | Mohammed Alkaf",
+   "count": 2,
+   "in_db": null
+  },
+  "20788": {
+   "portal": "samaa",
+   "portal_id": "20788",
+   "url": "https://play.samaanetwork.net/20788/",
+   "tracks": [
+    "عودة خير"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "محمد الجديدي",
+   "count": 1,
+   "in_db": null
+  },
+  "20471": {
+   "portal": "samaa",
+   "portal_id": "20471",
+   "url": "https://play.samaanetwork.net/20471/",
+   "tracks": [
+    "ننصف الناس"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد عبدالعزيز هادي",
+   "count": 1,
+   "in_db": null
+  },
+  "20792": {
+   "portal": "samaa",
+   "portal_id": "20792",
+   "url": "https://play.samaanetwork.net/20792/",
+   "tracks": [
+    "صامدين"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "عبدالرحمن العالول",
+   "count": 1,
+   "in_db": null
+  },
+  "20810": {
+   "portal": "samaa",
+   "portal_id": "20810",
+   "url": "https://play.samaanetwork.net/20810/",
+   "tracks": [
+    "بصدق العزم"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "عبدالله المري",
+   "count": 1,
+   "in_db": null
+  },
+  "2758": {
+   "portal": "samaa",
+   "portal_id": "2758",
+   "url": "https://play.samaanetwork.net/2758/",
+   "tracks": [
+    "يا زين الأخلاق",
+    "يا بوي"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد علي الفيفي | Ali Alfifi",
+   "count": 2,
+   "in_db": null
+  },
+  "20875": {
+   "portal": "samaa",
+   "portal_id": "20875",
+   "url": "https://play.samaanetwork.net/20875/",
+   "tracks": [
+    "بلادي الإمارات - مؤثرات",
+    "أحمد يا حبيبي"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "نهيان المطيري",
+   "count": 2,
+   "in_db": null
+  },
+  "2963": {
+   "portal": "samaa",
+   "portal_id": "2963",
+   "url": "https://play.samaanetwork.net/2963/",
+   "tracks": [
+    "لحن الأمل",
+    "سبحان من",
+    "صباحك سكر"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان أنس حجازي",
+   "count": 3,
+   "in_db": null
+  },
+  "2692": {
+   "portal": "samaa",
+   "portal_id": "2692",
+   "url": "https://play.samaanetwork.net/2692/",
+   "tracks": [
+    "وش رأيك بفكرة"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان محمد باطهف",
+   "count": 1,
+   "in_db": null
+  },
+  "20948": {
+   "portal": "samaa",
+   "portal_id": "20948",
+   "url": "https://play.samaanetwork.net/20948/",
+   "tracks": [
+    "شو كنا فيه رفقات"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "أنور حسام",
+   "count": 1,
+   "in_db": null
+  },
+  "20970": {
+   "portal": "samaa",
+   "portal_id": "20970",
+   "url": "https://play.samaanetwork.net/20970/",
+   "tracks": [
+    "سيروا لنيل الخير"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "مجموعة الرسالة",
+   "count": 1,
+   "in_db": null
+  },
+  "1349": {
+   "portal": "samaa",
+   "portal_id": "1349",
+   "url": "https://play.samaanetwork.net/1349/",
+   "tracks": [
+    "فاحت طيوب",
+    "قسما"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "فرقة هارموني | Harmony Band",
+   "count": 2,
+   "in_db": null
+  },
+  "1177": {
+   "portal": "samaa",
+   "portal_id": "1177",
+   "url": "https://play.samaanetwork.net/1177/",
+   "tracks": [
+    "يهون الجرح",
+    "الجنة",
+    "أعبد الله",
+    "الناس للناس",
+    "أخيرا",
+    "الله ولي",
+    "سر الحياة",
+    "ألا يا نفس",
+    "يا ليل ميل",
+    "الفقير",
+    "الصلاة دوام",
+    "يا سعد ربعي",
+    "لو نسيت",
+    "ايه قلبي",
+    "يا حبيبي"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان أحمد الهاجري",
+   "count": 15,
+   "in_db": "ahmed-al-hajeri"
+  },
+  "2985": {
+   "portal": "samaa",
+   "portal_id": "2985",
+   "url": "https://play.samaanetwork.net/2985/",
+   "tracks": [
+    "ومعا نبني",
+    "حمدا وافيا",
+    "أهديك شبابي",
+    "شهر الربيع",
+    "بعدي عنك",
+    "يارب أنت الهادي"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان محمود الصياد",
+   "count": 6,
+   "in_db": null
+  },
+  "3069": {
+   "portal": "samaa",
+   "portal_id": "3069",
+   "url": "https://play.samaanetwork.net/3069/",
+   "tracks": [
+    "رمضان الجود",
+    "يا رب الفلق"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان عدنان الحلاق",
+   "count": 2,
+   "in_db": null
+  },
+  "296": {
+   "portal": "samaa",
+   "portal_id": "296",
+   "url": "https://play.samaanetwork.net/296/",
+   "tracks": [
+    "شارة برنامج العذراء والمسيح",
+    "يا أمي",
+    "نوري اكتمل"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "فضل شاكر | Fadhl Chaker",
+   "count": 3,
+   "in_db": null
+  },
+  "21234": {
+   "portal": "samaa",
+   "portal_id": "21234",
+   "url": "https://play.samaanetwork.net/21234/",
+   "tracks": [
+    "أمي"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "معاذ العيد",
+   "count": 1,
+   "in_db": null
+  },
+  "1636": {
+   "portal": "samaa",
+   "portal_id": "1636",
+   "url": "https://play.samaanetwork.net/1636/",
+   "tracks": [
+    "اسم الجليل",
+    "أحبو",
+    "أعذب الألحان",
+    "نجم الأوطان"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان عبدالرحمن بوحبيله",
+   "count": 4,
+   "in_db": null
+  },
+  "2889": {
+   "portal": "samaa",
+   "portal_id": "2889",
+   "url": "https://play.samaanetwork.net/2889/",
+   "tracks": [
+    "أيام شقاوتي",
+    "يا شام أترجعين",
+    "فجر يلوح",
+    "حتى نغير"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان محمد سيف",
+   "count": 4,
+   "in_db": null
+  },
+  "7640": {
+   "portal": "samaa",
+   "portal_id": "7640",
+   "url": "https://play.samaanetwork.net/7640/",
+   "tracks": [
+    "أول خفقة"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان هيثم الحلبي",
+   "count": 1,
+   "in_db": null
+  },
+  "21359": {
+   "portal": "samaa",
+   "portal_id": "21359",
+   "url": "https://play.samaanetwork.net/21359/",
+   "tracks": [
+    "نشيد سورة الكهف"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "عمر الطاهري",
+   "count": 1,
+   "in_db": null
+  },
+  "3099": {
+   "portal": "samaa",
+   "portal_id": "3099",
+   "url": "https://play.samaanetwork.net/3099/",
+   "tracks": [
+    "وصلة المولد",
+    "ضاق أمري"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان مصطفى كريم",
+   "count": 2,
+   "in_db": null
+  },
+  "21374": {
+   "portal": "samaa",
+   "portal_id": "21374",
+   "url": "https://play.samaanetwork.net/21374/",
+   "tracks": [
+    "تحلو الخصال"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "ماجد محمد",
+   "count": 1,
+   "in_db": null
+  },
+  "21368": {
+   "portal": "samaa",
+   "portal_id": "21368",
+   "url": "https://play.samaanetwork.net/21368/",
+   "tracks": [
+    "مولد الحق"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "عبدالقادر المرعشلي",
+   "count": 1,
+   "in_db": null
+  },
+  "11669": {
+   "portal": "samaa",
+   "portal_id": "11669",
+   "url": "https://play.samaanetwork.net/11669/",
+   "tracks": [
+    "تفاءل",
+    "الأنبياء",
+    "أمواج البحرين 2007",
+    "دعوة إبراهيم",
+    "شمعة الفن"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "فرقة أمواج البحرين",
+   "count": 5,
+   "in_db": null
+  },
+  "21380": {
+   "portal": "samaa",
+   "portal_id": "21380",
+   "url": "https://play.samaanetwork.net/21380/",
+   "tracks": [
+    "محروم",
+    "الدوا"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "عمر حاجي",
+   "count": 2,
+   "in_db": null
+  },
+  "21388": {
+   "portal": "samaa",
+   "portal_id": "21388",
+   "url": "https://play.samaanetwork.net/21388/",
+   "tracks": [
+    "سيدي مولاي",
+    "سيد الكونين"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "محمود السالمي",
+   "count": 2,
+   "in_db": null
+  },
+  "21398": {
+   "portal": "samaa",
+   "portal_id": "21398",
+   "url": "https://play.samaanetwork.net/21398/",
+   "tracks": [
+    "رضيت",
+    "هلا والله"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "عبدالله جناحي",
+   "count": 2,
+   "in_db": null
+  },
+  "20338": {
+   "portal": "samaa",
+   "portal_id": "20338",
+   "url": "https://play.samaanetwork.net/20338/",
+   "tracks": [
+    "أتعب",
+    "مناجاة",
+    "مافي المقام",
+    "لا تخضعن",
+    "ردي الملامة",
+    "نور من الغار"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد محمود الشيباني",
+   "count": 6,
+   "in_db": null
+  },
+  "21387": {
+   "portal": "samaa",
+   "portal_id": "21387",
+   "url": "https://play.samaanetwork.net/21387/",
+   "tracks": [
+    "رحلت",
+    "أحلى صباح",
+    "طريق النجاة"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "سلمان علي",
+   "count": 3,
+   "in_db": null
+  },
+  "21410": {
+   "portal": "samaa",
+   "portal_id": "21410",
+   "url": "https://play.samaanetwork.net/21410/",
+   "tracks": [
+    "النجوى"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "عمر الجيران",
+   "count": 1,
+   "in_db": null
+  },
+  "4567": {
+   "portal": "samaa",
+   "portal_id": "4567",
+   "url": "https://play.samaanetwork.net/4567/",
+   "tracks": [
+    "ساعة",
+    "خير أيام الدنيا"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان علي النقبي",
+   "count": 2,
+   "in_db": null
+  },
+  "2897": {
+   "portal": "samaa",
+   "portal_id": "2897",
+   "url": "https://play.samaanetwork.net/2897/",
+   "tracks": [
+    "الله قادر",
+    "دعاء رب رمضان",
+    "حنت روحي"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان محمد ياسين المرعشلي",
+   "count": 3,
+   "in_db": null
+  },
+  "13308": {
+   "portal": "samaa",
+   "portal_id": "13308",
+   "url": "https://play.samaanetwork.net/13308/",
+   "tracks": [
+    "لبيك يا الله",
+    "زدني علما"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد المعتصم بالله العسلي",
+   "count": 2,
+   "in_db": null
+  },
+  "21622": {
+   "portal": "samaa",
+   "portal_id": "21622",
+   "url": "https://play.samaanetwork.net/21622/",
+   "tracks": [
+    "رمضان داوي"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "فريق استوديونا",
+   "count": 1,
+   "in_db": null
+  },
+  "10398": {
+   "portal": "samaa",
+   "portal_id": "10398",
+   "url": "https://play.samaanetwork.net/10398/",
+   "tracks": [
+    "روح المعاني"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان فؤاد الهتار",
+   "count": 1,
+   "in_db": null
+  },
+  "21772": {
+   "portal": "samaa",
+   "portal_id": "21772",
+   "url": "https://play.samaanetwork.net/21772/",
+   "tracks": [
+    "الرحيل"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "عبدالله باعلي",
+   "count": 1,
+   "in_db": null
+  },
+  "21778": {
+   "portal": "samaa",
+   "portal_id": "21778",
+   "url": "https://play.samaanetwork.net/21778/",
+   "tracks": [
+    "سر القبول"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "داود سليمان",
+   "count": 1,
+   "in_db": null
+  },
+  "312": {
+   "portal": "samaa",
+   "portal_id": "312",
+   "url": "https://play.samaanetwork.net/312/",
+   "tracks": [
+    "Ala Bi Dhikrika"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "سامي يوسف | Sami Yusuf",
+   "count": 1,
+   "in_db": "sami-yusuf"
+  },
+  "12872": {
+   "portal": "samaa",
+   "portal_id": "12872",
+   "url": "https://play.samaanetwork.net/12872/",
+   "tracks": [
+    "ماء المرايا"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان سلمان التليدي",
+   "count": 1,
+   "in_db": null
+  },
+  "15593": {
+   "portal": "samaa",
+   "portal_id": "15593",
+   "url": "https://play.samaanetwork.net/15593/",
+   "tracks": [
+    "أبي كم أحبك",
+    "حب الحقيقة"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان ربيع حافظ",
+   "count": 2,
+   "in_db": null
+  },
+  "21955": {
+   "portal": "samaa",
+   "portal_id": "21955",
+   "url": "https://play.samaanetwork.net/21955/",
+   "tracks": [
+    "أمي"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "سعيد باطرفي",
+   "count": 1,
+   "in_db": null
+  },
+  "5364": {
+   "portal": "samaa",
+   "portal_id": "5364",
+   "url": "https://play.samaanetwork.net/5364/",
+   "tracks": [
+    "للحبايب ودوني",
+    "بني الإنسان",
+    "صلوات",
+    "ليش الزعل",
+    "يا خوي",
+    "شفيت بقربي",
+    "مال الفؤاد",
+    "أنت المنى",
+    "فتح عيونك",
+    "عاندت نفسي"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان أحمد عادل",
+   "count": 10,
+   "in_db": null
+  },
+  "13151": {
+   "portal": "samaa",
+   "portal_id": "13151",
+   "url": "https://play.samaanetwork.net/13151/",
+   "tracks": [
+    "عنقود عنب",
+    "هذه الأغصان",
+    "ضيف حراء",
+    "ولدي لا تسافر",
+    "نجوى فلسطين",
+    "عطاء منك",
+    "أبي",
+    "أخي"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد يوسف الديك",
+   "count": 8,
+   "in_db": null
+  },
+  "22338": {
+   "portal": "samaa",
+   "portal_id": "22338",
+   "url": "https://play.samaanetwork.net/22338/",
+   "tracks": [
+    "يا رسول الله",
+    "المدينة",
+    "اليتيم",
+    "صديقي",
+    "يا إلهي"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "أحمد زكي أبوبكر",
+   "count": 5,
+   "in_db": null
+  },
+  "22340": {
+   "portal": "samaa",
+   "portal_id": "22340",
+   "url": "https://play.samaanetwork.net/22340/",
+   "tracks": [
+    "اصعد العلياء",
+    "يا مسلم"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "محمد جازي عبدالله",
+   "count": 2,
+   "in_db": null
+  },
+  "9710": {
+   "portal": "samaa",
+   "portal_id": "9710",
+   "url": "https://play.samaanetwork.net/9710/",
+   "tracks": [
+    "حبك نور",
+    "يا نور",
+    "اهرب لله",
+    "قلبي معاه",
+    "أعظم ما أملك",
+    "فاطمة الزهراء",
+    "المحمدية",
+    "أمنا الكبرى",
+    "عد لي بالرضا"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان أحمد بوشهاب",
+   "count": 9,
+   "in_db": null
+  },
+  "5560": {
+   "portal": "samaa",
+   "portal_id": "5560",
+   "url": "https://play.samaanetwork.net/5560/",
+   "tracks": [
+    "نظرة عينك"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان عمر الصعيدي",
+   "count": 1,
+   "in_db": null
+  },
+  "1072": {
+   "portal": "samaa",
+   "portal_id": "1072",
+   "url": "https://play.samaanetwork.net/1072/",
+   "tracks": [
+    "عيني",
+    "حان الوقت",
+    "يا مسافر عود",
+    "يا هل ترى",
+    "يا دار",
+    "موج البحر",
+    "ليلي ما بنام",
+    "غزة من عيون الفجر",
+    "عالم أفضل",
+    "ربيتك",
+    "جواد كريم"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان عبدالفتاح عوينات",
+   "count": 11,
+   "in_db": null
+  },
+  "5547": {
+   "portal": "samaa",
+   "portal_id": "5547",
+   "url": "https://play.samaanetwork.net/5547/",
+   "tracks": [
+    "عيشها معنا",
+    "صلاة الله"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان أشرف يوسف",
+   "count": 2,
+   "in_db": null
+  },
+  "22605": {
+   "portal": "samaa",
+   "portal_id": "22605",
+   "url": "https://play.samaanetwork.net/22605/",
+   "tracks": [
+    "حيو الشباب"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "محمد خليفة",
+   "count": 1,
+   "in_db": null
+  },
+  "3047": {
+   "portal": "samaa",
+   "portal_id": "3047",
+   "url": "https://play.samaanetwork.net/3047/",
+   "tracks": [
+    "رحمن"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان خالد زاهر",
+   "count": 1,
+   "in_db": null
+  },
+  "5936": {
+   "portal": "samaa",
+   "portal_id": "5936",
+   "url": "https://play.samaanetwork.net/5936/",
+   "tracks": [
+    "قد تمم الله"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان بلال الكبيسي",
+   "count": 1,
+   "in_db": "bilal-al-kubaisi"
+  },
+  "2209": {
+   "portal": "samaa",
+   "portal_id": "2209",
+   "url": "https://play.samaanetwork.net/2209/",
+   "tracks": [
+    "أقمار"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان يزن نسيبة",
+   "count": 1,
+   "in_db": null
+  },
+  "5918": {
+   "portal": "samaa",
+   "portal_id": "5918",
+   "url": "https://play.samaanetwork.net/5918/",
+   "tracks": [
+    "يابشر ياسامعين"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان مصطفى العزاوي",
+   "count": 1,
+   "in_db": "mustafa-al-azzawi"
+  },
+  "13341": {
+   "portal": "samaa",
+   "portal_id": "13341",
+   "url": "https://play.samaanetwork.net/13341/",
+   "tracks": [
+    "الله يا مولانا"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان مروان حاجي",
+   "count": 1,
+   "in_db": null
+  },
+  "22772": {
+   "portal": "samaa",
+   "portal_id": "22772",
+   "url": "https://play.samaanetwork.net/22772/",
+   "tracks": [
+    "زاد شوقي"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "بندر عاشور",
+   "count": 1,
+   "in_db": null
+  },
+  "22771": {
+   "portal": "samaa",
+   "portal_id": "22771",
+   "url": "https://play.samaanetwork.net/22771/",
+   "tracks": [
+    "نجي الفؤاد"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "مرشد الطاهري",
+   "count": 1,
+   "in_db": null
+  },
+  "10588": {
+   "portal": "samaa",
+   "portal_id": "10588",
+   "url": "https://play.samaanetwork.net/10588/",
+   "tracks": [
+    "فلسطيني فلسطيني"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان علي بوبر",
+   "count": 1,
+   "in_db": null
+  },
+  "13320": {
+   "portal": "samaa",
+   "portal_id": "13320",
+   "url": "https://play.samaanetwork.net/13320/",
+   "tracks": [
+    "سراب"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد ناصر ميروح",
+   "count": 1,
+   "in_db": null
+  },
+  "22761": {
+   "portal": "samaa",
+   "portal_id": "22761",
+   "url": "https://play.samaanetwork.net/22761/",
+   "tracks": [
+    "أحب الناس"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "محمد زكي",
+   "count": 1,
+   "in_db": null
+  },
+  "9090": {
+   "portal": "samaa",
+   "portal_id": "9090",
+   "url": "https://play.samaanetwork.net/9090/",
+   "tracks": [
+    "تناديني"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان سالم الطريفي",
+   "count": 1,
+   "in_db": null
+  },
+  "13221": {
+   "portal": "samaa",
+   "portal_id": "13221",
+   "url": "https://play.samaanetwork.net/13221/",
+   "tracks": [
+    "أناديك",
+    "أغيب",
+    "ذنوبك يا مغرور",
+    "إلهي",
+    "كيف المصير",
+    "استغفر الله",
+    "سبحان الله",
+    "لماذا لا تصلي ؟"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد خالد الضبيبي",
+   "count": 8,
+   "in_db": null
+  },
+  "9575": {
+   "portal": "samaa",
+   "portal_id": "9575",
+   "url": "https://play.samaanetwork.net/9575/",
+   "tracks": [
+    "وكلها لله",
+    "يا أمي",
+    "مهما قالوا",
+    "لالي",
+    "قلبي يحن",
+    "صلاة الله",
+    "رحلت",
+    "حس بيها",
+    "الهوارة",
+    "أنا مالي فيهاش"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان أيمن الحلاق",
+   "count": 10,
+   "in_db": null
+  },
+  "10388": {
+   "portal": "samaa",
+   "portal_id": "10388",
+   "url": "https://play.samaanetwork.net/10388/",
+   "tracks": [
+    "تائه"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان يوسف عبدالغني",
+   "count": 1,
+   "in_db": null
+  },
+  "22718": {
+   "portal": "samaa",
+   "portal_id": "22718",
+   "url": "https://play.samaanetwork.net/22718/",
+   "tracks": [
+    "نور الهادي"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "محمد هجرس",
+   "count": 1,
+   "in_db": null
+  },
+  "7774": {
+   "portal": "samaa",
+   "portal_id": "7774",
+   "url": "https://play.samaanetwork.net/7774/",
+   "tracks": [
+    "البداية",
+    "مناجاة ليل",
+    "يا حبيبي يا محمد",
+    "الحسود",
+    "كما تدين تدان",
+    "ذكرك بلسم"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان محمد المازم",
+   "count": 6,
+   "in_db": "mohammed-al-mazem"
+  },
+  "8017": {
+   "portal": "samaa",
+   "portal_id": "8017",
+   "url": "https://play.samaanetwork.net/8017/",
+   "tracks": [
+    "قف"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان فهد الكبيسي",
+   "count": 1,
+   "in_db": null
+  },
+  "3300": {
+   "portal": "samaa",
+   "portal_id": "3300",
+   "url": "https://play.samaanetwork.net/3300/",
+   "tracks": [
+    "إليكما",
+    "اللهم ادفع عنا"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان أسامه الصافي",
+   "count": 2,
+   "in_db": null
+  },
+  "23265": {
+   "portal": "samaa",
+   "portal_id": "23265",
+   "url": "https://play.samaanetwork.net/23265/",
+   "tracks": [
+    "مغرورة"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "عبدالله عبيد",
+   "count": 1,
+   "in_db": null
+  },
+  "23261": {
+   "portal": "samaa",
+   "portal_id": "23261",
+   "url": "https://play.samaanetwork.net/23261/",
+   "tracks": [
+    "على قلبي"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "ناصر المغني",
+   "count": 1,
+   "in_db": null
+  },
+  "8599": {
+   "portal": "samaa",
+   "portal_id": "8599",
+   "url": "https://play.samaanetwork.net/8599/",
+   "tracks": [
+    "صرخة تائب",
+    "إليك",
+    "انتصف الليل",
+    "مولاي قد نامت عيون"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "المنشد محمد عبيد",
+   "count": 4,
+   "in_db": null
+  },
+  "23258": {
+   "portal": "samaa",
+   "portal_id": "23258",
+   "url": "https://play.samaanetwork.net/23258/",
+   "tracks": [
+    "أنا المسلم"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "عاصم القاسم",
+   "count": 1,
+   "in_db": null
+  },
+  "23253": {
+   "portal": "samaa",
+   "portal_id": "23253",
+   "url": "https://play.samaanetwork.net/23253/",
+   "tracks": [
+    "إليكما"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "منصور بخيت",
+   "count": 1,
+   "in_db": null
+  },
+  "23478": {
+   "portal": "samaa",
+   "portal_id": "23478",
+   "url": "https://play.samaanetwork.net/23478/",
+   "tracks": [
+    "صديقي",
+    "خير أيام الفتى",
+    "جدد حياتك"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "عبدالوهاب المنيفي",
+   "count": 3,
+   "in_db": null
+  },
+  "4849": {
+   "portal": "samaa",
+   "portal_id": "4849",
+   "url": "https://play.samaanetwork.net/4849/",
+   "tracks": [
+    "دفئي القلب",
+    "غادة"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "الفنان محمد العزاوي",
+   "count": 2,
+   "in_db": null
+  },
+  "23544": {
+   "portal": "samaa",
+   "portal_id": "23544",
+   "url": "https://play.samaanetwork.net/23544/",
+   "tracks": [
+    "شمر يا صاح",
+    "إيه نفسي"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "ياسر الرصاصي",
+   "count": 2,
+   "in_db": null
+  },
+  "23583": {
+   "portal": "samaa",
+   "portal_id": "23583",
+   "url": "https://play.samaanetwork.net/23583/",
+   "tracks": [
+    "القرآن"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "فوزي سعيد",
+   "count": 1,
+   "in_db": null
+  },
+  "23603": {
+   "portal": "samaa",
+   "portal_id": "23603",
+   "url": "https://play.samaanetwork.net/23603/",
+   "tracks": [
+    "أخي",
+    "إبتهال الفجر"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "سعيد الماجد",
+   "count": 2,
+   "in_db": null
+  },
+  "23602": {
+   "portal": "samaa",
+   "portal_id": "23602",
+   "url": "https://play.samaanetwork.net/23602/",
+   "tracks": [
+    "أشرق"
+   ],
+   "genres": [
+    "acapella-version"
+   ],
+   "name": "مسعود غياث",
+   "count": 1,
+   "in_db": null
+  }
+ },
+ "pages": 13,
+ "tracks": 1209,
+ "assajda": {
+  "sami-yusuf-117": {
+   "portal": "assajda",
+   "portal_id": "sami-yusuf-117",
+   "url": "https://www.assajda.com/en/sami-yusuf-117.html",
+   "name": "Sami Yusuf",
+   "ar": "سامي يوسف",
+   "country": "United Kingdom",
+   "count": 24,
+   "in_db": "sami-yusuf"
+  },
+  "mais-shalash-125": {
+   "portal": "assajda",
+   "portal_id": "mais-shalash-125",
+   "url": "https://www.assajda.com/en/mais-shalash-125.html",
+   "name": "Mais Shalash",
+   "ar": "ميس شلش",
+   "country": "Palestine",
+   "count": 10,
+   "in_db": "mais-shalash"
+  },
+  "ahmed-bukhatir-118": {
+   "portal": "assajda",
+   "portal_id": "ahmed-bukhatir-118",
+   "url": "https://www.assajda.com/en/ahmed-bukhatir-118.html",
+   "name": "Ahmed Bukhatir",
+   "ar": "أحمد بوخاطر",
+   "country": "United Arab Emirates",
+   "count": 25,
+   "in_db": "ahmed-bukhatir"
+  },
+  "adil-al-kassimi-127": {
+   "portal": "assajda",
+   "portal_id": "adil-al-kassimi-127",
+   "url": "https://www.assajda.com/en/adil-al-kassimi-127.html",
+   "name": "Adil Al Kassimi",
+   "ar": "عادل القاسمي",
+   "country": "Morocco",
+   "count": 23,
+   "in_db": "adil-al-kassimi"
+  },
+  "rachid-gholam-126": {
+   "portal": "assajda",
+   "portal_id": "rachid-gholam-126",
+   "url": "https://www.assajda.com/en/rachid-gholam-126.html",
+   "name": "Rachid Gholam",
+   "ar": "رشيد غلام",
+   "country": "Morocco",
+   "count": 64,
+   "in_db": "rachid-gholam"
+  },
+  "yusuf-islam-cat-stevens-120": {
+   "portal": "assajda",
+   "portal_id": "yusuf-islam-cat-stevens-120",
+   "url": "https://www.assajda.com/en/yusuf-islam-cat-stevens-120.html",
+   "name": "Yusuf Islam",
+   "ar": "يوسف إسلام",
+   "country": "United Kingdom",
+   "count": 15,
+   "in_db": "yusuf-islam-cat-stevens"
+  },
+  "mishary-al-arada-121": {
+   "portal": "assajda",
+   "portal_id": "mishary-al-arada-121",
+   "url": "https://www.assajda.com/en/mishary-al-arada-121.html",
+   "name": "Mishary Al Arada",
+   "ar": "مشاري العرادة",
+   "country": "Kuwait",
+   "count": 32,
+   "in_db": "mishary-al-arada"
+  },
+  "khalid-bennani-130": {
+   "portal": "assajda",
+   "portal_id": "khalid-bennani-130",
+   "url": "https://www.assajda.com/en/khalid-bennani-130.html",
+   "name": "Khalid Bennani",
+   "ar": "خليد بناني",
+   "country": "Morocco",
+   "count": 37,
+   "in_db": "khalid-bennani"
+  },
+  "band-al-wissal-129": {
+   "portal": "assajda",
+   "portal_id": "band-al-wissal-129",
+   "url": "https://www.assajda.com/en/band-al-wissal-129.html",
+   "name": "Band Al Wissal",
+   "ar": "مجموعة الوصال",
+   "country": "Morocco",
+   "count": 23,
+   "in_db": "groupe-al-wissal"
+  },
+  "abdulqader-qawza-124": {
+   "portal": "assajda",
+   "portal_id": "abdulqader-qawza-124",
+   "url": "https://www.assajda.com/en/abdulqader-qawza-124.html",
+   "name": "Abdulqader Qawza",
+   "ar": "عبد القادر قوزع",
+   "country": "Yemen",
+   "count": 24,
+   "in_db": "abdulqader-qawza"
+  },
+  "mohamed-zemrani-128": {
+   "portal": "assajda",
+   "portal_id": "mohamed-zemrani-128",
+   "url": "https://www.assajda.com/en/mohamed-zemrani-128.html",
+   "name": "Mohamed Zemrani",
+   "ar": "محمد الزمراني",
+   "country": "Morocco",
+   "count": 24,
+   "in_db": "mohamed-zemrani"
+  },
+  "mesut-kurtis-140": {
+   "portal": "assajda",
+   "portal_id": "mesut-kurtis-140",
+   "url": "https://www.assajda.com/en/mesut-kurtis-140.html",
+   "name": "Mesut Kurtis",
+   "ar": "مسعود كرتيس",
+   "country": "North Macedonia",
+   "count": 7,
+   "in_db": "mesut-kurtis"
+  },
+  "omar-zouhir-131": {
+   "portal": "assajda",
+   "portal_id": "omar-zouhir-131",
+   "url": "https://www.assajda.com/en/omar-zouhir-131.html",
+   "name": "Omar Zouhir",
+   "ar": "عمر زهير",
+   "country": "Morocco",
+   "count": 23,
+   "in_db": "omar-zouhir"
+  },
+  "ahmed-al-hajeri-138": {
+   "portal": "assajda",
+   "portal_id": "ahmed-al-hajeri-138",
+   "url": "https://www.assajda.com/en/ahmed-al-hajeri-138.html",
+   "name": "Ahmed Al Hajeri",
+   "ar": "أحمد الهاجري",
+   "country": "Kuwait",
+   "count": 48,
+   "in_db": "ahmed-al-hajeri"
+  },
+  "abdessalam-al-hassani-132": {
+   "portal": "assajda",
+   "portal_id": "abdessalam-al-hassani-132",
+   "url": "https://www.assajda.com/en/abdessalam-al-hassani-132.html",
+   "name": "Abdessalam Al Hassani",
+   "ar": "عبد السلام الحسني",
+   "country": "Morocco",
+   "count": 8,
+   "in_db": "abdessalam-al-hassani"
+  },
+  "imad-rami-432": {
+   "portal": "assajda",
+   "portal_id": "imad-rami-432",
+   "url": "https://www.assajda.com/en/imad-rami-432.html",
+   "name": "Imad Rami",
+   "ar": "عماد رامي",
+   "country": "Syria",
+   "count": 56,
+   "in_db": "imad-rami"
+  },
+  "mohamed-el-mazem-139": {
+   "portal": "assajda",
+   "portal_id": "mohamed-el-mazem-139",
+   "url": "https://www.assajda.com/en/mohamed-el-mazem-139.html",
+   "name": "Mohamed El Mazem",
+   "ar": "محمد المازم",
+   "country": "United Arab Emirates",
+   "count": 10,
+   "in_db": "mohammed-al-mazem"
+  },
+  "band-al-badil-135": {
+   "portal": "assajda",
+   "portal_id": "band-al-badil-135",
+   "url": "https://www.assajda.com/en/band-al-badil-135.html",
+   "name": "Band Al Badil",
+   "ar": "فرقة البديل",
+   "country": "Morocco",
+   "count": 7,
+   "in_db": "groupe-al-badil"
+  },
+  "el-asri-136": {
+   "portal": "assajda",
+   "portal_id": "el-asri-136",
+   "url": "https://www.assajda.com/en/el-asri-136.html",
+   "name": "El Asri",
+   "ar": "فرقة العسري",
+   "country": "Morocco",
+   "count": 11,
+   "in_db": "el-asri"
+  },
+  "band-al-anwar-134": {
+   "portal": "assajda",
+   "portal_id": "band-al-anwar-134",
+   "url": "https://www.assajda.com/en/band-al-anwar-134.html",
+   "name": "Band Al Anwar",
+   "ar": "مجموعة الأنوار الفنية",
+   "country": "Morocco",
+   "count": 7,
+   "in_db": "band-al-anwar"
+  },
+  "abdessalam-al-tahour-133": {
+   "portal": "assajda",
+   "portal_id": "abdessalam-al-tahour-133",
+   "url": "https://www.assajda.com/en/abdessalam-al-tahour-133.html",
+   "name": "Abdessalam Al Tahour",
+   "ar": "عبد السلام طهور",
+   "country": "Morocco",
+   "count": 12,
+   "in_db": "abdessalam-al-tahour"
+  },
+  "mohamed-el-marrakchi-137": {
+   "portal": "assajda",
+   "portal_id": "mohamed-el-marrakchi-137",
+   "url": "https://www.assajda.com/en/mohamed-el-marrakchi-137.html",
+   "name": "Mohamed El Marrakchi",
+   "ar": "محمد المراكشي",
+   "country": "Morocco",
+   "count": 5,
+   "in_db": "mohamed-el-marrakchi"
+  },
+  "badr-group-435": {
+   "portal": "assajda",
+   "portal_id": "badr-group-435",
+   "url": "https://www.assajda.com/en/badr-group-435.html",
+   "name": "Badr Group",
+   "ar": "مجموعة بدر",
+   "country": "Morocco",
+   "count": 7,
+   "in_db": "badr-group"
+  },
+  "iaatesam-group-431": {
+   "portal": "assajda",
+   "portal_id": "iaatesam-group-431",
+   "url": "https://www.assajda.com/en/iaatesam-group-431.html",
+   "name": "Iaatesam Group",
+   "ar": "فرقة الاعتصام",
+   "country": "Palestine",
+   "count": 44,
+   "in_db": "i-tisam-group"
+  },
+  "yarmouk-band-439": {
+   "portal": "assajda",
+   "portal_id": "yarmouk-band-439",
+   "url": "https://www.assajda.com/en/yarmouk-band-439.html",
+   "name": "Yarmouk Band",
+   "ar": "فرقة اليرموك",
+   "country": "Jordan",
+   "count": 8,
+   "in_db": "yarmouk-band"
+  },
+  "supplications-444": {
+   "portal": "assajda",
+   "portal_id": "supplications-444",
+   "url": "https://www.assajda.com/en/supplications-444.html",
+   "name": "أدعية مختارة",
+   "ar": "أدعية مختارة",
+   "country": "Other countries",
+   "count": 62,
+   "in_db": null
+  },
+  "mustafa-mahmud-433": {
+   "portal": "assajda",
+   "portal_id": "mustafa-mahmud-433",
+   "url": "https://www.assajda.com/en/mustafa-mahmud-433.html",
+   "name": "Mustafa Mahmud",
+   "ar": "مصطفى محمود",
+   "country": "Egypt",
+   "count": 14,
+   "in_db": "mustafa-mahmud"
+  },
+  "ikhlass-group-442": {
+   "portal": "assajda",
+   "portal_id": "ikhlass-group-442",
+   "url": "https://www.assajda.com/en/ikhlass-group-442.html",
+   "name": "Ikhlass Group",
+   "ar": "مجموعة الإخلاص",
+   "country": "Lebanon",
+   "count": 6,
+   "in_db": "ikhlass-group"
+  },
+  "abdu-al-rahman-bn-hamama-438": {
+   "portal": "assajda",
+   "portal_id": "abdu-al-rahman-bn-hamama-438",
+   "url": "https://www.assajda.com/en/abdu-al-rahman-bn-hamama-438.html",
+   "name": "Abdu Al",
+   "ar": "عبد الرحمن بن حمامة",
+   "country": "Algeria",
+   "count": 5,
+   "in_db": "abdu-al-rahman-bn-hamama"
+  },
+  "muhamed-al-hassyan-436": {
+   "portal": "assajda",
+   "portal_id": "muhamed-al-hassyan-436",
+   "url": "https://www.assajda.com/en/muhamed-al-hassyan-436.html",
+   "name": "Muhamed Al Hassyan",
+   "ar": "محمد الحسيان",
+   "country": "Kuwait",
+   "count": 7,
+   "in_db": "mohammed-al-hassyan"
+  },
+  "abu-asid-441": {
+   "portal": "assajda",
+   "portal_id": "abu-asid-441",
+   "url": "https://www.assajda.com/en/abu-asid-441.html",
+   "name": "Abu Asid",
+   "ar": "المنشد ابو اسيد",
+   "country": "Other countries",
+   "count": 13,
+   "in_db": null
+  },
+  "nasamat-alaaoula-group-437": {
+   "portal": "assajda",
+   "portal_id": "nasamat-alaaoula-group-437",
+   "url": "https://www.assajda.com/en/nasamat-alaaoula-group-437.html",
+   "name": "Nasamat Alaaoula Group",
+   "ar": "فرقة نسمات العلا",
+   "country": "Algeria",
+   "count": 8,
+   "in_db": "nasamat-al-oula"
+  },
+  "outlandish-440": {
+   "portal": "assajda",
+   "portal_id": "outlandish-440",
+   "url": "https://www.assajda.com/en/outlandish-440.html",
+   "name": "مجموعة آوتلانديش",
+   "ar": "مجموعة آوتلانديش",
+   "country": "Denmark",
+   "count": 38,
+   "in_db": null
+  },
+  "group-mashariee-443": {
+   "portal": "assajda",
+   "portal_id": "group-mashariee-443",
+   "url": "https://www.assajda.com/en/group-mashariee-443.html",
+   "name": "Group Mashariee",
+   "ar": "فريق المشاريع لإنشاد التراث",
+   "country": "Lebanon",
+   "count": 6,
+   "in_db": "group-mashariee"
+  }
+ }
+}
