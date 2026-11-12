@@ -88,6 +88,67 @@ def related_map(artists, limit=6):
     return out
 
 
+# ---------------------------------------------------------------- search keys
+
+_AR2LAT = {
+    "ا": "a", "أ": "a", "إ": "a", "آ": "a", "ٱ": "a", "ب": "b", "ت": "t",
+    "ث": "th", "ج": "j", "ح": "h", "خ": "kh", "د": "d", "ذ": "dh", "ر": "r",
+    "ز": "z", "س": "s", "ش": "sh", "ص": "s", "ض": "d", "ط": "t", "ظ": "z",
+    "ع": "a", "غ": "gh", "ف": "f", "ق": "q", "ك": "k", "ک": "k", "ل": "l",
+    "م": "m", "ن": "n", "ه": "h", "و": "w", "ي": "y", "ى": "a", "ی": "y",
+    "ة": "a", "ء": "", "ؤ": "w", "ئ": "y", "پ": "p", "چ": "ch", "گ": "g",
+    "ڤ": "v", "ژ": "zh",
+}
+_VOWEL = re.compile(r"[aeiouy]")
+
+
+def romanize(text):
+    """Arabic letters to Latin ones, so both scripts reach the same index."""
+    return "".join(_AR2LAT.get(ch, ch) for ch in (text or ""))
+
+
+def skeleton(text):
+    """Consonant skeleton of a name.
+
+    Transliteration varies wildly — "الدشناوي", "Al-Dishnawi" and "Dishnawi"
+    are one person — but the consonants survive every spelling, so shrinking a
+    name to them lets a Latin query reach an Arabic-only record.
+    """
+    spaced = re.sub(r"[^a-z0-9]+", " ", romanize(text).lower())
+    keys = set()
+    for token in spaced.split():
+        bare = _VOWEL.sub("", token)
+        if len(bare) >= 2:
+            keys.add(bare)
+        if token.startswith("al") and len(token) > 4:
+            stripped = _VOWEL.sub("", token[2:])
+            if len(stripped) >= 2:
+                keys.add(stripped)
+    whole = _VOWEL.sub("", spaced.replace(" ", ""))
+    if len(whole) >= 3:
+        keys.add(whole)
+    return keys
+
+
+def search_keys(artist, limit=16):
+    """Every skeleton a record should answer to, from name, native name and id."""
+    keys = set()
+    for source in (artist.get("n", ""), artist.get("ar", ""), artist.get("id", "").replace("-", " ")):
+        keys |= skeleton(source)
+    return sorted(keys)[:limit]
+
+
+def site_payload(db):
+    """The database as the browser should receive it: `rel` and search keys added."""
+    rel = related_map(db["artists"])
+    out = dict(db)
+    out["artists"] = [
+        {**a, "rel": rel.get(a["id"], []), "s": search_keys(a)}
+        for a in db["artists"]
+    ]
+    return out
+
+
 def save_db(db):
     """Write the database and regenerate every derived file."""
     DB_PATH.write_text(json.dumps(db, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
@@ -106,13 +167,9 @@ def save_db(db):
          for a in artists],
     )
 
-    # `rel` is derived, so it belongs in the shipped payload, not in the database file
-    rel = related_map(artists)
-    shipped = dict(db)
-    shipped["artists"] = [{**a, "rel": rel.get(a["id"], [])} for a in artists]
-
+    # `rel` and `s` are derived, so they belong in the shipped payload, not the database file
     library = (ROOT / "nasheed-library.html").read_text(encoding="utf-8")
-    payload = json.dumps(shipped, ensure_ascii=False, separators=(",", ":"))
+    payload = json.dumps(site_payload(db), ensure_ascii=False, separators=(",", ":"))
     library = re.sub(
         r'(<script type="application/json" id="db">)(.*?)(</script>)',
         lambda m: m.group(1) + payload + m.group(3),

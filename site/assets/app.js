@@ -22,6 +22,12 @@ const norm = v => String(v == null ? '' : v)
   .replace(/ة/g, 'ه')
   .replace(/[ʾʿ'’‘`]/g, '');
 
+/* a query in Latin should reach an Arabic-only record and vice versa, so
+   consonant skeletons are compared when the plain substring misses. The same
+   transformation is applied in tools/common.py when the payload is built. */
+const VOWELS = /[aeiouy]/g;
+const skeleton = v => norm(v).replace(/[^a-z0-9\u0600-\u06ff]/g, '').replace(VOWELS, '');
+
 const ROUTES = ['overview', 'artists', 'labels', 'sources', 'references', 'guide', 'artist'];
 const VOCAL_ORDER = { acap: 0, duff: 1, mixed: 2, inst: 3, unk: 4 };
 const CONF_ORDER = { high: 0, med: 1, low: 2 };
@@ -142,6 +148,11 @@ function syncControls() {
   $('#sort').value = state.sort;
   $$('[data-checkview]').forEach(b =>
     b.setAttribute('aria-pressed', String((b.dataset.checkview || '') === state.check)));
+
+  const active = ['region', 'cat', 'vocal', 'type', 'conf']
+    .filter(k => state[k]).length + (state.vocalOnly ? 1 : 0);
+  const badge = $('#filterCount');
+  if (badge) badge.textContent = active ? `· ${active}` : '';
 }
 
 function showPage() {
@@ -256,6 +267,17 @@ function renderStats() {
 }
 
 /* ---------------------------------------------------------- artists */
+function matchesQuery(a, q) {
+  const hay = norm([a.n, a.ar, a.c, a.r, a.l, a.e, a.w, a.nt, a.catLabel, a.vocalLabel].join(' '));
+  if (hay.includes(q)) return true;
+  if (q.length < 3 || !a.s) return false;
+  return q.split(/\s+/).filter(t => t.length >= 3).some(token => {
+    const qk = skeleton(token);
+    if (qk.length < 3) return false;
+    return a.s.some(k => k === qk || k.startsWith(qk) || (k.length >= 3 && qk.startsWith(k)));
+  });
+}
+
 function filteredArtists() {
   const q = norm(state.q);
   return A.filter(a => {
@@ -270,7 +292,7 @@ function filteredArtists() {
     if (state.need === 'link' && listenCount(a)) return false;
     if (state.need === 'country' && a.c) return false;
     if (state.need === 'inst' && a.v !== 'unk') return false;
-    if (q && !norm([a.n, a.ar, a.c, a.r, a.l, a.e, a.w, a.nt, a.catLabel, a.vocalLabel].join(' ')).includes(q)) return false;
+    if (q && !matchesQuery(a, q)) return false;
     return true;
   });
 }
@@ -600,6 +622,11 @@ $$('[data-checkview]').forEach(btn => btn.addEventListener('click', () => {
   writeHash();
   render();
 }));
+
+$('#moreFilters').addEventListener('click', e => {
+  const open = $('#tbFilters').classList.toggle('open');
+  e.currentTarget.setAttribute('aria-expanded', String(open));
+});
 
 $('#clearAll').addEventListener('click', clearFilters);
 

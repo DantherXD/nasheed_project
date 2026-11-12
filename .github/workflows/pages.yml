@@ -20,16 +20,19 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # The site reads data.json, which is regenerated from the single
-      # source of truth (nasheed-db.json) on every deploy so the two can
-      # never drift apart.
-      - name: Refresh data.json from nasheed-db.json
+      # The site reads data.json, which is rebuilt from the single source of
+      # truth (nasheed-db.json) on every deploy so the two can never drift
+      # apart. build_site.py also adds the derived fields the browser needs
+      # (related records, search keys) and writes the static artist pages —
+      # a plain copy of the database would ship without them.
+      - name: Build site from nasheed-db.json
         run: |
-          cp nasheed-db.json site/data.json
+          python3 tools/build_site.py
           test -s site/data.json
           test -s site/assets/app.js
           test -s site/index.html
-          find site -type f | sort
+          test -f site/sitemap.xml
+          find site -type f | wc -l
 
       - uses: actions/configure-pages@v5
         with:

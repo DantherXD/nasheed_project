@@ -511,6 +511,29 @@ footer a:hover{color:var(--gold)}
   *{animation:none !important; transition:none !important; scroll-behavior:auto !important}
 }
 
+/* ---------------------------------------------------------- toolbar layout
+The roster toolbar used to wrap into five rows between tablet and desktop.
+Below 1120px the five dropdowns collapse behind one Filters button, which keeps
+vocal-only, the review switch and the exports on a single line.
+*/
+.tb-filters{display:flex; flex-wrap:wrap; gap:8px; align-items:center}
+.tb-more{display:none; white-space:nowrap}
+.tb-actions{display:flex; flex-wrap:wrap; gap:8px; align-items:center; margin-left:auto}
+.tb-more[aria-expanded="true"]{color:var(--ink); text-decoration:none}
+
+@media (max-width:1120px){
+  .tb-more{display:inline-flex}
+  .tb-filters{display:none; flex:1 1 100%; order:9}
+  .tb-filters.open{display:flex}
+  .tb-filters select{flex:1 1 46%; min-width:0}
+  .tb-actions{margin-left:auto}
+}
+@media (max-width:640px){
+  .toolbar{gap:6px}
+  .tb-actions{flex:1 1 100%; margin-left:0; justify-content:flex-start}
+  .tb-actions .btn{flex:1 1 auto}
+}
+
 /* ---------------------------------------------------------- links & artist hub */
 .chip{
   display:inline-flex; align-items:center; gap:5px;

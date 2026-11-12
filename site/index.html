@@ -6,7 +6,7 @@
 <title>The Nasheed Library — a sourced database of nasheed, nasyid, na'at and ilahi</title>
 <meta name="description" content="An open, sourced database and aggregation map of Islamic vocal music: the artists and groups, the labels that release them, and the exact APIs you can extend it from.">
 <meta name="color-scheme" content="dark light">
-<link rel="stylesheet" href="assets/style.css?v=4">
+<link rel="stylesheet" href="assets/style.css?v=5">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><text y='25' x='4' font-size='24' fill='%23e2b866'>ن</text></svg>">
 </head>
 <body>
@@ -178,23 +178,29 @@
         <button class="toggle" id="vocalToggle" aria-pressed="false" title="Only a cappella and voice-plus-percussion records">
           <span class="led"></span> Vocal-only
         </button>
-        <select id="fRegion" aria-label="Filter by region"></select>
-        <select id="fCat" aria-label="Filter by category"></select>
-        <select id="fVocal" aria-label="Filter by instrumentation"></select>
-        <select id="fType" aria-label="Filter by solo or group"></select>
-        <select id="fConf" aria-label="Filter by confidence"></select>
-        <select id="sort" aria-label="Sort within groups"></select>
         <div class="seg" role="group" aria-label="Review state">
           <button type="button" data-checkview="" aria-pressed="true">All</button>
           <button type="button" data-checkview="todo" aria-pressed="false">To check</button>
           <button type="button" data-checkview="done" aria-pressed="false">Checked</button>
         </div>
-        <span class="tb-spacer"></span>
-        <button class="link-btn" id="clearAll" type="button">Clear filters</button>
-        <button class="link-btn" id="exportChecked" type="button" title="Download the reviewed list as JSON">Export checked</button>
-        <button class="link-btn" id="importChecked" type="button" title="Load a checklist exported from another browser">Import</button>
+        <button class="link-btn tb-more" id="moreFilters" type="button" aria-expanded="false" aria-controls="tbFilters">
+          Filters <span class="n" id="filterCount"></span>
+        </button>
+        <div class="tb-filters" id="tbFilters">
+          <select id="fRegion" aria-label="Filter by region"></select>
+          <select id="fCat" aria-label="Filter by category"></select>
+          <select id="fVocal" aria-label="Filter by instrumentation"></select>
+          <select id="fType" aria-label="Filter by solo or group"></select>
+          <select id="fConf" aria-label="Filter by confidence"></select>
+          <select id="sort" aria-label="Sort within groups"></select>
+        </div>
+        <div class="tb-actions">
+          <button class="link-btn" id="clearAll" type="button">Clear filters</button>
+          <button class="link-btn" id="exportChecked" type="button" title="Download the reviewed list as JSON">Export checked</button>
+          <button class="link-btn" id="importChecked" type="button" title="Load a checklist exported from another browser">Import</button>
+          <button class="btn" id="csv" type="button">Export CSV</button>
+        </div>
         <input type="file" id="importFile" accept="application/json,.json" hidden>
-        <button class="btn" id="csv" type="button">Export CSV</button>
       </div>
 
       <p class="count" id="count"></p>
@@ -335,6 +341,6 @@
 </footer>
 
 <noscript><p style="padding:20px;color:#e0907f">This library needs JavaScript to render the database. The raw data is in <a href="data.json">data.json</a>.</p></noscript>
-<script src="assets/app.js?v=4"></script>
+<script src="assets/app.js?v=5"></script>
 </body>
 </html>
