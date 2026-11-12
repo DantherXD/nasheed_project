@@ -19,7 +19,11 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from common import cap_links, is_latin, load_db, save_db, slug, variants  # noqa: E402
 
-REQUIRED = ["n", "c", "r", "l", "e", "t", "k", "v", "cf"]
+# Country, region and era may be left empty when a name arrives from a listening
+# list before it has been researched; the record then shows "unresolved" in the
+# UI rather than pretending to a nationality or a date. Name, language, solo or
+# group, category, instrumentation and confidence are still required.
+REQUIRED = ["n", "l", "t", "k", "v", "cf"]
 
 
 def main():
@@ -53,12 +57,13 @@ def main():
         if r["v"] not in tax["instrumentation"]:
             rejected.append((r["n"], f"unknown instrumentation code {r['v']}"))
             continue
-        if r["r"] not in tax["regions"]:
+        if r.get("r") and r["r"] not in tax["regions"]:
             rejected.append((r["n"], f"unknown region {r['r']}"))
             continue
-        if r["c"].strip().lower() in ("unknown", "n/a", "-"):
-            rejected.append((r["n"], "country must be resolved, not 'unknown'"))
-            continue
+        r["c"] = (r.get("c") or "").strip() or None
+        r["r"] = (r.get("r") or "").strip()
+        if r["c"] and r["c"].lower() in ("unknown", "n/a", "-"):
+            r["c"] = None
 
         keys = variants(r["n"]) | variants(r.get("ar", ""))
         keys |= {k.replace(" ", "") for k in keys}
@@ -94,14 +99,14 @@ def main():
     if skipped:
         print("  already present:", ", ".join(skipped[:12]) + (" …" if len(skipped) > 12 else ""))
     for r in added[:8]:
-        print(f"  + {r['n']} ({r['c']}) — {len(r['links'])} link(s)")
+        print(f"  + {r['n']} ({r['c'] or 'country unresolved'}) — {len(r['links'])} link(s)")
 
     if added and not args.dry_run:
         db["meta"]["counts"] = {
             "artists": len(artists),
             "labels": len(db["organizations"]),
             "sources": len(db["sources"]),
-            "countries": len({a["c"] for a in artists}),
+            "countries": len({a["c"] for a in artists if a.get("c")}),
             "vocalOnly": sum(1 for a in artists if a["v"] in ("acap", "duff")),
         }
         save_db(db)

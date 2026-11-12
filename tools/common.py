@@ -78,7 +78,10 @@ def save_db(db):
 
 # ---------------------------------------------------------------- matching
 
-_TRANSLIT = str.maketrans({"’": "'", "ʼ": "'", "`": "'", "–": "-", "—": "-"})
+_TRANSLIT = str.maketrans({"’": "'", "ʼ": "'", "`": "'", "–": "-", "—": "-",
+                          # Arabic letter folding: أ إ آ ٱ look like ا, ى like ي, ة like ه
+                          "أ": "ا", "إ": "ا", "آ": "ا", "ٱ": "ا", "ى": "ي", "ة": "ه",
+                          "ؤ": "و", "ئ": "ي"})
 _DIACRITIC = re.compile(r"[\u064b-\u0652\u0670\u0640]")
 _NOISE = re.compile(
     r"\b(al[- ]?munshid|munshid|minshid|firqat|firqa|al[- ]?fannan|fannan|"

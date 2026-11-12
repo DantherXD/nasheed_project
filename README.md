@@ -15,7 +15,7 @@ Built to be the broadest single-file reference available, with the a cappella an
 | `nasheed_labels_and_platforms.csv` | Labels, broadcasters, festivals, awards, distributors. |
 | `nasheed_aggregation_sources.csv` | Each data source with access method, example query and licence limits. |
 
-**Counts:** 370 artists and groups · 78 countries · 71 languages · 98 vocal-only or duff-only · 51 strictly a cappella · 61 labels and platforms · 21 aggregation sources.
+**Counts:** 433 artists and groups · 78 countries · 71 languages · 98 vocal-only or duff-only · 51 strictly a cappella · 61 labels and platforms · 21 aggregation sources. A further 63 records carry a name and listening links but no country yet — they are marked unresolved rather than guessed.
 
 By region: Arab World 144 · Southeast Asia 47 · Europe 44 · South Asia 42 · Turkey & Iran 28 · Africa 24 · Caucasus & Central Asia 13 · North America 12 · East Asia 7 · Latin America 7 · Asia-Pacific 2.
 
@@ -80,7 +80,7 @@ Category codes: `nasheed`, `naat`, `nasyid`, `ilahi`, `inshad`, `qasida`, `madih
 | Command | What it does |
 |---|---|
 | `python3 tools/crawl_portals.py --source all` | Re-crawls the Assajda index and Samaa's music-free archive, writes `data/portal_candidates.json`, and reports which portal artists the database has not got. Pages are cached, so a re-run is nearly free; `--refresh` fetches again, `--report-only` just re-reports the last crawl. |
-| `python3 tools/add_records.py data/new_records_samaa.json` | Adds fully-researched records. Checks every field against the taxonomy, rejects duplicates on either name, and refuses a record with no country. |
+| `python3 tools/add_records.py data/new_records_samaa.json` | Adds fully-researched records. Checks every field against the taxonomy, rejects duplicates on either name, and accepts a record without a country when the name came from a listening list (it is marked unresolved). |
 | `python3 tools/fetch_apple.py --out apple_links.json` | Finds Apple Music artist pages for records that lack one via Apple's public search API. Resumable — interrupt it or get rate-limited and the same command carries on later. |
 | `python3 tools/ingest_apple.py apple_links.json` | Merges those results, verifying each URL really is a `music.apple.com` artist page first. `--dry-run` reports without writing. |
 | `python3 tools/match_names.py data/wanted_artists.txt` | Checks a list of names against the database — already here, partial, close, or new — and writes `data/name_matches.json`. |
@@ -99,7 +99,7 @@ Every record carries a confidence value:
 
 - **high (169)** — artist and at least some works confirmed against a label, institutional or reliable reference.
 - **medium (147)** — artist confirmed, discography or dates partial.
-- **low (54)** — name attested but details unverified. Research leads, not facts.
+- **low (117)** — name attested but details unverified. Research leads, not facts.
 
 No album title, date or label was invented to fill a cell. Where a field could not be verified it says so or is left blank. 21 records have no confirmed work titles and 6 have no link, deliberately.
 

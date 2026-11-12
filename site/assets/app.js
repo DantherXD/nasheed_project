@@ -218,7 +218,7 @@ function artistEntry(a) {
   </div>
   ${desc}
   <div class="e-meta">
-    <span class="pill">${esc(a.c)}</span>
+    ${a.c ? `<span class="pill">${esc(a.c)}</span>` : ''}
     ${vocalPill}
     ${catPill}
     <span class="e-dim">${esc(bits)}</span>
@@ -232,7 +232,7 @@ function sortArtists(rows) {
   const cmp = {
     vocal: (x, y) => (VOCAL_ORDER[x.v] - VOCAL_ORDER[y.v]) || x.n.localeCompare(y.n),
     name: (x, y) => x.n.localeCompare(y.n),
-    country: (x, y) => x.c.localeCompare(y.c) || x.n.localeCompare(y.n),
+    country: (x, y) => (x.c || '').localeCompare(y.c || '') || x.n.localeCompare(y.n),
     conf: (x, y) => (CONF_ORDER[x.cf] - CONF_ORDER[y.cf]) || x.n.localeCompare(y.n)
   }[state.sort] || ((x, y) => x.n.localeCompare(y.n));
   return rows.slice().sort(cmp);
@@ -384,7 +384,7 @@ function renderArtistPage() {
     <span class="conf ${esc(a.cf)}" title="Confidence: ${esc(a.cf)}"></span>
   </div>
   <div class="e-meta artist-tags">
-    <span class="pill">${esc(a.c)}</span>
+    ${a.c ? `<span class="pill">${esc(a.c)}</span>` : ''}
     <span class="pill ${a.v === 'acap' ? 'acap' : a.v === 'duff' ? 'duff' : a.v === 'inst' ? 'inst' : ''}">${esc(a.vocalLabel)}</span>
     <span class="pill ${a.k === 'reciter' ? 'reciter' : ''}">${esc(a.catLabel)}</span>
     <span class="pill">${esc(a.t)}</span>
@@ -408,7 +408,7 @@ function renderArtistPage() {
 
   <div class="artist-foot">
     <button class="btn" id="copyPermalink" type="button">Copy link to this page</button>
-    <span class="e-dim">${esc(a.r)} · confidence ${esc(a.cf)}</span>
+    <span class="e-dim">${a.r ? esc(a.r) + ' · ' : 'Country and region unresolved · '}confidence ${esc(a.cf)}</span>
   </div>`;
 
   document.title = a.n + ' — The Nasheed Library';
@@ -434,7 +434,7 @@ function renderReferences() {
     <span class="conf ${esc(a.cf)}"></span>
   </div>
   <div class="e-meta">
-    <span class="pill">${esc(a.c)}</span>
+    ${a.c ? `<span class="pill">${esc(a.c)}</span>` : ''}
     <span class="e-dim">${esc(a.catLabel)}${a.e ? ' · ' + esc(a.e) : ''}</span>
   </div>
   <div class="linkrow">${chips(a.refs, 'ref')}</div>
