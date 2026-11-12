@@ -109,14 +109,17 @@ def norm(text):
 
 
 def variants(name):
-    """Every comparable form of a name: whole label plus each side of a
-    bilingual split, so Arabic-only and Latin-only records still meet."""
+    """Every comparable form of a name: the whole label, each side of a
+    bilingual split, and each script run separately, so "Mishari Al Baghli
+    مشاري البغلي" meets both "Mishari Al Baghli" and "مشاري البغلي"."""
     out = set()
     for part in [name or ""] + _SEPARATOR.split(name or ""):
         part = re.sub(r"\([^)]*\)", " ", part)
-        key = norm(part)
-        if len(key) > 1:
-            out.add(key)
+        pieces = [part] + re.findall(r"[\u0600-\u06ff\s]+|[A-Za-z\s'’\-.]+(?:\s*(?:&|and)\s*[A-Za-z\s'’\-.]*)?", part)
+        for piece in pieces:
+            key = norm(piece)
+            if len(key) > 1:
+                out.add(key)
     return out
 
 

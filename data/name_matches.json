@@ -1,0 +1,357 @@
+{
+ "found": [
+  {
+   "name": "Abdullah Aljarallah",
+   "ids": [
+    "abdullah-aljarallah"
+   ]
+  },
+  {
+   "name": "Abdulqader Qawza",
+   "ids": [
+    "abdulqader-qawza"
+   ]
+  },
+  {
+   "name": "Abdulrahman Alkandari",
+   "ids": [
+    "abdulrahman-al-kandari"
+   ]
+  },
+  {
+   "name": "Ahmed Bukhatir",
+   "ids": [
+    "ahmed-bukhatir"
+   ]
+  },
+  {
+   "name": "amin davis",
+   "ids": [
+    "amin-davis"
+   ]
+  },
+  {
+   "name": "Ammar Sarsar",
+   "ids": [
+    "ammar-sarsar"
+   ]
+  },
+  {
+   "name": "Hamid Althufiri",
+   "ids": [
+    "hamid-althufiri"
+   ]
+  },
+  {
+   "name": "Humood Alkhudher",
+   "ids": [
+    "humood-alkhudher"
+   ]
+  },
+  {
+   "name": "Maher Zain",
+   "ids": [
+    "maher-zain"
+   ]
+  },
+  {
+   "name": "Maher Zain & Harris J",
+   "ids": [
+    "maher-zain",
+    "harris-j"
+   ]
+  },
+  {
+   "name": "Mesut Kurtis",
+   "ids": [
+    "mesut-kurtis"
+   ]
+  },
+  {
+   "name": "Mishari Rashid Alafasy",
+   "ids": [
+    "mishary-rashid-alafasy"
+   ]
+  },
+  {
+   "name": "mohamed alwahaibi",
+   "ids": [
+    "mohammed-al-wahaibi"
+   ]
+  },
+  {
+   "name": "Mohamed Kendo",
+   "ids": [
+    "mohamed-kendo"
+   ]
+  },
+  {
+   "name": "Mohamed Tarek",
+   "ids": [
+    "mohamed-tarek"
+   ]
+  },
+  {
+   "name": "Moosa Moustafa",
+   "ids": [
+    "musa-mustafa"
+   ]
+  },
+  {
+   "name": "Muad",
+   "ids": [
+    "muad"
+   ]
+  },
+  {
+   "name": "Muhammad Al Muqit",
+   "ids": [
+    "muhammad-al-muqit"
+   ]
+  },
+  {
+   "name": "Naif Alsharhan",
+   "ids": [
+    "naif-al-sharhan"
+   ]
+  },
+  {
+   "name": "Othman Alibrahim",
+   "ids": [
+    "othman-alibrahim"
+   ]
+  },
+  {
+   "name": "Yousef Al Ayoub",
+   "ids": [
+    "yousef-al-ayoub"
+   ]
+  },
+  {
+   "name": "احمد الهاجري",
+   "ids": [
+    "ahmed-al-hajeri"
+   ]
+  },
+  {
+   "name": "محمد الوهيبي",
+   "ids": [
+    "mohammed-al-wahaibi"
+   ]
+  },
+  {
+   "name": "مشاري بن راشد العفاسي",
+   "ids": [
+    "mishary-rashid-alafasy"
+   ]
+  },
+  {
+   "name": "نايف الشرهان NAIF ALSHARHAN",
+   "ids": [
+    "naif-al-sharhan"
+   ]
+  }
+ ],
+ "partial": [
+  {
+   "name": "Mishari Rashid Alafasy & Ayed",
+   "ids": [
+    "mishary-rashid-alafasy"
+   ],
+   "unmatched": [
+    "Ayed"
+   ]
+  },
+  {
+   "name": "Mohamed Tarek & Ibrahim Al Dardasawi",
+   "ids": [
+    "mohamed-tarek"
+   ],
+   "unmatched": [
+    "Ibrahim Al Dardasawi"
+   ]
+  },
+  {
+   "name": "Studiona Records; Ammar Sarsar",
+   "ids": [
+    "ammar-sarsar"
+   ],
+   "unmatched": [
+    "Studiona Records"
+   ]
+  },
+  {
+   "name": "الفهد, محمد الوهيبي",
+   "ids": [
+    "mohammed-al-wahaibi"
+   ],
+   "unmatched": [
+    "الفهد"
+   ]
+  },
+  {
+   "name": "مشاري راشد العفاسي",
+   "ids": [
+    "mishary-rashid-alafasy"
+   ],
+   "unmatched": []
+  }
+ ],
+ "close": [
+  {
+   "name": "Abdulrahman Al Khader",
+   "ids": [
+    "abdulrahman-al-kandari"
+   ]
+  },
+  {
+   "name": "Ahmad Al Hajeri",
+   "ids": [
+    "ahmed-al-hajeri"
+   ]
+  },
+  {
+   "name": "Ahmed Al-Nafis",
+   "ids": [
+    "ahmed-al-nufais"
+   ]
+  },
+  {
+   "name": "Ibrahim Alnaqeeb",
+   "ids": [
+    "ebrahim-alnaqib"
+   ]
+  },
+  {
+   "name": "Mishary Alaradah & Humood Alkhudher",
+   "ids": [
+    "mishary-al-arada",
+    "humood-alkhudher"
+   ]
+  },
+  {
+   "name": "Mohammed Alhusayan",
+   "ids": [
+    "mohammed-al-hassyan"
+   ]
+  },
+  {
+   "name": "Mohammed Alomari",
+   "ids": [
+    "mohammed-alom"
+   ]
+  },
+  {
+   "name": "أحمد المقيط",
+   "ids": [
+    "muhammad-al-muqit"
+   ]
+  }
+ ],
+ "missing": [
+  "Abdul Karim Mubarak",
+  "Abdulaziz Alrashed",
+  "Abdulaziz Alrashed & Nafas Records",
+  "Abdulaziz altowaim",
+  "Abdulla AlSinani",
+  "abdullah al mahdawi",
+  "abdulrahman abdulsalam",
+  "Abdulrahman Mohammed",
+  "Adnan Al Muhamadi",
+  "Ahmed Saeed",
+  "Al Sheikh Ahmad Alnufais",
+  "Al Wasmi",
+  "Ayman Murad",
+  "Azzam Almoqaiteeb",
+  "Bader Alnufais",
+  "Dar AlQuran AlKarim wa Sunnah Turkey",
+  "Edres Abkar",
+  "Fares Alsayed & Saeed Mohammed & Osama Alghanim",
+  "Human Development Fund",
+  "Hussain Al Jassmi",
+  "ibrahim alrifai",
+  "Ibrahim Alsuwailem",
+  "ishaq ayubi official",
+  "Islam Sobhi",
+  "Jihad Al Yafeee",
+  "Khaled Al Tamemi",
+  "Khaled Aljuhaim خالد الجهيّم",
+  "Khalid Al Ghamdi",
+  "Khalid Alhaqan",
+  "Khuddāmul-Islām Nasheed Group",
+  "Ma3ali Club",
+  "Malik Malkawi",
+  "Mansoor Al Salmi",
+  "Mansour Alkhualifi",
+  "Mansour Alkhulaifi",
+  "Meshari Arrada",
+  "Mishari Al Baghli مشاري البغلي",
+  "Mohammad Al Salman",
+  "Mohammad Bashir",
+  "Mohammed Abbas",
+  "Mohammed Al Abdullah",
+  "Mohammed Alazawi",
+  "Mohammed Bin Ayed",
+  "Mohammed Kheder",
+  "Mohammed Matiyri",
+  "Mohammed Obaid",
+  "Mohammed Zilay",
+  "Mosaab Al Meqren",
+  "Mubarak al Nwaibet",
+  "Nafas Records",
+  "OHEBOK",
+  "Omar Al Issa",
+  "Omar Al Omair",
+  "Omer Albalushi",
+  "Ramy Muhamed",
+  "Saleh Manee Alyami",
+  "Salman Almolla",
+  "Studiona Records",
+  "Taranim Voice",
+  "Ziad Ayman",
+  "أبو أنس",
+  "أحمد الألمعي",
+  "أسامة السلمان",
+  "أمين برناوي",
+  "أنس الحامد",
+  "أنس عبد الستار",
+  "أيمن مراد Ayman Murad",
+  "إبراهيم سحاري",
+  "ابراهيم السعيد",
+  "الفهد",
+  "خالد النجار - Khaled Alnajjar",
+  "رامي محمد",
+  "سالم الغواص",
+  "سعد القحطاني",
+  "سعد المحيش",
+  "شمس الدين آبادي",
+  "عاصم حلس",
+  "عبد العزيز العنقري",
+  "عبد الواحد المغربي",
+  "عبدالعزيز الجهني",
+  "عبدالعزيز العنقري",
+  "عبدالكريم مهيوب",
+  "عبدالله الصقيه",
+  "عبدالله المهداوي",
+  "عبدالمجيد الشلاحي",
+  "عمار الشبرمي",
+  "عيسى البلوي, حسام الحربي",
+  "فيصل الحيان",
+  "محمد العريني",
+  "محمد العود",
+  "محمد القحطاني",
+  "محمد المعجل",
+  "محمد بن عايض",
+  "محمد زيلعي",
+  "محمد عباس",
+  "محمود المالكي",
+  "مصطفى حمدو",
+  "معاذ ابراهيم الشريفي, سعد حسام المجيش, عبداللطيف إبراهيم الشريفي",
+  "مكرم الجابري",
+  "موسى العميرة",
+  "ناصر آل رشيد",
+  "ناصر السعيد",
+  "ياسر العجيلي",
+  "يزيد الدوسري"
+ ]
+}
