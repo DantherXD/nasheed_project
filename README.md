@@ -15,9 +15,9 @@ Built to be the broadest single-file reference available, with the a cappella an
 | `nasheed_labels_and_platforms.csv` | Labels, broadcasters, festivals, awards, distributors. |
 | `nasheed_aggregation_sources.csv` | Each data source with access method, example query and licence limits. |
 
-**Counts:** 343 artists and groups · 77 countries · 98 languages · 94 vocal-only or duff-only · 47 strictly a cappella · 61 labels and platforms · 20 aggregation sources.
+**Counts:** 348 artists and groups · 77 countries · 98 languages · 94 vocal-only or duff-only · 47 strictly a cappella · 61 labels and platforms · 21 aggregation sources.
 
-By region: Arab World 120 · South Asia 42 · Southeast Asia 46 · Turkey & Iran 28 · Africa 24 · Europe 42 · North America 12 · Caucasus & Central Asia 13 · Latin America 7 · East Asia 7 · Asia-Pacific 2.
+By region: Arab World 125 · South Asia 42 · Southeast Asia 46 · Turkey & Iran 28 · Africa 24 · Europe 42 · North America 12 · Caucasus & Central Asia 13 · Latin America 7 · East Asia 7 · Asia-Pacific 2.
 
 ## The website
 
@@ -84,8 +84,8 @@ Records were compiled from label and institutional pages, Wikipedia and Wikidata
 Every record carries a confidence value:
 
 - **high (156)** — artist and at least some works confirmed against a label, institutional or reliable reference.
-- **medium (134)** — artist confirmed, discography or dates partial.
-- **low (53)** — name attested but details unverified. Research leads, not facts.
+- **medium (138)** — artist confirmed, discography or dates partial.
+- **low (54)** — name attested but details unverified. Research leads, not facts.
 
 No album title, date or label was invented to fill a cell. Where a field could not be verified it says so or is left blank. 21 records have no confirmed work titles and 6 have no link, deliberately.
 
@@ -110,4 +110,6 @@ The pipeline that produces the largest library, in order of yield:
 4. **Identity graph** — Wikidata `P136 = Q783874` plus Wikipedia category walks for Arabic, Malay, Turkish and Urdu aliases.
 5. **Audio discovery** — YouTube channels via the uploads playlist (1 quota unit) rather than repeated searches; store IDs and a last-verified date.
 6. **Openly licensed audio** — archive.org with a `licenseurl` filter and per-item metadata; accept only CC0, CC BY and CC BY-SA with attribution stored.
+Two portal indexes are worth seeding from before any API call: **Assajda** (36 munshids, country-tagged, one page each) and **Samaa Network** (500+ munshid pages carrying bilingual Arabic and Latin names). Neither exposes a usable API — Samaa's `download_artist` route is not published and its artist sitemap points at 404s, so crawl the paginated listing — and both are distribution platforms rather than rights holders. Index the metadata, link out, never mirror tracks. Between them they confirmed 28 existing records and surfaced five Moroccan, Egyptian and Algerian munshids this library had missed.
+
 7. **QA** — dedupe on ISRC → MBID → normalised artist, title and duration; then apply this library's own taxonomy, because upstream vocabularies are inconsistent.
