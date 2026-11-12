@@ -498,6 +498,10 @@
     {
      "t": "apple",
      "u": "https://music.apple.com/us/artist/%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D9%87%D9%84%D8%A8%D8%A7%D9%88%D9%8A/1552524196?uo=4"
+    },
+    {
+     "t": "deezer",
+     "u": "https://www.deezer.com/artist/3344061"
     }
    ],
    "refs": []
@@ -585,6 +589,10 @@
     {
      "t": "apple",
      "u": "https://music.apple.com/us/artist/%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D9%85%D8%B1%D8%A7%D9%86/1500169673"
+    },
+    {
+     "t": "deezer",
+     "u": "https://www.deezer.com/artist/131285832"
     }
    ],
    "refs": [
@@ -733,6 +741,10 @@
     {
      "t": "apple",
      "u": "https://music.apple.com/us/artist/el-sheikh-al-naqshabandy/468858403"
+    },
+    {
+     "t": "deezer",
+     "u": "https://www.deezer.com/artist/1441992"
     }
    ],
    "refs": [
@@ -753,13 +765,18 @@
    "k": "qasida",
    "v": "inst",
    "w": "Recordings from 1903",
-   "u": "",
+   "u": "https://www.deezer.com/artist/5352331",
    "cf": "high",
    "nt": "Began as reciter and munshid, later secular",
    "id": "sayyid-al-safti",
    "catLabel": "Qasīda / madīḥ",
    "vocalLabel": "Instrumental",
-   "links": [],
+   "links": [
+    {
+     "t": "deezer",
+     "u": "https://www.deezer.com/artist/5352331"
+    }
+   ],
    "refs": [
     {
      "t": "archive",
@@ -959,13 +976,18 @@
    "k": "inshad",
    "v": "mixed",
    "w": "Sufi inshad; Hilali sira; mawwal",
-   "u": "",
+   "u": "https://www.deezer.com/artist/207135477",
    "cf": "med",
    "nt": "Madah family of the Shadhili order",
    "id": "sheikh-zain-mahmoud",
    "catLabel": "Inshād / ibtihāl",
    "vocalLabel": "Mixed / varies",
-   "links": [],
+   "links": [
+    {
+     "t": "deezer",
+     "u": "https://www.deezer.com/artist/207135477"
+    }
+   ],
    "refs": [
     {
      "t": "press",
@@ -1850,13 +1872,17 @@
    "k": "nasheed",
    "v": "mixed",
    "w": "Al-Rahma al-Muhdat; Al-Fiyashiya; Ahla al-Kalam",
-   "u": "https://fr.assabile.com/anasheed/morocco",
+   "u": "https://www.deezer.com/artist/13845815",
    "cf": "high",
    "nt": "Four albums on the Moroccan catalogue circuit",
    "id": "adil-al-kassimi",
    "catLabel": "Nasheed",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "deezer",
+     "u": "https://www.deezer.com/artist/13845815"
+    },
     {
      "t": "catalogue",
      "u": "https://fr.assabile.com/anasheed/morocco"
@@ -3277,6 +3303,10 @@
     {
      "t": "apple",
      "u": "https://music.apple.com/us/artist/ahmed-jalmam-group/431631729?uo=4"
+    },
+    {
+     "t": "deezer",
+     "u": "https://www.deezer.com/artist/1369560"
     }
    ],
    "refs": [
@@ -3449,6 +3479,10 @@
     {
      "t": "apple",
      "u": "https://music.apple.com/us/artist/mohammed-al-mazem/1649683942?uo=4"
+    },
+    {
+     "t": "deezer",
+     "u": "https://www.deezer.com/artist/100061"
     },
     {
      "t": "catalogue",
@@ -8304,13 +8338,17 @@
    "k": "qasida",
    "v": "mixed",
    "w": "Qasiido Nabi Aman",
-   "u": "https://citimuzik.com/category/qaswida",
+   "u": "https://www.deezer.com/artist/143540332",
    "cf": "low",
    "nt": "MP3-blog evidence only",
    "id": "abdikarin-ali-shah",
    "catLabel": "Qasīda / madīḥ",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "deezer",
+     "u": "https://www.deezer.com/artist/143540332"
+    },
     {
      "t": "catalogue",
      "u": "https://citimuzik.com/category/qaswida"
@@ -10399,6 +10437,10 @@
      "u": "https://open.spotify.com/artist/6KPyk5aD8bwNMMnrRt1kiG"
     },
     {
+     "t": "deezer",
+     "u": "https://www.deezer.com/artist/130357312"
+    },
+    {
      "t": "catalogue",
      "u": "https://play.samaanetwork.net/10032/"
     }
@@ -10463,6 +10505,10 @@
     {
      "t": "apple",
      "u": "https://music.apple.com/us/artist/yousef-al-ayoub/824645318"
+    },
+    {
+     "t": "deezer",
+     "u": "https://www.deezer.com/artist/64485552"
     },
     {
      "t": "catalogue",
@@ -10579,6 +10625,10 @@
     {
      "t": "youtube",
      "u": "https://www.youtube.com/@hamid_althufiri"
+    },
+    {
+     "t": "deezer",
+     "u": "https://www.deezer.com/artist/130678492"
     },
     {
      "t": "catalogue",
@@ -10718,6 +10768,10 @@
      "u": "https://music.apple.com/eg/artist/mohamed-kendo/1598428375"
     },
     {
+     "t": "deezer",
+     "u": "https://www.deezer.com/artist/87458372"
+    },
+    {
      "t": "catalogue",
      "u": "https://play.samaanetwork.net/16112/"
     }
@@ -10745,6 +10799,10 @@
     {
      "t": "apple",
      "u": "https://music.apple.com/my/artist/in-team/158168038"
+    },
+    {
+     "t": "deezer",
+     "u": "https://www.deezer.com/artist/1447050"
     },
     {
      "t": "catalogue",
@@ -10838,6 +10896,10 @@
      "u": "https://www.youtube.com/othmanalibrahim"
     },
     {
+     "t": "deezer",
+     "u": "https://www.deezer.com/artist/72452612"
+    },
+    {
      "t": "catalogue",
      "u": "https://play.samaanetwork.net/1103/"
     }
@@ -10867,6 +10929,10 @@
      "u": "https://www.youtube.com/@naifalshrhan"
     },
     {
+     "t": "deezer",
+     "u": "https://www.deezer.com/artist/393575841"
+    },
+    {
      "t": "catalogue",
      "u": "https://play.samaanetwork.net/9950/"
     }
@@ -10894,6 +10960,10 @@
     {
      "t": "youtube",
      "u": "https://www.youtube.com/@Ahmad_Alnufais"
+    },
+    {
+     "t": "deezer",
+     "u": "https://www.deezer.com/artist/129908252"
     },
     {
      "t": "catalogue",
@@ -11520,6 +11590,10 @@
     {
      "t": "apple",
      "u": "https://music.apple.com/us/artist/khaled-aljuhaim-%D8%AE%D8%A7%D9%84%D8%AF-%D8%A7%D9%84%D8%AC%D9%87%D9%8A-%D9%85/1663609170?uo=4"
+    },
+    {
+     "t": "deezer",
+     "u": "https://www.deezer.com/artist/110838582"
     }
    ],
    "id": "khaled-aljuhaim",
