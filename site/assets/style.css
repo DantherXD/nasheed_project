@@ -306,6 +306,37 @@ select:focus{border-color:var(--gold-dim)}
 .toggle .led{width:8px; height:8px; border-radius:50%; background:var(--line); transition:background .15s, box-shadow .15s}
 .toggle[aria-pressed="true"]{border-color:var(--green); color:var(--ink); background:color-mix(in srgb, var(--green) 12%, var(--surface))}
 .toggle[aria-pressed="true"] .led{background:var(--green); box-shadow:0 0 9px var(--green)}
+/* review switch: All / To check / Checked */
+.seg{
+  display:inline-flex; align-items:stretch; overflow:hidden;
+  border:1px solid var(--line); border-radius:8px; background:var(--surface)
+}
+.seg button{
+  appearance:none; border:0; background:none; color:var(--muted);
+  font:13.5px var(--font-sans); height:34px; padding:0 12px; cursor:pointer
+}
+.seg button+button{border-left:1px solid var(--line)}
+.seg button:hover{color:var(--ink)}
+.seg button[aria-pressed="true"]{background:var(--surface-2); color:var(--ink); font-weight:600}
+.seg button:focus-visible{outline:2px solid var(--gold-dim); outline-offset:-2px}
+
+/* the per-row reviewed tick */
+.tick{
+  width:22px; height:22px; min-width:22px; border-radius:6px;
+  border:1px solid var(--line); background:var(--bg-2); color:transparent;
+  font:12px/1 var(--font-sans); display:grid; place-items:center; cursor:pointer;
+  align-self:center; flex:0 0 auto;
+  transition:color .12s, border-color .12s, background .12s
+}
+.tick:hover{color:var(--dim); border-color:var(--gold-dim)}
+.tick:focus-visible{outline:2px solid var(--gold-dim); outline-offset:2px}
+.tick.on{
+  color:var(--green); border-color:color-mix(in srgb, var(--green) 55%, var(--line));
+  background:color-mix(in srgb, var(--green) 14%, var(--surface))
+}
+.entry.checked{opacity:.6}
+.entry.checked:hover{opacity:1}
+
 .tb-spacer{flex:1 1 auto}
 .link-btn{
   background:none; border:none; color:var(--dim); font:13px var(--font-sans);

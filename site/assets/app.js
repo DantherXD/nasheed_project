@@ -29,7 +29,7 @@ const CONF_ORDER = { high: 0, med: 1, low: 2 };
 const state = {
   route: 'overview',
   q: '', region: '', cat: '', vocal: '', type: '', conf: '',
-  sort: 'vocal', vocalOnly: false, artistId: ''
+  sort: 'vocal', vocalOnly: false, artistId: '', check: ''
 };
 
 let DATA = null;
@@ -45,6 +45,50 @@ let A = [], O = [], S = [];
     localStorage.setItem('nl-theme', next);
   });
 })();
+
+/* ---------------------------------------------------------- reviewed
+   A review state that lives only in this browser: no server, no cookies,
+   nothing sent anywhere. Shape: {v:1, ids:{artistId: ISO timestamp}}.
+   Timestamps are not shown yet, but they make "recently reviewed" possible
+   later and cost nothing now. */
+const CHECK_KEY = 'nl-checked';
+let CHECKED = new Map();
+
+function loadChecked() {
+  try {
+    const parsed = JSON.parse(localStorage.getItem(CHECK_KEY) || '{}');
+    const ids = parsed && parsed.ids && typeof parsed.ids === 'object' ? parsed.ids : {};
+    CHECKED = new Map(Object.entries(ids).filter(([, at]) => typeof at === 'string'));
+  } catch (err) {
+    CHECKED = new Map();          // corrupt or hand-edited: start clean, never throw
+  }
+}
+
+function saveChecked() {
+  try {
+    localStorage.setItem(CHECK_KEY, JSON.stringify({ v: 1, ids: Object.fromEntries(CHECKED) }));
+  } catch (err) {
+    /* private mode or a full quota — the tick still works for this page view */
+  }
+}
+
+const isChecked = a => CHECKED.has(a.id);
+const checkedCount = () => A.filter(isChecked).length;
+
+function setChecked(id, on) {
+  if (!id) return;
+  on ? CHECKED.set(id, new Date().toISOString()) : CHECKED.delete(id);
+  saveChecked();
+  render();
+}
+
+/* records get renamed or dropped between data updates; forget ids that are gone */
+function pruneChecked() {
+  const known = new Set(A.map(a => a.id));
+  let changed = false;
+  for (const id of [...CHECKED.keys()]) if (!known.has(id)) { CHECKED.delete(id); changed = true; }
+  if (changed) saveChecked();
+}
 
 /* ---------------------------------------------------------- routing */
 function readHash() {
@@ -66,6 +110,7 @@ function readHash() {
   state.conf = p.get('conf') || '';
   state.sort = p.get('sort') || 'vocal';
   state.vocalOnly = p.get('vocalOnly') === '1';
+  state.check = ['todo', 'done'].includes(p.get('check')) ? p.get('check') : '';
 }
 
 function writeHash() {
@@ -78,6 +123,7 @@ function writeHash() {
   if (state.conf) p.set('conf', state.conf);
   if (state.sort && state.sort !== 'vocal') p.set('sort', state.sort);
   if (state.vocalOnly) p.set('vocalOnly', '1');
+  if (state.check) p.set('check', state.check);
   const qs = p.toString();
   const next = '#/' + state.route + (qs ? '?' + qs : '');
   if (location.hash !== next) history.replaceState(null, '', next);
@@ -92,6 +138,8 @@ function syncControls() {
   $('#fType').value = state.type;
   $('#fConf').value = state.conf;
   $('#sort').value = state.sort;
+  $$('[data-checkview]').forEach(b =>
+    b.setAttribute('aria-pressed', String((b.dataset.checkview || '') === state.check)));
 }
 
 function showPage() {
@@ -196,6 +244,8 @@ function filteredArtists() {
     if (state.type && a.t !== state.type) return false;
     if (state.conf && a.cf !== state.conf) return false;
     if (state.vocalOnly && a.v !== 'acap' && a.v !== 'duff') return false;
+    if (state.check === 'todo' && isChecked(a)) return false;
+    if (state.check === 'done' && !isChecked(a)) return false;
     if (q && !norm([a.n, a.ar, a.c, a.r, a.l, a.e, a.w, a.nt, a.catLabel, a.vocalLabel].join(' ')).includes(q)) return false;
     return true;
   });
@@ -212,8 +262,11 @@ function artistEntry(a) {
   const vocalPill = `<span class="pill ${esc(a.v === 'acap' ? 'acap' : a.v === 'duff' ? 'duff' : a.v === 'inst' ? 'inst' : '')}">${esc(a.vocalLabel)}</span>`;
   const catPill = `<span class="pill ${a.k === 'reciter' ? 'reciter' : ''}">${esc(a.catLabel)}</span>`;
   const bits = [a.l, a.e, a.t].filter(Boolean).join(' · ');
-  return `<li class="entry v-${esc(a.v)}">
+  const on = isChecked(a);
+  const tick = `<button class="tick${on ? ' on' : ''}" type="button" data-check="${esc(a.id)}" aria-pressed="${on}" aria-label="${on ? 'Unmark' : 'Mark'} ${esc(a.n)} as reviewed" title="${on ? 'Reviewed — click to unmark' : 'Mark as reviewed'}">✓</button>`;
+  return `<li class="entry v-${esc(a.v)}${on ? ' checked' : ''}">
   <div class="e-head">
+    ${tick}
     ${name}
     ${a.ar ? native(a.ar) : ''}
     <span class="conf ${esc(a.cf)}" title="Confidence: ${esc(a.cf)}"></span>
@@ -246,13 +299,21 @@ function sortArtists(rows) {
 function renderArtists() {
   const rows = sortArtists(filteredArtists());
   const vocal = rows.filter(a => a.v === 'acap' || a.v === 'duff').length;
+  const done = checkedCount();
   $('#count').innerHTML =
-    `Showing <b>${rows.length}</b> of ${A.length} records · <b>${vocal}</b> vocal-only · click a name to open its source`;
+    `Showing <b>${rows.length}</b> of ${A.length} records · <b>${vocal}</b> vocal-only · ` +
+    `<b>${done}</b> reviewed${done ? ' (saved in this browser only)' : ''} · click a name to open its source`;
 
   if (!rows.length) {
-    $('#artistList').innerHTML =
-      `<div class="empty">No records match those filters.<br><button class="btn" id="resetEmpty" type="button">Reset filters</button></div>`;
+    const allDone = state.check === 'todo' && done > 0;
+    $('#artistList').innerHTML = allDone
+      ? `<div class="empty">Every record matching these filters is reviewed.<br>` +
+        `<button class="btn" id="resetEmpty" type="button">Clear filters</button> ` +
+        `<button class="link-btn" id="showChecked" type="button">See the reviewed ones</button></div>`
+      : `<div class="empty">No records match those filters.<br><button class="btn" id="resetEmpty" type="button">Reset filters</button></div>`;
     $('#resetEmpty').addEventListener('click', clearFilters);
+    const see = $('#showChecked');
+    if (see) see.addEventListener('click', () => { state.check = 'done'; writeHash(); render(); });
     return;
   }
 
@@ -277,7 +338,7 @@ function renderArtists() {
 
 function clearFilters() {
   state.q = ''; state.region = ''; state.cat = ''; state.vocal = '';
-  state.type = ''; state.conf = ''; state.vocalOnly = false; state.sort = 'vocal';
+  state.type = ''; state.conf = ''; state.vocalOnly = false; state.sort = 'vocal'; state.check = '';
   writeHash();
   render();
 }
@@ -412,6 +473,7 @@ function renderArtistPage() {
   <div class="linkrow">${chips(refs, 'ref')}</div>` : ''}
 
   <div class="artist-foot">
+    <button class="btn${isChecked(a) ? ' primary' : ''}" id="checkArtist" type="button" aria-pressed="${isChecked(a)}">${isChecked(a) ? '✓ Reviewed — undo' : '✓ Mark as reviewed'}</button>
     <button class="btn" id="copyPermalink" type="button">Copy link to this page</button>
     <span class="e-dim">${a.r ? esc(a.r) + ' · ' : 'Country and region unresolved · '}confidence ${esc(a.cf)}</span>
   </div>`;
@@ -422,6 +484,7 @@ function renderArtistPage() {
     const done = () => { const t = btn.textContent; btn.textContent = 'Copied'; setTimeout(() => { btn.textContent = t; }, 1200); };
     if (navigator.clipboard) navigator.clipboard.writeText(location.href).then(done, done); else done();
   });
+  $('#checkArtist').addEventListener('click', () => setChecked(a.id, !isChecked(a)));
 }
 
 /* ---------------------------------------------------------- references */
@@ -496,13 +559,63 @@ $('#vocalToggle').addEventListener('click', () => {
   });
 });
 
+$$('[data-checkview]').forEach(btn => btn.addEventListener('click', () => {
+  state.check = btn.dataset.checkview || '';
+  writeHash();
+  render();
+}));
+
 $('#clearAll').addEventListener('click', clearFilters);
+
+/* the checklist is local, so it can be backed up and moved between browsers */
+$('#exportChecked').addEventListener('click', () => {
+  const payload = { v: 1, exported: new Date().toISOString(), ids: Object.fromEntries(CHECKED) };
+  const blob = new Blob([JSON.stringify(payload, null, 1) + '\n'], { type: 'application/json' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url; a.download = 'nasheed-checked.json'; a.click();
+  URL.revokeObjectURL(url);
+});
+
+$('#importChecked').addEventListener('click', () => $('#importFile').click());
+
+$('#importFile').addEventListener('change', e => {
+  const file = e.target.files && e.target.files[0];
+  if (!file) return;
+  const reader = new FileReader();
+  reader.onload = () => {
+    try {
+      const parsed = JSON.parse(String(reader.result));
+      const ids = parsed && parsed.ids ? parsed.ids : parsed;
+      if (!ids || typeof ids !== 'object') throw new Error('not a checklist');
+      Object.entries(ids).forEach(([id, at]) => {
+        if (typeof id === 'string' && id) CHECKED.set(id, typeof at === 'string' ? at : new Date().toISOString());
+      });
+      saveChecked();
+      pruneChecked();
+      render();
+    } catch (err) {
+      alert('That file is not a checklist export.');
+    }
+    e.target.value = '';
+  };
+  reader.readAsText(file);
+});
+
+/* another tab edited the checklist */
+window.addEventListener('storage', e => {
+  if (e.key !== CHECK_KEY) return;
+  loadChecked();
+  pruneChecked();
+  render();
+});
 
 $('#csv').addEventListener('click', () => {
   const cols = ['name', 'name_native', 'country', 'region', 'language', 'era', 'solo_group',
-    'category', 'instrumentation', 'key_works', 'link', 'confidence', 'note'];
+    'category', 'instrumentation', 'key_works', 'link', 'confidence', 'note', 'reviewed'];
   const rows = [cols.join(',')].concat(filteredArtists().map(a => [
-    a.n, a.ar, a.c, a.r, a.l, a.e, a.t, a.catLabel, a.vocalLabel, a.w, a.u, a.cf, a.nt
+    a.n, a.ar, a.c, a.r, a.l, a.e, a.t, a.catLabel, a.vocalLabel, a.w, a.u, a.cf, a.nt,
+    isChecked(a) ? 'yes' : 'no'
   ].map(v => `"${String(v == null ? '' : v).replace(/"/g, '""')}"`).join(',')));
   const blob = new Blob(['\ufeff' + rows.join('\n')], { type: 'text/csv;charset=utf-8' });
   const url = URL.createObjectURL(blob);
@@ -512,6 +625,12 @@ $('#csv').addEventListener('click', () => {
 });
 
 document.addEventListener('click', e => {
+  const tick = e.target.closest('[data-check]');
+  if (tick) {
+    e.preventDefault();
+    setChecked(tick.dataset.check, !CHECKED.has(tick.dataset.check));
+    return;
+  }
   const btn = e.target.closest('[data-copy]');
   if (btn) {
     const text = document.getElementById(btn.dataset.copy).textContent;
@@ -558,6 +677,8 @@ fetch('data.json', { cache: 'no-cache' })
   .then(db => {
     DATA = db;
     A = db.artists; O = db.organizations; S = db.sources;
+    loadChecked();
+    pruneChecked();
     buildFacets();
     renderStats();
     buildToc();

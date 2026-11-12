@@ -48,6 +48,8 @@ python3 -m http.server 3000 --directory site
 Open `nasheed-library.html`. Four tabs:
 
 - **Artists & groups** — search by name, Arabic script, country or work title. Filter by region, category, instrumentation, solo/group and confidence. "Vocal-only first" restricts to a cappella and duff-only records. Export CSV from the top bar.
+
+  The tick beside each name marks a record as reviewed, and **All / To check / Checked** hides the reviewed ones so the roster becomes a to-do list. That state is kept in this browser's `localStorage` only — no account, no server, nothing sent anywhere — so it does not follow you to another device. `Export checked` writes a small JSON of the reviewed ids and `Import` reads it back; the CSV includes a `reviewed` column.
 - **Labels & platforms** — who releases and monetises nasheed, including four entities explicitly flagged as *not* nasheed bodies so they stop circulating in lists.
 - **Aggregation sources** — exact API endpoints and query strings for MusicBrainz, Discogs, Last.fm, Deezer, Spotify, YouTube, archive.org, Wikidata and others, with the licence constraint that governs each.
 - **Field guide** — terminology, the four fiqh positions on instruments, regional traditions, five historical waves, how confidence works, and the known gaps.
