@@ -406,6 +406,10 @@
     {
      "t": "official",
      "u": "https://sites.ualberta.ca/~michaelf/MESA_Bulletin_34-2.pdf"
+    },
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%83%D8%A7%D9%85%D9%84-%D9%8A%D9%88%D8%B3%D9%81-%D8%A7%D9%84%D8%A8%D9%87%D8%AA%D9%8A%D9%85%D9%8A/1809767993?uo=4"
     }
    ],
    "refs": []
@@ -490,6 +494,10 @@
     {
      "t": "official",
      "u": "https://sites.ualberta.ca/~michaelf/MESA_Bulletin_34-2.pdf"
+    },
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D9%87%D9%84%D8%A8%D8%A7%D9%88%D9%8A/1552524196?uo=4"
     }
    ],
    "refs": []
@@ -1113,13 +1121,17 @@
    "k": "nasheed",
    "v": "mixed",
    "w": "Duets with al-Kubaisi",
-   "u": "https://www.deezer.com/artist/5573618",
+   "u": "https://music.apple.com/us/artist/moustafa-al-azaawi/1054907333?uo=4",
    "cf": "med",
    "nt": "Colleague in Firqat al-Basha'ir",
    "id": "mustafa-al-azzawi",
    "catLabel": "Nasheed",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/moustafa-al-azaawi/1054907333?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/5573618"
@@ -1143,13 +1155,18 @@
    "k": "nasheed",
    "v": "mixed",
    "w": "Al-Rawabi series; Luqum al-Ghurba; Lawhat Maqdisiyya",
-   "u": "",
+   "u": "https://music.apple.com/us/artist/abdel-fattah-owainat/538505499?uo=4",
    "cf": "high",
    "nt": "Composer-leader behind Al-Rawabi and Mais Shalash",
    "id": "abdul-fattah-owainat",
    "catLabel": "Nasheed",
    "vocalLabel": "Mixed / varies",
-   "links": [],
+   "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/abdel-fattah-owainat/538505499?uo=4"
+    }
+   ],
    "refs": [
     {
      "t": "wiki",
@@ -1168,13 +1185,17 @@
    "k": "nasheed",
    "v": "unk",
    "w": "—",
-   "u": "https://www.deezer.com/artist/6513199",
+   "u": "https://music.apple.com/us/artist/amal-qatami/915007407?uo=4",
    "cf": "low",
    "nt": "One of few women formally listed as munshida",
    "id": "amal-qatami",
    "catLabel": "Nasheed",
    "vocalLabel": "Unknown",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/amal-qatami/915007407?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/6513199"
@@ -1228,13 +1249,17 @@
    "k": "nasheed",
    "v": "inst",
    "w": "Quds-themed nasheed",
-   "u": "https://www.deezer.com/artist/271353452",
+   "u": "https://music.apple.com/us/artist/morad-sharif/1754197185?uo=4",
    "cf": "med",
    "nt": "Categorised as Jordanian and Palestinian",
    "id": "morad-sharif",
    "catLabel": "Nasheed",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/morad-sharif/1754197185?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/271353452"
@@ -1258,7 +1283,7 @@
    "k": "children",
    "v": "inst",
    "w": "Children's nasheed channel and troupe",
-   "u": "https://www.deezer.com/artist/102259332",
+   "u": "https://www.youtube.com/@ToyorAlJanah",
    "cf": "high",
    "nt": "Biggest children's nasheed brand in the Arab world",
    "id": "toyour-al-janna",
@@ -1266,12 +1291,12 @@
    "vocalLabel": "Instrumental",
    "links": [
     {
-     "t": "deezer",
-     "u": "https://www.deezer.com/artist/102259332"
-    },
-    {
      "t": "youtube",
      "u": "https://www.youtube.com/@ToyorAlJanah"
+    },
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/%D8%B7%D9%8A%D9%88%D8%B1-%D8%A7%D9%84%D8%AC%D9%86%D8%A9/1878673626?uo=4"
     }
    ],
    "refs": []
@@ -1287,13 +1312,17 @@
    "k": "nasheed",
    "v": "duff",
    "w": "Eight nasheeds catalogued",
-   "u": "https://www.deezer.com/artist/12511160",
+   "u": "https://music.apple.com/us/artist/al-yarmouk-band/1164923996?uo=4",
    "cf": "low",
    "nt": "Catalogue entry only",
    "id": "yarmouk-band",
    "catLabel": "Nasheed",
    "vocalLabel": "Voice + percussion only",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/al-yarmouk-band/1164923996?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/12511160"
@@ -1316,13 +1345,17 @@
    "k": "nasheed",
    "v": "duff",
    "w": "Hanna al-Fu'ad; Ad'uk; A'ras",
-   "u": "https://www.deezer.com/artist/231003605",
+   "u": "https://music.apple.com/us/artist/ahmad-al-hajeri/809610880?uo=4",
    "cf": "high",
    "nt": "Wedding and occasion nasheed specialist",
    "id": "ahmed-al-hajeri",
    "catLabel": "Nasheed",
    "vocalLabel": "Voice + percussion only",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/ahmad-al-hajeri/809610880?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/231003605"
@@ -1345,7 +1378,7 @@
    "k": "nasheed",
    "v": "mixed",
    "w": "Ramadan nasheed series; Qasidat al-Burda",
-   "u": "https://www.deezer.com/artist/133953662",
+   "u": "https://www.youtube.com/@fahadalkandari",
    "cf": "med",
    "nt": "Kuwaiti reciter and munshid",
    "id": "fahad-al-kandari",
@@ -1353,12 +1386,12 @@
    "vocalLabel": "Mixed / varies",
    "links": [
     {
-     "t": "deezer",
-     "u": "https://www.deezer.com/artist/133953662"
-    },
-    {
      "t": "youtube",
      "u": "https://www.youtube.com/@fahadalkandari"
+    },
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/fahad-al-kandari/1450078028?uo=4"
     }
    ],
    "refs": []
@@ -1374,7 +1407,7 @@
    "k": "nasheed",
    "v": "inst",
    "w": "Kun Anta; Ramadan singles",
-   "u": "https://www.deezer.com/artist/5416030",
+   "u": "https://www.youtube.com/@HumoodAlKhudher",
    "cf": "high",
    "nt": "Kun Anta made him the Gulf's biggest 2010s crossover",
    "id": "humood-alkhudher",
@@ -1382,12 +1415,12 @@
    "vocalLabel": "Instrumental",
    "links": [
     {
-     "t": "deezer",
-     "u": "https://www.deezer.com/artist/5416030"
-    },
-    {
      "t": "youtube",
      "u": "https://www.youtube.com/@HumoodAlKhudher"
+    },
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/humood-alkhudher/453084001?uo=4"
     }
    ],
    "refs": []
@@ -1403,13 +1436,17 @@
    "k": "nasheed",
    "v": "mixed",
    "w": "Ya Rajai 1-4; Farshi al-Turab; Adarir",
-   "u": "https://www.deezer.com/artist/264642352",
+   "u": "https://music.apple.com/us/artist/meshari-al-aradah/977007966?uo=4",
    "cf": "high",
    "nt": "Died 2018 aged 35; emblem of 2000s video nasheed",
    "id": "mishary-al-arada",
    "catLabel": "Nasheed",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/meshari-al-aradah/977007966?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/264642352"
@@ -1432,13 +1469,17 @@
    "k": "nasheed",
    "v": "mixed",
    "w": "Uyun al-Af'a (2004); Qalbi al-Saghir (2006); Dhikrayat (2007); Anaqid (2009)",
-   "u": "https://www.assajda.com/en/mishary-rashid-alafasy-1/anasheed",
+   "u": "https://music.apple.com/us/artist/mishary-rashid-alafasy/1395454246?uo=4",
    "cf": "high",
    "nt": "Imam of Kuwait's Grand Mosque; qari and munshid",
    "id": "mishary-rashid-alafasy",
    "catLabel": "Nasheed",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/mishary-rashid-alafasy/1395454246?uo=4"
+    },
     {
      "t": "catalogue",
      "u": "https://www.assajda.com/en/mishary-rashid-alafasy-1/anasheed"
@@ -1457,13 +1498,17 @@
    "k": "nasheed",
    "v": "mixed",
    "w": "Mawlay; Rafiq al-Darb; TV drama themes",
-   "u": "https://www.deezer.com/artist/13636209",
+   "u": "https://music.apple.com/us/artist/mohammed-alhusayan/875232138?uo=4",
    "cf": "high",
    "nt": "Munshid, producer and academic",
    "id": "mohammed-al-hassyan",
    "catLabel": "Nasheed",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/mohammed-alhusayan/875232138?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/13636209"
@@ -1562,13 +1607,18 @@
    "k": "qasida",
    "v": "inst",
    "w": "Firqat al-Maluf wa-l-Muwashahat; mawlid processions",
-   "u": "",
+   "u": "https://music.apple.com/us/artist/%D8%AD%D8%B3%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D9%8A%D8%A8%D9%8A/1896295200?uo=4",
    "cf": "high",
    "nt": "Founded the 1964 maluf ensemble",
    "id": "hassan-araibi",
    "catLabel": "Qasīda / madīḥ",
    "vocalLabel": "Instrumental",
-   "links": [],
+   "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/%D8%AD%D8%B3%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D9%8A%D8%A8%D9%8A/1896295200?uo=4"
+    }
+   ],
    "refs": [
     {
      "t": "press",
@@ -1652,6 +1702,10 @@
     {
      "t": "official",
      "u": "https://thewealthofthewise.blogspot.com/2017/10/three-generations-of-ehel-meidah.html"
+    },
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/ahmedou-ould-me%C3%AFdah/1863547295?uo=4"
     },
     {
      "t": "deezer",
@@ -1821,13 +1875,17 @@
    "k": "madih",
    "v": "duff",
    "w": "Marrakech henna and mawlid repertoire",
-   "u": "https://www.deezer.com/artist/1394856",
+   "u": "https://music.apple.com/us/artist/bnet-houariyat/56533493?uo=4",
    "cf": "med",
    "nt": "Women's percussion-and-voice group",
    "id": "b-net-houariyat",
    "catLabel": "Madīḥ (praise)",
    "vocalLabel": "Voice + percussion only",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/bnet-houariyat/56533493?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/1394856"
@@ -1851,13 +1909,17 @@
    "k": "nasheed",
    "v": "mixed",
    "w": "El Asri (11 tracks)",
-   "u": "https://fr.assabile.com/anasheed/morocco",
+   "u": "https://music.apple.com/us/artist/el-asri/204492311?uo=4",
    "cf": "med",
    "nt": "Moroccan nasheed group",
    "id": "el-asri",
    "catLabel": "Nasheed",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/el-asri/204492311?uo=4"
+    },
     {
      "t": "catalogue",
      "u": "https://fr.assabile.com/anasheed/morocco"
@@ -1901,13 +1963,17 @@
    "k": "nasheed",
    "v": "mixed",
    "w": "Aghani Diniyya (7 tracks)",
-   "u": "https://www.deezer.com/artist/1313051",
+   "u": "https://music.apple.com/us/artist/groupe-al-badil/438608517?uo=4",
    "cf": "med",
    "nt": "Moroccan nasheed group",
    "id": "groupe-al-badil",
    "catLabel": "Nasheed",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/groupe-al-badil/438608517?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/1313051"
@@ -1930,13 +1996,17 @@
    "k": "madih",
    "v": "mixed",
    "w": "Ayn al-Rahma; Nozhat al-Ushshaq",
-   "u": "https://www.deezer.com/artist/1275485",
+   "u": "https://music.apple.com/us/artist/groupe-al-wissal/437312311?uo=4",
    "cf": "high",
    "nt": "Moroccan madih ensemble",
    "id": "groupe-al-wissal",
    "catLabel": "Madīḥ (praise)",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/groupe-al-wissal/437312311?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/1275485"
@@ -1959,13 +2029,17 @@
    "k": "inshad",
    "v": "inst",
    "w": "Sama' concert recordings",
-   "u": "https://www.deezer.com/artist/7099735",
+   "u": "https://music.apple.com/us/artist/ihsan-rmiki/315692268?uo=4",
    "cf": "high",
    "nt": "Rare female sama' soloist",
    "id": "ihsan-rmiki",
    "catLabel": "Inshād / ibtihāl",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/ihsan-rmiki/315692268?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/7099735"
@@ -1988,13 +2062,17 @@
    "k": "nasheed",
    "v": "mixed",
    "w": "Aissawiya; Salou ala Rassoul Allah",
-   "u": "https://www.deezer.com/artist/2762271",
+   "u": "https://music.apple.com/us/artist/khalid-bennani/157249425?uo=4",
    "cf": "high",
    "nt": "Aissawa-style rhythms",
    "id": "khalid-bennani",
    "catLabel": "Nasheed",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/khalid-bennani/157249425?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/2762271"
@@ -2067,13 +2145,17 @@
    "k": "inshad",
    "v": "inst",
    "w": "Mawwal and nuba inshad recordings",
-   "u": "https://www.deezer.com/artist/51789122",
+   "u": "https://music.apple.com/us/artist/mohamed-bajeddoub/1437447479?uo=4",
    "cf": "high",
    "nt": "Trained in the sama' zawiya tradition",
    "id": "mohamed-bajeddoub",
    "catLabel": "Inshād / ibtihāl",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/mohamed-bajeddoub/1437447479?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/51789122"
@@ -2108,6 +2190,10 @@
      "u": "https://mohamedelidrissi.com/about-us/"
     },
     {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/mohamed-el-idrissi/990070047?uo=4"
+    },
+    {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/7962708"
     }
@@ -2125,13 +2211,17 @@
    "k": "nasheed",
    "v": "mixed",
    "w": "Five-track album",
-   "u": "https://www.deezer.com/artist/116740112",
+   "u": "https://music.apple.com/us/artist/mohamed-el-marrakchi/157547215?uo=4",
    "cf": "med",
    "nt": "Marrakech-based",
    "id": "mohamed-el-marrakchi",
    "catLabel": "Nasheed",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/mohamed-el-marrakchi/157547215?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/116740112"
@@ -2154,13 +2244,17 @@
    "k": "nasheed",
    "v": "mixed",
    "w": "Afrah Maghribia; Habib Arroh; Nour al-Rabi",
-   "u": "https://www.deezer.com/artist/1275506",
+   "u": "https://music.apple.com/us/artist/mohamed-zemrani/437304697?uo=4",
    "cf": "high",
    "nt": "Wedding and mawlid repertoire",
    "id": "mohamed-zemrani",
    "catLabel": "Nasheed",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/mohamed-zemrani/437304697?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/1275506"
@@ -2208,13 +2302,17 @@
    "k": "nasheed",
    "v": "mixed",
    "w": "Allayla al-Mohamadia; Mawajid 1-2; Arij al-Tayyib",
-   "u": "https://www.deezer.com/artist/7542576",
+   "u": "https://music.apple.com/us/artist/rachid-gholam/966473518?uo=4",
    "cf": "high",
    "nt": "Most prolific Moroccan nasheed seller",
    "id": "rachid-gholam",
    "catLabel": "Nasheed",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/rachid-gholam/966473518?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/7542576"
@@ -2287,13 +2385,17 @@
    "k": "inshad",
    "v": "duff",
    "w": "Omani Night inshad programme, Royal Opera House Muscat",
-   "u": "https://www.deezer.com/artist/138764392",
+   "u": "https://music.apple.com/us/artist/%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D9%88%D9%87%D9%8A%D8%A8%D9%8A/1575273732?uo=4",
    "cf": "high",
    "nt": "Qari and munshid; muwashshah-influenced",
    "id": "mohammed-al-wahaibi",
    "catLabel": "Inshād / ibtihāl",
    "vocalLabel": "Voice + percussion only",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D9%88%D9%87%D9%8A%D8%A8%D9%8A/1575273732?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/138764392"
@@ -2317,13 +2419,17 @@
    "k": "inshad",
    "v": "duff",
    "w": "ROHM Omani Night",
-   "u": "https://www.deezer.com/artist/189047657",
+   "u": "https://music.apple.com/us/artist/yahya-bihaqi/1653354525?uo=4",
    "cf": "med",
    "nt": "Omani chant performer",
    "id": "yahya-bihaqi",
    "catLabel": "Inshād / ibtihāl",
    "vocalLabel": "Voice + percussion only",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/yahya-bihaqi/1653354525?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/189047657"
@@ -2347,13 +2453,17 @@
    "k": "adjacent",
    "v": "acap",
    "w": "Resistance folk repertoire",
-   "u": "https://www.deezer.com/artist/299790551",
+   "u": "https://music.apple.com/us/artist/%D8%A3%D8%A8%D9%88-%D8%B9%D8%B1%D8%A8/1785342987?uo=4",
    "cf": "med",
    "nt": "Classed as munshid in Arabic sources but really a resistance folk singer",
    "id": "abu-arab",
    "catLabel": "Adjacent (not strict nasheed)",
    "vocalLabel": "A cappella",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/%D8%A3%D8%A8%D9%88-%D8%B9%D8%B1%D8%A8/1785342987?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/299790551"
@@ -2377,13 +2487,17 @@
    "k": "nasheed",
    "v": "duff",
    "w": "44 nasheeds catalogued",
-   "u": "https://www.deezer.com/artist/12526876",
+   "u": "https://music.apple.com/us/artist/al-eatesam-band/1268384943?uo=4",
    "cf": "med",
    "nt": "Gaza ensemble with a large online catalogue",
    "id": "i-tisam-group",
    "catLabel": "Nasheed",
    "vocalLabel": "Voice + percussion only",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/al-eatesam-band/1268384943?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/12526876"
@@ -2406,13 +2520,17 @@
    "k": "nasheed",
    "v": "inst",
    "w": "Sawt al-Hurriyya; Khansa' Filastin; Usturat Janin; Ya Aqsa",
-   "u": "https://www.deezer.com/artist/146735612",
+   "u": "https://music.apple.com/us/artist/mais-shalash/1782640940?uo=4",
    "cf": "high",
    "nt": "Best-documented female munshida; child star of the Second Intifada",
    "id": "mais-shalash",
    "catLabel": "Nasheed",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/mais-shalash/1782640940?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/146735612"
@@ -2435,13 +2553,17 @@
    "k": "nasheed",
    "v": "inst",
    "w": "Quds-themed nasheed",
-   "u": "https://www.deezer.com/artist/84733792",
+   "u": "https://music.apple.com/us/artist/moosa-moustafa/875232130?uo=4",
    "cf": "low",
    "nt": "Well-known name; biography unverified",
    "id": "musa-mustafa",
    "catLabel": "Nasheed",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/moosa-moustafa/875232130?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/84733792"
@@ -2560,13 +2682,17 @@
    "k": "reciter",
    "v": "duff",
    "w": "Wadda'nak; nasheed album series",
-   "u": "https://www.deezer.com/artist/391356861",
+   "u": "https://music.apple.com/us/artist/ahmed-bin-ali-al-ajmi/521649009?uo=4",
    "cf": "high",
    "nt": "Famous reciter with nasheed albums",
    "id": "ahmed-bin-ali-al-ajmi",
    "catLabel": "Qāri' who also records nasheed",
    "vocalLabel": "Voice + percussion only",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/ahmed-bin-ali-al-ajmi/521649009?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/391356861"
@@ -2589,13 +2715,17 @@
    "k": "nasheed",
    "v": "duff",
    "w": "Poetry-based nasheed",
-   "u": "https://www.deezer.com/artist/69570642",
+   "u": "https://music.apple.com/us/artist/haamed-al-dabaan/1473188017?uo=4",
    "cf": "low",
    "nt": "Poet and media figure",
    "id": "hamed-al-dabaan",
    "catLabel": "Nasheed",
    "vocalLabel": "Voice + percussion only",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/haamed-al-dabaan/1473188017?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/69570642"
@@ -2619,7 +2749,7 @@
    "k": "nasheed",
    "v": "acap",
    "w": "Safa; The Way of the Tears; Hasbi Rabbi",
-   "u": "https://www.deezer.com/artist/10466017",
+   "u": "https://www.youtube.com/@MuhammadAlMuqit",
    "cf": "high",
    "nt": "Saudi munshid; one of the most-streamed a cappella voices worldwide",
    "id": "muhammad-al-muqit",
@@ -2627,12 +2757,12 @@
    "vocalLabel": "A cappella",
    "links": [
     {
-     "t": "deezer",
-     "u": "https://www.deezer.com/artist/10466017"
-    },
-    {
      "t": "youtube",
      "u": "https://www.youtube.com/@MuhammadAlMuqit"
+    },
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/muhammad-al-muqit/828666252?uo=4"
     }
    ],
    "refs": []
@@ -2648,13 +2778,17 @@
    "k": "nasheed",
    "v": "mixed",
    "w": "Festival and TV nasheed repertoire",
-   "u": "https://www.deezer.com/artist/4888640",
+   "u": "https://music.apple.com/us/artist/osama-al-safi/1791518676?uo=4",
    "cf": "med",
    "nt": "Billed at Katara Anasheed Festival 2012",
    "id": "osama-al-safi",
    "catLabel": "Nasheed",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/osama-al-safi/1791518676?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/4888640"
@@ -2677,13 +2811,17 @@
    "k": "reciter",
    "v": "mixed",
    "w": "Gharbane; Qur'an recitation catalogue",
-   "u": "https://www.deezer.com/artist/4385064",
+   "u": "https://music.apple.com/us/artist/saad-al-ghamdi/1784082382?uo=4",
    "cf": "high",
    "nt": "Qari first, munshid second; imam of the Prophet's Mosque",
    "id": "saad-al-ghamdi",
    "catLabel": "Qāri' who also records nasheed",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/saad-al-ghamdi/1784082382?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/4385064"
@@ -2707,13 +2845,17 @@
    "k": "nasheed",
    "v": "mixed",
    "w": "TV nasheed appearances",
-   "u": "https://www.deezer.com/artist/139556212",
+   "u": "https://music.apple.com/us/artist/sameer-al-bashiri/921373048?uo=4",
    "cf": "med",
    "nt": "Saudi munshid and TV figure",
    "id": "samir-al-bashiri",
    "catLabel": "Nasheed",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/sameer-al-bashiri/921373048?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/139556212"
@@ -2887,13 +3029,17 @@
    "k": "madih",
    "v": "duff",
    "w": "Aleppine inshad",
-   "u": "https://www.deezer.com/artist/122671032",
+   "u": "https://music.apple.com/us/artist/adib-al-dayekh/1552614693?uo=4",
    "cf": "low",
    "nt": "Old-generation munshid; dates unverified",
    "id": "adib-al-daikh",
    "catLabel": "Madīḥ (praise)",
    "vocalLabel": "Voice + percussion only",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/adib-al-dayekh/1552614693?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/122671032"
@@ -2942,13 +3088,17 @@
    "k": "qasida",
    "v": "duff",
    "w": "Hassan Haffar and the Munshids of Aleppo (1998)",
-   "u": "https://www.deezer.com/artist/76081982",
+   "u": "https://music.apple.com/us/artist/hassan-haffar/1483261751?uo=4",
    "cf": "high",
    "nt": "Aleppine qasida master; landmark Warner France album",
    "id": "hassan-haffar",
    "catLabel": "Qasīda / madīḥ",
    "vocalLabel": "Voice + percussion only",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/hassan-haffar/1483261751?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/76081982"
@@ -2972,13 +3122,17 @@
    "k": "nasheed",
    "v": "mixed",
    "w": "56 nasheeds catalogued",
-   "u": "https://www.deezer.com/artist/7087463",
+   "u": "https://music.apple.com/us/artist/imad-rami/538505508?uo=4",
    "cf": "med",
    "nt": "Prolific; catalogue-only biography",
    "id": "imad-rami",
    "catLabel": "Nasheed",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/imad-rami/538505508?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/7087463"
@@ -3011,6 +3165,10 @@
     {
      "t": "official",
      "u": "https://www.arabnews.com/opinion/aleppos-cherished-musical-legacy-1511576"
+    },
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/sabri-moudallal/1482297175?uo=4"
     },
     {
      "t": "deezer",
@@ -3080,7 +3238,7 @@
    "k": "nasheed",
    "v": "inst",
    "w": "Ji'naj (1996); Qulub al-Nas; Hayati Kulluha Lillah (2006); Anta bi-Qalbi (2008)",
-   "u": "https://www.deezer.com/artist/4323126",
+   "u": "https://www.youtube.com/channel/UCpr977i3R7Ulv_jp04FgSTA",
    "cf": "high",
    "nt": "Eight albums; voice of the Syrian revolution for Western media",
    "id": "yahya-hawwa",
@@ -3088,12 +3246,12 @@
    "vocalLabel": "Instrumental",
    "links": [
     {
-     "t": "deezer",
-     "u": "https://www.deezer.com/artist/4323126"
-    },
-    {
      "t": "youtube",
      "u": "https://www.youtube.com/channel/UCpr977i3R7Ulv_jp04FgSTA"
+    },
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/yahya-hawwa/1752610285?uo=4"
     }
    ],
    "refs": []
@@ -3109,13 +3267,18 @@
    "k": "inshad",
    "v": "duff",
    "w": "Sufi inshad on Sidi Bou Said saints",
-   "u": "",
+   "u": "https://music.apple.com/us/artist/ahmed-jalmam-group/431631729?uo=4",
    "cf": "high",
    "nt": "Improvises; tabla-based",
    "id": "ahmed-jalmam",
    "catLabel": "Inshād / ibtihāl",
    "vocalLabel": "Voice + percussion only",
-   "links": [],
+   "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/ahmed-jalmam-group/431631729?uo=4"
+    }
+   ],
    "refs": [
     {
      "t": "press",
@@ -3184,13 +3347,17 @@
    "k": "qasida",
    "v": "inst",
    "w": "Rashidiyya ma'luf recordings",
-   "u": "https://www.deezer.com/artist/1205356",
+   "u": "https://music.apple.com/us/artist/khema%C3%AFs-tarnane/426443647?uo=4",
    "cf": "med",
    "nt": "Ma'luf including religious pieces",
    "id": "khemais-tarnane",
    "catLabel": "Qasīda / madīḥ",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/khema%C3%AFs-tarnane/426443647?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/1205356"
@@ -3239,13 +3406,17 @@
    "k": "nasheed",
    "v": "mixed",
    "w": "Samta (2003); Hasanat (2007); al-Quds Tunadina",
-   "u": "https://www.deezer.com/artist/2480901",
+   "u": "https://music.apple.com/us/artist/ahmed-bukhatir/457677737?uo=4",
    "cf": "high",
    "nt": "Most prominent Emirati munshid; first GCC nasheed chart-topper",
    "id": "ahmed-bukhatir",
    "catLabel": "Nasheed",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/ahmed-bukhatir/457677737?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/2480901"
@@ -3268,13 +3439,17 @@
    "k": "nasheed",
    "v": "inst",
    "w": "al-Bidaya; Ya Habibi Ya Muhammad",
-   "u": "https://ar.assabile.com/anasheed/uae",
+   "u": "https://music.apple.com/us/artist/mohammed-al-mazem/1649683942?uo=4",
    "cf": "med",
    "nt": "Pop singer who turned to religious nasheed in 2007",
    "id": "mohammed-al-mazem",
    "catLabel": "Nasheed",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/mohammed-al-mazem/1649683942?uo=4"
+    },
     {
      "t": "catalogue",
      "u": "https://ar.assabile.com/anasheed/uae"
@@ -3293,13 +3468,17 @@
    "k": "nasheed",
    "v": "inst",
    "w": "Kalimat 2008; Hanna al-Fu'ad; Rabbo al-Mustafa",
-   "u": "https://www.deezer.com/artist/1218911",
+   "u": "https://music.apple.com/us/artist/abdulqader-qawza/432089999?uo=4",
    "cf": "high",
    "nt": "Best-known Yemeni munshid internationally",
    "id": "abdulqader-qawza",
    "catLabel": "Nasheed",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/abdulqader-qawza/432089999?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/1218911"
@@ -3322,13 +3501,17 @@
    "k": "nasheed",
    "v": "inst",
    "w": "Munshid al-Sharjah winner 2006; Arab Idol finalist",
-   "u": "https://www.deezer.com/artist/215794735",
+   "u": "https://music.apple.com/us/artist/ammar-alazaki/1347931286?uo=4",
    "cf": "high",
    "nt": "Talent-show pipeline from nasheed into pop",
    "id": "ammar-alazaki",
    "catLabel": "Nasheed",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/ammar-alazaki/1347931286?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/215794735"
@@ -3377,13 +3560,17 @@
    "k": "naat",
    "v": "inst",
    "w": "First recording of Tribhuboner Priyo Muhammad (1935)",
-   "u": "https://www.deezer.com/artist/106551",
+   "u": "https://music.apple.com/us/artist/abbasuddin-ahmed/20121092?uo=4",
    "cf": "high",
    "nt": "Foundational Bengali Islamic vocal recording",
    "id": "abbasuddin-ahmed",
    "catLabel": "Na'at (South Asia)",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/abbasuddin-ahmed/20121092?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/106551"
@@ -3407,13 +3594,17 @@
    "k": "nasheed",
    "v": "mixed",
    "w": "Allah Allah; O Batas Amay Tumi Niye Jao Na; Hotat Azrael Pathaiya",
-   "u": "https://www.deezer.com/artist/12317284",
+   "u": "https://music.apple.com/us/artist/abu-rayhan/1560487140?uo=4",
    "cf": "high",
    "nt": "Kalarab soloist",
    "id": "abu-rayhan",
    "catLabel": "Nasheed",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/abu-rayhan/1560487140?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/12317284"
@@ -3466,13 +3657,17 @@
    "k": "nasheed",
    "v": "mixed",
    "w": "O Batas Amay Tumi Niye Jao Na",
-   "u": "https://www.deezer.com/artist/12605361",
+   "u": "https://music.apple.com/us/artist/aynuddin-al-azad/1632417096?uo=4",
    "cf": "high",
    "nt": "Founder-director of Kalarab",
    "id": "aynuddin-al-azad",
    "catLabel": "Nasheed",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/aynuddin-al-azad/1632417096?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/12605361"
@@ -3521,13 +3716,17 @@
    "k": "nasheed",
    "v": "mixed",
    "w": "Teer Hara Ei Dheuer Shagor; Ramjanul Mubarak; Hasbi Rabbi Jallallah",
-   "u": "https://www.deezer.com/artist/132700562",
+   "u": "https://music.apple.com/us/artist/kalarab-shilpigosthi/1637660468?uo=4",
    "cf": "high",
    "nt": "4M+ YouTube subscribers; produced by Holy Tune",
    "id": "kalarab-shilpigosthi",
    "catLabel": "Nasheed",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/kalarab-shilpigosthi/1637660468?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/132700562"
@@ -3551,13 +3750,17 @@
    "k": "naat",
    "v": "inst",
    "w": "Tribhuboner Priyo Muhammad (1935)",
-   "u": "https://www.deezer.com/artist/106548",
+   "u": "https://music.apple.com/us/artist/kazi-nazrul-islam/20050269?uo=4",
    "cf": "high",
    "nt": "Composer of the canonical Bengali na'at text",
    "id": "kazi-nazrul-islam",
    "catLabel": "Na'at (South Asia)",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/kazi-nazrul-islam/20050269?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/106548"
@@ -3606,13 +3809,17 @@
    "k": "nasheed",
    "v": "mixed",
    "w": "Ajob Taka; Holy Tune catalogue",
-   "u": "https://www.deezer.com/artist/12317292",
+   "u": "https://music.apple.com/us/artist/muhammad-badruzzaman/1560489263?uo=4",
    "cf": "high",
    "nt": "Owner of Holy Tune; Kalarab's executive director",
    "id": "muhammad-badruzzaman",
    "catLabel": "Nasheed",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/muhammad-badruzzaman/1560489263?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/12317292"
@@ -3636,7 +3843,7 @@
    "k": "nasheed",
    "v": "mixed",
    "w": "Elahi album; best-of compilations",
-   "u": "https://www.deezer.com/artist/6539303",
+   "u": "https://www.youtube.com/watch?v=4WEL9RleQq0",
    "cf": "low",
    "nt": "Established solo gojol voice",
    "id": "rokonuzzaman",
@@ -3644,12 +3851,12 @@
    "vocalLabel": "Mixed / varies",
    "links": [
     {
-     "t": "deezer",
-     "u": "https://www.deezer.com/artist/6539303"
-    },
-    {
      "t": "youtube",
      "u": "https://www.youtube.com/watch?v=4WEL9RleQq0"
+    },
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/rokonuzzaman/1447817578?uo=4"
     }
    ],
    "refs": []
@@ -3665,7 +3872,7 @@
    "k": "nasheed",
    "v": "mixed",
    "w": "Priyotomo Rasool; Tumie Shuru Tumie Shesh; Rabbana",
-   "u": "https://open.spotify.com/artist/5fNcuUlu4esKhx2KG2xgH2",
+   "u": "https://music.apple.com/us/artist/saifur-rahman-azim/1589996474?uo=4",
    "cf": "med",
    "nt": "Former Kalarab central artist, now independent",
    "id": "saifur-rahman-azim",
@@ -3673,12 +3880,12 @@
    "vocalLabel": "Mixed / varies",
    "links": [
     {
-     "t": "spotify",
-     "u": "https://open.spotify.com/artist/5fNcuUlu4esKhx2KG2xgH2"
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/saifur-rahman-azim/1589996474?uo=4"
     },
     {
-     "t": "deezer",
-     "u": "https://www.deezer.com/artist/148278622"
+     "t": "spotify",
+     "u": "https://open.spotify.com/artist/5fNcuUlu4esKhx2KG2xgH2"
     }
    ],
    "refs": []
@@ -3748,13 +3955,17 @@
    "k": "nasyid",
    "v": "inst",
    "w": "Historic Mappila recordings",
-   "u": "https://www.deezer.com/artist/11833891",
+   "u": "https://music.apple.com/us/artist/k-g-sathar/1200270754?uo=4",
    "cf": "med",
    "nt": "His father made the first Malayalam gramophone record, 1925",
    "id": "k-g-sathar",
    "catLabel": "Nasyid (SE Asia / Malay)",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/k-g-sathar/1200270754?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/11833891"
@@ -3836,13 +4047,17 @@
    "k": "nasyid",
    "v": "inst",
    "w": "Mappila playback catalogue",
-   "u": "https://www.deezer.com/artist/62451282",
+   "u": "https://music.apple.com/us/artist/mukkam-sajitha/1464762661?uo=4",
    "cf": "med",
    "nt": "Female Mappila singer; roster entry only",
    "id": "mukkam-sajitha",
    "catLabel": "Nasyid (SE Asia / Malay)",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/mukkam-sajitha/1464762661?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/62451282"
@@ -3866,13 +4081,18 @@
    "k": "nasyid",
    "v": "inst",
    "w": "Mappila song roster",
-   "u": "",
+   "u": "https://music.apple.com/us/artist/n-p-fousiya/1844673046?uo=4",
    "cf": "low",
    "nt": "Roster entry",
    "id": "n-p-fousiya",
    "catLabel": "Nasyid (SE Asia / Malay)",
    "vocalLabel": "Instrumental",
-   "links": [],
+   "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/n-p-fousiya/1844673046?uo=4"
+    }
+   ],
    "refs": [
     {
      "t": "wiki",
@@ -3901,6 +4121,10 @@
     {
      "t": "official",
      "u": "https://www.jiosaavn.com/album/mappila-album-hits/0RhaOrlr9TU_"
+    },
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/saleem-kodathoor/1471803367?uo=4"
     },
     {
      "t": "deezer",
@@ -3949,7 +4173,7 @@
    "k": "adjacent",
    "v": "inst",
    "w": "Khalbile Tharattu (with Bappu Velliparamba)",
-   "u": "https://www.deezer.com/artist/6842847",
+   "u": "https://www.youtube.com/watch?v=ERiBtl-zpYc",
    "cf": "low",
    "nt": "Playback singer; devotional singles, not a nasheed specialist",
    "id": "sithara-krishnakumar",
@@ -3957,12 +4181,12 @@
    "vocalLabel": "Instrumental",
    "links": [
     {
-     "t": "deezer",
-     "u": "https://www.deezer.com/artist/6842847"
-    },
-    {
      "t": "youtube",
      "u": "https://www.youtube.com/watch?v=ERiBtl-zpYc"
+    },
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/sithara-krishnakumar/1095879884?uo=4"
     }
    ],
    "refs": []
@@ -3988,6 +4212,10 @@
     {
      "t": "official",
      "u": "https://www.jiosaavn.com/album/mappila-album-hits/0RhaOrlr9TU_"
+    },
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/thajudheen-vadakara/1471812663?uo=4"
     },
     {
      "t": "deezer",
@@ -4017,6 +4245,10 @@
     {
      "t": "official",
      "u": "https://gaana.com/artist/shafi-kollam"
+    },
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/vilayil-faseela/334932282?uo=4"
     },
     {
      "t": "deezer",
@@ -4131,6 +4363,10 @@
      "u": "https://gaana.com/album/muslim-songs-tamil"
     },
     {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/nagore-e-m-hanifa/1454047902?uo=4"
+    },
+    {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/13759941"
     }
@@ -4206,7 +4442,7 @@
    "k": "nasheed",
    "v": "mixed",
    "w": "Hasbi Rabbi (2020); Noor Wala Aya Hai (2021); Asma-ul-Husna",
-   "u": "https://www.deezer.com/artist/65123292",
+   "u": "https://www.youtube.com/channel/UC2XfbbuAlZSw8z0smNBxUcQ",
    "cf": "high",
    "nt": "Young female nasheed star with 2M+ subscribers",
    "id": "aayat-arif",
@@ -4214,12 +4450,12 @@
    "vocalLabel": "Mixed / varies",
    "links": [
     {
-     "t": "deezer",
-     "u": "https://www.deezer.com/artist/65123292"
-    },
-    {
      "t": "youtube",
      "u": "https://www.youtube.com/channel/UC2XfbbuAlZSw8z0smNBxUcQ"
+    },
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/aayat-arif/1462904972?uo=4"
     }
    ],
    "refs": []
@@ -4235,13 +4471,17 @@
    "k": "adjacent",
    "v": "inst",
    "w": "Shan-e-Ramzan (with Junaid Jamshed, 2016)",
-   "u": "https://www.deezer.com/en/artist/102585",
+   "u": "https://music.apple.com/us/artist/amjad-sabri/456559063?uo=4",
    "cf": "med",
    "nt": "Qawwali, not nasheed; killed 2016",
    "id": "amjad-sabri",
    "catLabel": "Adjacent (not strict nasheed)",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/amjad-sabri/456559063?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/en/artist/102585"
@@ -4260,13 +4500,17 @@
    "k": "naat",
    "v": "inst",
    "w": "Be Khud Kiye Dete Hain (2024); Marhaba Ya Rasool Allah; Maa Ka Dil Vol. 8",
-   "u": "https://www.deezer.com/en/artist/346286",
+   "u": "https://music.apple.com/us/artist/farhan-ali-qadri/290816387?uo=4",
    "cf": "high",
    "nt": "Heera and Hi-Tech catalogue; also Sindhi na'at",
    "id": "farhan-ali-qadri",
    "catLabel": "Na'at (South Asia)",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/farhan-ali-qadri/290816387?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/en/artist/346286"
@@ -4314,13 +4558,17 @@
    "k": "naat",
    "v": "inst",
    "w": "Gunaho Ki Aadat (2024); Qaseeda Burda Shareef",
-   "u": "https://www.deezer.com/artist/6959323",
+   "u": "https://music.apple.com/us/artist/hafiz-tahir-qadri/732075811?uo=4",
    "cf": "med",
    "nt": "Heera Gold roster",
    "id": "hafiz-tahir-qadri",
    "catLabel": "Na'at (South Asia)",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/hafiz-tahir-qadri/732075811?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/6959323"
@@ -4372,7 +4620,7 @@
    "k": "naat",
    "v": "inst",
    "w": "Dawat-e-Islami na'at releases",
-   "u": "https://www.deezer.com/artist/178547147",
+   "u": "https://www.youtube.com/naatproductionofficial",
    "cf": "high",
    "nt": "Label rather than artist; kept for catalogue completeness",
    "id": "naat-production",
@@ -4380,12 +4628,12 @@
    "vocalLabel": "Instrumental",
    "links": [
     {
-     "t": "deezer",
-     "u": "https://www.deezer.com/artist/178547147"
-    },
-    {
      "t": "youtube",
      "u": "https://www.youtube.com/naatproductionofficial"
+    },
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/naat-production/1637557131?uo=4"
     }
    ],
    "refs": []
@@ -4401,13 +4649,17 @@
    "k": "naat",
    "v": "inst",
    "w": "Main Madine Chala; Sarkar Ka Madina; Balaghal Ula",
-   "u": "https://www.deezer.com/artist/5050864",
+   "u": "https://music.apple.com/us/artist/owais-raza-qadri/647888200?uo=4",
    "cf": "high",
    "nt": "Flagship Heera voice; one of the biggest na'at khawans",
    "id": "owais-raza-qadri",
    "catLabel": "Na'at (South Asia)",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/owais-raza-qadri/647888200?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/5050864"
@@ -4459,13 +4711,17 @@
    "k": "adjacent",
    "v": "inst",
    "w": "Main Jawan Madinay; devotional qawwali",
-   "u": "https://www.deezer.com/artist/126453",
+   "u": "https://music.apple.com/us/artist/rahat-fateh-ali-khan/136221927?uo=4",
    "cf": "med",
    "nt": "Devotional qawwali rather than strict nasheed",
    "id": "rahat-fateh-ali-khan",
    "catLabel": "Adjacent (not strict nasheed)",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/rahat-fateh-ali-khan/136221927?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/126453"
@@ -4488,13 +4744,17 @@
    "k": "naat",
    "v": "inst",
    "w": "Naat Ke Rang Vol. 15; Arzoo-e-Rehmat series",
-   "u": "https://www.deezer.com/artist/1305793",
+   "u": "https://music.apple.com/us/artist/shahbaz-qamar-fareedi/290815399?uo=4",
    "cf": "low",
    "nt": "Compilation-ecosystem artist",
    "id": "shahbaz-qamar-fareedi",
    "catLabel": "Na'at (South Asia)",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/shahbaz-qamar-fareedi/290815399?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/1305793"
@@ -4575,13 +4835,18 @@
    "k": "nasyid",
    "v": "acap",
    "w": "—",
-   "u": "",
+   "u": "https://music.apple.com/us/artist/bestari/1524154881?uo=4",
    "cf": "med",
    "nt": "One of few female nasyid ensembles (munsyid akhwat)",
    "id": "bestari",
    "catLabel": "Nasyid (SE Asia / Malay)",
    "vocalLabel": "A cappella",
-   "links": [],
+   "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/bestari/1524154881?uo=4"
+    }
+   ],
    "refs": [
     {
      "t": "paper",
@@ -4625,13 +4890,17 @@
    "k": "nasyid",
    "v": "inst",
    "w": "Pop-nasyid releases",
-   "u": "https://www.deezer.com/artist/2780891",
+   "u": "https://music.apple.com/us/artist/edcoustic/535603998?uo=4",
    "cf": "low",
    "nt": "Snada-adjacent act",
    "id": "edcoustic",
    "catLabel": "Nasyid (SE Asia / Malay)",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/edcoustic/535603998?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/2780891"
@@ -4654,13 +4923,17 @@
    "k": "nasyid",
    "v": "mixed",
    "w": "—",
-   "u": "https://jawawa.id/newsitem/singing-praises-of-nasheed-1447893297",
+   "u": "https://music.apple.com/us/artist/gradasi/803564887?uo=4",
    "cf": "low",
    "nt": "Campus nasyid wave",
    "id": "gradasi",
    "catLabel": "Nasyid (SE Asia / Malay)",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/gradasi/803564887?uo=4"
+    },
     {
      "t": "catalogue",
      "u": "https://jawawa.id/newsitem/singing-praises-of-nasheed-1447893297"
@@ -4704,7 +4977,7 @@
    "k": "nasyid",
    "v": "inst",
    "w": "Cinta Rasul 1 (1999); Muhammad Nabiku (2010); Cinta Rasul 5 (2021)",
-   "u": "https://open.spotify.com/artist/44byhimPc9Ir6XiIIcVoWb",
+   "u": "https://music.apple.com/us/artist/haddad-alwi/316867189?uo=4",
    "cf": "high",
    "nt": "Best-selling Indonesian nasheed album claim",
    "id": "haddad-alwi",
@@ -4712,12 +4985,12 @@
    "vocalLabel": "Instrumental",
    "links": [
     {
-     "t": "spotify",
-     "u": "https://open.spotify.com/artist/44byhimPc9Ir6XiIIcVoWb"
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/haddad-alwi/316867189?uo=4"
     },
     {
-     "t": "deezer",
-     "u": "https://www.deezer.com/artist/291108"
+     "t": "spotify",
+     "u": "https://open.spotify.com/artist/44byhimPc9Ir6XiIIcVoWb"
     }
    ],
    "refs": []
@@ -4745,6 +5018,10 @@
      "u": "https://media.neliti.com/media/publications/240517.pdf"
     },
     {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/izzatul-islam/1548714211?uo=4"
+    },
+    {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/59311892"
     }
@@ -4762,13 +5039,17 @@
    "k": "nasyid",
    "v": "mixed",
    "w": "—",
-   "u": "https://www.deezer.com/artist/121728712",
+   "u": "https://music.apple.com/us/artist/justice-voice/1554347759?uo=4",
    "cf": "low",
    "nt": "1990s dakwah-group roster only",
    "id": "justice-voice",
    "catLabel": "Nasyid (SE Asia / Malay)",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/justice-voice/1554347759?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/121728712"
@@ -4803,6 +5084,10 @@
      "u": "http://www.nasyid-naam.com/album"
     },
     {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/naam-acapella/1495174258?uo=4"
+    },
+    {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/83733392"
     }
@@ -4820,7 +5105,7 @@
    "k": "nasyid",
    "v": "inst",
    "w": "Sholawat singles",
-   "u": "https://www.deezer.com/artist/63872622",
+   "u": "https://www.youtube.com/@NissaSabyan",
    "cf": "med",
    "nt": "Soloist of Sabyan; huge streaming reach",
    "id": "nissa-sabyan",
@@ -4828,12 +5113,12 @@
    "vocalLabel": "Instrumental",
    "links": [
     {
-     "t": "deezer",
-     "u": "https://www.deezer.com/artist/63872622"
-    },
-    {
      "t": "youtube",
      "u": "https://www.youtube.com/@NissaSabyan"
+    },
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/nissa-sabyan/1460217939?uo=4"
     }
    ],
    "refs": []
@@ -4861,6 +5146,10 @@
      "u": "https://www.kapanlagi.com/"
     },
     {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/opick/201240261?uo=4"
+    },
+    {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/453652"
     }
@@ -4878,13 +5167,17 @@
    "k": "nasyid",
    "v": "mixed",
    "w": "Renungan Kehambaan (1996); Setetes Embun (1998); Asmaul Husna (1998)",
-   "u": "https://www.deezer.com/artist/5485862",
+   "u": "https://music.apple.com/us/artist/qatrunada/268629810?uo=4",
    "cf": "med",
    "nt": "1990s boom group",
    "id": "qatrunada",
    "catLabel": "Nasyid (SE Asia / Malay)",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/qatrunada/268629810?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/5485862"
@@ -4944,6 +5237,10 @@
      "u": "https://media.neliti.com/media/publications/240517.pdf"
     },
     {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/shoutul-harokah/1357966660?uo=4"
+    },
+    {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/60558832"
     }
@@ -4961,13 +5258,17 @@
    "k": "nasyid",
    "v": "acap",
    "w": "The Representation (1994); Air Mata Bosnia (1996); Cinta Ilahi (1997); Neo Sholawat (2002)",
-   "u": "https://www.deezer.com/artist/4996606",
+   "u": "https://music.apple.com/us/artist/snada/535729971?uo=4",
    "cf": "high",
    "nt": "Pioneer of modern a cappella nasyid; 11 albums",
    "id": "snada",
    "catLabel": "Nasyid (SE Asia / Malay)",
    "vocalLabel": "A cappella",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/snada/535729971?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/4996606"
@@ -5019,13 +5320,17 @@
    "k": "nasyid",
    "v": "mixed",
    "w": "Cinta Bukan Mainan; Surat Dari Medan Tempur",
-   "u": "https://www.deezer.com/artist/1493606",
+   "u": "https://music.apple.com/us/artist/mirwana/539910368?uo=4",
    "cf": "low",
    "nt": "Cross-border act",
    "id": "mirwana",
    "catLabel": "Nasyid (SE Asia / Malay)",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/mirwana/539910368?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/1493606"
@@ -5085,6 +5390,10 @@
      "u": "https://kyotoreview.org/issue-8-9/"
     },
     {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/brothers/1497904213?uo=4"
+    },
+    {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/324252371"
     }
@@ -5114,6 +5423,10 @@
      "u": "https://journals.iium.edu.my/jiasia/index.php/jia/article/download/761/359/1993"
     },
     {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/diwani/410221684?uo=4"
+    },
+    {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/4971454"
     }
@@ -5131,13 +5444,17 @@
    "k": "nasyid",
    "v": "acap",
    "w": "—",
-   "u": "https://www.deezer.com/artist/49485992",
+   "u": "https://music.apple.com/us/artist/hawa/1420213513?uo=4",
    "cf": "med",
    "nt": "Well-known female nasyid group",
    "id": "hawa",
    "catLabel": "Nasyid (SE Asia / Malay)",
    "vocalLabel": "A cappella",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/hawa/1420213513?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/49485992"
@@ -5173,6 +5490,10 @@
      "u": "https://themuslim500.com/profiles/hafiz-hamidun"
     },
     {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/hafiz-hamidun/525310678?uo=4"
+    },
+    {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/5157170"
     }
@@ -5202,6 +5523,10 @@
      "u": "http://www.hijjaz.com.my"
     },
     {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/hijjaz/253159614?uo=4"
+    },
+    {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/3751731"
     }
@@ -5219,13 +5544,17 @@
    "k": "nasyid",
    "v": "mixed",
    "w": "Kasih Kekasih (2000); Inteam Records releases",
-   "u": "https://www.deezer.com/artist/4783061",
+   "u": "https://music.apple.com/us/artist/in-team/158168038?uo=4",
    "cf": "high",
    "nt": "IIUM-origin group; founded Inteam Records 2005",
    "id": "in-team",
    "catLabel": "Nasyid (SE Asia / Malay)",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/in-team/158168038?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/4783061"
@@ -5248,13 +5577,17 @@
    "k": "nasyid",
    "v": "mixed",
    "w": "Hijjaz Records releases",
-   "u": "https://www.deezer.com/artist/4783136",
+   "u": "https://music.apple.com/us/artist/mestica/654925255?uo=4",
    "cf": "med",
    "nt": "Post-Inteam project by Hisyam",
    "id": "mestica",
    "catLabel": "Nasyid (SE Asia / Malay)",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/mestica/654925255?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/4783136"
@@ -5336,13 +5669,17 @@
    "k": "nasyid",
    "v": "mixed",
    "w": "Nasyid Nostalgia Memori; solo releases",
-   "u": "https://www.deezer.com/artist/4814201",
+   "u": "https://music.apple.com/us/artist/nazrey-johani/329046682?uo=4",
    "cf": "med",
    "nt": "Founding Raihan voice",
    "id": "nazrey-johani",
    "catLabel": "Nasyid (SE Asia / Malay)",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/nazrey-johani/329046682?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/4814201"
@@ -5366,13 +5703,17 @@
    "k": "nasyid",
    "v": "mixed",
    "w": "Jalan Sehala (2005); Bebas Palestin (2011)",
-   "u": "https://www.deezer.com/artist/68003",
+   "u": "https://music.apple.com/us/artist/nowseeheart/209808817?uo=4",
    "cf": "med",
    "nt": "1997-wave group",
    "id": "nowseeheart",
    "catLabel": "Nasyid (SE Asia / Malay)",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/nowseeheart/209808817?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/68003"
@@ -5406,6 +5747,10 @@
     {
      "t": "official",
      "u": "http://www.rabbani.com.my/"
+    },
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/rabbani/62776405?uo=4"
     },
     {
      "t": "deezer",
@@ -5454,13 +5799,17 @@
    "k": "nasyid",
    "v": "mixed",
    "w": "Di Syurga Menanti (2002); Sandaran Cinta; Zikir, Doa and Nasyid",
-   "u": "https://www.deezer.com/artist/11497284",
+   "u": "https://music.apple.com/us/artist/saff-one/1183193840?uo=4",
    "cf": "high",
    "nt": "Telaga Biru contemporary of Hijjaz and Saujana",
    "id": "saff-one",
    "catLabel": "Nasyid (SE Asia / Malay)",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/saff-one/1183193840?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/11497284"
@@ -5484,13 +5833,17 @@
    "k": "nasyid",
    "v": "mixed",
    "w": "Di Syurga Menanti (2002); Jalan Sehala (2005); 7 studio albums",
-   "u": "https://www.deezer.com/artist/4044708",
+   "u": "https://music.apple.com/us/artist/saujana/553187097?uo=4",
    "cf": "high",
    "nt": "Members came from school group All For Ummah",
    "id": "saujana",
    "catLabel": "Nasyid (SE Asia / Malay)",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/saujana/553187097?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/4044708"
@@ -5514,13 +5867,17 @@
    "k": "nasyid",
    "v": "acap",
    "w": "—",
-   "u": "https://www.deezer.com/artist/864365",
+   "u": "https://music.apple.com/us/artist/solehah/439999862?uo=4",
    "cf": "med",
    "nt": "Female nasyid group",
    "id": "solehah",
    "catLabel": "Nasyid (SE Asia / Malay)",
    "vocalLabel": "A cappella",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/solehah/439999862?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/864365"
@@ -5544,13 +5901,17 @@
    "k": "nasyid",
    "v": "mixed",
    "w": "Nasyid Nostalgia Memori; Secerah Pawana",
-   "u": "https://www.last.fm/music/Snada",
+   "u": "https://music.apple.com/us/artist/the-zikr/1172662767?uo=4",
    "cf": "med",
    "nt": "Al-Arqam lineage group",
    "id": "the-zikr",
    "catLabel": "Nasyid (SE Asia / Malay)",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/the-zikr/1172662767?uo=4"
+    },
     {
      "t": "catalogue",
      "u": "https://www.last.fm/music/Snada"
@@ -5569,13 +5930,18 @@
    "k": "nasyid",
    "v": "mixed",
    "w": "8 studio albums; 6 compilations",
-   "u": "",
+   "u": "https://music.apple.com/us/artist/unic/1481903056?uo=4",
    "cf": "high",
    "nt": "Debut sold 40,000 units; Hafiz Hamidun's first group",
    "id": "unic",
    "catLabel": "Nasyid (SE Asia / Malay)",
    "vocalLabel": "Mixed / varies",
-   "links": [],
+   "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/unic/1481903056?uo=4"
+    }
+   ],
    "refs": [
     {
      "t": "wiki",
@@ -5594,13 +5960,17 @@
    "k": "nasyid",
    "v": "acap",
    "w": "Permata (1980); Perjalanan; Kembara Di Tanah Gersang",
-   "u": "https://www.deezer.com/artist/5479804",
+   "u": "https://music.apple.com/us/artist/al-jawaher/798915531?uo=4",
    "cf": "high",
    "nt": "All-women group; M. Nasir produced the early albums",
    "id": "al-jawaher",
    "catLabel": "Nasyid (SE Asia / Malay)",
    "vocalLabel": "A cappella",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/al-jawaher/798915531?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/5479804"
@@ -5624,13 +5994,18 @@
    "k": "nasyid",
    "v": "acap",
    "w": "—",
-   "u": "",
+   "u": "https://music.apple.com/us/artist/hidayah/929604108?uo=4",
    "cf": "low",
    "nt": "Eight-member female nasyid group; retirement confirmed in an Al-Jawaher interview",
    "id": "hidayah",
    "catLabel": "Nasyid (SE Asia / Malay)",
    "vocalLabel": "A cappella",
-   "links": [],
+   "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/hidayah/929604108?uo=4"
+    }
+   ],
    "refs": [
     {
      "t": "wiki",
@@ -5649,13 +6024,17 @@
    "k": "nasyid",
    "v": "mixed",
    "w": "Lambaian Kasih compilation (2003)",
-   "u": "https://www.deezer.com/artist/149789652",
+   "u": "https://music.apple.com/us/artist/nur-irsyad/1593158972?uo=4",
    "cf": "low",
    "nt": "Singapore team on a Telaga Biru compilation",
    "id": "nur-irsyad",
    "catLabel": "Nasyid (SE Asia / Malay)",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/nur-irsyad/1593158972?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/149789652"
@@ -5679,13 +6058,17 @@
    "k": "maddahi",
    "v": "duff",
    "w": "Maddahi cycles",
-   "u": "https://www.deezer.com/artist/296149381",
+   "u": "https://music.apple.com/us/artist/hossein-sotoodeh/1787253986?uo=4",
    "cf": "high",
    "nt": "Maddahi vocalist",
    "id": "hossein-sotoodeh",
    "catLabel": "Maddāḥī (Persian)",
    "vocalLabel": "Voice + percussion only",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/hossein-sotoodeh/1787253986?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/296149381"
@@ -5709,13 +6092,17 @@
    "k": "maddahi",
    "v": "duff",
    "w": "Muharram cycles",
-   "u": "https://www.deezer.com/artist/8328784",
+   "u": "https://music.apple.com/us/artist/hossein-taheri/1008212856?uo=4",
    "cf": "high",
    "nt": "Maddahi vocalist",
    "id": "hossein-taheri",
    "catLabel": "Maddāḥī (Persian)",
    "vocalLabel": "Voice + percussion only",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/hossein-taheri/1008212856?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/8328784"
@@ -5739,13 +6126,17 @@
    "k": "maddahi",
    "v": "duff",
    "w": "Muharram cycles",
-   "u": "https://www.deezer.com/artist/87892612",
+   "u": "https://music.apple.com/us/artist/mahdi-rasouli/1502098215?uo=4",
    "cf": "high",
    "nt": "Maddahi vocalist",
    "id": "mahdi-rasouli",
    "catLabel": "Maddāḥī (Persian)",
    "vocalLabel": "Voice + percussion only",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/mahdi-rasouli/1502098215?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/87892612"
@@ -5769,13 +6160,17 @@
    "k": "maddahi",
    "v": "duff",
    "w": "Muharram and Fatimiyya cycles",
-   "u": "https://www.deezer.com/artist/7976262",
+   "u": "https://music.apple.com/us/artist/mahmoud-karimi/257133961?uo=4",
    "cf": "high",
    "nt": "Declamatory maddahi with cymbals and large drum",
    "id": "mahmoud-karimi",
    "catLabel": "Maddāḥī (Persian)",
    "vocalLabel": "Voice + percussion only",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/mahmoud-karimi/257133961?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/7976262"
@@ -5836,6 +6231,10 @@
      "u": "https://iranwire.com/en/special-features/68834"
     },
     {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/meysam-motiee/1728398510?uo=4"
+    },
+    {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/190835267"
     }
@@ -5853,13 +6252,17 @@
    "k": "inshad",
    "v": "acap",
    "w": "Al-Noor (a cappella, with Ahl-e Beit Tawasheeh)",
-   "u": "https://www.deezer.com/artist/1249931",
+   "u": "https://music.apple.com/us/artist/mohammad-esfahani/121998468?uo=4",
    "cf": "high",
    "nt": "Classical singer; Al-Noor is an explicitly a cappella religious album",
    "id": "mohammad-esfahani",
    "catLabel": "Inshād / ibtihāl",
    "vocalLabel": "A cappella",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/mohammad-esfahani/121998468?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/1249931"
@@ -5883,13 +6286,17 @@
    "k": "maddahi",
    "v": "duff",
    "w": "Maddahi releases on his Noorieh label",
-   "u": "https://www.deezer.com/artist/106050712",
+   "u": "https://music.apple.com/us/artist/mohammadreza-taheri/1530485288?uo=4",
    "cf": "high",
    "nt": "Runs Hosseinie Fatemeh-al-Zahra, Tehran",
    "id": "mohammadreza-taheri",
    "catLabel": "Maddāḥī (Persian)",
    "vocalLabel": "Voice + percussion only",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/mohammadreza-taheri/1530485288?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/106050712"
@@ -5913,13 +6320,18 @@
    "k": "maddahi",
    "v": "duff",
    "w": "War-era and Muharram recitations",
-   "u": "",
+   "u": "https://music.apple.com/us/artist/%D8%B5%D8%A7%D8%AF%D9%82-%D8%A7-%D9%87%D9%86%DA%AF%D8%B1%D8%A7%D9%86/6797817638?uo=4",
    "cf": "med",
    "nt": "War-era chant and Muharram recitation",
    "id": "sadiq-ahangaran",
    "catLabel": "Maddāḥī (Persian)",
    "vocalLabel": "Voice + percussion only",
-   "links": [],
+   "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/%D8%B5%D8%A7%D8%AF%D9%82-%D8%A7-%D9%87%D9%86%DA%AF%D8%B1%D8%A7%D9%86/6797817638?uo=4"
+    }
+   ],
    "refs": [
     {
      "t": "wiki",
@@ -5938,13 +6350,17 @@
    "k": "maddahi",
    "v": "duff",
    "w": "Maddahi cycles",
-   "u": "https://www.deezer.com/artist/170918717",
+   "u": "https://music.apple.com/us/artist/saeed-haddadian/1625696877?uo=4",
    "cf": "high",
    "nt": "Among the best-known contemporary maddahs",
    "id": "saeed-haddadian",
    "catLabel": "Maddāḥī (Persian)",
    "vocalLabel": "Voice + percussion only",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/saeed-haddadian/1625696877?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/170918717"
@@ -5968,13 +6384,17 @@
    "k": "maddahi",
    "v": "duff",
    "w": "Muharram 1403-1404 cycles",
-   "u": "https://www.deezer.com/artist/408093062",
+   "u": "https://music.apple.com/us/artist/%D8%B3%DB%8C%D8%AF-%D9%85%D8%AC%DB%8C%D8%AF-%D8%A8%D9%86%DB%8C-%D9%81%D8%A7%D8%B7%D9%85%D9%87/6798232796?uo=4",
    "cf": "high",
    "nt": "Huge international audience",
    "id": "seyyed-majid-bani-fatemeh",
    "catLabel": "Maddāḥī (Persian)",
    "vocalLabel": "Voice + percussion only",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/%D8%B3%DB%8C%D8%AF-%D9%85%D8%AC%DB%8C%D8%AF-%D8%A8%D9%86%DB%8C-%D9%81%D8%A7%D8%B7%D9%85%D9%87/6798232796?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/408093062"
@@ -5998,13 +6418,17 @@
    "k": "adjacent",
    "v": "inst",
    "w": "Sufi poetry settings; Molana cycles",
-   "u": "https://www.deezer.com/artist/1093645",
+   "u": "https://music.apple.com/us/artist/shahram-nazeri/62199434?uo=4",
    "cf": "high",
    "nt": "Sufi art music, adjacent to inshad",
    "id": "shahram-nazeri",
    "catLabel": "Adjacent (not strict nasheed)",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/shahram-nazeri/62199434?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/1093645"
@@ -6053,13 +6477,17 @@
    "k": "ilahi",
    "v": "inst",
    "w": "Uyan Ey Gözlerim; Âmir Ateş İlahileri (2020)",
-   "u": "https://www.deezer.com/artist/5201381",
+   "u": "https://music.apple.com/us/artist/ahmet-hakk%C4%B1-turabi/709232457?uo=4",
    "cf": "high",
    "nt": "Marmara University chair of Turkish religious music",
    "id": "ahmet-hakk-turabi",
    "catLabel": "İlahi (Turkish)",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/ahmet-hakk%C4%B1-turabi/709232457?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/5201381"
@@ -6211,6 +6639,10 @@
      "u": "https://www.esrefziya.com/albumler"
     },
     {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/e%C5%9Fref-ziya/869334402?uo=4"
+    },
+    {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/5835595"
     }
@@ -6228,13 +6660,17 @@
    "k": "ilahi",
    "v": "inst",
    "w": "Âmir Ateş İlahileri (2020)",
-   "u": "https://www.deezer.com/artist/5201423",
+   "u": "https://music.apple.com/us/artist/fatih-koca/709469328?uo=4",
    "cf": "med",
    "nt": "Amir Ateş student circle",
    "id": "fatih-koca",
    "catLabel": "İlahi (Turkish)",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/fatih-koca/709469328?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/5201423"
@@ -6268,6 +6704,10 @@
     {
      "t": "official",
      "u": "https://www.sadiyeyavuz.com.tr/firat-turkmen"
+    },
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/f%C4%B1rat-t%C3%BCrkmen/1484187156?uo=4"
     },
     {
      "t": "deezer",
@@ -6374,13 +6814,17 @@
    "k": "ilahi",
    "v": "inst",
    "w": "İlahiler Vol. 1 (2019); Ortağız Bir Namusa",
-   "u": "https://www.deezer.com/artist/6563221",
+   "u": "https://music.apple.com/us/artist/grup-tillo/1459935100?uo=4",
    "cf": "med",
    "nt": "Rare documented Kurdish-language ilahi",
    "id": "grup-tillo",
    "catLabel": "İlahi (Turkish)",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/grup-tillo/1459935100?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/6563221"
@@ -6432,13 +6876,17 @@
    "k": "ilahi",
    "v": "inst",
    "w": "Âmir Ateş İlahileri (2020)",
-   "u": "https://www.deezer.com/artist/1589197",
+   "u": "https://music.apple.com/us/artist/halil-necipo%C4%9Flu/495451753?uo=4",
    "cf": "med",
    "nt": "Classical ilahi lineage",
    "id": "halil-necipoglu",
    "catLabel": "İlahi (Turkish)",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/halil-necipo%C4%9Flu/495451753?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/1589197"
@@ -6503,6 +6951,10 @@
      "u": "https://sawtiq.app/artists/isam-b"
     },
     {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/isam-b/262668392?uo=4"
+    },
+    {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/161987"
     }
@@ -6520,13 +6972,17 @@
    "k": "adjacent",
    "v": "inst",
    "w": "Bread and Barrels of Water (2003); Closer Than Veins (2005); Sound of a Rebel (2009)",
-   "u": "https://www.deezer.com/artist/715",
+   "u": "https://music.apple.com/us/artist/outlandish/27417667?uo=4",
    "cf": "high",
    "nt": "Islamic-themed hip-hop, not strictly nasheed",
    "id": "outlandish",
    "catLabel": "Adjacent (not strict nasheed)",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/outlandish/27417667?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/715"
@@ -6591,6 +7047,10 @@
      "u": "https://www.favikon.com"
     },
     {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/egzon-ibrahimi/1608642909?uo=4"
+    },
+    {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/9346282"
     }
@@ -6608,13 +7068,17 @@
    "k": "nasheed",
    "v": "acap",
    "w": "La Ilaha Illallah; Feel Bad; Just Keep Repeating",
-   "u": "https://www.deezer.com/artist/13507607",
+   "u": "https://music.apple.com/us/artist/nadeem-mohammed/1308084844?uo=4",
    "cf": "low",
    "nt": "South Asian-descent Dutch artist",
    "id": "nadeem-mohammed",
    "catLabel": "Nasheed",
    "vocalLabel": "A cappella",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/nadeem-mohammed/1308084844?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/13507607"
@@ -6633,13 +7097,17 @@
    "k": "nasheed",
    "v": "inst",
    "w": "Salawat (2004); Beloved (2009); Tabassam (2014); Balaghal Ula (2019)",
-   "u": "https://www.deezer.com/artist/1330570",
+   "u": "https://music.apple.com/us/artist/mesut-kurtis/74457352?uo=4",
    "cf": "high",
    "nt": "Key Balkans-to-global bridge; 34M+ views on Burdah",
    "id": "mesut-kurtis",
    "catLabel": "Nasheed",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/mesut-kurtis/74457352?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/1330570"
@@ -6662,13 +7130,17 @@
    "k": "nasheed",
    "v": "inst",
    "w": "Thank You Allah (2009); Forgive Me (2012); One (2016); Nour Ala Nour (2021)",
-   "u": "https://www.deezer.com/artist/1336994",
+   "u": "https://music.apple.com/us/artist/maher-zain/335438840?uo=4",
    "cf": "high",
    "nt": "Biggest streaming nasheed artist; releases vocals-only versions",
    "id": "maher-zain",
    "catLabel": "Nasheed",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/maher-zain/335438840?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/1336994"
@@ -6691,13 +7163,17 @@
    "k": "nasheed",
    "v": "mixed",
    "w": "Lord of the Worlds; track on In Praise of the Last Prophet",
-   "u": "https://www.deezer.com/artist/466542",
+   "u": "https://music.apple.com/us/artist/aashiq-al-rasul/266523174?uo=4",
    "cf": "med",
    "nt": "One of the first British groups",
    "id": "aashiq-al-rasul",
    "catLabel": "Nasheed",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/aashiq-al-rasul/266523174?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/466542"
@@ -6728,6 +7204,10 @@
      "u": "https://ahmadhussain.com"
     },
     {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/ahmad-hussain/446153252?uo=4"
+    },
+    {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/1367673"
     }
@@ -6745,7 +7225,7 @@
    "k": "nasheed",
    "v": "acap",
    "w": "Tamanna (34M+ views); O My Lord; Lab Pe Aati Hai Dua",
-   "u": "https://www.deezer.com/artist/5500805",
+   "u": "https://www.youtube.com/EhsaanTahmid",
    "cf": "med",
    "nt": "Labbayk member; Bengali heritage",
    "id": "ehsaan-tahmid",
@@ -6753,12 +7233,12 @@
    "vocalLabel": "A cappella",
    "links": [
     {
-     "t": "deezer",
-     "u": "https://www.deezer.com/artist/5500805"
-    },
-    {
      "t": "youtube",
      "u": "https://www.youtube.com/EhsaanTahmid"
+    },
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/ehsaan-tahmid/602807007?uo=4"
     }
    ],
    "refs": []
@@ -6774,13 +7254,17 @@
    "k": "nasheed",
    "v": "inst",
    "w": "Something About Life (2007)",
-   "u": "https://www.deezer.com/artist/1332756",
+   "u": "https://music.apple.com/us/artist/hamza-robertson/259895086?uo=4",
    "cf": "med",
    "nt": "Convert; former Awakening artist",
    "id": "hamza-robertson",
    "catLabel": "Nasheed",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/hamza-robertson/259895086?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/1332756"
@@ -6803,13 +7287,17 @@
    "k": "nasheed",
    "v": "inst",
    "w": "Salam (2015)",
-   "u": "https://www.deezer.com/artist/8789982",
+   "u": "https://music.apple.com/us/artist/harris-j/407545431?uo=4",
    "cf": "high",
    "nt": "Awakening's teen-oriented English act",
    "id": "harris-j",
    "catLabel": "Nasheed",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/harris-j/407545431?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/8789982"
@@ -6844,6 +7332,10 @@
      "u": "https://saa-uk.org/artists/ismail-hussain"
     },
     {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/ismail-hussain/1013955667?uo=4"
+    },
+    {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/10161946"
     }
@@ -6861,13 +7353,17 @@
    "k": "nasheed",
    "v": "mixed",
    "w": "Dhikr of Life",
-   "u": "https://www.deezer.com/artist/12558764",
+   "u": "https://music.apple.com/us/artist/khaleel-muhammad/160510711?uo=4",
    "cf": "low",
    "nt": "Fan-compilation evidence only",
    "id": "khaleel-muhammad",
    "catLabel": "Nasheed",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/khaleel-muhammad/160510711?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/12558764"
@@ -6896,6 +7392,10 @@
     {
      "t": "official",
      "u": "https://nasheedstation.com/en/artists"
+    },
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/mikhaael-mala/1521891990?uo=4"
     },
     {
      "t": "deezer",
@@ -6927,6 +7427,10 @@
      "u": "https://muslimi.com"
     },
     {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/muslim-belal/355768600?uo=4"
+    },
+    {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/11032142"
     }
@@ -6944,13 +7448,17 @@
    "k": "nasheed",
    "v": "inst",
    "w": "Dunya (2006) incl. Bengali Ishara",
-   "u": "https://www.deezer.com/artist/4381512",
+   "u": "https://music.apple.com/us/artist/nazeel-azami/253416934?uo=4",
    "cf": "high",
    "nt": "British-Bangladeshi; early Awakening roster",
    "id": "nazeel-azami",
    "catLabel": "Nasheed",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/nazeel-azami/253416934?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/4381512"
@@ -6985,6 +7493,10 @@
      "u": "https://omaresea.com"
     },
     {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/omar-esa/503040338?uo=4"
+    },
+    {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/6225698"
     }
@@ -7012,6 +7524,10 @@
     {
      "t": "official",
      "u": "https://pearlsofislam.co.uk"
+    },
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/pearls-of-islam/1448934933?uo=4"
     },
     {
      "t": "deezer",
@@ -7043,6 +7559,10 @@
      "u": "https://www.instagram.com/iamsafeadam"
     },
     {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/safe-adam/1151329267?uo=4"
+    },
+    {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/10984568"
     }
@@ -7060,13 +7580,17 @@
    "k": "nasheed",
    "v": "inst",
    "w": "Al-Mu'allim (2003); My Ummah (2005); Without You (2009); Wherever You Are",
-   "u": "https://www.deezer.com/artist/711",
+   "u": "https://music.apple.com/us/artist/sami-yusuf/74457348?uo=4",
    "cf": "high",
    "nt": "Awakening's first signing; now independent via Andante",
    "id": "sami-yusuf",
    "catLabel": "Nasheed",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/sami-yusuf/74457348?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/711"
@@ -7126,6 +7650,10 @@
      "u": "https://muslimi.com"
     },
     {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/amin-davis/1731163011?uo=4"
+    },
+    {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/254638492"
     }
@@ -7143,13 +7671,17 @@
    "k": "adjacent",
    "v": "acap",
    "w": "Rise Up (on Maktoob); spoken word sets",
-   "u": "https://www.deezer.com/artist/79047262",
+   "u": "https://music.apple.com/us/artist/boonaa-mohammed/536636456?uo=4",
    "cf": "med",
    "nt": "Spoken-word poet",
    "id": "boonaa-mohammed",
    "catLabel": "Adjacent (not strict nasheed)",
    "vocalLabel": "A cappella",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/boonaa-mohammed/536636456?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/79047262"
@@ -7197,13 +7729,17 @@
    "k": "nasheed",
    "v": "inst",
    "w": "I Believe (2011); Allahi Allah Kiya Karo (with Maher Zain)",
-   "u": "https://www.deezer.com/artist/1384305",
+   "u": "https://music.apple.com/us/artist/irfan-makki/189770722?uo=4",
    "cf": "high",
    "nt": "Pakistan-born Canadian",
    "id": "irfan-makki",
    "catLabel": "Nasheed",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/irfan-makki/189770722?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/1384305"
@@ -7226,13 +7762,17 @@
    "k": "nasheed",
    "v": "mixed",
    "w": "Alhumdulillah Ala Kulli Haal (2024)",
-   "u": "https://www.deezer.com/artist/10815924",
+   "u": "https://music.apple.com/us/artist/siedd/1140623046?uo=4",
    "cf": "med",
    "nt": "Canadian vocalist",
    "id": "siedd",
    "catLabel": "Nasheed",
    "vocalLabel": "Mixed / varies",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/siedd/1140623046?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/10815924"
@@ -7261,6 +7801,10 @@
     {
      "t": "official",
      "u": "https://wharnsby.com"
+    },
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/dawud-wharnsby/40816072?uo=4"
     },
     {
      "t": "deezer",
@@ -7292,6 +7836,10 @@
      "u": "https://abdussalamhawwa.com"
     },
     {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/abdussalam-hawwa/1561149208?uo=4"
+    },
+    {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/128526862"
     }
@@ -7309,13 +7857,17 @@
    "k": "adjacent",
    "v": "inst",
    "w": "Spoken word and hip-hop catalogue",
-   "u": "https://www.deezer.com/artist/154480",
+   "u": "https://music.apple.com/us/artist/amir-sulaiman/64417789?uo=4",
    "cf": "med",
    "nt": "Spoken word rather than sung nasheed",
    "id": "amir-sulaiman",
    "catLabel": "Adjacent (not strict nasheed)",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/amir-sulaiman/64417789?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/154480"
@@ -7339,13 +7891,18 @@
    "k": "adjacent",
    "v": "acap",
    "w": "Spoken word catalogue",
-   "u": "",
+   "u": "https://music.apple.com/us/artist/brother-dash/254098932?uo=4",
    "cf": "med",
    "nt": "Spoken word artist",
    "id": "brother-dash",
    "catLabel": "Adjacent (not strict nasheed)",
    "vocalLabel": "A cappella",
-   "links": [],
+   "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/brother-dash/254098932?uo=4"
+    }
+   ],
    "refs": [
     {
      "t": "paper",
@@ -7364,13 +7921,17 @@
    "k": "adjacent",
    "v": "inst",
    "w": "Country and folk albums",
-   "u": "https://www.deezer.com/artist/2116781",
+   "u": "https://music.apple.com/us/artist/kareem-salama/219358306?uo=4",
    "cf": "med",
    "nt": "Muslim country singer; adjacent",
    "id": "kareem-salama",
    "catLabel": "Adjacent (not strict nasheed)",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/kareem-salama/219358306?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/2116781"
@@ -7406,6 +7967,10 @@
      "u": "https://www.nativedeen.com"
     },
     {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/native-deen/128657787?uo=4"
+    },
+    {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/646752"
     }
@@ -7423,13 +7988,17 @@
    "k": "nasheed",
    "v": "inst",
    "w": "The Path (2014); Mercy (2019)",
-   "u": "https://www.deezer.com/artist/4409194",
+   "u": "https://music.apple.com/us/artist/raef/515326780?uo=4",
    "cf": "high",
    "nt": "Egyptian-American; Awakening act",
    "id": "raef",
    "catLabel": "Nasheed",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/raef/515326780?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/4409194"
@@ -7497,13 +8066,17 @@
    "k": "nasheed",
    "v": "inst",
    "w": "Quratel Ayeni; Alamarrhim (2025)",
-   "u": "https://www.deezer.com/artist/12521392",
+   "u": "https://music.apple.com/us/artist/muaz-habib/1697787682?uo=4",
    "cf": "low",
    "nt": "Ethiopian neshida scene; aggregator evidence",
    "id": "muaz-habib",
    "catLabel": "Nasheed",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/muaz-habib/1697787682?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/12521392"
@@ -7522,13 +8095,17 @@
    "k": "nasheed",
    "v": "inst",
    "w": "Sabr",
-   "u": "https://www.deezer.com/artist/230690925",
+   "u": "https://music.apple.com/us/artist/tofik-yusuf/1707616204?uo=4",
    "cf": "low",
    "nt": "Ethiopian neshida",
    "id": "tofik-yusuf",
    "catLabel": "Nasheed",
    "vocalLabel": "Instrumental",
    "links": [
+    {
+     "t": "apple",
+     "u": "https://music.apple.com/us/artist/tofik-yusuf/1707616204?uo=4"
+    },
     {
      "t": "deezer",
      "u": "https://www.deezer.com/artist/230690925"
