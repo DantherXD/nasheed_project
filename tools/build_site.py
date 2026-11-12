@@ -150,11 +150,33 @@ metadata and links only, no audio hosted · built {date.today().isoformat()}
 """
 
 
+def page_redirect(old_id, new_id, name):
+    """A merged record's old address, pointing at the surviving one."""
+    return f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>{escape(name)} — The Nasheed Library</title>
+<link rel="canonical" href="{BASE}/artist/{escape(new_id)}.html">
+<meta http-equiv="refresh" content="0; url={escape(new_id)}.html">
+<meta name="robots" content="noindex">
+<style>{STYLE}</style>
+</head>
+<body><main>
+<p class="dim">This record was merged into a single entry.</p>
+<h1><a href="{escape(new_id)}.html">{escape(name)}</a></h1>
+</main></body>
+</html>
+"""
+
+
 def main():
     db = load_db()
     save_db(db)  # rewrites data.json with rel + search keys, and the CSVs
-    artists = json.loads((SITE / "data.json").read_text(encoding="utf-8"))["artists"]
+    payload = json.loads((SITE / "data.json").read_text(encoding="utf-8"))
+    artists = payload["artists"]
     names = {a["id"]: {"n": a["n"], "id": a["id"]} for a in artists}
+    aliases = payload.get("meta", {}).get("aliases", {})
 
     ARTIST_DIR.mkdir(parents=True, exist_ok=True)
     keep = set()
@@ -162,6 +184,14 @@ def main():
         path = ARTIST_DIR / f"{a['id']}.html"
         path.write_text(page(a, names), encoding="utf-8")
         keep.add(path.name)
+
+    # a merged record keeps working for anyone holding the old address
+    for old_id, new_id in aliases.items():
+        if new_id not in names:
+            continue
+        target = page_redirect(old_id, new_id, names[new_id]["n"])
+        (ARTIST_DIR / f"{old_id}.html").write_text(target, encoding="utf-8")
+        keep.add(f"{old_id}.html")
 
     # drop pages for records that no longer exist
     removed = 0

@@ -1,0 +1,8 @@
+[
+ {"keep": "abdullah-al-mahdawi", "drop": "abdullah-al-mahdawi-2",
+  "why": "one person listed twice, once in Latin script and once in Arabic"},
+ {"keep": "mansour-alkhulaifi", "drop": "mansour-alkhualifi",
+  "why": "the same name in two transliterations"},
+ {"keep": "ramy-muhamed", "drop": "rami-mohammed",
+  "why": "one person listed twice, once in Latin script and once in Arabic"}
+]

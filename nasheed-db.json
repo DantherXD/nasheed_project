@@ -6,11 +6,16 @@
   "built": "2026-11-11",
   "note": "Metadata and links only. No audio is hosted. Confidence values mark how well each record was verified.",
   "counts": {
-   "artists": 488,
+   "artists": 485,
    "labels": 61,
    "sources": 21,
    "countries": 79,
    "vocalOnly": 103
+  },
+  "aliases": {
+   "abdullah-al-mahdawi-2": "abdullah-al-mahdawi",
+   "mansour-alkhualifi": "mansour-alkhulaifi",
+   "rami-mohammed": "ramy-muhamed"
   }
  },
  "taxonomy": {
@@ -11140,7 +11145,7 @@
   },
   {
    "n": "abdullah al mahdawi",
-   "ar": "",
+   "ar": "عبدالله المهداوي",
    "c": null,
    "r": "",
    "l": "Arabic",
@@ -11149,7 +11154,7 @@
    "k": "nasheed",
    "v": "unk",
    "cf": "low",
-   "nt": "From the supplied listening list; country, region and era still to be researched.",
+   "nt": "From the supplied listening list; country, region and era still to be researched. Merged with the record \"عبدالله المهداوي\" (one person listed twice, once in Latin script and once in Arabic); alternate profile kept here rather than resolved: apple: https://music.apple.com/us/artist/abdullah-al-mahdawi/1491032944?uo=4, deezer: https://www.deezer.com/artist/264443592.",
    "links": [
     {
      "t": "apple",
@@ -11707,30 +11712,6 @@
    "u": "https://music.apple.com/us/artist/mansoor-al-salmi/1835410202?uo=4"
   },
   {
-   "n": "Mansour Alkhualifi",
-   "ar": "",
-   "c": null,
-   "r": "",
-   "l": "Arabic",
-   "e": "",
-   "t": "Solo",
-   "k": "nasheed",
-   "v": "unk",
-   "cf": "low",
-   "nt": "From the supplied listening list; country, region and era still to be researched.",
-   "links": [
-    {
-     "t": "apple",
-     "u": "https://music.apple.com/us/artist/mansour-alkhualifi/1634707232?uo=4"
-    }
-   ],
-   "id": "mansour-alkhualifi",
-   "catLabel": "Nasheed",
-   "vocalLabel": "Unknown",
-   "refs": [],
-   "u": "https://music.apple.com/us/artist/mansour-alkhualifi/1634707232?uo=4"
-  },
-  {
    "n": "Mansour Alkhulaifi",
    "ar": "",
    "c": null,
@@ -11741,7 +11722,7 @@
    "k": "nasheed",
    "v": "unk",
    "cf": "low",
-   "nt": "From the supplied listening list; country, region and era still to be researched.",
+   "nt": "From the supplied listening list; country, region and era still to be researched. Merged with the record \"Mansour Alkhualifi\" (the same name in two transliterations); alternate profile kept here rather than resolved: apple: https://music.apple.com/us/artist/mansour-alkhualifi/1634707232?uo=4.",
    "links": [
     {
      "t": "apple",
@@ -12076,7 +12057,7 @@
   },
   {
    "n": "Ramy Muhamed",
-   "ar": "",
+   "ar": "رامي محمد",
    "c": null,
    "r": "",
    "l": "Arabic",
@@ -12085,7 +12066,7 @@
    "k": "nasheed",
    "v": "unk",
    "cf": "low",
-   "nt": "From the supplied listening list; country, region and era still to be researched.",
+   "nt": "From the supplied listening list; country, region and era still to be researched. Merged with the record \"رامي محمد\" (one person listed twice, once in Latin script and once in Arabic); alternate profile kept here rather than resolved: apple: https://music.apple.com/us/artist/ramy-mohamed/1470948994?uo=4, deezer: https://www.deezer.com/artist/69264362.",
    "links": [
     {
      "t": "apple",
@@ -12319,34 +12300,6 @@
    "u": "https://music.apple.com/us/artist/%D8%AE%D8%A7%D9%84%D8%AF-%D8%A7%D9%84%D9%86%D8%AC%D8%A7%D8%B1-khaled-alnajjar/1642555956?uo=4"
   },
   {
-   "n": "رامي محمد",
-   "ar": "",
-   "c": null,
-   "r": "",
-   "l": "Arabic",
-   "e": "",
-   "t": "Solo",
-   "k": "nasheed",
-   "v": "unk",
-   "cf": "low",
-   "nt": "From the supplied listening list; country, region and era still to be researched.",
-   "links": [
-    {
-     "t": "apple",
-     "u": "https://music.apple.com/us/artist/ramy-mohamed/1470948994?uo=4"
-    },
-    {
-     "t": "deezer",
-     "u": "https://www.deezer.com/artist/69264362"
-    }
-   ],
-   "id": "rami-mohammed",
-   "catLabel": "Nasheed",
-   "vocalLabel": "Unknown",
-   "refs": [],
-   "u": "https://music.apple.com/us/artist/ramy-mohamed/1470948994?uo=4"
-  },
-  {
    "n": "عبد العزيز العنقري",
    "ar": "",
    "c": null,
@@ -12477,34 +12430,6 @@
    "vocalLabel": "Unknown",
    "refs": [],
    "u": "https://music.apple.com/us/artist/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%B5%D9%82%D9%8A%D9%87/6789140370?uo=4"
-  },
-  {
-   "n": "عبدالله المهداوي",
-   "ar": "",
-   "c": null,
-   "r": "",
-   "l": "Arabic",
-   "e": "",
-   "t": "Solo",
-   "k": "nasheed",
-   "v": "unk",
-   "cf": "low",
-   "nt": "From the supplied listening list; country, region and era still to be researched.",
-   "links": [
-    {
-     "t": "apple",
-     "u": "https://music.apple.com/us/artist/abdullah-al-mahdawi/1491032944?uo=4"
-    },
-    {
-     "t": "deezer",
-     "u": "https://www.deezer.com/artist/264443592"
-    }
-   ],
-   "id": "abdullah-al-mahdawi-2",
-   "catLabel": "Nasheed",
-   "vocalLabel": "Unknown",
-   "refs": [],
-   "u": "https://music.apple.com/us/artist/abdullah-al-mahdawi/1491032944?uo=4"
   },
   {
    "n": "محمد العريني",
